@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex">
+<title>Panel — Renacer Estéreo</title>
+<link rel="icon" href="img/icon-192.png">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Asap+Condensed:wght@600;700&family=Atkinson+Hyperlegible:wght@400;700&display=swap">
+<style>
+:root{--az:#0E3A7A;--az2:#1F5FBF;--na:#EE6A2C;--so:#F5A830;--fo:#F3F5F9;--li:#DDE3EE;--tx:#16223A;--su:#5B6780;--ok:#1E8E3E;--er:#C62828}
+*{box-sizing:border-box}
+body{margin:0;font:16px/1.5 "Atkinson Hyperlegible",system-ui,sans-serif;color:var(--tx);background:var(--fo)}
+h1,h2,h3{font-family:"Asap Condensed","Arial Narrow",sans-serif;margin:0 0 .5em;line-height:1.15}
+button,input,select,textarea{font:inherit}
+button{cursor:pointer}
+.oculto{display:none!important}
+:focus-visible{outline:3px solid var(--so);outline-offset:2px}
+
+/* Login */
+#vista-login{min-height:100vh;display:grid;place-items:center;padding:20px;background:var(--az)}
+.caja-login{background:#fff;border-radius:16px;padding:30px;width:min(400px,100%)}
+.caja-login img{width:120px;margin:0 auto 10px;display:block}
+.caja-login h1{text-align:center;color:var(--az)}
+
+/* Estructura */
+#vista-panel{display:grid;grid-template-columns:250px 1fr;min-height:100vh}
+nav.lateral{background:var(--az);color:#fff;padding:18px 12px;position:sticky;top:0;height:100vh;overflow:auto}
+nav.lateral .marca{display:flex;align-items:center;gap:10px;margin:0 6px 20px}
+nav.lateral .marca img{width:40px;height:40px;border-radius:8px;background:#fff}
+nav.lateral h3{font-size:.8rem;opacity:.65;margin:18px 10px 6px;font-family:inherit;font-weight:700}
+nav.lateral button{display:block;width:100%;text-align:left;background:none;border:0;color:#fff;padding:9px 12px;border-radius:8px;font-weight:700}
+nav.lateral button:hover{background:rgba(255,255,255,.1)}
+nav.lateral button[aria-current="true"]{background:var(--na)}
+nav.lateral .pie-nav{margin-top:24px;border-top:1px solid rgba(255,255,255,.2);padding-top:14px}
+nav.lateral .pie-nav a{color:#fff;display:block;padding:8px 12px}
+main{padding:28px 32px 80px;max-width:1000px;width:100%}
+.barra-movil{display:none}
+
+/* Formularios */
+.tarjeta{background:#fff;border:1px solid var(--li);border-radius:14px;padding:22px;margin-bottom:20px}
+.campo{margin-bottom:16px}
+.campo label{display:block;font-weight:700;margin-bottom:5px}
+.campo small{display:block;color:var(--su);margin-top:4px;font-size:.86rem}
+input[type=text],input[type=email],input[type=password],input[type=url],input[type=date],input[type=time],input[type=number],select,textarea{width:100%;padding:10px 12px;border:1.5px solid var(--li);border-radius:8px;background:#fff;color:var(--tx)}
+textarea{min-height:110px;resize:vertical}
+textarea.largo{min-height:240px}
+.fila{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px}
+.check{display:flex;align-items:center;gap:8px;font-weight:700}
+.check input{width:20px;height:20px}
+.dias-check{display:flex;gap:6px;flex-wrap:wrap}
+.dias-check label{display:flex;align-items:center;gap:4px;border:1.5px solid var(--li);border-radius:8px;padding:6px 10px;font-weight:700}
+.color{display:flex;align-items:center;gap:10px}
+.color input[type=color]{width:52px;height:42px;border:1.5px solid var(--li);border-radius:8px;padding:2px;background:#fff}
+.btn{border:0;border-radius:999px;padding:10px 20px;font-weight:700;background:var(--az2);color:#fff}
+.btn.sec{background:#fff;color:var(--az2);border:2px solid var(--az2)}
+.btn.peligro{background:#fff;color:var(--er);border:2px solid var(--er)}
+.btn.naranja{background:var(--na)}
+.acciones{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.imagen-campo{display:grid;grid-template-columns:140px 1fr;gap:14px;align-items:start}
+.imagen-campo .prev{width:140px;height:100px;border-radius:8px;border:1.5px dashed var(--li);display:grid;place-items:center;color:var(--su);font-size:.85rem;overflow:hidden;background:var(--fo)}
+.imagen-campo .prev img{width:100%;height:100%;object-fit:cover}
+
+/* Listas */
+.cabeza{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:16px}
+.cabeza h2{margin:0;font-size:2rem;color:var(--az)}
+.item{display:grid;grid-template-columns:64px 1fr auto;gap:14px;align-items:center;background:#fff;border:1px solid var(--li);border-radius:12px;padding:10px 14px;margin-bottom:10px}
+.item .mini{width:64px;height:50px;border-radius:6px;background:var(--fo);overflow:hidden;display:grid;place-items:center;color:var(--su);font-family:"Asap Condensed";font-weight:700;font-size:1.3rem}
+.item .mini img{width:100%;height:100%;object-fit:cover}
+.item b{display:block}
+.item span{color:var(--su);font-size:.88rem}
+.etq{display:inline-block;font-size:.75rem;font-weight:700;border-radius:999px;padding:1px 8px;margin-left:6px;background:#FDE7DA;color:#9A3A0B}
+.etq.verde{background:#DFF3E4;color:#14612B}
+.item .acciones button{padding:6px 14px;font-size:.9rem}
+.vacio{padding:30px;text-align:center;border:2px dashed var(--li);border-radius:12px;color:var(--su)}
+.muestra{display:flex;gap:6px;margin-top:8px}
+.muestra span{flex:1;height:34px;border-radius:6px}
+.prueba-fuente{padding:14px;border-radius:10px;background:var(--fo);margin-top:6px}
+
+/* Diálogo */
+dialog{border:0;border-radius:16px;padding:0;width:min(760px,calc(100% - 20px));max-height:calc(100% - 30px)}
+dialog::backdrop{background:rgba(10,25,55,.6)}
+dialog form{padding:24px}
+dialog .pie-dialogo{position:sticky;bottom:0;background:#fff;padding:14px 0 0;border-top:1px solid var(--li);margin-top:10px}
+
+/* Aviso flotante */
+#toast{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:var(--tx);color:#fff;padding:12px 20px;border-radius:10px;z-index:100;max-width:90vw;box-shadow:0 8px 24px rgba(0,0,0,.25)}
+#toast.error{background:var(--er)}
+#toast.ok{background:var(--ok)}
+
+@media (max-width:820px){
+  #vista-panel{grid-template-columns:1fr}
+  nav.lateral{position:fixed;inset:0 25% 0 0;z-index:40;transform:translateX(-100%);transition:transform .25s;height:100%}
+  nav.lateral.abierto{transform:none;box-shadow:0 0 0 100vmax rgba(0,0,0,.4)}
+  .barra-movil{display:flex;align-items:center;gap:12px;background:var(--az);color:#fff;padding:10px 16px;position:sticky;top:0;z-index:30}
+  .barra-movil button{background:none;border:0;color:#fff;font-size:1.6rem}
+  main{padding:20px 16px 80px}
+  .imagen-campo{grid-template-columns:1fr}
+  .item{grid-template-columns:50px 1fr}
+  .item .acciones{grid-column:1/-1}
+}
+</style>
+</head>
+<body>
+
+<!-- ============ LOGIN ============ -->
+<section id="vista-login" class="oculto">
+  <form class="caja-login" id="form-login">
+    <img src="img/logo.png" alt="Renacer Estéreo">
+    <h1>Panel de la emisora</h1>
+    <div class="campo"><label for="l-correo">Correo</label><input type="email" id="l-correo" required autocomplete="username"></div>
+    <div class="campo"><label for="l-clave">Contraseña</label><input type="password" id="l-clave" required autocomplete="current-password"></div>
+    <button class="btn" style="width:100%">Entrar</button>
+    <p id="l-error" style="color:var(--er);min-height:1.5em"></p>
+    <p style="text-align:center"><a href="#" id="l-olvido">Olvidé mi contraseña</a> · <a href="index.html">Ver la página</a></p>
+  </form>
+</section>
+
+<section id="vista-sin-config" class="oculto" style="padding:40px;max-width:700px;margin:auto">
+  <h1>Falta conectar Firebase</h1>
+  <p>Abre <code>js/firebase-config.js</code> y pega los datos de tu proyecto de Firebase. Las instrucciones paso a paso están en <code>LEEME.md</code>.</p>
+  <p><a href="index.html">Ver la página con contenido de ejemplo</a></p>
+</section>
+
+<!-- ============ PANEL ============ -->
+<div id="vista-panel" class="oculto">
+  <nav class="lateral" id="lateral">
+    <div class="marca"><img src="img/icon-192.png" alt=""><b>Renacer · Panel</b></div>
+    <h3>Contenido</h3>
+    <button data-vista="noticias">Noticias</button>
+    <button data-vista="clasificados">Clasificados y avisos</button>
+    <button data-vista="programacion">Programación</button>
+    <button data-vista="podcasts">Audio a la carta</button>
+    <button data-vista="ranking">Lo más sonado</button>
+    <button data-vista="aliados">Aliados y pautantes</button>
+    <h3>Configuración</h3>
+    <button data-vista="cfg-portada">Portada, textos y alerta</button>
+    <button data-vista="cfg-apariencia">Colores, letras y logo</button>
+    <button data-vista="cfg-senal">Emisora y señal en vivo</button>
+    <button data-vista="cfg-contacto">Contacto y redes</button>
+    <button data-vista="herramientas">Herramientas</button>
+    <div class="pie-nav">
+      <a href="index.html" target="_blank">Ver la página</a>
+      <a href="#" id="salir">Cerrar sesión</a>
+      <small style="opacity:.6;padding:0 12px;display:block" id="usuario"></small>
+    </div>
+  </nav>
+  <div>
+    <div class="barra-movil"><button id="abrir-nav" aria-label="Menú">☰</button><b>Panel Renacer</b></div>
+    <main id="contenido"></main>
+  </div>
+</div>
+
+<dialog id="dlg"><form id="form-item" method="dialog"></form></dialog>
+<div id="toast" class="oculto" role="status"></div>
+
+<script type="module">
+import { app, db, CONFIGURADO, CONFIG_BASE, DEMO, FUENTES, CAT_NOTICIAS, CAT_CLASIFICADOS, DIAS, esc, urlSegura, mezclar, aDate, fechaTexto, aplicarTema, cargarFuentes } from "./js/comun.js";
+import { getAuth, signInWithEmailAndPassword, onAuthStateChanged, signOut, sendPasswordResetEmail } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js";
+import { doc, getDoc, setDoc, addDoc, updateDoc, deleteDoc, collection, getDocs, query, orderBy, Timestamp, serverTimestamp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
+
+const $ = s => document.querySelector(s);
+let cfg = structuredClone(CONFIG_BASE);
+
+// ================= Utilidades =================
+function aviso(msg, tipo=""){ const t = $("#toast"); t.textContent = msg; t.className = tipo; clearTimeout(t._t); t._t = setTimeout(() => t.className = "oculto", 4200); }
+function errorTexto(e){
+  const c = e?.code || "";
+  if(c.includes("permission-denied")) return "Tu cuenta no tiene permiso para guardar. Revisa que tu correo esté en las reglas de Firestore.";
+  if(c.includes("invalid-credential") || c.includes("wrong-password") || c.includes("user-not-found")) return "Correo o contraseña incorrectos.";
+  if(c.includes("too-many-requests")) return "Demasiados intentos. Espera unos minutos.";
+  if(c.includes("unavailable") || c.includes("network")) return "Sin conexión. Revisa el internet e inténtalo otra vez.";
+  if(String(e?.message||"").includes("longer than")) return "El contenido es demasiado pesado. Usa una imagen más liviana.";
+  return "No se pudo completar: " + (e?.message || c);
+}
+const leerRuta = (o, r) => r.split(".").reduce((a, k) => a?.[k], o);
+function ponerRuta(o, r, v){ const ks = r.split("."); let a = o; ks.slice(0,-1).forEach(k => a = a[k] ??= {}); a[ks.at(-1)] = v; }
+const aFechaInput = v => { const d = aDate(v); return d ? new Date(d.getTime() - d.getTimezoneOffset()*60000).toISOString().slice(0,10) : ""; };
+
+// Comprime una imagen en el navegador (WebP, máx. ancho) para guardarla sin Firebase Storage
+function comprimir(archivo, maxLado = 1000, calidad = .72){
+  return new Promise((res, rej) => {
+    const img = new Image(), url = URL.createObjectURL(archivo);
+    img.onload = () => {
+      let { width:w, height:h } = img; const k = Math.min(1, maxLado / Math.max(w, h)); w = Math.round(w*k); h = Math.round(h*k);
+      const cv = document.createElement("canvas"); cv.width = w; cv.height = h;
+      cv.getContext("2d").drawImage(img, 0, 0, w, h); URL.revokeObjectURL(url);
+      let q = calidad, data = cv.toDataURL("image/webp", q);
+      while(data.length > 350000 && q > .35){ q -= .1; data = cv.toDataURL("image/webp", q); }
+      if(!data.startsWith("data:image/webp")) data = cv.toDataURL("image/jpeg", .7);
+      res(data);
+    };
+    img.onerror = () => rej(new Error("No se pudo leer la imagen"));
+    img.src = url;
+  });
+}
+
+// ================= Esquemas de contenido =================
+const ESQ = {
+  noticias: { titulo:"Noticias", orden:["fecha","desc"], singular:"noticia",
+    campos:[
+      { k:"titulo", l:"Título", t:"text", req:true },
+      { k:"resumen", l:"Resumen corto", t:"textarea", ayuda:"Una o dos líneas. Se ve en la portada." },
+      { k:"contenido", l:"Texto completo", t:"textarea", largo:true, ayuda:"Deja una línea en blanco entre párrafos." },
+      { k:"imagen", l:"Foto", t:"imagen" },
+      { k:"categoria", l:"Categoría", t:"select", op:CAT_NOTICIAS },
+      { k:"enlace", l:"Enlace externo (opcional)", t:"url" },
+      { k:"fecha", l:"Fecha", t:"date" },
+      { k:"destacada", l:"Mostrar como noticia principal", t:"check" },
+      { k:"publicada", l:"Publicada", t:"check", def:true }
+    ],
+    fila: x => ({ img:x.imagen, t:x.titulo, s:[x.categoria, fechaTexto(x.fecha)].filter(Boolean).join(" · "), et:[x.destacada && ["Principal",""], x.publicada===false && ["Borrador",""]] }) },
+  clasificados: { titulo:"Clasificados y avisos", orden:["fecha","desc"], singular:"aviso",
+    campos:[
+      { k:"titulo", l:"Título", t:"text", req:true },
+      { k:"categoria", l:"Categoría", t:"select", op:CAT_CLASIFICADOS },
+      { k:"descripcion", l:"Descripción", t:"textarea" },
+      { k:"imagen", l:"Foto (opcional)", t:"imagen" },
+      { k:"contacto", l:"Teléfono o WhatsApp de contacto", t:"text", ayuda:"Ej.: 313 718 3458. Aparece un botón de WhatsApp y otro de llamar." },
+      { k:"enlace", l:"Enlace (opcional)", t:"url" },
+      { k:"fecha", l:"Fecha de publicación", t:"date" },
+      { k:"vence", l:"Se oculta después de", t:"date", ayuda:"Opcional. Pasada esta fecha el aviso deja de verse solo." },
+      { k:"publicado", l:"Publicado", t:"check", def:true }
+    ],
+    fila: x => { const v = aDate(x.vence), venc = v && v < new Date(new Date().toDateString());
+      return { img:x.imagen, t:x.titulo, s:[x.categoria, fechaTexto(x.fecha)].filter(Boolean).join(" · "), et:[x.publicado===false && ["Oculto",""], venc && ["Vencido",""]] }; } },
+  programacion: { titulo:"Programación", orden:["horaInicio","asc"], singular:"programa",
+    campos:[
+      { k:"programa", l:"Nombre del programa", t:"text", req:true },
+      { k:"locutor", l:"Locutor(es)", t:"text" },
+      { k:"dias", l:"Días al aire", t:"dias" },
+      { k:"horaInicio", l:"Hora de inicio", t:"time", req:true },
+      { k:"horaFin", l:"Hora de fin", t:"time" },
+      { k:"descripcion", l:"Descripción", t:"textarea" },
+      { k:"imagen", l:"Imagen (opcional)", t:"imagen" }
+    ],
+    fila: x => ({ img:x.imagen, letra:x.horaInicio, t:x.programa, s:[`${x.horaInicio||""}–${x.horaFin||""}`, DIAS.filter(d => (x.dias||[]).map(Number).includes(d.n)).map(d => d.c).join(" ")].join(" · ") }) },
+  podcasts: { titulo:"Audio a la carta", orden:["fecha","desc"], singular:"audio",
+    campos:[
+      { k:"titulo", l:"Título", t:"text", req:true },
+      { k:"descripcion", l:"Descripción", t:"textarea" },
+      { k:"audioUrl", l:"Enlace directo al audio (.mp3)", t:"url", ayuda:"Se reproduce dentro de la página y la app. Sirve un enlace de archive.org, AzuraCast o cualquier .mp3 público." },
+      { k:"enlace", l:"O enlace externo (YouTube, Spotify, Facebook…)", t:"url", ayuda:"Se usa si no hay audio directo." },
+      { k:"imagen", l:"Portada", t:"imagen" },
+      { k:"fecha", l:"Fecha", t:"date" },
+      { k:"publicado", l:"Publicado", t:"check", def:true }
+    ],
+    fila: x => ({ img:x.imagen, t:x.titulo, s:fechaTexto(x.fecha), et:[x.publicado===false && ["Oculto",""], !x.audioUrl && !x.enlace && ["Sin audio",""]] }) },
+  ranking: { titulo:"Lo más sonado", orden:["posicion","asc"], singular:"canción",
+    campos:[
+      { k:"posicion", l:"Puesto", t:"number", req:true },
+      { k:"cancion", l:"Canción", t:"text", req:true },
+      { k:"artista", l:"Artista", t:"text" }
+    ],
+    fila: x => ({ letra:x.posicion, t:x.cancion, s:x.artista }) },
+  aliados: { titulo:"Aliados y pautantes", orden:["nombre","asc"], singular:"aliado",
+    campos:[
+      { k:"nombre", l:"Nombre", t:"text", req:true },
+      { k:"logo", l:"Logo", t:"imagen", max:500 },
+      { k:"enlace", l:"Enlace (página, WhatsApp o red social)", t:"url" }
+    ],
+    fila: x => ({ img:x.logo, t:x.nombre, s:x.enlace||"" }) }
+};
+
+// ================= Constructor de campos =================
+function campoHTML(c, v){
+  const id = "f-" + c.k.replace(/\./g,"-"), ay = c.ayuda ? `<small>${esc(c.ayuda)}</small>` : "";
+  switch(c.t){
+    case "textarea": return `<div class="campo"><label for="${id}">${esc(c.l)}</label><textarea id="${id}" data-k="${c.k}" class="${c.largo?"largo":""}">${esc(v??"")}</textarea>${ay}</div>`;
+    case "select": return `<div class="campo"><label for="${id}">${esc(c.l)}</label><select id="${id}" data-k="${c.k}">${c.op.map(o => `<option ${o===v?"selected":""}>${esc(o)}</option>`).join("")}</select>${ay}</div>`;
+    case "check": return `<div class="campo"><label class="check"><input type="checkbox" data-k="${c.k}" ${(v ?? c.def) ? "checked" : ""}> ${esc(c.l)}</label>${ay}</div>`;
+    case "dias": { const sel = (v||[]).map(Number);
+      return `<div class="campo"><label>${esc(c.l)}</label><div class="dias-check" data-k="${c.k}" data-t="dias">${DIAS.map(d => `<label><input type="checkbox" value="${d.n}" ${sel.includes(d.n)?"checked":""}>${d.c}</label>`).join("")}</div>${ay}</div>`; }
+    case "date": return `<div class="campo"><label for="${id}">${esc(c.l)}</label><input type="date" id="${id}" data-k="${c.k}" data-t="date" value="${aFechaInput(v)}">${ay}</div>`;
+    case "color": return `<div class="campo"><label for="${id}">${esc(c.l)}</label><div class="color"><input type="color" id="${id}" data-k="${c.k}" value="${esc(v||"#000000")}"><span>${esc(v||"")}</span></div>${ay}</div>`;
+    case "fuente": return `<div class="campo"><label for="${id}">${esc(c.l)}</label><select id="${id}" data-k="${c.k}">${FUENTES.map(f => `<option ${f===v?"selected":""}>${esc(f)}</option>`).join("")}</select><div class="prueba-fuente" style="font-family:'${esc(v)}'">Renacer Estéreo 107.7 FM — Tu radio, nuestra radio</div>${ay}</div>`;
+    case "imagen": { const u = urlSegura(v);
+      return `<div class="campo"><label>${esc(c.l)}</label><div class="imagen-campo" data-k="${c.k}" data-t="imagen" data-max="${c.max||1000}">
+        <div class="prev">${u ? `<img src="${esc(u)}" alt="">` : "Sin imagen"}</div>
+        <div><input type="file" accept="image/*"><small>Se comprime sola antes de guardarse.</small>
+        <input type="url" placeholder="o pega el enlace de una imagen" value="${u.startsWith("data:") ? "" : esc(u)}" style="margin-top:8px">
+        <input type="hidden" value="${esc(u)}"><button type="button" class="btn sec quitar" style="margin-top:8px;padding:5px 14px">Quitar imagen</button>${ay}</div></div></div>`; }
+    default: return `<div class="campo"><label for="${id}">${esc(c.l)}</label><input type="${c.t==="url"?"url":c.t==="number"?"number":c.t==="time"?"time":"text"}" id="${id}" data-k="${c.k}" value="${esc(v??"")}" ${c.req?"required":""}>${ay}</div>`;
+  }
+}
+function activarCampos(raiz){
+  raiz.querySelectorAll("[data-t=imagen]").forEach(box => {
+    const [file, url, oculto] = box.querySelectorAll("input"), prev = box.querySelector(".prev");
+    const poner = v => { oculto.value = v; prev.innerHTML = v ? `<img src="${esc(v)}" alt="">` : "Sin imagen"; };
+    file.addEventListener("change", async () => {
+      if(!file.files[0]) return; prev.textContent = "Procesando…";
+      try{ poner(await comprimir(file.files[0], Number(box.dataset.max))); url.value = ""; } catch(e){ aviso(e.message, "error"); poner(""); }
+    });
+    url.addEventListener("change", () => poner(urlSegura(url.value)));
+    box.querySelector(".quitar").addEventListener("click", () => { poner(""); url.value = ""; file.value = ""; });
+  });
+  raiz.querySelectorAll("input[type=color]").forEach(i => i.addEventListener("input", () => i.nextElementSibling.textContent = i.value));
+}
+function leerCampos(raiz){
+  const out = {};
+  raiz.querySelectorAll("[data-k]").forEach(el => {
+    const k = el.dataset.k, t = el.dataset.t; let v;
+    if(t === "imagen") v = el.querySelector("input[type=hidden]").value;
+    else if(t === "dias") v = [...el.querySelectorAll("input:checked")].map(i => Number(i.value));
+    else if(t === "date") v = el.value ? Timestamp.fromDate(new Date(el.value + "T12:00:00")) : null;
+    else if(el.type === "checkbox") v = el.checked;
+    else if(el.type === "number") v = el.value === "" ? null : Number(el.value);
+    else v = el.value.trim();
+    ponerRuta(out, k, v);
+  });
+  return out;
+}
+
+// ================= Vistas de colecciones =================
+let cache = {};
+async function vistaColeccion(col){
+  const E = ESQ[col]; const main = $("#contenido");
+  main.innerHTML = `<div class="cabeza"><h2>${E.titulo}</h2><button class="btn naranja" id="nuevo">Agregar ${E.singular}</button></div><div id="lista"><p>Cargando…</p></div>`;
+  $("#nuevo").onclick = () => editar(col);
+  try{
+    const r = await getDocs(query(collection(db, col), orderBy(...E.orden)));
+    cache[col] = r.docs.map(d => ({ id:d.id, ...d.data() }));
+  }catch(e){ $("#lista").innerHTML = `<div class="vacio">${esc(errorTexto(e))}</div>`; return; }
+  const items = cache[col];
+  $("#lista").innerHTML = items.length ? items.map(x => { const f = E.fila(x), u = urlSegura(f.img);
+    return `<div class="item"><div class="mini">${u ? `<img src="${esc(u)}" alt="">` : esc(String(f.letra ?? (f.t||"?")[0]))}</div>
+      <div><b>${esc(f.t)}${(f.et||[]).filter(Boolean).map(([e]) => `<span class="etq">${esc(e)}</span>`).join("")}</b><span>${esc(f.s||"")}</span></div>
+      <div class="acciones"><button class="btn sec" data-ed="${x.id}">Editar</button><button class="btn peligro" data-del="${x.id}">Eliminar</button></div></div>`; }).join("")
+    : `<div class="vacio">Todavía no hay nada aquí. Usa «Agregar ${E.singular}» para empezar.</div>`;
+  $("#lista").onclick = async e => {
+    const ed = e.target.closest("[data-ed]"), del = e.target.closest("[data-del]");
+    if(ed) editar(col, items.find(x => x.id === ed.dataset.ed));
+    if(del){ const it = items.find(x => x.id === del.dataset.del);
+      if(!confirm(`¿Eliminar «${E.fila(it).t}»? Esta acción no se puede deshacer.`)) return;
+      try{ await deleteDoc(doc(db, col, it.id)); aviso("Eliminado", "ok"); vistaColeccion(col); } catch(err){ aviso(errorTexto(err), "error"); } }
+  };
+}
+function editar(col, it = null){
+  const E = ESQ[col], f = $("#form-item");
+  const val = k => it ? it[k] : (k === "fecha" ? new Date() : undefined);
+  f.innerHTML = `<h2>${it ? "Editar" : "Agregar"} ${E.singular}</h2>${E.campos.map(c => campoHTML(c, val(c.k))).join("")}
+    <div class="pie-dialogo acciones"><button class="btn" value="ok" id="guardar-item">Guardar</button><button class="btn sec" value="cancel" formnovalidate>Cancelar</button></div>`;
+  activarCampos(f);
+  f.onsubmit = async e => {
+    if(e.submitter?.value !== "ok") return;
+    e.preventDefault();
+    const datos = leerCampos(f);
+    if(JSON.stringify(datos).length > 950000) return aviso("Este contenido pesa demasiado. Usa una imagen más pequeña.", "error");
+    const btn = $("#guardar-item"); btn.disabled = true; btn.textContent = "Guardando…";
+    try{
+      datos.actualizado = serverTimestamp();
+      if(it) await updateDoc(doc(db, col, it.id), datos); else await addDoc(collection(db, col), datos);
+      $("#dlg").close(); aviso(it ? "Cambios guardados" : "Publicado", "ok"); vistaColeccion(col);
+    }catch(err){ aviso(errorTexto(err), "error"); btn.disabled = false; btn.textContent = "Guardar"; }
+  };
+  $("#dlg").showModal();
+}
+
+// ================= Vistas de configuración =================
+const CFG = {
+  "cfg-portada": { titulo:"Portada, textos y alerta", grupos:[
+    ["Textos de la página", [
+      { k:"textos.portada", l:"Texto de bienvenida (debajo del nombre)", t:"textarea" },
+      { k:"textos.pideCancion", l:"Texto de «Pide tu canción»", t:"textarea" },
+      { k:"textos.paute", l:"Texto de «Paute con nosotros»", t:"textarea" } ]],
+    ["Alerta de última hora", [
+      { k:"alerta.activa", l:"Mostrar la franja de alerta arriba de la página", t:"check" },
+      { k:"alerta.texto", l:"Texto de la alerta", t:"text", ayuda:"Úsala para emergencias, cierres de vía o transmisiones especiales." },
+      { k:"alerta.enlace", l:"Enlace (opcional)", t:"url" } ]],
+    ["Secciones visibles", [
+      { k:"secciones.noticias", l:"Noticias", t:"check" }, { k:"secciones.clasificados", l:"Clasificados y avisos", t:"check" },
+      { k:"secciones.programacion", l:"Programación", t:"check" }, { k:"secciones.podcasts", l:"Audio a la carta", t:"check" },
+      { k:"secciones.ranking", l:"Lo más sonado", t:"check" }, { k:"secciones.aliados", l:"Aliados", t:"check" },
+      { k:"secciones.paute", l:"Paute con nosotros", t:"check" } ]]
+  ]},
+  "cfg-apariencia": { titulo:"Colores, letras y logo", vista:true, grupos:[
+    ["Colores", [
+      { k:"colores.primario", l:"Azul principal (botones y enlaces)", t:"color" }, { k:"colores.oscuro", l:"Azul oscuro (portada y pie)", t:"color" },
+      { k:"colores.acento", l:"Naranja (detalles)", t:"color" }, { k:"colores.sol", l:"Amarillo (sol y alertas)", t:"color" },
+      { k:"colores.fondo", l:"Fondo de la página", t:"color" }, { k:"colores.texto", l:"Color del texto", t:"color" } ]],
+    ["Letras", [
+      { k:"fuenteTitulos", l:"Letra de los títulos", t:"fuente" }, { k:"fuenteTexto", l:"Letra del texto", t:"fuente" } ]],
+    ["Logo", [ { k:"logo", l:"Logo de la emisora", t:"imagen", max:600 } ]]
+  ]},
+  "cfg-senal": { titulo:"Emisora y señal en vivo", prueba:true, grupos:[
+    ["Datos de la emisora", [
+      { k:"nombre", l:"Nombre", t:"text" }, { k:"frecuencia", l:"Frecuencia", t:"text" },
+      { k:"eslogan", l:"Eslogan", t:"text" }, { k:"municipio", l:"Lugar", t:"text" } ]],
+    ["Señal en vivo (AzuraCast)", [
+      { k:"azuracastServidor", l:"Servidor", t:"url", ayuda:"Ej.: https://virtual4.emisorasvirtuales.com" },
+      { k:"azuracastEstacion", l:"Nombre corto de la estación", t:"text", ayuda:"Ej.: renacer_stereo. Con esto se muestra la canción que suena y los oyentes." },
+      { k:"streamUrl", l:"Enlace directo de la señal (opcional)", t:"url", ayuda:"Déjalo vacío para tomarlo automáticamente del servidor. Llénalo solo si cambias de proveedor." } ]]
+  ]},
+  "cfg-contacto": { titulo:"Contacto y redes", grupos:[
+    ["Contacto", [
+      { k:"whatsapp", l:"WhatsApp con indicativo", t:"text", ayuda:"Solo números, con 57 adelante. Ej.: 573137183458" },
+      { k:"telefono", l:"Teléfono visible", t:"text" }, { k:"correo", l:"Correo", t:"text" }, { k:"direccion", l:"Dirección", t:"text" } ]],
+    ["Redes sociales", [
+      { k:"redes.facebook", l:"Facebook", t:"url" }, { k:"redes.instagram", l:"Instagram", t:"url" }, { k:"redes.youtube", l:"YouTube", t:"url" },
+      { k:"redes.tiktok", l:"TikTok", t:"url" }, { k:"redes.x", l:"X (Twitter)", t:"url" } ]]
+  ]}
+};
+async function cargarCfg(){ const s = await getDoc(doc(db,"config","sitio")); cfg = mezclar(CONFIG_BASE, s.exists() ? s.data() : {}); }
+function vistaCfg(id){
+  const V = CFG[id], main = $("#contenido");
+  main.innerHTML = `<div class="cabeza"><h2>${V.titulo}</h2></div><form id="form-cfg">
+    ${V.grupos.map(([g, campos]) => `<div class="tarjeta"><h3>${g}</h3><div class="${campos.length>2 && campos[0].t!=="textarea" && campos[0].t!=="check" ? "fila" : ""}">${campos.map(c => campoHTML(c, leerRuta(cfg, c.k))).join("")}</div></div>`).join("")}
+    ${V.vista ? `<div class="tarjeta"><h3>Vista rápida</h3><div class="muestra" id="muestra"></div><p><button type="button" class="btn sec" id="restaurar">Volver a los colores del logo</button></p></div>` : ""}
+    ${V.prueba ? `<div class="tarjeta"><h3>Probar la señal</h3><p>Guarda primero si cambiaste algo.</p><div class="acciones"><button type="button" class="btn sec" id="probar">Escuchar</button><button type="button" class="btn sec" id="consultar">Consultar canción actual</button></div><p id="res-prueba"></p></div>` : ""}
+    <div class="acciones"><button class="btn">Guardar cambios</button></div></form>`;
+  const f = $("#form-cfg"); activarCampos(f);
+  if(V.vista){
+    const pintar = () => { const d = leerCampos(f); $("#muestra").innerHTML = Object.values(d.colores).map(c => `<span style="background:${esc(c)}"></span>`).join("");
+      cargarFuentes([d.fuenteTitulos, d.fuenteTexto]); f.querySelectorAll(".prueba-fuente").forEach(p => p.style.fontFamily = `'${p.previousElementSibling.value}'`); };
+    f.addEventListener("input", pintar); f.addEventListener("change", pintar); pintar();
+    $("#restaurar").onclick = () => { Object.entries(CONFIG_BASE.colores).forEach(([k,v]) => { const i = f.querySelector(`[data-k="colores.${k}"]`); i.value = v; i.nextElementSibling.textContent = v; }); pintar(); };
+  }
+  if(V.prueba){
+    const audio = new Audio(); let urlApi = "";
+    const base = () => { const d = leerCampos(f); return { srv:String(d.azuracastServidor||"").replace(/\/$/,""), est:d.azuracastEstacion, url:d.streamUrl }; };
+    $("#consultar").onclick = async () => { const { srv, est } = base();
+      try{ const d = await (await fetch(`${srv}/api/nowplaying/${est}`, { cache:"no-store" })).json();
+        urlApi = d?.station?.listen_url || "";
+        $("#res-prueba").innerHTML = `Suena: <b>${esc(d?.now_playing?.song?.text || "—")}</b><br>Oyentes: ${esc(d?.listeners?.current ?? "—")}<br>Enlace de la señal: <code>${esc(urlApi || "no informado")}</code>`;
+      }catch(e){ $("#res-prueba").textContent = "No se pudo consultar el servidor. Revisa el servidor y el nombre de la estación."; } };
+    $("#probar").onclick = async () => {
+      if(!audio.paused){ audio.pause(); audio.removeAttribute("src"); $("#probar").textContent = "Escuchar"; return; }
+      const { srv, est, url } = base(); audio.src = url || urlApi || `${srv}/listen/${est}/radio.mp3`;
+      try{ await audio.play(); $("#probar").textContent = "Detener"; $("#res-prueba").textContent = "Sonando: " + audio.src; }
+      catch(e){ $("#res-prueba").textContent = "No suena con ese enlace. Usa «Consultar canción actual» para obtener el enlace correcto."; }
+    };
+  }
+  f.onsubmit = async e => {
+    e.preventDefault();
+    const datos = leerCampos(f);
+    try{ await setDoc(doc(db,"config","sitio"), { ...datos, actualizado: serverTimestamp() }, { merge:true }); await cargarCfg(); aviso("Cambios guardados. Recarga la página pública para verlos.", "ok"); }
+    catch(err){ aviso(errorTexto(err), "error"); }
+  };
+}
+
+// ================= Herramientas =================
+function vistaHerramientas(){
+  $("#contenido").innerHTML = `<div class="cabeza"><h2>Herramientas</h2></div>
+  <div class="tarjeta"><h3>Contenido de ejemplo</h3><p>Carga noticias, avisos, programación y ranking de ejemplo para ver cómo luce la página. Después puedes editarlos o borrarlos.</p>
+    <button class="btn sec" id="sembrar">Cargar contenido de ejemplo</button></div>
+  <div class="tarjeta"><h3>Configuración inicial</h3><p>Guarda la configuración por defecto (colores del logo, señal, contacto). Úsalo una sola vez al empezar.</p>
+    <button class="btn sec" id="cfg-inicial">Guardar configuración inicial</button></div>`;
+  $("#sembrar").onclick = async () => {
+    if(!confirm("¿Cargar el contenido de ejemplo?")) return;
+    try{
+      for(const [col, items] of Object.entries(DEMO)){
+        for(const { id, ...x } of items){ if(x.fecha) x.fecha = Timestamp.fromDate(x.fecha); await addDoc(collection(db, col), x); }
+      }
+      aviso("Contenido de ejemplo cargado", "ok");
+    }catch(e){ aviso(errorTexto(e), "error"); }
+  };
+  $("#cfg-inicial").onclick = async () => {
+    try{ await setDoc(doc(db,"config","sitio"), { ...CONFIG_BASE, actualizado: serverTimestamp() }); await cargarCfg(); aviso("Configuración inicial guardada", "ok"); }
+    catch(e){ aviso(errorTexto(e), "error"); }
+  };
+}
+
+// ================= Navegación =================
+function ir(v){
+  document.querySelectorAll("[data-vista]").forEach(b => b.setAttribute("aria-current", b.dataset.vista === v));
+  $("#lateral").classList.remove("abierto");
+  if(ESQ[v]) vistaColeccion(v); else if(CFG[v]) vistaCfg(v); else vistaHerramientas();
+  history.replaceState(null, "", "#" + v);
+}
+document.querySelectorAll("[data-vista]").forEach(b => b.onclick = () => ir(b.dataset.vista));
+$("#abrir-nav").onclick = () => $("#lateral").classList.add("abierto");
+
+// ================= Sesión =================
+if(!CONFIGURADO){ $("#vista-sin-config").classList.remove("oculto"); }
+else{
+  const auth = getAuth(app);
+  onAuthStateChanged(auth, async u => {
+    $("#vista-login").classList.toggle("oculto", !!u);
+    $("#vista-panel").classList.toggle("oculto", !u);
+    if(u){
+      $("#usuario").textContent = u.email;
+      try{ await cargarCfg(); }catch(e){ aviso(errorTexto(e), "error"); }
+      const h = location.hash.slice(1); ir(ESQ[h] || CFG[h] || h === "herramientas" ? h : "noticias");
+    }
+  });
+  $("#form-login").onsubmit = async e => {
+    e.preventDefault(); $("#l-error").textContent = "";
+    try{ await signInWithEmailAndPassword(auth, $("#l-correo").value.trim(), $("#l-clave").value); }
+    catch(err){ $("#l-error").textContent = errorTexto(err); }
+  };
+  $("#l-olvido").onclick = async e => {
+    e.preventDefault(); const c = $("#l-correo").value.trim();
+    if(!c) return $("#l-error").textContent = "Escribe tu correo arriba y vuelve a tocar «Olvidé mi contraseña».";
+    try{ await sendPasswordResetEmail(auth, c); $("#l-error").textContent = "Te enviamos un correo para cambiar la contraseña."; }
+    catch(err){ $("#l-error").textContent = errorTexto(err); }
+  };
+  $("#salir").onclick = e => { e.preventDefault(); signOut(auth); };
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Correos que pueden editar desde el panel. Agrega o quita los que necesites.
+    function esAdmin() {
+      return request.auth != null && request.auth.token.email in [
+        'emisorarenacer@hotmail.com'
+      ];
+    }
+
+    // Todo el contenido público se puede leer (web y app); solo los administradores escriben.
+    match /{coleccion}/{id} {
+      allow read: if coleccion in ['config', 'noticias', 'clasificados', 'programacion', 'podcasts', 'ranking', 'aliados'];
+      allow write: if esAdmin();
+    }
+  }
+}
