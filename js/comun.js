@@ -43,7 +43,9 @@ export const CONFIG_BASE = {
     pideCancion: "Pide tu canción o manda un saludo. Te leemos al aire."
   },
   alerta: { activa: false, texto: "", enlace: "" },
-  secciones: { noticias: true, clasificados: true, programacion: true, podcasts: true, ranking: true, aliados: true, paute: true }
+  // Periódico aliado que solo publica en Facebook: se muestra como botón
+  regional: { nombre: "El Regional", url: "https://www.facebook.com/share/1C28WMXukW/" },
+  secciones: { noticias: true, noticiasAuto: true, clasificados: true, programacion: true, podcasts: true, ranking: true, aliados: true, paute: true }
 };
 
 export const FUENTES = [
@@ -106,6 +108,30 @@ export const DEMO = {
   ],
   aliados: []
 };
+
+// ---------- Noticias automáticas (las actualiza GitHub cada hora) ----------
+export const NOTICIAS_AUTO_URLS = [
+  "https://raw.githubusercontent.com/paginabierta/renacer-estereo/main/datos/noticias-auto.json",
+  "datos/noticias-auto.json"
+];
+export async function cargarNoticiasAuto(){
+  for(const u of NOTICIAS_AUTO_URLS){
+    try{
+      const r = await fetch(u + (u.includes("?") ? "&" : "?") + "t=" + Math.floor(Date.now()/300000), { cache:"no-store" });
+      if(!r.ok) continue;
+      const d = await r.json();
+      if(Array.isArray(d.noticias)) return d;
+    }catch(e){ /* probamos el siguiente */ }
+  }
+  return { noticias: [] };
+}
+export function haceCuanto(v){
+  const d = aDate(v); if(!d) return "";
+  const min = Math.round((Date.now() - d.getTime()) / 60000);
+  if(min < 60) return min <= 1 ? "hace un momento" : `hace ${min} min`;
+  const h = Math.round(min / 60); if(h < 24) return h === 1 ? "hace 1 hora" : `hace ${h} horas`;
+  const dias = Math.round(h / 24); return dias === 1 ? "ayer" : `hace ${dias} días`;
+}
 
 // ---------- Utilidades ----------
 export function esc(s) {
