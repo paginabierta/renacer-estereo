@@ -1,1 +1,586 @@
-{"actualizado": null, "fuentes": [], "noticias": []}
+{
+ "actualizado": "2026-10-16T22:31:42Z",
+ "fuentes": [
+  {
+   "id": "vanguardia",
+   "nombre": "Vanguardia",
+   "ok": true,
+   "cantidad": 15,
+   "enlace": "https://www.vanguardia.com/arc/outboundfeeds/rss/?outputType=xml",
+   "error": ""
+  },
+  {
+   "id": "provincia",
+   "nombre": "Noticias de la provincia",
+   "ok": true,
+   "cantidad": 10,
+   "enlace": "https://news.google.com/rss/search?q=(Suaita+OR+%22Vado+Real%22+OR+Socorro+OR+%22San+Gil%22+OR+G%C3%A1mbita+OR+Oiba)+Santander+when:3d&hl=es-419&gl=CO&ceid=CO:es-419",
+   "error": ""
+  },
+  {
+   "id": "caracol",
+   "nombre": "Caracol Radio",
+   "ok": true,
+   "cantidad": 8,
+   "enlace": "https://caracol.com.co/arc/outboundfeeds/rss/?outputType=xml",
+   "error": ""
+  },
+  {
+   "id": "eltiempo",
+   "nombre": "El Tiempo",
+   "ok": true,
+   "cantidad": 8,
+   "enlace": "https://www.eltiempo.com/rss/colombia.xml",
+   "error": ""
+  },
+  {
+   "id": "rcn",
+   "nombre": "RCN Radio",
+   "ok": true,
+   "cantidad": 8,
+   "enlace": "https://news.google.com/rss/search?q=site:rcnradio.com+when:1d&hl=es-419&gl=CO&ceid=CO:es-419",
+   "error": ""
+  }
+ ],
+ "noticias": [
+  {
+   "titulo": "Vivir en arriendo en Bucaramanga es cada vez más caro: estas son las cifras",
+   "resumen": "La capital santandereana registra algunos de los mayores incrementos del país en los cánones de arrendamiento residencial y comercial. En apartamentos, el aumento supera en 4,5 puntos porcentuales el promedio nacional.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/QCH6XLTLNJERZNQNWJ6ECR3Y2I.jpeg?auth=9b34771129b5b66a48caa3e601059fd7bca01e99c6a47f95860bbb77c992a609&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/economia/local/2026/10/16/vivir-en-arriendo-en-bucaramanga-es-cada-vez-mas-caro-estas-son-las-cifras/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-16T22:24:27Z",
+   "id": "0e4c2904ac72"
+  },
+  {
+   "titulo": "Ataque con drones en Teruel, Huila, dejó un policía herido y afectó instalaciones oficiales",
+   "resumen": "Los funcionarios fueron evacuados preventivamente y el mandatario local pidió mayor respaldo institucional para evitar nuevos hechos violentos.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/MEHAYP3VIFA4FIKA5SRXWGRSFE.jpg?auth=82fe336bf5872505bed1315240701a3d74c201096ce4e231cdd1834e278facb7&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/colombia/2026/10/16/ataque-con-drones-en-teruel-huila-dejo-un-policia-herido-y-afecto-instalaciones-oficiales/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-16T22:24:19Z",
+   "id": "a742ba06e551"
+  },
+  {
+   "titulo": "Alerta roja declaró el Hospital Universitario de Santander por ‘sobreocupación’ del 187 %",
+   "resumen": "Los servicios de urgencias para adultos en el HUS se encuentran colmados y a su máxima capacidad. El centro médico elevó solicitudes a las autoridades para emprender acciones de contingencia que permitan mantener bajo…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/S4QAK3SAFRFWVBYRAEI7ZAIX7Q.jpg?auth=61d9a44cb881983d997a37f55719646baa467ca07e0ee485bf42616734ab0a38&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/10/16/alerta-roja-declaro-el-hospital-universitario-de-santander-por-sobreocupacion-del-187/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-16T22:20:34Z",
+   "id": "567c4a419509"
+  },
+  {
+   "titulo": "Precio del café HOY 16 de octubre: el fruto reporta un buen incremento al finalizar la semana",
+   "resumen": "La Federación Nacional de Cafeteros (FNC) publicó el precio oficial del café en Colombia para la jornada de hoy 16 de octubre , incluyendo el valor de carga, el kilogramo y la arroba. Estas cifras se actualizan…",
+   "imagen": "https://caracol.com.co/resizer/v2/X5O4WY73CVBX3GIF5FOZ5ZT4MI.jpg?auth=011d6e33313049fb0fcf4338719e9c40d3d470757b2b773dfff0612605b5a2c9&smart=true&width=2048&height=1365",
+   "enlace": "https://caracol.com.co/2026/10/16/precio-del-cafe-hoy-16-de-octubre-el-fruto-reporta-un-buen-incremento-al-finalizar-la-semana/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-16T22:19:56Z",
+   "id": "bf0d44c9f801"
+  },
+  {
+   "titulo": "Denuncian muerte de más de 10 perros por presunto envenenamiento",
+   "resumen": "La comunidad pidió medidas urgentes para evitar nuevos casos. La Ley Ángel contempla penas de prisión y multas por maltrato animal con resultado de muerte.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/NLZXJZFSZRFVJBXCJDHYD27U4A.jpg?auth=948ea973d472a86a4d6734c94246348491dc4806a4b1227373696a2a304d74a7&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/colombia/2026/10/16/denuncian-muerte-de-mas-de-10-perros-por-presunto-envenenamiento/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-16T22:13:16Z",
+   "id": "1d85fc37bd2b"
+  },
+  {
+   "titulo": "Más de 4.000 colombianos esperan un riñón: la demanda de trasplantes podría crecer aún más",
+   "resumen": "La Clínica Foscal advierte que en los próximos años aumentará el número de pacientes que podrían necesitar un órgano, mientras la tasa de donación del país sigue siendo baja.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/PHBWUWSJPFE4DJAGPT5Z5MDS2Y.jpg?auth=1f967945ca7855fe7ef6006eff5b83743ef24963d41cba95019b9d4fc7f0e920&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/entretenimiento/salud/2026/10/16/mas-de-4000-colombianos-esperan-un-rinon-la-demanda-de-trasplantes-podria-crecer-aun-mas/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-16T22:11:09Z",
+   "id": "7e15a04d18ff"
+  },
+  {
+   "titulo": "Tunja recibirá quejas y consultas sobre servicios públicos este martes",
+   "resumen": "Los habitantes de Tunja podrán presentar sus inquietudes y consultas sobre los servicios de agua potable, energía, gas, aseo y alumbrado público durante una jornada de atención que se realizará este martes 20 de octubre…",
+   "imagen": "https://caracol.com.co/resizer/v2/RQTJSM2MQVBMHJMRZE4OYN7D74.png?auth=1fa252b9df3479bb2b7f3ba19c40ad1a5d6f2fbbead61bde682acc999e8fc9a1&smart=true&width=1600&height=841",
+   "enlace": "https://caracol.com.co/2026/10/16/tunja-recibira-quejas-y-consultas-sobre-servicios-publicos-este-martes/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-16T22:08:10Z",
+   "id": "5386887a57cf"
+  },
+  {
+   "titulo": "En Bucaramanga se temen alzas excesivas del Impuesto Predial: solicitan al Alcalde mesa de trabajo",
+   "resumen": "Líderes comunales y entes como la Defensoría del Pueblo radicaron solicitudes formales ante la Alcaldía de Bucaramanga, para que se programen espacios de información y diálogo con la ciudadanía frente al cobro del…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/H6VCX7EDXJEXRECDWPWW7MUBSA.JPG?auth=4d2901a49feb24369710441625fb97788b0bbf4e78077b1d3535c8fac5712130&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/10/16/en-bucaramanga-se-temen-alzas-excesivas-del-impuesto-predial-solicitan-al-alcalde-mesa-de-trabajo/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-16T22:08:09Z",
+   "id": "390661c5230f"
+  },
+  {
+   "titulo": "Presidente De La Espriella confirmó la captura de alias ‘Julito’: los detalles del operativo",
+   "resumen": "El presidente Abelardo De La Espriella confirmó la captura de alias 'Julito', señalado de coordinar homicidios en Bucaramanga y estar vinculado con cerca de 20 hechos violentos.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/FEXJWLBHLBFEJDENKKLOW6JJG4.png?auth=e74c941c1c8ad3afae74f6a046b14750dd0a90847bdeb96a9a5d63ca9005c264&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/judicial/2026/10/16/presidente-abelardo-confirmo-la-captura-de-alias-julito-estos-son-los-detalles-del-operativo/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-16T22:06:49Z",
+   "id": "f974a3903249"
+  },
+  {
+   "titulo": "Grave accidente en la Autopista en Piedecuesta: vehículo terminó incinerado y reportan heridos",
+   "resumen": "Un vehículo Mazda terminó incinerado tras un accidente de tránsito en la autopista Piedecuesta–Floridablanca.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/L3IFJ36VZFCYZALRAVFYNTULZA.png?auth=c2446b49c8eba025a100c80dd0213cfd7d026c267a8ae1052da62fb0f8a71854&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/judicial/2026/10/16/accidente-en-la-autopista-piedecuesta-vehiculo-termino-incinerado-y-reportan-heridos/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-16T22:06:22Z",
+   "id": "a21b860151f8"
+  },
+  {
+   "titulo": "Conexión entre la Carrera 68 y la Av. Américas llegó al 99%: en noviembre inician pruebas técnicas",
+   "resumen": "El grupo 3 de las obras de la Avenida Carrera 68 , que comprende el tramo desde la Avenida de las Américas hasta la Calle 13, entró en su fase final . Según el Instituto de Desarrollo Urbano, IDU, la obra llegó al…",
+   "imagen": "https://caracol.com.co/resizer/v2/PTFEV4YWWFBCRCRRWRES5JX3KU.jpeg?auth=9fcf94dbdcebc219a579049760058d2b3ef60f297edd9c416a87721c29465550&smart=true&width=1280&height=960",
+   "enlace": "https://caracol.com.co/2026/10/16/conexion-entre-la-carrera-68-y-la-av-americas-llego-al-99-en-noviembre-inician-pruebas-tecnicas/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-16T22:04:31Z",
+   "id": "0f875be609ed"
+  },
+  {
+   "titulo": "Colombia tendría nueva ley antitrámites antes de finalizar 2026 y estos serían los cambios",
+   "resumen": "La iniciativa plantea centralizar documentos, agilizar permisos y reducir costos para emprendedores, comerciantes y empresas de Colombia.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/2C4SYNH5BZAGFHY26B5L2DVOMA.jpg?auth=46fadc8ec9bae3ee2cb29af20c269cb608516603266f32882e7da7bcfbd156f7&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/colombia/2026/10/16/colombia-tendria-nueva-ley-antitramites-antes-de-finalizar-2026-y-estos-serian-los-cambios/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-16T22:04:04Z",
+   "id": "30436f372527"
+  },
+  {
+   "titulo": "Katie Zacharia deja la Casa Blanca tras cinco días en el cargo, polémica y comentario de Trump",
+   "resumen": "Katie Zacharia dejó la Casa Blanca tras una semana de polémicas. Un comentario del presidente Donald Trump, las críticas y las dudas sobre sus credenciales marcaron su salida.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/SLJQAH3VXFEYPGSXPZWMQL6MFM.jpg?auth=3c7d012c4a058d5c2615d0d606273592ead2690b661b6273c39dc4b623f3dad3&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/mundo/2026/10/16/katie-zacharia-deja-la-casa-blanca-tras-cinco-dias-en-el-cargo-polemica-y-comentario-de-trump/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-16T22:02:01Z",
+   "id": "34c9dc6ec947"
+  },
+  {
+   "titulo": "La nueva arquitectura de seguridad en el Valle del Cauca: los homicidios cayeron 22 % y las autoridades piden no bajar la guardia",
+   "resumen": "La tendencia a la baja destaca por la reducción del 83 % en Buenaventura, el 60 % en Tuluá y cero homicidios en 15 localidades de la región.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/24/6ab57d0fac05e.png",
+   "enlace": "https://www.eltiempo.com/colombia/cali/la-nueva-arquitectura-de-seguridad-en-el-valle-del-cauca-los-homicidios-cayeron-22-y-las-autoridades-piden-no-bajar-la-guardia-3594155",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-16T21:59:21Z",
+   "id": "ebd071c6ba71"
+  },
+  {
+   "titulo": "¿Qué localidades atravesará la línea 2 del Metro de Bogotá?: Serán 11 estaciones en 15,5 kilómetros",
+   "resumen": "En Bogotá ya se habla de una segunda línea para el metro , mientras la idea de empezar a usar este servicio se vuelve cada vez más cercana, y es que a corte de septiembre de 2026, la obra de la primera línea alcanzó un…",
+   "imagen": "https://caracol.com.co/resizer/v2/6MGQ55DFLRDNFFTSTBPGXLVQGY.png?auth=d3532d89646890e30c9533f5200b9bd691b40f220f77678f2b081061e9dc47ba&smart=true&width=2048&height=1365",
+   "enlace": "https://caracol.com.co/2026/10/16/que-localidades-atravesara-la-linea-2-del-metro-de-bogota-seran-11-estaciones-en-155-kilometros/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-16T21:58:15Z",
+   "id": "653c94944a55"
+  },
+  {
+   "titulo": "Media Maratón FCV: horarios, recorridos y una premiación de $102 millones",
+   "resumen": "Este domingo 18 de octubre, Bucaramanga recibirá a más de 50.000 corredores en la edición 23 de la Media Maratón FCV. Conozca las horas de salida, los accesos según el color de cada categoría y las novedades de una…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/IEQR5EIFYRF2DKWSIRLI6X3LNI.jpg?auth=8952749d3a2adef5636c14b6625cfcc1fb8a7cd81716f7051ec4e6e2dedf1a86&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/deportes/2026/10/16/media-maraton-fcv-horarios-recorridos-y-una-premiacion-de-102-millones/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-16T21:57:21Z",
+   "id": "ddb89996cca5"
+  },
+  {
+   "titulo": "Presto aclaró qué pasará con sus restaurantes tras entrar en liquidación judicial y reveló hasta cuándo seguirán abiertos",
+   "resumen": "La liquidadora confirmó que los puntos de venta atenderán con normalidad hasta nueva orden, mientras se busca una alternativa para mantenerse a flote.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2020/08/19/5f3d292c076e1.r_d.513-30-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/presto-aclaro-que-pasara-con-sus-restaurantes-tras-entrar-en-liquidacion-judicial-y-revelo-hasta-cuando-seguiran-abiertos-3594141",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-16T21:56:39Z",
+   "id": "8ce16848910a"
+  },
+  {
+   "titulo": "Venezuela: tercer ciclo de negociaciones plantea retiro de inhabilidades políticas",
+   "resumen": "La mesa de negociación política en Venezuela abordará la eliminación de las inhabilitaciones que pesan sobre opositores , luego de que la líder de la oposición María Corina Machado exigió el retiro inmediato de esta…",
+   "imagen": "https://caracol.com.co/resizer/v2/HJLVLSXVQZHQXFFQ3T6ZXU7WOY.jpeg?auth=2d5090eb89e864dcab1b5ebce7f9daf59c234a3dbf2672035529fe12d38b768e&smart=true&width=1282&height=898",
+   "enlace": "https://caracol.com.co/2026/10/16/venezuela-tercer-ciclo-de-negociaciones-plantea-retiro-de-inhabilidades-politicas/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-16T21:56:23Z",
+   "id": "36dfb61172d0"
+  },
+  {
+   "titulo": "Alerta Temprana para Jamundí y reclutamiento forzado de niñas, niños y adolescentes",
+   "resumen": "Según esta alerta, el impacto humanitario recae de forma desproporcionada sobre la población pluriétnica, en la que se encuentran 15 consejos comunitarios afrodescendientes y tres autoridades del Pueblo Indígena Nasa …",
+   "imagen": "https://caracol.com.co/resizer/v2/M6O4QC62XBGH3GYKFEQZEODN2A.jpeg?auth=83f93a1315922d87393815e0af7ef1aa85f11e03e15c41a494b73aa5c960d04a&smart=true&width=640&height=479",
+   "enlace": "https://caracol.com.co/2026/10/16/alerta-temprana-para-jamundi-y-reclutamiento-forzado-de-ninas-ninos-y-adolescentes/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-16T21:42:45Z",
+   "id": "394da0534722"
+  },
+  {
+   "titulo": "Murió a los 43 años reconocida presentadora deportiva: su partida sorprendió a colegas y seguidores",
+   "resumen": "La presentadora venezolana Milagros Cofiño murió a los 43 años. Trabajó en Meridiano TV y vivía en España con su pareja y sus dos hijos.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/S2VWL4IGV5EWLGYZF75PWBWW5Y.jpg?auth=0f9f122515654b55eb278c32bf3129fffd1382846d641e9c72cc8dec68bc35de&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/entretenimiento/tendencias/2026/10/16/murio-a-los-43-anos-reconocida-presentadora-deportiva-su-partida-sorprendio-a-seguidores/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-16T21:40:51Z",
+   "id": "e2abf724d196"
+  },
+  {
+   "titulo": "Juez anuló trámite de cabildo abierto en Quimbaya, Quindío, para debatir proyecto Territorio Panaca",
+   "resumen": "Sigue la polémica en Quimbaya, Quindío, por el proyecto Territorio Panaca; un juez anuló el trámite del cabildo abierto liderado por el concejo para modificar el Plan Básico de Ordenamiento Territorial (PBOT) e incluir…",
+   "imagen": "https://caracol.com.co/resizer/v2/TASDE4OXVFC73CFCKB3WERFGMA.jpg?auth=3c5673af5a3a67908e36c7c368cd4b4beba28bfbfb6c48f04e33c2e94569197e&smart=true&width=1618&height=946",
+   "enlace": "https://caracol.com.co/2026/10/16/juez-anulo-tramite-de-cabildo-abierto-en-quimbaya-quindio-para-debatir-proyecto-territorio-panaca/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-16T21:35:52Z",
+   "id": "32e584750e6b"
+  },
+  {
+   "titulo": "¿Cómo proyecta Cali su futuro energético?",
+   "resumen": "Se pronuncia el alcalde de Cali Alejandro Eder.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/16/6ad29868a74c1.r_d.243-216-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/cali/como-proyecta-cali-su-futuro-energetico-3594153",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-16T21:35:24Z",
+   "id": "b07060278440"
+  },
+  {
+   "titulo": "Este es el caso por el que la Procuraduría está investigando al alcalde de Barichara",
+   "resumen": "El alcalde de Barichara, Milton Chaparro, es investigado por el presunto uso del agua de un jagüey privado sin, al parecer, tener los permisos ambientales correspondientes.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/CB5DYLTEPND2BOZ2V6FHGC7TIE.jpg?auth=843c1b9a89ac66399639629ed7fe3a43c0058fc1161d6d48df6a2951ca493fd6&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/santander/2026/10/16/este-es-el-caso-por-el-que-la-procuraduria-esta-investigando-al-alcalde-de-barichara/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-16T21:14:41Z",
+   "id": "7503d869b748"
+  },
+  {
+   "titulo": "El prontuario de alias ‘Julito’: lo relacionan con 20 hechos violentos en Bucaramanga",
+   "resumen": "Las autoridades aseguran que el joven, señalado de al menos 15 homicidios, continúa delinquiendo y liderando acciones criminales junto al grupo ‘Los del Sur’.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/OMIKJ7VPLFAE7JNH5C2KOT2YHU.png?auth=7cd5afe12fceaec32ac25610559ddfef5284dc81b6c364eecd573d0a8e84d1f0&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/judicial/2026/07/29/recompensa-por-alias-julito-subio-a-70-millones-es-el-delincuente-mas-buscado-de-bucaramanga/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-16T21:13:08Z",
+   "id": "79f33b6312f4"
+  },
+  {
+   "titulo": "Afinia investiga presunto fraude de energía en empresa hielera de Cartagena: reportan pérdidas superiores a los $36 millones al mes",
+   "resumen": "Una práctica recurrente en el mercado industrial de la Costa es la ubicación estratégica de empresas con alta demanda energética en estratos 1 y 2.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/16/6ad28f1d8ae01.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/afinia-investiga-presunto-fraude-de-energia-en-empresa-hielera-de-cartagena-reportan-perdidas-superiores-a-los-36-millones-al-mes-3594142",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-16T21:07:05Z",
+   "id": "abcff37c0b73"
+  },
+  {
+   "titulo": "Agraz: el fruto del páramo con el que buscan impulsar alternativas sostenibles",
+   "resumen": "Mediante AGRAZ – PÁRAMO 360°, investigadores y estudiantes exploran procesos de transformación agroindustrial y economía circular para dar valor a este fruto nativo, bajo criterios de sostenibilidad y protección…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/KEJ5WJGG4FGLBDXEXT5U2HTHJU.jpg?auth=a63799e6e686fdf34ef468e420c5ae78fdcf6956dcf787e03ba32b817aec401e&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/mundo/ola-verde/2026/10/16/agraz-el-fruto-del-paramo-con-el-que-la-buscan-impulsar-alternativas-sostenibles/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-16T21:06:04Z",
+   "id": "e31e3b3be5fe"
+  },
+  {
+   "titulo": "El Socorro será sede del V Foro de Patrimonio Cultural y Turismo Sostenible",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOGlDX0xoaW9CVkl6SXNUQ0hEMmRTeUxrS1ZwRWw3NUxHX05jSThocGo3NmlodjJab0tzSFQ5ZUJVYWpMZWh1V2tQZ3hzaTZGNGJjWG5NVklyLTVQeUdaeFdTb2RXa1huMVhQT0tRNmt5a2ZISHNldGNaQ1FOOHQxVGctSURqMDFLYmFuVXBaQWZZZEtBZUVBSGZkb0lTTjdHbkE3dWpnNnBmYVF1YVFRRXo5Z3M0TWE1MEhVQUZGenNKUV8tcjd3YmtTcEVwZw?oc=5",
+   "medio": "Vanguardia",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-10-16T20:54:00Z",
+   "id": "7840e9628368"
+  },
+  {
+   "titulo": "Tras asesinar a su esposo en medio de una discusión, una joven en Boyacá tendrá que pagar 20 años de prisión",
+   "resumen": "La familia de la víctima está inconforme con la pena",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/16/6ad288b50d5fe.r_d.243-310-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/tras-asesinar-a-su-esposo-en-medio-de-una-discusion-una-joven-en-boyaca-tendra-que-pagar-20-anos-de-prision-3594132",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-16T20:39:57Z",
+   "id": "70f3e04411ce"
+  },
+  {
+   "titulo": "San Gil reunió a expertos internacionales para debatir futuro del turismo en Santander",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMUR4dHZJc0VaaTkzMGc3U3JhUDVvUWxlRi1ablN6RkYxLVJoX1E4ZVZVQlp2clhhRVU3NlJyN0JWU2lGTkw5c3lJalc3Vmgtbms0MXRVeDNWTUVrQ2VEcG9xNVdrb0R6bjJuM28tSlBkSFJqbmx5Wkg5aml4WGJRR3JXNWhnVllDaUpHdXpLS3I1dUJ0OVdXd0xXbmJBaFM4dXNrTXpZNVlfZlVPT0dVVA?oc=5",
+   "medio": "El Frente",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-10-16T20:39:52Z",
+   "id": "6ccc6e4f62ba"
+  },
+  {
+   "titulo": "Medellín interviene quebradas y soterrados para prevenir nuevas emergencias por lluvias: van más de 7.500 metros cúbicos de residuos removidos en 2026",
+   "resumen": "Las intervenciones en cauces y pasos soterrados se concentran en mitigar el impacto de las precipitaciones e impedir represamientos.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/16/6ad27d64d2b72.png",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/medellin-interviene-quebradas-y-soterrados-para-prevenir-nuevas-emergencias-por-lluvias-van-mas-de-7-500-metros-cubicos-de-residuos-removidos-en-3594081",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-16T20:13:18Z",
+   "id": "ce76e0208470"
+  },
+  {
+   "titulo": "Basura de 45 países llega a playas del Caribe colombiano: estudio revela su origen; barcos estarían arrojando el 39 % de los residuos extranjeros",
+   "resumen": "Investigadores de las universidades del Atlántico y Federal de Ceará, en Brasil, rastrearon 625 envases. Panamá y China encabezan la lista.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/10/22/68f8ff737eb84.r_d.635-406-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/barranquilla/basura-de-45-paises-llega-a-playas-del-caribe-colombiano-estudio-revela-su-origen-barcos-estarian-arrojando-el-39-de-los-residuos-extranjeros-3594042",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-16T20:12:54Z",
+   "id": "b8e8251a618e"
+  },
+  {
+   "titulo": "De la salsa romántica al 'Ghetto': la metamorfosis cultural de 'Lluvia' entre Eddie Santiago y Ryan Castro",
+   "resumen": "El cantante antioqueño presenta la canción 'Lluvia Awoo', grabada en el barrio Obrero y que será interpretada en su concierto en Cali.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/11/6acc21942b5bc.r_d.724-806-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/cali/de-la-salsa-romantica-al-ghetto-la-metamorfosis-cultural-de-lluvia-entre-eddie-santiago-y-ryan-castro-3594122",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-16T20:10:49Z",
+   "id": "1eb10f423df3"
+  },
+  {
+   "titulo": "Policía crea la Unidad Nacional Antidisturbios y vuelve a llamar ESMAD a los escuadrones operativos",
+   "resumen": "La Policía Nacional creó la Unidad Nacional Antidisturbios y mantuvo la denominación Escuadrón Móvil Antidisturbios (ESMAD) para la dependencia encargada de ejecutar las operaciones en manifestaciones públicas y…",
+   "imagen": "https://caracol.com.co/resizer/v2/4BQAXP44G5BOXIBOSCOJDURRWY.jpg?auth=6872125dcdc7fdd56e393d65f30fbd87009b502cec7bb1ac0133c27e7eb97d51&smart=true&width=640&height=427",
+   "enlace": "https://caracol.com.co/2026/10/16/la-policia-elimina-la-undmo-y-crea-la-unidad-nacional-antidisturbios/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-16T19:41:31Z",
+   "id": "5e371662dd11"
+  },
+  {
+   "titulo": "Licencia de conducción en Colombia podría incrementar en los próximos días: Esta es la razón",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVFhrdWdZSFlNQURtS1dtdmY3ZGpMY1ZuOFVCN0V3MmxWQjRDMFBqclNzd29xZW02NEJ5R1plSTlmSUlNU0dTVFhjZGRnUnhmNm5nU3lvakRtMHNCNzJDZlJ6Zm9KQWRyU0laVUhVRDQtU19TN05FUm9hVUVjc1liZUdxeDljRGVmRlZIa1JaeG1fRGdKREFNbUduNnVRUzZ6M211S1hKcDBkSjlJSWxOa3RlTWpyZF9tcm9SXzFKVk42S2hOdGd5YmtB?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-10-16T18:26:24Z",
+   "id": "2dc982934df4"
+  },
+  {
+   "titulo": "Servicio Geológico Colombiano reporta actividad en el volcán Cerro Machín tras temblores en el departamento del Tolima",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPM1pyM2RkWFhFRE15cU5LSXl5N3NFNFJKVVRRU2F2djI1U00zSWNTRV9lcFA3Wm9kNkVLT2hXVndoWDhwenBUdjJNMG5xWTVBbmlXR0hOLV9VTHVydlVaTmg0Q0JLNC0tSWlFT2xPa0c3bDVTd2NETk1rUE43UzFaZWhBTEo4QUhaODRDRlRsTFJEQ1AwbjkwQ3FJb1ZuamhNRjhRWVNiMnpVZlFyOXkwZGNDcWoyQlpiMXJOQVlWRHBZRFhvZS1xZzIyek9QT2ZYclRKRGxRemMyX2hiWkdpQVB3QmktNjRUQ3lEMkNB?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-10-16T17:56:54Z",
+   "id": "7a11c0155528"
+  },
+  {
+   "titulo": "Cortes de agua en Medellín y Bello este sábado 17 de octubre del 2026: Barrios afectados y horarios",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTUxvUm1QVGx5ZDdYbldUV0dRbURoZXA5LTlaY0ZZTFlFQkpLN2hXLVhOelRUdzBpSlIyWnBJQ2k4Y3pvZFJyWWRFUXRsZmJ6QmZRMFZYQng3SG5YR2M4WjZVWkNfV1ZGLWJ0UVBkQ1hFcmdIdlJhVU5DdHhyVzgxUWFPYnI3OXB3RGRUTnR3NWhWREZaZVAyR0FDYXFlSjJLeFc3djByRUlobEphbW5zakZTR1luajI1YkQtZ1ItS2hIYTdXRDY4N1FYZTNZRVJ3eTRn?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-10-16T17:27:55Z",
+   "id": "9d79ee46cbbb"
+  },
+  {
+   "titulo": "Invías levanta restricción para vehículos de carga en la vía Bucaramanga-Bogotá sector de Pescadero",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNelQ4WWlqRUZGbmdwOTE3LWpHT0ZWNzhFY1RKMTNxb2NJcVFXdHBzeWdhbEN0ZUNUYWNTc3pfWk5NTmlnUHd2VjFUTHRLWGdIX3JiT2pTRlhyQTJHMGdFU1NacVpUc25TWmZ0Wm4wcTRqQm1CcTY0eTBQbURnQTNnQVNmaklNdm5KUjg2NU5vSVlJaWNiX2V4V0ZqNEVsazhvX295NDBPenJlV1duRkRkcUdlUFZFXzl6T2Y2SERSUFc0YUhXMVhoMjhqWkVaMXPSAeMBQVVfeXFMTUxBdXZWSXhVdkdiT0tyZmE5MFl4bUIyMy1yc2tPcEhnUzQyZWhUV0pTZVVYYnVaXzZ6Qkx6aUVjSUVEY3YwZnFlY18xVnQzMkdkS2EyckdqOWsyRV9rNTNLaXlwLTlwNk9ZZHZ2TUtHcmFCVzBkRDFsOGNFc1dwUGFEWWRJdGpkQzE5NVg2TnhId29HWkRiRTRTQi1vUlh5N2NhdkdYSVcwd3hRSkY5ZE1oNG8tMjdBeEUtWE1iNFF3TUY2MFRxblNYQUlIbmlCZmpDZ0JRZGRTN0RON2I1d0lSZTg?oc=5",
+   "medio": "Caracol Radio",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-10-16T16:41:21Z",
+   "id": "a9fc2e69cdb8"
+  },
+  {
+   "titulo": "Concierto de Fonseca en Bogotá cambia de escenario: Este es el nuevo lugar y fecha en la que se realizará",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdVktUTJjSHVfS3g3SWRLdThJVmtLWGlNbnQ0OHNHdDZmQ2FNTmR6a2VJcmJfcTRyWk9DR24wWWQ2Ym5PT3YwbVdWc3NNMGdjUXhtVWxUdlJyQktVU1VySUQxLWhsUUdYbDJZTVItcFhFbFRGbDEzaUJqM1p5NEJlMVdCY2hHanpqMHZUVzlkMUZuWEhPRGpqM3g3QWNCSEZEMUw0M184ckdFQ2tuMkltSjBIN25GYnkzUWFRZmZRbkNpdzJ3XzhqMVZqMVhCS2NpeFFKSHJ3Ti1aWDQ?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-10-16T16:21:34Z",
+   "id": "bc87eeeef72d"
+  },
+  {
+   "titulo": "Janeth Mylene Suárez, la ingeniera que falleció tras sufrir graves quemaduras en un restaurante en Bucaramanga",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObkE0WlgySkE4dVJORlVJLWJoSUIzS2xSbGVGU0E5c2JhR3MwVXZSczVVQTVxWS1ESzBmZmhuMTdzTFFCYUNUbEhOemFqV0ZCbDZuMXJla2RjdGJ3NU5sSUVYUkc3RzVYODZpLTZZZGdmWlliTERHWHRtYU1ieHRQXzBzOU1UbjFDbjNsaUl1VWhBMzZ5U3huTG5vdHpaaE5mVFgtMWRtU3NOUlRzNEx2emUtTktLSjJtOHpVbWFUYm4yMnpvUEpqODd0OHlrNnNJS3FDUkxWQkhPZXJmb2hfRU9xT3EtZmdvaVhF?oc=5",
+   "medio": "ELHERALDO.CO",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-10-16T15:43:28Z",
+   "id": "9d31dadecbcc"
+  },
+  {
+   "titulo": "Santander quiere ser un destino internacional: tres claves que dejó el foro de turismo en San Gil",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYVdUVDJoOFBfSmMyaVczYnJXak4ya0lhUjEyUkc0WDd1aFFZYmJ5UnZfRFAzVUZBOHduaXo5cTR1V2RQMGtMeXV6emFfNW5ja1BENGdTbDBmNC1pY0ptMnhMR3ZhRk9ieUF1anNIdVdfNFlFcVpNUlNwTW0wWkxiOVNuMEpuTjZhZkZScVlxd0ZOUVNWX09BNjdmdHA2SkdtTEdPcWlDeDVYbUhVZDQwVW14b01QS2M5eEhzRWNWZ2pWLUJ2Z2xiWTVMVFh3Z1YtU2VnYnlhTnZ1cHF0cU9VdzNqck9nbzlVUmRPMWd0Tm0?oc=5",
+   "medio": "Vanguardia",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-10-16T15:14:00Z",
+   "id": "aeb5a6232f55"
+  },
+  {
+   "titulo": "Temblor hoy en Colombia durante la mañana de este viernes 16 de octubre del 2026: Epicentro y magnitud",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUGVETm84SGRzeE9mdnp0S3QzWWJUTmozQTFnSlYwekNZbEpTRlFPSWI2cFNYWXEyZmc3STNVZ2hWOTdYVFQtak5sYlRjQWhjLUxXbXpxTDdhY3ZYM0dUZjN4M1lHOTNhWUE3VTVPQnExUy1nTkpKR1g1OW1EQmwxT1FaVWFCREtuVHhBbDc0M2NIS3d3VW9KRXVhZzZUaEN4NV9WOFdhLUFPZFdaOTV0TUdvNVNVbVR2LWlfVlpONnhKU0xLX0htZGR2MVZCZkRpT1NRZlNDTQ?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-10-16T15:05:12Z",
+   "id": "f9f4df950f93"
+  },
+  {
+   "titulo": "Santandereano Pablo Ruiz se subió al podio en el Campeonato Panamericano de El Salvador",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeFhOOGlQU0xBeXRvS1liMVc2M0VmYWhzNDFPMF9Ya0xGTlJaai1zSlFIQS1xZWhpS2R3MjVUY1dIUDFhaTdkZlhsVXZObWk5WGxDR3JQQWJOUi15bWNuckFybzdqOTNVcDZISTBfQ2U3dlhSLTU4RFlnTElkam1LWFhTX0lpOGZTSWFMQ0FGalI3cGU0OTZNMlp4NTIyVUMzdGg2M0FGU0MzMkJ1Zmp0UTJrVW5wQzVrWDZLUHV3bzl0cy1QY2o2em54S2FwN29CY1Z4Q0tKT1Nqa3VNeHBzakdoZlM?oc=5",
+   "medio": "Vanguardia",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-10-16T14:50:00Z",
+   "id": "38c14605969f"
+  },
+  {
+   "titulo": "Newsroom RCN Radio | Noticias en vivo y última hora",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9SRk9HTl91RkpGLU5BZ084Snl6b3VVdEZsTkRIel9EdHVMem9EV0RXWGcwd0p0Ym8zYmQ4WmYyZ2FBd25D?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-10-16T14:22:01Z",
+   "id": "9f3b3d900d2c"
+  },
+  {
+   "titulo": "Ampliación de la Autopista Norte: así será la obra que conectará a Bogotá con los municipios vecinos de Cundinamarca",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYlBnRV9ETjM1NkxVMGloVlhPZ2RqQ3d4VzlZaXdKZ3ZOLTRmcDdEN1lyNnB3eVFoMldVcnJpOERKQ2FoMWVQaE8yZkR6RG9XS3c4ZG9LeDJvRWtXUTdJMkJmdXZCVF95LVZJMGZWTDExZHNCd2J4czRKQ3BGSlA3WXFqOUVyMlBiVTB4WTB1bVdmWFI0eFRKU2U4ZFlHUWhQZG1iR09ic2RzN0ZHRDZJUlVPN2RSWWNhT1hudmdCdFZqaVo4RUxFeDJpakZVWS1adVFjN1lSQUQ2YkY4ZHJydzAyYkM4TGhZd1E?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-10-16T14:09:23Z",
+   "id": "eb4223f12123"
+  },
+  {
+   "titulo": "Ahora San Gil tiene Innovación y tecnología para el futuro del turismo",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRXZaVmVfaUp3WWd5Tk9taHk2a2JqMGNENkY1cm54dnB1RkItQ1V3OEwtYjlRbG5yYjBmSU10RXhsekFCTGxyeERkT2ZNQW0yM2xaS0hXZ3NOWDF2QnZhMnltSE93UzB6QnZWNXp0bm9heDhNQlU4T3JCY0pwdFVIM3c0QmZDbGpDTU9wcjBHMUR2TU9Jcm9CdU1TRQ?oc=5",
+   "medio": "El Frente",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-10-16T14:01:57Z",
+   "id": "1ce501b21402"
+  },
+  {
+   "titulo": "Cambian reglas para recibir los subsidios de Prosperidad Social en Colombia: De esto se trata la medida",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaXJWZThZbC1qdjY1Yk1UZjlWSFRERUNMYThVNk5OMER2UTFzODJ6Yy1sTHp2b3JSeTIxbGw0RkRMTFV1TlpqRkpIcFVBanJZX042UVRGa1FkZDB0R05YMW9LOVZ6cGczaUNWcG5XaXNRYmUzMG9xYU54VC1NYmRNeE8tM3l4Q0dDNUluSzBJV0liNTk4LUdrdmJVWkI1NndaMEV6eU5lX0xBMkJoWGFkeGhyT3hTY1NoRTVEMDhyS0tuN3lQalpJUDZoV0RDS2NCZnhRRGNkWnk?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-10-15T23:31:05Z",
+   "id": "e4113c7b07db"
+  },
+  {
+   "titulo": "Murió ingeniera ambiental que sufrió graves quemaduras en reconocido restaurante",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOWdMSlRUZW5HM1ZrZU83N19Mdy1oUWw5WW90a0IzUUloa0F6d3NCeXBJZ05GR1Rmb2t3VlJRVi1RLTRvLUNTQTZHTEN2OXd3YlZWUmNZMkJ0YV9nNVpOYUZpOVpIYmRpdVhvY3ZWb2lXTXVGaUFtLVNZV2dBdi1ZQ0ZhdTY1dVFEQ0FobGxhbWVKV0poc2U1Wl9qcFVoa0FZYWxwT1hETWlhMzA4MmREaXFvbEFjMWNzX3p3atIBvAFBVV95cUxNOWdMSlRUZW5HM1ZrZU83N19Mdy1oUWw5WW90a0IzUUloa0F6d3NCeXBJZ05GR1Rmb2t3VlJRVi1RLTRvLUNTQTZHTEN2OXd3YlZWUmNZMkJ0YV9nNVpOYUZpOVpIYmRpdVhvY3ZWb2lXTXVGaUFtLVNZV2dBdi1ZQ0ZhdTY1dVFEQ0FobGxhbWVKV0poc2U1Wl9qcFVoa0FZYWxwT1hETWlhMzA4MmREaXFvbEFjMWNzX3p3ag?oc=5",
+   "medio": "Pulzo",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-10-15T16:48:24Z",
+   "id": "db074ae0aeb0"
+  },
+  {
+   "titulo": "Restaurante de Bucaramanga rompe el silencio tras trágica muerte de una cliente: 'Dentro de la investigación'",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObXA2YklwR3B3b2xwdFN1UkpEOHRac1MzcVV6QWFsYmZoNDVZX1lRVlNPUXpNYXo5LXNsMEtUZXlNaFd2SEc1V2FxQ3pITzZVTjk1TmxqLTJlSHNmXzllbktPZktCVE5YS2hxdGVjYjI1X2RhMDNPaTlxVDZxVUdkWUhlTjlrMHhzUW1nRTY2SG90SEpoM05WUVlDUzRvaDd3cUE4Q0RLTG54MUh6S3ZJb3FWWFJncFRybEpiVS05WW5wdjZvMzF0Zks2dDl0ZVl3Yjl6M1hDaDBIbHJQd1ZwY242S2lGRVRsNDAxZg?oc=5",
+   "medio": "RED+ Noticias",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-10-15T16:44:03Z",
+   "id": "faaf698fb2c1"
+  },
+  {
+   "titulo": "Ingeniera murió tras sufrir quemaduras en restaurante de Bucaramanga; su esposo resultó herido",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWWlJWkpPTU9XM2xHa2RCT1h0ZFpVYjktbkRHZkhpWjF4Znc0N3hUWnZBWHNYLUYtYXo5b3Z2UXN6TVlPNDNDc3lUR1VTTlR3d2I0ZENpbUNLRFRWYUJTQzdhTy1nQnk0b1lSSk95V2xtakZTTVVUWnoyeXBOaktCUGJId0NGMElfNUcxS0RVdHk3NEVsU2x2REFLRjVEYnVsdDdGRzcxaURKbnViT3FDMDc0UjA3aC0tRlZnMk5fWG5wcC1QZ25J0gHbAUFVX3lxTE9ralROd3hJaGhxY19BWUZNRTVfaUR3aG56MDdBdHIxc2YzY2hXNHVQNGhadmxPX3Z5TjhsbDUwRzFqaUhCanJfaWc4c3FiRHRJbWd0N01QeTR4OUp5aWktLVJrcXE5M2RRRmctZlBON0U2eWo5WXU2SDBCVzEwZjBZUUx6TlFCVWFNSy1BUWFCYzJ4YjFYSTZaMHpOMFEwd0U5cGpqOV84dFAxT2xZcnhKNng3TnF6VmV2S0JqRGQ2X05VMy1CSEwzVXBULUlWb3ZjUWFXcm5DZ1R0aw?oc=5",
+   "medio": "Caracol Radio",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-10-14T18:20:08Z",
+   "id": "c684b8e9f21f"
+  }
+ ]
+}
