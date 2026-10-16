@@ -155,7 +155,7 @@ dialog .pie-dialogo{position:sticky;bottom:0;background:#fff;padding:14px 0 0;bo
 <div id="toast" class="oculto" role="status"></div>
 
 <script type="module">
-import { app, db, CONFIGURADO, CONFIG_BASE, DEMO, FUENTES, CAT_NOTICIAS, CAT_CLASIFICADOS, DIAS, esc, urlSegura, mezclar, aDate, fechaTexto, aplicarTema, cargarFuentes } from "./js/comun.js";
+import { app, db, CONFIGURADO, CONFIG_BASE, DEMO, cargarNoticiasAuto, haceCuanto, FUENTES, CAT_NOTICIAS, CAT_CLASIFICADOS, DIAS, esc, urlSegura, mezclar, aDate, fechaTexto, aplicarTema, cargarFuentes } from "./js/comun.js";
 import { getAuth, signInWithEmailAndPassword, onAuthStateChanged, signOut, sendPasswordResetEmail } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js";
 import { doc, getDoc, setDoc, addDoc, updateDoc, deleteDoc, collection, getDocs, query, orderBy, Timestamp, serverTimestamp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
 
@@ -367,6 +367,10 @@ const CFG = {
       { k:"alerta.activa", l:"Mostrar la franja de alerta arriba de la página", t:"check" },
       { k:"alerta.texto", l:"Texto de la alerta", t:"text", ayuda:"Úsala para emergencias, cierres de vía o transmisiones especiales." },
       { k:"alerta.enlace", l:"Enlace (opcional)", t:"url" } ]],
+    ["Noticias de otros medios", [
+      { k:"secciones.noticiasAuto", l:"Mostrar titulares automáticos de Vanguardia y medios nacionales", t:"check", ayuda:"Se actualizan solos cada hora. El estado de cada fuente se ve en Herramientas." },
+      { k:"regional.nombre", l:"Nombre del periódico aliado (botón)", t:"text", ayuda:"Ej.: El Regional. Deja el enlace vacío para ocultar el botón." },
+      { k:"regional.url", l:"Enlace de su página (Facebook u otra)", t:"url" } ]],
     ["Secciones visibles", [
       { k:"secciones.noticias", l:"Noticias", t:"check" }, { k:"secciones.clasificados", l:"Clasificados y avisos", t:"check" },
       { k:"secciones.programacion", l:"Programación", t:"check" }, { k:"secciones.podcasts", l:"Audio a la carta", t:"check" },
@@ -441,10 +445,18 @@ function vistaCfg(id){
 // ================= Herramientas =================
 function vistaHerramientas(){
   $("#contenido").innerHTML = `<div class="cabeza"><h2>Herramientas</h2></div>
+  <div class="tarjeta"><h3>Noticias automáticas</h3><div id="estado-auto"><p>Consultando…</p></div>
+    <p><small>Las fuentes se cambian en el archivo <code>datos/fuentes.json</code> del repositorio. Para forzar una actualización: GitHub → pestaña Actions → «Noticias automáticas» → Run workflow.</small></p></div>
   <div class="tarjeta"><h3>Contenido de ejemplo</h3><p>Carga noticias, avisos, programación y ranking de ejemplo para ver cómo luce la página. Después puedes editarlos o borrarlos.</p>
     <button class="btn sec" id="sembrar">Cargar contenido de ejemplo</button></div>
   <div class="tarjeta"><h3>Configuración inicial</h3><p>Guarda la configuración por defecto (colores del logo, señal, contacto). Úsalo una sola vez al empezar.</p>
     <button class="btn sec" id="cfg-inicial">Guardar configuración inicial</button></div>`;
+  cargarNoticiasAuto().then(d => {
+    const f = d.fuentes || [];
+    $("#estado-auto").innerHTML = !d.actualizado ? "<p>Todavía no se ha ejecutado la primera actualización.</p>"
+      : `<p>Última actualización: <b>${esc(haceCuanto(d.actualizado))}</b> · ${(d.noticias||[]).length} titulares.</p>
+         <ul>${f.map(x => `<li>${x.ok ? "✅" : "⚠️"} <b>${esc(x.nombre)}</b>: ${x.ok ? x.cantidad + " titulares" : "sin respuesta (" + esc(x.error || "error") + ")"}</li>`).join("")}</ul>`;
+  });
   $("#sembrar").onclick = async () => {
     if(!confirm("¿Cargar el contenido de ejemplo?")) return;
     try{

@@ -112,6 +112,26 @@ section.bloque.alterno{background:var(--blanco)}
 .nota:hover h3,.nota-principal:hover h3{color:var(--c-primario)}
 .btn-mas{margin-top:16px;background:none;border:2px solid var(--c-primario);color:var(--c-primario);border-radius:999px;padding:8px 18px;font-weight:700;align-self:flex-start}
 
+/* Noticias de otros medios */
+.externas{margin-top:40px}
+.cabeza-externas{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:14px}
+.cabeza-externas h3{margin:0;font-size:1.6rem;color:var(--c-oscuro)}
+.cabeza-externas .filtros{margin:0}
+.lista-ext{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px}
+.ext{display:grid;grid-template-columns:1fr 96px;gap:14px;background:var(--blanco);border:1px solid var(--c-linea);border-radius:var(--radio-p);padding:14px 16px;text-decoration:none;color:inherit;align-items:start}
+.ext.sin-foto{grid-template-columns:1fr}
+.ext:hover h4{color:var(--c-primario)}
+.ext .medio{font-size:.82rem;font-weight:700;color:var(--c-acento)}
+.ext h4{font-family:var(--f-titulos);font-size:1.15rem;line-height:1.2;margin:3px 0 4px;color:var(--c-oscuro)}
+.ext p{margin:0 0 6px;font-size:.92rem;color:var(--c-suave);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.ext .cuando{font-size:.8rem;color:var(--c-suave)}
+.ext img{width:96px;height:80px;object-fit:cover;border-radius:6px;background:var(--c-fondo)}
+.nota-creditos{font-size:.82rem;color:var(--c-suave);margin:14px 0 0}
+.btn-aliado{display:flex;align-items:center;gap:14px;margin-top:22px;padding:14px 18px;background:var(--blanco);border:2px solid #1877F2;border-radius:var(--radio-g);text-decoration:none;color:var(--c-texto);max-width:440px}
+.btn-aliado .ico-fb{flex:0 0 auto;width:42px;height:42px;border-radius:50%;background:#1877F2;color:#fff;display:grid;place-items:center;font:700 1.6rem/1 Arial,sans-serif}
+.btn-aliado b{display:block;font-size:1.1rem}
+.btn-aliado small{color:var(--c-suave)}
+
 /* Clasificados */
 .filtros{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:22px}
 .chip{border:1.5px solid var(--c-linea);background:var(--blanco);border-radius:999px;padding:6px 14px;font-size:.92rem;color:var(--c-texto)}
@@ -284,10 +304,23 @@ dialog::backdrop{background:rgba(10,25,55,.65)}
 <section class="bloque" id="noticias" data-sec="noticias">
   <div class="envoltura">
     <div class="cabeza-bloque"><h2>Noticias</h2><p>Lo que pasa en Vado Real, Suaita y la provincia.</p></div>
-    <div class="noticias">
+    <div class="noticias" id="noticias-propias">
       <div id="nota-principal"></div>
       <div class="lista-notas" id="lista-notas"></div>
     </div>
+    <div class="externas" id="bloque-externas" data-sec="noticiasAuto">
+      <div class="cabeza-externas">
+        <h3>Santander y Colombia</h3>
+        <div class="filtros" id="filtros-ext" role="group" aria-label="Filtrar noticias"></div>
+      </div>
+      <div class="lista-ext" id="lista-ext"></div>
+      <button class="btn-mas oculto" id="mas-ext">Ver más titulares</button>
+      <p class="nota-creditos">Titulares tomados de los canales públicos de cada medio. Cada noticia lleva a su fuente original.</p>
+    </div>
+    <a class="btn-aliado oculto" id="btn-regional" href="#" target="_blank" rel="noopener">
+      <span class="ico-fb" aria-hidden="true">f</span>
+      <span><b id="regional-nombre">El Regional</b><small>Noticias de la región en Facebook</small></span>
+    </a>
   </div>
 </section>
 
@@ -383,7 +416,7 @@ dialog::backdrop{background:rgba(10,25,55,.65)}
 </dialog>
 
 <script type="module">
-import { db, CONFIGURADO, CONFIG_BASE, DEMO, CAT_CLASIFICADOS, DIAS, esc, urlSegura, mezclar, aDate, fechaTexto, aMinutos, aplicarTema, enlaceWhatsApp } from "./js/comun.js";
+import { db, CONFIGURADO, CONFIG_BASE, DEMO, cargarNoticiasAuto, haceCuanto, CAT_CLASIFICADOS, DIAS, esc, urlSegura, mezclar, aDate, fechaTexto, aMinutos, aplicarTema, enlaceWhatsApp } from "./js/comun.js";
 import { doc, getDoc, collection, getDocs, query, orderBy, limit } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
 
 const $ = s => document.querySelector(s);
@@ -393,6 +426,7 @@ const COLOR_CAT = { "Empleo":"#1F5FBF","Ventas":"#EE6A2C","Arriendos":"#7A4FB5",
 
 let cfg = structuredClone(CONFIG_BASE);
 const D = { noticias:[], clasificados:[], programacion:[], podcasts:[], ranking:[], aliados:[] };
+let EXT = [], extVisibles = 9, filtroExt = "Todas";
 let notasVisibles = 6, filtroCat = "Todos", diaSel = new Date().getDay();
 
 // ---------------- Carga de datos ----------------
@@ -459,6 +493,7 @@ function pintarGeneral(){
 // ---------------- Noticias ----------------
 function imgHTML(src, alt=""){ const u = urlSegura(src); return u ? `<img src="${esc(u)}" alt="${esc(alt)}" loading="lazy">` : ""; }
 function pintarNoticias(){
+  $("#noticias-propias").classList.toggle("oculto", !D.noticias.length && EXT.length > 0);
   if(!D.noticias.length){ $("#nota-principal").innerHTML = '<div class="vacio">Aún no hay noticias publicadas.</div>'; $("#lista-notas").innerHTML=""; return; }
   const orden = [...D.noticias].sort((a,b) => (b.destacada===true)-(a.destacada===true));
   const [p, ...resto] = orden;
@@ -472,6 +507,30 @@ function pintarNoticias(){
       <div><h3>${esc(n.titulo)}</h3><div class="meta"><span class="cat">${esc(n.categoria||"")}</span>${fechaTexto(n.fecha)}</div></div>
     </button>`).join("") + (resto.length > notasVisibles ? '<button class="btn-mas" id="mas-notas">Ver más noticias</button>' : "");
 }
+function pintarExternas(){
+  const bloque = $("#bloque-externas");
+  if(cfg.secciones.noticiasAuto === false || !EXT.length){ bloque.classList.add("oculto"); return; }
+  bloque.classList.remove("oculto");
+  const regiones = ["Todas", ...new Set(EXT.map(n => n.region).filter(Boolean))];
+  $("#filtros-ext").innerHTML = regiones.length > 2 ? regiones.map(r => `<button class="chip" aria-pressed="${r===filtroExt}" data-ext="${esc(r)}">${esc(r)}</button>`).join("") : "";
+  const lista = EXT.filter(n => filtroExt === "Todas" || n.region === filtroExt);
+  $("#lista-ext").innerHTML = lista.slice(0, extVisibles).map(n => {
+    const u = urlSegura(n.enlace); if(!u) return "";
+    const img = urlSegura(n.imagen);
+    return `<a class="ext ${img ? "" : "sin-foto"}" href="${esc(u)}" target="_blank" rel="noopener">
+      <div><span class="medio">${esc(n.medio)}</span><h4>${esc(n.titulo)}</h4>${n.resumen ? `<p>${esc(n.resumen)}</p>` : ""}
+      <span class="cuando">${haceCuanto(n.fecha)} · Leer en ${esc(n.medio)}</span></div>
+      ${img ? `<img src="${esc(img)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.classList.add('sin-foto');this.remove()">` : ""}
+    </a>`;
+  }).join("");
+  $("#mas-ext").classList.toggle("oculto", lista.length <= extVisibles);
+}
+function pintarRegional(){
+  const r = cfg.regional || {}, u = urlSegura(r.url);
+  $("#btn-regional").classList.toggle("oculto", !u);
+  if(u){ $("#btn-regional").href = u; $("#regional-nombre").textContent = r.nombre || "Periódico aliado"; }
+}
+
 function abrirNoticia(id){
   const n = D.noticias.find(x => x.id === id); if(!n) return;
   const cuerpo = String(n.contenido || n.resumen || "").split(/\n\s*\n|\n/).filter(Boolean).map(p => `<p>${esc(p)}</p>`).join("");
@@ -639,6 +698,8 @@ $("#menu").addEventListener("click", e => { if(e.target.closest("a")) $("#menu")
 document.addEventListener("click", e => {
   const n = e.target.closest("[data-id]"); if(n && n.closest("#noticias")) return abrirNoticia(n.dataset.id);
   if(e.target.closest("#mas-notas")){ notasVisibles += 6; pintarNoticias(); }
+  if(e.target.closest("#mas-ext")){ extVisibles += 9; pintarExternas(); }
+  const fx = e.target.closest("[data-ext]"); if(fx){ filtroExt = fx.dataset.ext; extVisibles = 9; pintarExternas(); }
   const c = e.target.closest("[data-cat]"); if(c){ filtroCat = c.dataset.cat; pintarClasificados(); }
   const d = e.target.closest("[data-dia]"); if(d){ diaSel = Number(d.dataset.dia); pintarProgramacion(); }
   const p = e.target.closest("[data-pod]"); if(p) alternarPodcast(p.dataset.pod);
@@ -661,8 +722,9 @@ if("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch
 
 // ---------------- Arranque ----------------
 (async () => {
-  await cargar();
-  pintarGeneral(); pintarNoticias(); pintarClasificados(); pintarProgramacion(); pintarPodcasts(); pintarRanking(); pintarAliados();
+  const [, auto] = await Promise.all([cargar(), cargarNoticiasAuto()]);
+  EXT = auto.noticias || [];
+  pintarGeneral(); pintarNoticias(); pintarExternas(); pintarRegional(); pintarClasificados(); pintarProgramacion(); pintarPodcasts(); pintarRanking(); pintarAliados();
   pintarAlAire(); consultarAhora(); setInterval(consultarAhora, 25000);
   if(location.hash.startsWith("#noticia-")) abrirNoticia(location.hash.slice(9));
 })();
