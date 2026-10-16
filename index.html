@@ -127,7 +127,7 @@ section.bloque.alterno{background:var(--blanco)}
 .ext .cuando{font-size:.8rem;color:var(--c-suave)}
 .ext img{width:96px;height:80px;object-fit:cover;border-radius:6px;background:var(--c-fondo)}
 .nota-creditos{font-size:.82rem;color:var(--c-suave);margin:14px 0 0}
-.btn-aliado{display:flex;align-items:center;gap:14px;margin-top:22px;padding:14px 18px;background:var(--blanco);border:2px solid #1877F2;border-radius:var(--radio-g);text-decoration:none;color:var(--c-texto);max-width:440px}
+.btn-aliado{display:flex;align-items:center;gap:14px;margin:0 0 24px;padding:14px 18px;background:var(--blanco);border:2px solid #1877F2;border-radius:var(--radio-g);text-decoration:none;color:var(--c-texto);max-width:440px}
 .btn-aliado .ico-fb{flex:0 0 auto;width:42px;height:42px;border-radius:50%;background:#1877F2;color:#fff;display:grid;place-items:center;font:700 1.6rem/1 Arial,sans-serif}
 .btn-aliado b{display:block;font-size:1.1rem}
 .btn-aliado small{color:var(--c-suave)}
@@ -304,6 +304,10 @@ dialog::backdrop{background:rgba(10,25,55,.65)}
 <section class="bloque" id="noticias" data-sec="noticias">
   <div class="envoltura">
     <div class="cabeza-bloque"><h2>Noticias</h2><p>Lo que pasa en Vado Real, Suaita y la provincia.</p></div>
+    <a class="btn-aliado oculto" id="btn-regional" href="#" target="_blank" rel="noopener">
+      <span class="ico-fb" aria-hidden="true">f</span>
+      <span><b id="regional-nombre">El Regional</b><small>Noticias de la región en Facebook</small></span>
+    </a>
     <div class="noticias" id="noticias-propias">
       <div id="nota-principal"></div>
       <div class="lista-notas" id="lista-notas"></div>
@@ -317,10 +321,6 @@ dialog::backdrop{background:rgba(10,25,55,.65)}
       <button class="btn-mas oculto" id="mas-ext">Ver más titulares</button>
       <p class="nota-creditos">Titulares tomados de los canales públicos de cada medio. Cada noticia lleva a su fuente original.</p>
     </div>
-    <a class="btn-aliado oculto" id="btn-regional" href="#" target="_blank" rel="noopener">
-      <span class="ico-fb" aria-hidden="true">f</span>
-      <span><b id="regional-nombre">El Regional</b><small>Noticias de la región en Facebook</small></span>
-    </a>
   </div>
 </section>
 
