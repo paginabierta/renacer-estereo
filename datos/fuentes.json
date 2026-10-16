@@ -1,0 +1,63 @@
+{
+  "_ayuda": "Fuentes de noticias automáticas. Para apagar una fuente, cambia \"activa\" a false. Cada fuente prueba sus enlaces en orden y usa el primero que funcione.",
+  "maxDias": 3,
+  "maxTotal": 60,
+  "palabrasExcluidas": ["masacre", "descuartizad", "decapitad", "sicariato", "feminicidio", "violación", "abuso sexual", "porno", "apuestas", "casino", "horóscopo"],
+  "fuentes": [
+    {
+      "id": "vanguardia",
+      "nombre": "Vanguardia",
+      "region": "Santander",
+      "activa": true,
+      "max": 15,
+      "urls": [
+        "https://www.vanguardia.com/arc/outboundfeeds/rss/?outputType=xml",
+        "https://news.google.com/rss/search?q=site:vanguardia.com+when:2d&hl=es-419&gl=CO&ceid=CO:es-419"
+      ]
+    },
+    {
+      "id": "provincia",
+      "nombre": "Noticias de la provincia",
+      "region": "Santander",
+      "activa": true,
+      "max": 10,
+      "usarNombreDelMedio": true,
+      "urls": [
+        "https://news.google.com/rss/search?q=(Suaita+OR+%22Vado+Real%22+OR+Socorro+OR+%22San+Gil%22+OR+G%C3%A1mbita+OR+Oiba)+Santander+when:3d&hl=es-419&gl=CO&ceid=CO:es-419"
+      ]
+    },
+    {
+      "id": "caracol",
+      "nombre": "Caracol Radio",
+      "region": "Colombia",
+      "activa": true,
+      "max": 8,
+      "urls": [
+        "https://caracol.com.co/arc/outboundfeeds/rss/?outputType=xml",
+        "https://news.google.com/rss/search?q=site:caracol.com.co+when:1d&hl=es-419&gl=CO&ceid=CO:es-419"
+      ]
+    },
+    {
+      "id": "eltiempo",
+      "nombre": "El Tiempo",
+      "region": "Colombia",
+      "activa": true,
+      "max": 8,
+      "urls": [
+        "https://www.eltiempo.com/rss/colombia.xml",
+        "https://news.google.com/rss/search?q=site:eltiempo.com+when:1d&hl=es-419&gl=CO&ceid=CO:es-419"
+      ]
+    },
+    {
+      "id": "rcn",
+      "nombre": "RCN Radio",
+      "region": "Colombia",
+      "activa": true,
+      "max": 8,
+      "urls": [
+        "https://www.rcnradio.com/feed",
+        "https://news.google.com/rss/search?q=site:rcnradio.com+when:1d&hl=es-419&gl=CO&ceid=CO:es-419"
+      ]
+    }
+  ]
+}
