@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-18T04:34:46Z",
+ "actualizado": "2026-10-18T09:38:35Z",
  "fuentes": [
   {
    "id": "vanguardia",
@@ -44,26 +44,224 @@
  ],
  "noticias": [
   {
-   "titulo": "Lotería del Cauca: resultado del sorteo del sábado 17 de octubre de 2026",
-   "resumen": "Acá le contamos el número ganador de la Lotería del Cauca y sus premios secos del sábado 17 de octubre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/TNO5DDMBAFASLEEX45WXHMJB44.png?auth=ad205dd0c50c057797840055d38617cbfd8cd5661c49a10c54cf50d5271593cc&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/17/loteria-del-cauca-resultado-del-sorteo-del-sabado-17-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-18T04:12:32Z",
-   "id": "636c37746873"
+   "titulo": "Detenidas 855 personas sólo en París durante la jornada de protestas sociales en Francia",
+   "resumen": "Las masivas protestas sociales que se organizaron este sábado en Francia, y que en muchas ciudades degeneraron en enfrentamientos con la policía , con edificios públicos vandalizados y saqueos de cientos de comercios…",
+   "imagen": "https://caracol.com.co/resizer/v2/34VOCRLFENDKZN7I7PBBXORRRQ.jpeg?auth=f443f3c26c32a180054e280c78c1af8b64b8629d5ffe193f54b2fb052fefea19&smart=true&width=1200&height=675",
+   "enlace": "https://caracol.com.co/2026/10/18/detenidas-855-personas-solo-en-paris-durante-la-jornada-de-protestas-sociales-en-francia/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-18T08:46:25Z",
+   "id": "514ed4cb28e1"
   },
   {
-   "titulo": "Sorteo Extraordinario de Colombia: número ganador del sábado 17 de octubre de 2026",
-   "resumen": "La Lotería Extra de Navidad sorteó este sábado 17 de octubre de 2026 su premio mayor de $15.000 millones. Conozca el número y la serie ganadora.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/Z2DUJMXC7NFDXEVQBIBMBER7BE.jpg?auth=6d6721af949e94fda51fe486d82241910ed9cc4bf2d0ae5e488bd85ab349914c&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/17/sorteo-extraordinario-de-colombia-numero-ganador-del-sabado-17-de-octubre-de-2026/",
+   "titulo": "Al menos 19 muertos en una estampida en una fiesta hindú en Calcuta y siete detenidos",
+   "resumen": "Al menos 19 personas murieron y varias decenas resultaron heridas en la estampida registrada durante las celebraciones del Durga Puja en Calcuta , según confirmó este domingo la Policía, que detuvo a siete personas…",
+   "imagen": "https://caracol.com.co/resizer/v2/W2JEW557N5AK7APMYUHGBKKWG4.jpeg?auth=2c8ebebce72f1ce01a5d50fe443c88681104378eb87707264009bf0f57d1f7e1&smart=true&width=1038&height=692",
+   "enlace": "https://caracol.com.co/2026/10/18/al-menos-19-muertos-en-una-estampida-en-una-fiesta-hindu-en-calcuta-y-siete-detenidos/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-18T07:12:06Z",
+   "id": "f2373f7bbc51"
+  },
+  {
+   "titulo": "Pérdida de capacidad laboral: Estas son las opciones de protección económica en Colombia",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYk01Q3AzMG5ZY2U5TEFrbnBvU0xLUmQtbXM4TjlHNWEzd205ejluNkdvSElpWHFUenYyY1cwTmd6bFNxdGJhdDhmNTlueFVETzJlU2NsVUxvUW55QnpHb3dlbS1KNkJ0MWEzZVVLVlhzUnlGLXlRMWNqa1FheTB4RmZuMC0xVGFZU3lyczFVTGdGZlR0OE5vVm1Qc0pEWGI1N0RRb2ZhcUNWRVNvcUEyX0xsQm1DWENVYWhPZWdUQkxHejlC?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-10-18T06:07:04Z",
+   "id": "af1673727e94"
+  },
+  {
+   "titulo": "Ataques al cuerpo de mujeres en política: qué dice la ley y dónde termina la crítica",
+   "resumen": "Los casos de Paloma Valencia, Francia Márquez y Ana Lucía Pineda reabrieron una discusión que va más allá de la polémica en redes: hasta dónde llega la crítica política y cuándo el cuerpo de una mujer se convierte en…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/663RGIQDHFASTJF3VX37CIIDN4.png?auth=8ced878941d25fbc5631105ef1cefa8f6bb625ab68b5a2ec8394bcba889fb629&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/colombia/2026/10/18/ataques-al-cuerpo-de-mujeres-en-politica-que-dice-la-ley-y-donde-termina-la-critica/",
    "medio": "Vanguardia",
    "fuente": "vanguardia",
    "region": "Santander",
-   "fecha": "2026-10-18T04:04:49Z",
-   "id": "d594f7be2f90"
+   "fecha": "2026-10-18T06:01:00Z",
+   "id": "1ea2666b3c64"
+  },
+  {
+   "titulo": "Niños, enfermos y campesinos cruzan en una tarabita por falta de un puente en Santander",
+   "resumen": "La falta de un puente dificulta el transporte de café, limón Tahití y otros productos agrícolas, afecta el turismo hacia la Laguna de Ortíces y complica el acceso a servicios de salud y educación en zona rural de San…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/IPUP22Z4CNHBDEIYFR3BR54H6Y.png?auth=50b2524eafd3ccd39953d4e0957f613e09ec3f2dc633c381669827a53df5085c&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/santander/2026/10/18/ninos-enfermos-y-campesinos-cruzan-en-una-tarabita-por-falta-de-un-puente-en-santander/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-18T06:00:00Z",
+   "id": "4fe10ba8d201"
+  },
+  {
+   "titulo": "¿Por qué estaban esas obras y archivos en el Museo Nacional de Colombia? La historia detrás de las piezas retiradas",
+   "resumen": "Más de 40 obras, documentos y archivos fueron retirados de las salas permanentes del Museo Nacional de Colombia.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/M4IMBVVO3ZDAJFD4MBPTHPO7MQ.JPG?auth=6c8ff7a0bc45c9af02388d51575aff54fd78d496a86891efa070f7f197380d0f&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/entretenimiento/cultura/magazin-cultural/2026/10/18/por-que-estaban-esas-obras-y-archivos-en-el-museo-nacional-de-colombia-la-historia-detras-de-las-piezas-retiradas/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-18T06:00:00Z",
+   "id": "64b9ca56ded6"
+  },
+  {
+   "titulo": "Indignación selectiva",
+   "resumen": "En Colombia parece que algunos descubrieron los problemas del país el pasado 7 de agosto. Bastaron apenas dos meses de nuevo gobierno para que quienes durante cuatro años justificaron escándalos, posibles hechos de…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/6C7QC4KSZZBCNELOBKO3RPCDWI.jpg?auth=b2d4d981546dbef2beab982ff3990351c6db4cf9a12e5ddd436db836902c3324&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/18/indignacion-selectiva/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-18T06:00:00Z",
+   "id": "0f5bf3ffa6e9"
+  },
+  {
+   "titulo": "Es costoso el arriendo en Bucaramanga",
+   "resumen": "Caricatura de Yeyo del 18 de octubre de 2026",
+   "imagen": "https://www.vanguardia.com/resizer/v2/L6QXFBSHF5ABVKX33567XCBKGQ.jpg?auth=b248a9a2b606cbd76f4752172412b5c3418d78b57f32ffa5b2a0f0ca0087ee3a&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/caricaturas/2026/10/18/es-costoso-el-arriendo-en-bucaramanga/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-18T06:00:00Z",
+   "id": "bbdea0e1f8d2"
+  },
+  {
+   "titulo": "Fumando en un baño con Falcioni",
+   "resumen": "El lunes 25 de julio de 1983 llegué a la UNAB como primíparo para iniciar mis estudios en la carrera de Comunicación Social-Periodismo y en las primeras clases que tuvimos, conocí a quienes hasta el día de hoy han sido…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/SZTFGRSGHNC6LIL5TTSQGEUUIA.jpg?auth=2517543f9ffd1912b3648a8d5a3d563829bf61d5d80585f51cfea8b8856a505e&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/18/fumando-en-un-bano-con-falcioni/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-18T06:00:00Z",
+   "id": "d4243b5a1498"
+  },
+  {
+   "titulo": "Buscar la paz por la vía del sometimiento",
+   "resumen": "Un cambio inédito en el trámite judicial de los violentos pondrá a las víctimas en el centro de la ley de sometimiento. Según la propuesta radicada en el Congreso, las víctimas podrán emitir un concepto favorable o…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/Y77HSAMVDRGCBAKRMUB7GJBV6Y.jpg?auth=9fda64626f20c1611bc18d55707d029290a765be2ce035a22502a229ab61e783&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/editorial/2026/10/18/buscar-la-paz-por-la-via-del-sometimiento/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-18T06:00:00Z",
+   "id": "b3b799678b2c"
+  },
+  {
+   "titulo": "Ahora sí, ¡bienvenida la protesta!",
+   "resumen": "En Colombia, el debate sobre la protesta suele olvidar a alguien: al ciudadano que no marcha, al comerciante que necesita abrir, al trabajador que depende del transporte y al paciente que espera una ambulancia. ¿Sus…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/5P7KLRRUKBFXVGLITQ73K3GYPU.jpg?auth=6775a4da1a66a739fce7c1f42e958712eeddaca72599a30fd22866e646cc90fe&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/18/ahora-si-bienvenida-la-protesta/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-18T06:00:00Z",
+   "id": "aca344922bed"
+  },
+  {
+   "titulo": "La paz no convierte criminales en héroes",
+   "resumen": "Durante los últimos cuatro años intentaron reescribir la historia de Colombia. Quisieron convertir a antiguos guerrilleros en héroes, presentar a quienes tomaron las armas como referentes de lucha y rendir homenaje a…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/USHC7TS23NED7MTMJWHKFC532U.jpg?auth=b4ee955693e6f3edf4c5c97d737c28ddc209097136c7ee824aa049330c8927f0&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/18/la-paz-no-convierte-criminales-en-heroes/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-18T06:00:00Z",
+   "id": "1e426e500f12"
+  },
+  {
+   "titulo": "Pasar del pacto al impacto 2",
+   "resumen": "Hace poco más de un año, durante la Primera Cumbre Internacional del Agua, celebramos en Bucaramanga la firma del Pacto Territorial por el Agua del Gran Santander. En ese momento escribí sobre la necesidad de convertir…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/FBGT6DENTZFMZGEGRWAZWBFHEQ.jpg?auth=0a807c81c17d04c31f94bdf939c8534d45d203c154baf2fda2c55d03ec60cca9&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/18/pasar-del-pacto-al-impacto-2/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-18T06:00:00Z",
+   "id": "6963540e2097"
+  },
+  {
+   "titulo": "Una reforma prudente: la prohibición de doble nacionalidad para ser presidente",
+   "resumen": "Desde las toldas del Pacto Histórico se propuso hace poco prohibir la doble nacionalidad para el presidente, el vicepresidente y el canciller, una propuesta que merece respaldo. Esta iniciativa toca un punto neurálgico…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/RJMIAIAC55COZB5VZ23T4VTTJU.jpeg?auth=7fe3bc9023a9343126392d2248649c85649c331e7cf37961ee6b772454398cb3&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/18/una-reforma-prudente-la-prohibicion-de-doble-nacionalidad-para-ser-presidente/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-18T06:00:00Z",
+   "id": "ee064b792d36"
+  },
+  {
+   "titulo": "Elon Musk es un genio… del marketing",
+   "resumen": "La del nuevo Tesla Roadster en McGregor, Texas, fue una exhibición de maestría a medias entre el espectáculo publicitario y el desarrollo de la industria automotriz. Elon Musk desplegó un vehículo que ascendió por…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/Q6OGGSBBBBC6VGPZLJY7WSTEZQ.jpg?auth=4797338749bb784b3578653aa41f94971980bebd7324feb11feabfc189f582de&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/18/elon-musk-es-un-genio-del-marketing/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-18T06:00:00Z",
+   "id": "d46bb19ffbcf"
+  },
+  {
+   "titulo": "“Decreto antivándalos”",
+   "resumen": "A propósito de las protestas convocadas para el miércoles pasado, considero que una democracia no se debe medir por la cantidad de gente que sale a la calle, sino por la capacidad de una sociedad de convivir con quienes…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/H5NLOQ6XCVCTDICB75NJUUN2XM.jpg?auth=5d8276504e33c900409be3ef7d211f964698342fb02d03ffbfc0b29815063954&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/18/decreto-antivandalos/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-18T06:00:00Z",
+   "id": "d221e9dadb64"
+  },
+  {
+   "titulo": "¿Ciudad educadora?",
+   "resumen": "Sobre la autopista entre Bucaramanga y Floridablanca, en sentido sur-norte, a la altura de la otrora estación de Metrolínea después del puente de Provenza, hay una valla que recibe a quienes se desplazan hacia la meseta…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/7XOE5ZIKB5B67NETFXSGOVCDN4.jpg?auth=37e51fe0a70636d6b0855fd9f60e86026e41cdd929361918d49fd902eabdd7e1&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/18/ciudad-educadora/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-18T06:00:00Z",
+   "id": "1776938aff4b"
+  },
+  {
+   "titulo": "¿Cuál es la ciudad metropolitana que queremos?",
+   "resumen": "Hace 45 años se creó el Área Metropolitana de Bucaramanga (AMB). Los visionarios de la época sabían que los efectos de la conurbación eran inminentes y por lo tanto se necesitaba construir un esquema asociativo con una…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/JKJE364GJBFJXFDVMYIYBMU3QI.jpg?auth=1b383a34bcc98cd57a97ca88ace0db18764124a58e36a94c64878858ffbc1be6&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/18/cual-es-la-ciudad-metropolitana-que-queremos/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-18T06:00:00Z",
+   "id": "9fb12b1d171e"
+  },
+  {
+   "titulo": "Golpe a disidencias de alias ‘Calarcá’:Capturan a cabecilla financiero de la organización en el Meta",
+   "resumen": "Durante operaciones militares desarrolladas en la vereda Guaimaral, zona rural de Puerto Rico, Meta, el Ejército Nacional capturó a alias “Junior Rojas”, señalado como segundo cabecilla y presunto jefe de finanzas de la…",
+   "imagen": "https://caracol.com.co/resizer/v2/YRGTFY2OLRBWVHMRNMKRIN7HVQ.jpeg?auth=d597280badcea7f8966375035bbd0964751a6fdae92bd3e9f0d097625c028de7&smart=true&width=1600&height=1344",
+   "enlace": "https://caracol.com.co/2026/10/18/golpe-a-disidencias-de-alias-calarcacapturan-a-cabecilla-financiero-de-la-organizacion-en-el-meta/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-18T05:43:41Z",
+   "id": "5fbc1dfcc3c8"
+  },
+  {
+   "titulo": "‘La moto está entrando casi en la canasta familiar’: José Stalin Rojas / Entrevista Reina",
+   "resumen": "El director del Observatorio de Movilidad y Logística de la Universidad Nacional habló del auge de estos vehículos.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/17/6ad4417368ba5.r_d.1008-349-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/la-moto-esta-entrando-casi-en-la-canasta-familiar-jose-stalin-rojas-entrevista-reina-3594369",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-18T04:44:47Z",
+   "id": "9e5ab3b44fff"
   },
   {
    "titulo": "Conseguir una vivienda en arriendo, un drama para miles de colombianos: precios altos y poca oferta",
@@ -75,72 +273,6 @@
    "region": "Colombia",
    "fecha": "2026-10-18T04:01:00Z",
    "id": "7d1818cc3d74"
-  },
-  {
-   "titulo": "Super Astro Luna: resultado del sorteo del sábado 17 de octubre de 2026",
-   "resumen": "¿Se volvió millonario hoy? Consulte el resultado del Super Astro Luna de este sábado 17 de octubre de 2026 y revise si su número y signo fueron los ganadores.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/74CS4GWN6VBGLMU2HMT5O62NYM.png?auth=b17ea28d9b295c479aad3aabfb224b2c5acb846a5223285ec3047f07e32e8c1a&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/17/super-astro-luna-resultado-del-sorteo-del-sabado-17-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-18T03:54:34Z",
-   "id": "e5314af45e63"
-  },
-  {
-   "titulo": "Resultado de Baloto y Revancha: qué cayó hoy sábado 17 de octubre de 2026",
-   "resumen": "¿Busca los resultados del Baloto? Consulte los números ganadores del sorteo más reciente y conozca el multimillonario acumulado para este sábado 17 de octubre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/5WBTVHJYCNGVFK2VJFYWLYJ2WA.png?auth=e6f77e25c0e70b8e4c39094c234fc4c90a3f9b69b28a967cd3d08ed576809766&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/17/resultado-de-baloto-y-revancha-que-cayo-hoy-sabado-17-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-18T03:50:00Z",
-   "id": "123ad8467294"
-  },
-  {
-   "titulo": "Lotería de Boyacá: resultado del sorteo del sábado 17 de octubre de 2026",
-   "resumen": "¿Qué número cayó en la Lotería de Boyacá? Sorteo del sábado 17 de octubre de 2026. Felicitaciones a los ganadores.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/JLITJNAWPZFATA7Y5YFIWAFHZE.png?auth=8e3c3c8655302f74b2014fd0d7a6a91321533a176b758826f0c87cfb6d31df30&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/17/loteria-de-boyaca-resultado-del-sorteo-del-sabado-17-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-18T03:42:05Z",
-   "id": "bebbe413148a"
-  },
-  {
-   "titulo": "Motilón Noche: número ganador del sorteo del sábado 17 de octubre de 2026",
-   "resumen": "¿Ganó El Motilón Noche? Consulte el número ganador del sorteo de hoy sábado 17 de octubre de 2026 y revise si es el nuevo afortunado del chance.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/WMHTZNUABZDAPBC34QV67RBYKE.png?auth=46bfdbf5e316b03b44925deed4bb360507320928ba7b15e16f7041080a77e7c6&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/17/motilon-noche-numero-ganador-del-sorteo-del-sabado-17-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-18T03:35:25Z",
-   "id": "8e00120eaaf1"
-  },
-  {
-   "titulo": "Caribeña Noche: resultado del sorteo de hoy sábado 17 de octubre de 2026",
-   "resumen": "Resultado del último sorteo de La Caribeña Noche del sábado 17 de octubre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/TBU2243UORA5NOHL5ZHT77R6SA.png?auth=294e8933777a0ef2f5ec7a122c9b112ea20d5c021fa93865a1b74f5a34145339&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/17/caribena-noche-resultado-del-sorteo-de-hoy-sabado-17-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-18T03:21:00Z",
-   "id": "e7afc615184b"
-  },
-  {
-   "titulo": "Sinuano Noche: resultado del sorteo del sábado 17 de octubre de 2026",
-   "resumen": "¿La suerte lo acompañó esta noche? Conozca el número ganador del Sinuano Noche de hoy sábado 17 de octubre de 2026",
-   "imagen": "https://www.vanguardia.com/resizer/v2/JWMHYBJILNFLJKLIU6RODGTNR4.png?auth=576436054ffb2ae59833fe88a519349772124fbc089b05a6edc6aa770df6ee0d&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/17/sinuano-noche-resultado-del-sorteo-del-sabado-17-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-18T03:21:00Z",
-   "id": "959c013f6b7a"
   },
   {
    "titulo": "Reclasificación 2026: Cupos a torneos Conmebol tras victorias de Millonarios y Once Caldas",
@@ -165,17 +297,6 @@
    "id": "91139017a2a2"
   },
   {
-   "titulo": "El comandante del Cuerpo de Marines visitó Caracas para reactivar destacamento de EE.UU.",
-   "resumen": "El comandante del Cuerpo de Marines de los Estados Unidos, Eric M. Smith, visitó Caracas este viernes para reactivar de manera oficial el Destacamento de Seguridad en la embajada del país norteamericano. “Ayer…",
-   "imagen": "https://caracol.com.co/resizer/v2/5SZWF63TCRCAFMX3NHK2WEPKYQ.jpeg?auth=fd88b4aa6c94f4bd8b7cc47000b0ecb88a1aea26df61f68de26bee9d62e63ec2&smart=true&width=2048&height=1365",
-   "enlace": "https://caracol.com.co/2026/10/18/el-comandante-del-cuerpo-de-marines-visito-caracas-para-reactivar-destacamento-de-eeuu/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-18T03:07:31Z",
-   "id": "fe82778926ab"
-  },
-  {
    "titulo": "Once Caldas vence a Medellín y mete presión para entrar en los ocho: resumen del partido",
    "resumen": "Independiente Medellín cayó frente al Once Caldas este sábado 17 de octubre en el Atanasio Girardot por la fecha 15 de la Liga Colombiana 2026-II . A pesar de la derrota, Medellín se mantiene dentro de los ocho mejores…",
    "imagen": "https://caracol.com.co/resizer/v2/KA3A4RONSZECFIEABJF3IBFE2I.jpeg?auth=46fcf94dd5596fbb96608f69ad7bd8b39b0724e194114b18546a56a7ab54ec62&smart=true&width=1280&height=854",
@@ -185,83 +306,6 @@
    "region": "Colombia",
    "fecha": "2026-10-18T03:03:09Z",
    "id": "ecc7205421a2"
-  },
-  {
-   "titulo": "Colpensiones sorteará bonos de $217 millones para vivienda: requisitos para participar en el sorteo",
-   "resumen": "Colpensiones anunció una nueva edición de Ahorrar es Ganar 2026 , una iniciativa dirigida a los vinculados al programa de Beneficios Económicos Periódicos (BEPS), que contempla premios para apoyar el consumo y facilitar…",
-   "imagen": "https://caracol.com.co/resizer/v2/T2CQTQWLDFB5NMQL3FKNGW6OKY.jpeg?auth=a7a2a46ac58a73f35671eab2ca4ea7a525739ce70fe794571d3b951786cf7d43&smart=true&width=650&height=488",
-   "enlace": "https://caracol.com.co/2026/10/18/colpensiones-sorteara-bonos-de-217-millones-para-vivienda-requisitos-para-participar-en-el-sorteo/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-18T02:59:55Z",
-   "id": "5aceb45cae1f"
-  },
-  {
-   "titulo": "Un grave incendio en una base militar canadiense de Alberta causa muertos y heridos",
-   "resumen": "Un grave incendio se propagó este sábado en la base militar canadiense de Wainwright, en la provincia de Alberta, y causó muertos y heridos, según informaron las autoridades, que todavía no han precisado el balance de…",
-   "imagen": "https://caracol.com.co/resizer/v2/LWNPPTKITZHDBMAZLEVQF34TTY.jpeg?auth=a09403d058deedd7b9c81034459c8b57e53f2595b810ca6861c63fdbef8afbba&smart=true&width=1320&height=940",
-   "enlace": "https://caracol.com.co/2026/10/18/un-grave-incendio-en-una-base-militar-canadiense-de-alberta-causa-muertos-y-heridos/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-18T02:57:50Z",
-   "id": "d19d4adc585b"
-  },
-  {
-   "titulo": "Dorado Noche: resultado del sorteo de hoy sábado 17 de octubre de 2026",
-   "resumen": "La expectativa crece hoy sábado 17 de octubre de 2026 entre miles de apostadores en todo el país por el sorteo de El Dorado Noche.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/BMPAXFIA6BFBXJXD5B2LVNHLJA.png?auth=3c16c1f5c84e8da4a0498d0216daf206988e375f276459d1c5690c68fb112dfe&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/17/dorado-noche-resultado-del-sorteo-de-hoy-sabado-17-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-18T02:56:00Z",
-   "id": "737735b586b5"
-  },
-  {
-   "titulo": "Paisita 3: resultado del sorteo del sábado 17 de octubre de 2026",
-   "resumen": "Consulte el último resultado de Paisita 10 (Paisita Lotto) del sábado 17 de octubre de 2026. Verifique el número ganador del sorteo transmitido por Teleantioquia.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/657QREEZDVCCFK2UZXUK5DLFOE.png?auth=2d0798a44bc4bd5a3e2c652f9c2f284897b766e7123bcfdaef6cf44d50499ae1&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/17/paisita-3-resultado-del-sorteo-del-sabado-17-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-18T02:52:00Z",
-   "id": "2ab284a2f28f"
-  },
-  {
-   "titulo": "Chontico Noche: resultado del sorteo de hoy sábado 17 de octubre de 2026",
-   "resumen": "Resultado del último sorteo del Chontico Noche del sábado 17 de octubre de 2026 ¡Felicitaciones al ganador!",
-   "imagen": "https://www.vanguardia.com/resizer/v2/KS3BE7O6TJGRDK4CR3GKRXQJ44.png?auth=8ec14b124386deb944a13f3dc28d4185c9ac15fb590f9e75866262c7f729a8b6&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/17/chontico-noche-resultado-del-sorteo-de-hoy-sabado-17-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-18T02:50:00Z",
-   "id": "367eb127240f"
-  },
-  {
-   "titulo": "“Innecesaria y desproporcionada”: Defensora del Pueblo sobre la tanqueta del Esmad en protestas frente al Museo Nacional en Bogotá",
-   "resumen": "La defensora del Pueblo, Iris Marín, se refirió a la presencia de tanqueta del Esmad en protestas frente al Museo Nacional de Bogotá.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/3WIZKKOHRZACHO5AM4IN6MD36Y.jpg?auth=8a8a130dc2b2459cf3a62217070ed7ea2c72d39230c0168e45f3d27ad33b20e2&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/colombia/2026/10/17/innecesaria-y-desproporcionada-defensora-del-pueblo-sobre-la-tanqueta-del-esmad-en-protestas-frente-al-museo-nacional-de-bogota/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-18T01:01:36Z",
-   "id": "b370646636d4"
-  },
-  {
-   "titulo": "Culona Noche: número ganador del sorteo del sábado 17 de octubre de 2026",
-   "resumen": "Conoce los resultados del último sorteo de La Culona Noche del sábado 17 de octubre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/3KMAZOIOORDWZGQKVE2HOV4JPQ.png?auth=272753e0038f59d4e2963e8d72383cf4fe6191db4b37b97eace2e55da08aa6b1&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/17/culona-noche-numero-ganador-del-sorteo-del-sabado-17-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-18T00:52:00Z",
-   "id": "003a0e2ce27f"
   },
   {
    "titulo": "Lotería de Boyacá, Cauca y Baloto HOY sábado 17 de octubre: resultados y números ganadores",
@@ -308,17 +352,6 @@
    "id": "4172a28ed762"
   },
   {
-   "titulo": "Renta Joven 2026: Prosperidad Social confirmó nuevas fechas de pago y valor del subsidio",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSlQzemw2Q3FLQ29KaTUwUlo3eHdJY1EtY0NGWE0zSVlnY29wSGxQVTVLOWM5VTdVeTJDWDIwRVZadlZjV3lzLXlLeVR1bHhYVVcwSDBLRklWb2M5ZlRoeW9ycFhUUWdZa2xjcVM2RUpVSTRpN2VOODAtbS1UV3pJeWFHd01nM1NGU1hzOVpkQVNlZVFDVjNzcmxSYzZjWDVBT2R4aDBqNW82OWEwQ2dKRGpKVTNpeDNrMGo2bjA4NDBFYjJN?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-10-17T23:16:48Z",
-   "id": "b020738879ff"
-  },
-  {
    "titulo": "Recomendaciones para evitar inundaciones en Bogotá durante la temporada de lluvias",
    "resumen": "",
    "imagen": "",
@@ -328,17 +361,6 @@
    "region": "Colombia",
    "fecha": "2026-10-17T23:03:30Z",
    "id": "e8e40115d237"
-  },
-  {
-   "titulo": "Paisita 2: resultado del sorteo de hoy sábado 17 de octubre de 2026",
-   "resumen": "¿Ganó el Paisita 2? Consulte el número ganador de hoy sábado 17 de octubre de 2026 y revise si la suerte lo acompañó en el segundo sorteo de la jornada.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/VTGWKDJGDBCJ7LCQ3TGW6ZDM6Q.png?auth=9e17fa8c3811182aa0eab267513762063d4e950a438e2be30783eed724262a62&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/17/paisita-2-resultado-del-sorteo-de-hoy-sabado-17-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-17T22:50:00Z",
-   "id": "6ae4fcb9af67"
   },
   {
    "titulo": "Incautan en Barranquilla 3.043 artículos importados sin soportes por más de $675 millones: había consolas, drones y accesorios tecnológicos en bodega",
@@ -385,17 +407,6 @@
    "id": "47060c98a1bc"
   },
   {
-   "titulo": "Super Astro Sol: resultado del sorteo de hoy sábado 17 de octubre de 2026",
-   "resumen": "Resultados del Super Astro Sol. ¿Es uno de los ganadores? Este es el número ganador del último sorteo de Super Astro Sol del sábado 17 de octubre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/QALVOKKGRZHNBEOWHBAUHWJLPQ.jpg?auth=8d8fef921fbadc853976f706e1b186dfc16fa7566f819fc8c34bc1781d8c000d&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/17/super-astro-sol-resultado-del-sorteo-de-hoy-sabado-17-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-17T20:50:00Z",
-   "id": "169e32448b05"
-  },
-  {
    "titulo": "Atlántico| Santa Verónica recupera 2,1 kilómetros de costa tras inversión de casi $94.000 millones para frenar la erosión y reactivar el turismo",
    "resumen": "Gobernación invirtió casi $94.000 millones en tres espolones nuevos y el refuerzo de otro; el proyecto recuperó 2,1 kilómetros de litoral y playa.",
    "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/17/6ad3c2ca8d70f.jpeg",
@@ -405,17 +416,6 @@
    "region": "Colombia",
    "fecha": "2026-10-17T20:01:00Z",
    "id": "705067978783"
-  },
-  {
-   "titulo": "Temblor hoy en Colombia, 17 de octubre: reportan sismo de magnitud 3,2 en Tolima; esto se sabe del movimiento sísmico",
-   "resumen": "El Servicio Geológico Colombiano registró un movimiento sísmico en Chaparral, Tolima, a la 1:46 p. m. de este sábado 17 de octubre.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/17/6ad3d0aab2051.png",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-17-de-octubre-reportan-sismo-de-magnitud-3-2-en-tolima-esto-se-sabe-del-movimiento-sismico-3594312",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-17T19:51:37Z",
-   "id": "f76d3704799b"
   },
   {
    "titulo": "Cortes de luz en Antioquia el domingo 18 de octubre del 2026: Municipios afectados y horarios",
