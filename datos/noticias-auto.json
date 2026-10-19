@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-19T01:17:39Z",
+ "actualizado": "2026-10-19T07:47:09Z",
  "fuentes": [
   {
    "id": "vanguardia",
@@ -44,59 +44,290 @@
  ],
  "noticias": [
   {
-   "titulo": "🔴 EN VIVO Cali Vs. Junior de Barranquilla: Siga la transmisión y el minuto a minuto del partido",
-   "resumen": "Deportivo Cali recibe al Junior de Barranquilla este domingo 18 de octubre por la fecha 15 de la Liga Colombiana 2026-ll. El encuentro se lleva a cabo en el estadio Deportivo Cali a las 8:10 PM hora colombiana. Los…",
-   "imagen": "https://caracol.com.co/resizer/v2/EEPTC5BPY5HEHDVVEMXNVCCF2A.png?auth=f781ad9a406ea59df7a43628783f606dcbcf022528c99f4b8a360f53f9384a5d&smart=true&width=768&height=576",
+   "titulo": "Macron rechaza dimisión del ministro del Interior y pide más medidas contra los violentos",
+   "resumen": "El presidente francés, Emmanuel Macron, rechazó la dimisión del ministro del Interior, Laurent Nuñez, tras los disturbios del sábado en París y otras ciudades de Francia y le pidió que despliegue cuanto antes nuevos…",
+   "imagen": "https://caracol.com.co/resizer/v2/PXGOWKN4XRGK7DQQKHTBGNAKBI.jpg?auth=8b383dd0c0308b235ed40cf0cfdb0cd92c9d1a8b561cb38a2aa42469eb1c7a06&smart=true&width=8192&height=5464",
+   "enlace": "https://caracol.com.co/2026/10/19/macron-rechaza-dimision-del-ministro-del-interior-y-pide-mas-medidas-contra-los-violentos/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-19T07:05:50Z",
+   "id": "bc173a7940a9"
+  },
+  {
+   "titulo": "Exministro de Defensa niega sobrecostos en la compra de aviones Gripen: “Se optimizaron recursos”",
+   "resumen": "El exministro de Defensa Pedro Sánchez, calificó como falso el supuesto sobrecosto en la adquisición de la flota de aviones de combate Gripen. Su declaración se dio tras conocerse una advertencia preventiva de la…",
+   "imagen": "https://caracol.com.co/resizer/v2/F3GP7PLEAFEMLO2D4XGWNYBSKQ.png?auth=424d69eea6cf1164dd66dd58104c5f09af754756dc79db571774ef87cf34dfe1&smart=true&width=1280&height=853",
+   "enlace": "https://caracol.com.co/2026/10/19/exministro-de-defensa-niega-sobrecostos-en-la-compra-de-aviones-gripen-se-optimizaron-recursos/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-19T05:53:20Z",
+   "id": "906c66214363"
+  },
+  {
+   "titulo": "Lula y Flávio Bolsonaro chocan en un debate por las sospechas de corrupción de sus entornos",
+   "resumen": "El presidente brasileño, Luiz Inácio Lula da Silva, y el senador opositor Flávio Bolsonaro protagonizaron este domingo un tenso cruce de acusaciones de corrupción en el primer cara a cara televisado entre ambos, con…",
+   "imagen": "https://caracol.com.co/resizer/v2/DFADGRDTNFENJJHBGRTQW7YZ6A.jpg?auth=cf45373fc0129f425ff2e33b9f7984a4d2beade1ec1563e3ce05aa86f90caa47&smart=true&width=1199&height=800",
+   "enlace": "https://caracol.com.co/2026/10/19/lula-y-flavio-bolsonaro-chocan-en-un-debate-por-las-sospechas-de-corrupcion-de-sus-entornos/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-19T04:17:11Z",
+   "id": "fed1c314c905"
+  },
+  {
+   "titulo": "¿Emsirva no volvería a los caleños? La revelación del alcalde de Cali, Alejandro Eder, sobre el futuro de la empresa pública de aseo de la ciudad",
+   "resumen": "En diálogo con EL TIEMPO, el mandatario habló de un proceso truncado para que el Gobierno Nacional devuelva la empresa intervenida durante 21 años.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/05/04/69f8faf023a98.png",
+   "enlace": "https://www.eltiempo.com/colombia/cali/emsirva-no-volveria-a-los-calenos-la-revelacion-del-alcalde-de-cali-alejandro-eder-sobre-el-futuro-de-la-empresa-publica-de-aseo-de-la-ciudad-3594464",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-19T04:01:00Z",
+   "id": "e5e92058289a"
+  },
+  {
+   "titulo": "Tabla posiciones Liga colombiana: Así quedó tras empate de América y derrota de Santa Fe",
+   "resumen": "Se disputa la fecha 15 del campeonato, la cual puede ser clave de cara a conocer equipos que podrían quedar sin posibilidades de clasificar a los cuadrangulares. La jornada comenzó este sábado 17 de octubre y terminará…",
+   "imagen": "https://caracol.com.co/resizer/v2/HJ7D3SP7PBAMHJIH2T726YBETY.jpg?auth=e172ace6120a20753a11ade304d48dd2b9b871777d7a2a2cead46373f585b023&smart=true&width=2048&height=1366",
+   "enlace": "https://caracol.com.co/2026/10/18/tabla-de-posiciones-de-liga-colombiana-2026-ii-asi-quedo-tras-goleadas-de-nacional-y-millonarios/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-19T03:35:38Z",
+   "id": "ca8b64a68d21"
+  },
+  {
+   "titulo": "Reclasificación 2026: Cupos a torneos Conmebol tras empate de América y derrota de Santa Fe",
+   "resumen": "Avanza el desarrollo de la fecha 15 de la Liga colombiana , la cual es clave para ir depurando algunos equipos que dejarán de hacer cuentas buscando la clasificación a los cuadrangulares. Más allá de lo apasionante que…",
+   "imagen": "https://caracol.com.co/resizer/v2/CUG4UOB7AFDA3ERSNL6IC72E3E.jpeg?auth=19321b187bf707070f548f0a9cdbc13f79c1c098d89d70b24707944d15dbb8dd&smart=true&width=1280&height=854",
+   "enlace": "https://caracol.com.co/2026/10/18/reclasificacion-2026-cupos-a-torneos-conmebol-tras-victorias-de-millonarios-y-once-caldas/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-19T03:33:22Z",
+   "id": "f84dce80d48a"
+  },
+  {
+   "titulo": "Junior, al borde de la eliminación tras empate con Cali: resumen del partido",
+   "resumen": "Junior de Barranquilla empató 0-0 frente al Deportivo Cali en condición de visitante y dejó escapar puntos importantes en la recta final de la fase regular de la Liga Colombiana 2026-ll. El conjunto Tiburón no logró…",
+   "imagen": "https://caracol.com.co/resizer/v2/4R77DTMUTVCLXGTY4J4KWDVTHE.jpeg?auth=18bbda90204cd56408972751174f87e0c99a4ff68822667e9184e4914df54a5b&smart=true&width=560&height=431",
    "enlace": "https://caracol.com.co/2026/10/19/en-vivo-cali-vs-junior-de-barranquilla-siga-la-transmision-y-el-minuto-a-minuto-del-partido/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-10-19T01:15:07Z",
-   "id": "883cb24d32ce"
+   "fecha": "2026-10-19T03:32:29Z",
+   "id": "35e8eabb6b46"
   },
   {
-   "titulo": "Llaneros sorprendió a Santa Fe y lo derrotó en Villavicencio: Resumen del partido",
-   "resumen": "El Estadio Bello Horizonte Rey Pelé de la ciudad de Villavicencio fue testigo de una de las grandes sorpresas de la fecha 15 del fútbol colombiano. Llaneros, que estrenaba en su banquillo a Wilmer Sandoval, derrotó 1-0…",
-   "imagen": "https://caracol.com.co/resizer/v2/G5CGRX5OCJF4LOJ3IQQT6LGXDM.jpeg?auth=e8481108a74019ff7cbbeded00639c7aee50ada0d9dd6c977e8b3d1d11301981&smart=true&width=1206&height=1054",
-   "enlace": "https://caracol.com.co/2026/10/18/en-vivo-llaneros-vs-santa-fe-siga-la-transmision-y-el-minuto-a-minuto-del-partido/",
+   "titulo": "Así lució la colombiana Honey Ordóñez en el Victoria’s Secret Fashion Show 2026",
+   "resumen": "La modelo colombiana Honey Ordóñez representó a Colombia en el desfile anual de Victoria’s Secret Fashion Show 2026, celebrado este domingo 18 de octubre en Culver City, California. La joven isleña hizo parte de las…",
+   "imagen": "https://caracol.com.co/resizer/v2/M7KSFBR2DVAR5LAK3TQ7H2RVVY.jpg?auth=79dcd368870c3319e9ccd5c9b3da33b26d61dbe2d048d6b88f65a8afc623c1fb&smart=true&width=5000&height=3334",
+   "enlace": "https://caracol.com.co/2026/10/19/asi-lucio-la-colombiana-honey-ordonez-en-el-victorias-secret-fashion-show-2026/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-10-19T01:12:46Z",
-   "id": "766baf412adb"
+   "fecha": "2026-10-19T03:19:49Z",
+   "id": "e4e8ddb95fc5"
   },
   {
-   "titulo": "Cortes de agua en Cali este lunes 19 de octubre del 2026: Barrios afectados y horario de suspensión",
+   "titulo": "'No vine a congraciarme con quienes hacen mal las cosas': Alcalde Federico Gutiérrez defiende intervención en el Parque Lleras",
+   "resumen": "La Alcaldía mantendrá los operativos contra las redes criminales, mientras comerciantes alertan por cierres de locales y menos turistas en la zona.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/18/6ad57366e6b59.png",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/no-vine-a-congraciarme-con-quienes-hacen-mal-las-cosas-alcalde-federico-gutierrez-defiende-intervencion-en-el-parque-lleras-3594476",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-19T03:10:41Z",
+   "id": "2cdfb8549260"
+  },
+  {
+   "titulo": "Pico y placa en Bogotá del 19 al 25 de octubre de 2026: Estas son las placas que pueden circular",
    "resumen": "",
    "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcXgwWk1uQ1BlQnp2WjM4QmN1a1ExcjRZX1NXaUZFX0EyYWs0NzVwSlM3UWJtZmpET0FkZkRfMUNaaGpvSW5udHIwQ1BySDk0eURhYWJUQU50ck91eTBaOHdMNDB1S2lFd3hLaUVaTWZIbEhwWUU2ZGViUHY0ZGJKMFVfbGs4MXZOaXBEYnlfRFBJODRLSHkwMWRvUEo1RFZUM3Jma1QwanROeTlFclJ6TEp6T0RGdzRRdXVlNFM2OGNxaTZXNkItSU1iT3NIc2lBaGdJ?oc=5",
+   "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQWxGVzJwWUJUZ2dMZnNUYmhPblhpMFZwMDZhTFJ1ckJaMmowaXFjcFN1UUhCYUtkSzBVeUtCLW5qNWMySW0wNTFJSmYzN2I2RjZjcFBneG1xbEpXRWIyR0Rra3UwVGY5aWZVekZhRlJXZ3JmT2xWN19ERnlPU3dZWDVBdTk4SV9WTDJ1anRUSWV6MTZmSU5VcnpmU2l1UkV5dGhyczBVMnFXVnhJOENUNEhOaDVrZHlPR1A1TWxiV3VHSUFYMW5STTFJd05ha0k?oc=5",
    "medio": "RCN Radio",
    "fuente": "rcn",
    "region": "Colombia",
-   "fecha": "2026-10-19T01:04:28Z",
-   "id": "bcb9b62dd612"
+   "fecha": "2026-10-19T01:56:58Z",
+   "id": "281e741a99d5"
   },
   {
-   "titulo": "🔴 EN VIVO | Alocución del presidente Abelardo De la Espriella HOY 18 de octubre",
-   "resumen": "En desarrollo... Alocución presidencial Abelardo De la Espriella EN VIVO",
-   "imagen": "https://caracol.com.co/resizer/v2/VBZFY4MOLBFINF7OGBFU73DKJM.jpg?auth=789226484b33389043dc0b295593068ddef4070154cf7f0780a506feb80d9ffa&smart=true&width=1024&height=682",
-   "enlace": "https://caracol.com.co/2026/10/19/en-vivo-alocucion-del-presidente-abelardo-de-la-espriella-hoy-18-de-octubre/",
+   "titulo": "Bus rodó 50 metros por un abismo en Tona, Santander: hay diez heridos, incluidos menores de edad",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzLWs4a0hrS0dCWEwwUWVVUkdycU9PWWZiVlppb2xVTTRBVTNFTlhpb2Y4d0ZlWkh2UjkxTVhJdnNKQ1VQVnJPN296UTBlWldKUEVYMlZIVkNiblNfZkc1NEVqT2JOQU10NEFwcWVHakNRNC1kX2lxbjlhSQ?oc=5",
+   "medio": "Metropolitano",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-10-19T01:54:24Z",
+   "id": "739709dd0303"
+  },
+  {
+   "titulo": "Atlético Bucaramanga y América de Cali empataron en el clásico de la fecha 15 de Liga BetPlay",
+   "resumen": "El Leopardo se mantiene invicto en el campeonato, con seis victorias y siete empates en 13 partidos disputados.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/XEYFQB6FJJAO5O4RTD5V5DBKDA.jpg?auth=6500b401dad6d9a78cc80112c859584c2a1a1558a35a8a78ee13bdd462e9da0c&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/deportes/futbol/2026/10/18/atletico-bucaramanga-y-america-de-cali-empataron-en-el-montanini-en-el-clasico-de-la-fecha-15-de-la-liga-betplay/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-19T01:54:11Z",
+   "id": "348fc0e9869c"
+  },
+  {
+   "titulo": "Cortes de luz en Bogotá este lunes 19 de octubre de 2026: Barrios y horarios",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTENST21kaHJPNVpOUjk5aExqZXVvMEpsZWJMWmJ5dnZ2emhhRE1odkdsVlpSRC1mVFZpb1AteFcwdThLS3FkVW1SNWNQeWNmbmUwZG1SMXJqTjFxSWhLOHU4dWIycHNtZkJubmttdi1sYnpLbnRaclVOaHBzTnp4ZHJnMDlfaWhVMUZDOXJ2VWFWRnhRaWF4ZWNYN3FzbEUzS09pT0c1TVFzWWZWRE0tYm5la1g?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-10-19T01:53:03Z",
+   "id": "4d48279d22fa"
+  },
+  {
+   "titulo": "Motilón Noche: número ganador del sorteo del domingo 18 de octubre de 2026",
+   "resumen": "¿Ganó El Motilón Noche? Consulte el número ganador del sorteo de hoy domingo 18 de octubre de 2026 y revise si es el nuevo afortunado del chance.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/WMHTZNUABZDAPBC34QV67RBYKE.png?auth=46bfdbf5e316b03b44925deed4bb360507320928ba7b15e16f7041080a77e7c6&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/loterias/2026/10/18/motilon-noche-numero-ganador-del-sorteo-del-domingo-18-de-octubre-de-2026/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-19T01:51:00Z",
+   "id": "86ab2abad991"
+  },
+  {
+   "titulo": "Revelan rostros de los cinco hombres que siguen buscando las autoridades por homicidio en Bucaramanga",
+   "resumen": "Tras la captura de alias ‘Julito’, las autoridades mantienen la búsqueda de otros cinco señalados de cometer graves delitos en Bucaramanga.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/P2P4KEF3YBD6PNR65MXVYR6JZE.png?auth=386d802a0b0e3922c11b1e94f81b8a3cc6b3c94f356564e59a5bd70499332420&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/judicial/2026/10/18/revelan-los-rostros-de-los-cinco-hombres-que-siguen-buscando-las-autoridades-por-homicidio-en-bucaramanga/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-19T01:50:09Z",
+   "id": "81cfd8e7f85c"
+  },
+  {
+   "titulo": "Paisita 2: resultado del sorteo de hoy domingo 18 de octubre de 2026",
+   "resumen": "¿Ganó el Paisita 2? Consulte el número ganador de hoy domingo 18 de octubre de 2026 y revise si la suerte lo acompañó en el segundo sorteo de la jornada.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/VTGWKDJGDBCJ7LCQ3TGW6ZDM6Q.png?auth=9e17fa8c3811182aa0eab267513762063d4e950a438e2be30783eed724262a62&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/loterias/2026/10/18/paisita-2-resultado-del-sorteo-de-hoy-domingo-18-de-octubre-de-2026/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-19T01:48:40Z",
+   "id": "e09d16ab54e8"
+  },
+  {
+   "titulo": "Muerte del sacerdote Patricio Sánchez en Ecuador revive una inquietante escena de una película de terror",
+   "resumen": "El largometraje combina terror, humor negro y referencias bíblicas, pero una secuencia específica llamó la atención por su parecido con lo ocurrido durante una misa en Ecuador.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/IXC6MFCGLVFQHKPZNOIBALMT2Y.jpg?auth=2b5d093bb837cdd255a1d856a24ad466ae127c7fb39d95bc00c85af4651efa72&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/mundo/2026/10/18/muerte-del-sacerdote-patricio-sanchez-en-ecuador-revive-una-inquietante-escena-de-una-pelicula-de-terror/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-19T01:45:49Z",
+   "id": "aeb80c7e819c"
+  },
+  {
+   "titulo": "Presidente De La Espriella confronta a la gobernadora de San Andrés y lanza duras advertencias",
+   "resumen": "Durante su visita a la isla, el presidente Abelardo De La Espriella confrontó duramente a la gobernadora de San Andrés y una congresista.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/LZVL332QQBHJBNG2XLGJBNQGGU.jpg?auth=8eb90faad04ac0eb4ceed4b0f89b127f578e1466ee4fd6f8cb2a2fce1d9ffc69&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/colombia/2026/10/18/presidente-de-la-espriella-confronta-a-la-gobernadora-de-san-andres-y-lanza-duras-advertencias/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-19T01:45:08Z",
+   "id": "d059ad98bd12"
+  },
+  {
+   "titulo": "Motociclistas, en Floridablanca exigen uso de chaleco reflectivo",
+   "resumen": "La Dirección de Tránsito y Transporte de Floridablanca intensificó las labores de pedagogía y control relacionadas con el uso obligatorio de elementos de seguridad en motociclistas, tanto en conductores como en…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/67VGLHF2N5DD3HHKBZG6ZRNDCQ.jpg?auth=dc524cd799662436acca8d87ecb1c2dd884249370c541bc5e767fd103edeeba5&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/10/18/motociclistas-en-floridablanca-exigen-uso-de-chaleco-reflectivo/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-19T01:43:27Z",
+   "id": "dbaf5cd7a7d4"
+  },
+  {
+   "titulo": "Europa estalla en protestas: incendios, saqueos y choques con la Policía sacuden varias ciudades",
+   "resumen": "Incendios, saqueos y enfrentamientos con la Policía marcan las protestas en varias ciudades europeas, donde el malestar por el costo de vida, la crisis de vivienda y los servicios públicos aumenta la tensión social.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/FOZX34PRWJCI7A5CUUSSCGON2M.jpg?auth=1aa2130f0b3ad68dfe90bc784469861e3ea723a14f6849f5f9713c50a0f5e0ff&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/mundo/2026/10/18/europa-estalla-en-protestas-incendios-saqueos-y-choques-con-la-policia-sacuden-varias-ciudades/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-19T01:40:47Z",
+   "id": "c77eebe13422"
+  },
+  {
+   "titulo": "Caribeña Noche: resultado del sorteo de hoy domingo 18 de octubre de 2026",
+   "resumen": "Resultado del último sorteo de La Caribeña Noche del domingo 18 de octubre de 2026.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/TBU2243UORA5NOHL5ZHT77R6SA.png?auth=294e8933777a0ef2f5ec7a122c9b112ea20d5c021fa93865a1b74f5a34145339&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/loterias/2026/10/18/caribena-noche-resultado-del-sorteo-de-hoy-domingo-18-de-octubre-de-2026/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-19T01:35:39Z",
+   "id": "ecca794acd1d"
+  },
+  {
+   "titulo": "Citarán a debate de control político a Paola Holguín por retiro de obras del Museo Nacional",
+   "resumen": "Además de la polémica por las obras retiradas, la congresista Jennifer Pedraza anunció que pedirá explicaciones por los nombramientos y las convocatorias suspendidas en el sector cultural.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/V2MFBXCUUJDQBLIMFH2TUVYJZ4.jpeg?auth=1be40f47b9a0c978e45ba164a9c6945bf662300802af5230c84f4da08f1bf83d&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/colombia/2026/10/18/citaran-a-debate-de-control-politico-a-paola-holguin-por-retiro-de-obras-del-museo-nacional/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-19T01:35:10Z",
+   "id": "d956a039ef29"
+  },
+  {
+   "titulo": "En Bucaramanga vecinos unen esfuerzos para recuperar muros y fachadas vandalizadas",
+   "resumen": "Fachadas de negocios, espacios públicos y hasta obras de arte fueron afectadas con grafitis. Residentes y comerciantes en Bucaramanga emprendieron una campaña para recolectan donativos, que se utilizarán para recuperar…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/BWCEMXDVOFCK3JJRFP7I6O2RQY.jpg?auth=d4a8b195120d744696385b6cd489e0a2bad6cb5bd42c3bf0e3b9cdc231edf8ba&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/10/18/en-bucaramanga-vecinos-unen-esfuerzos-para-recuperar-muros-y-fachadas-vandalizadas/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-19T01:33:46Z",
+   "id": "b8f923d580a2"
+  },
+  {
+   "titulo": "Sinuano Noche: resultado del sorteo del domingo 18 de octubre de 2026",
+   "resumen": "¿La suerte lo acompañó esta noche? Conozca el número ganador del Sinuano Noche de hoy domingo 18 de octubre de 2026.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/JWMHYBJILNFLJKLIU6RODGTNR4.png?auth=576436054ffb2ae59833fe88a519349772124fbc089b05a6edc6aa770df6ee0d&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/loterias/2026/10/18/sinuano-noche-resultado-del-sorteo-del-domingo-18-de-octubre-de-2026/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-19T01:21:00Z",
+   "id": "379947d55417"
+  },
+  {
+   "titulo": "Super Astro Luna: resultado del sorteo del domingo 18 de octubre de 2026",
+   "resumen": "¿Se volvió millonario hoy? Consulte el resultado del Super Astro Luna de este domingo 18 de octubre de 2026 y revise si su número y signo fueron los ganadores.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/74CS4GWN6VBGLMU2HMT5O62NYM.png?auth=b17ea28d9b295c479aad3aabfb224b2c5acb846a5223285ec3047f07e32e8c1a&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/loterias/2026/10/18/super-astro-luna-resultado-del-sorteo-del-domingo-18-de-octubre-de-2026/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-19T01:20:00Z",
+   "id": "6637eb5e254b"
+  },
+  {
+   "titulo": "Presidente De la Espriella expedirá decreto de líneas de base de San Andrés el 30 de noviembre",
+   "resumen": "Desde un buque de la Armada Nacional, en San Andrés, y en el marco de su primera visita a la isla en calidad de jefe de Estado, Abelardo de la Espriella anunció que el próximo 30 de noviembre firmará y expedirá el…",
+   "imagen": "https://caracol.com.co/resizer/v2/PVM4KDG2SNFQHN4BQYFA72E3XA.png?auth=41cfef7190f3f361942a0589f1ea3f7af589f614393216d060ecf90ca0e12e16&smart=true&width=1174&height=650",
+   "enlace": "https://caracol.com.co/2026/10/19/presidente-de-la-espriella-expedira-decreto-de-lineas-de-base-de-san-andres-el-30-de-noviembre/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-10-19T01:01:38Z",
-   "id": "e64a50d05f3a"
-  },
-  {
-   "titulo": "Veronica Alcocer negó haber transportado US$2,5 millones desde Venezuela y respondió a señalamientos",
-   "resumen": "La exprimera dama Verónica Alcocer rompió el silencio sobre los señalamientos de su exasesora Eva Ferrer, quien la vinculó con presuntos movimientos de dinero y drogas en maletas desde Venezuela, además de señalarla de…",
-   "imagen": "https://caracol.com.co/resizer/v2/CM4G7XABOVA7HGJFMXAEKBRCSE.jpg?auth=e49b11c1592fb5d215b85de3f2968380a90445e73c699f99af7f798f9fb78bcc&smart=true&width=3025&height=1985",
-   "enlace": "https://caracol.com.co/2026/10/19/veronica-alcocer-nego-haber-transportado-us25-millones-desde-venezuela-y-respondio-a-senalamientos/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-19T01:00:16Z",
-   "id": "309a6f7bac72"
+   "fecha": "2026-10-19T01:17:55Z",
+   "id": "deb20853c2c4"
   },
   {
    "titulo": "Culona Noche: número ganador del sorteo del domingo 18 de octubre de 2026",
@@ -110,17 +341,6 @@
    "id": "bba7d8b5b081"
   },
   {
-   "titulo": "Paisita 2: resultado del sorteo de hoy domingo 18 de octubre de 2026",
-   "resumen": "¿Ganó el Paisita 2? Consulte el número ganador de hoy domingo 18 de octubre de 2026 y revise si la suerte lo acompañó en el segundo sorteo de la jornada.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/VTGWKDJGDBCJ7LCQ3TGW6ZDM6Q.png?auth=9e17fa8c3811182aa0eab267513762063d4e950a438e2be30783eed724262a62&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/18/paisita-2-resultado-del-sorteo-de-hoy-domingo-18-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-19T00:50:00Z",
-   "id": "e09d16ab54e8"
-  },
-  {
    "titulo": "Chontico Noche: resultado del sorteo de hoy domingo 18 de octubre de 2026",
    "resumen": "Resultado del último sorteo del Chontico Noche del domingo 18 de octubre de 2026 ¡Felicitaciones al ganador!",
    "imagen": "https://www.vanguardia.com/resizer/v2/KS3BE7O6TJGRDK4CR3GKRXQJ44.png?auth=8ec14b124386deb944a13f3dc28d4185c9ac15fb590f9e75866262c7f729a8b6&smart=true&width=900&height=600",
@@ -130,61 +350,6 @@
    "region": "Santander",
    "fecha": "2026-10-19T00:50:00Z",
    "id": "25fe0b118e6a"
-  },
-  {
-   "titulo": "Dorado Noche: resultado del sorteo de hoy domingo 18 de octubre de 2026",
-   "resumen": "La expectativa crece hoy domingo 18 de octubre de 2026 entre miles de apostadores en todo el país por el sorteo de El Dorado Noche.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/BMPAXFIA6BFBXJXD5B2LVNHLJA.png?auth=3c16c1f5c84e8da4a0498d0216daf206988e375f276459d1c5690c68fb112dfe&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/18/dorado-noche-resultado-del-sorteo-de-hoy-domingo-18-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-19T00:19:00Z",
-   "id": "1c2f00e9eb1b"
-  },
-  {
-   "titulo": "Bukele aclaró rumores sobre posible libertad anticipada de 10.629 presos en El Salvador, ¿qué dijo?",
-   "resumen": "El presidente salvadoreño descartó que su propuesta implique liberar a la mitad de los más de 93.000 detenidos durante la ofensiva antipandillas y calificó esas versiones como una tergiversación de su anuncio.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/HDJC3YFVRBCPJAY7UYI2WGNYYM.jpg?auth=5209ff70dacc05f38cf202e84ec251dc8e92eba3938416294fcad1928f033248&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/mundo/2026/10/18/bukele-aclaro-rumores-sobre-posible-libertad-anticipada-de-10629-presos-en-el-salvador-que-dijo/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-19T00:17:55Z",
-   "id": "27fa45e16111"
-  },
-  {
-   "titulo": "Primer ministro de Albania se niega a dimitir y las protestas entran en su sexto día",
-   "resumen": "La policía albanesa lanzó cañones de agua y gases lacrimógenos el domingo, mientras las violentas protestas antigubernamentales entraban en su sexto día y el primer ministro Edi Rama rechazaba las exigencias de los…",
-   "imagen": "https://caracol.com.co/resizer/v2/FXORUH7M5FGOZGGNGYBDCLPHAA.jpg?auth=d04138894aa1acd4e06d0a2f2ba919f78b0c31f94aa7cb064f9f8ea8d28f41eb&smart=true&width=7788&height=5192",
-   "enlace": "https://caracol.com.co/2026/10/19/primer-ministro-de-albania-se-niega-a-dimitir-y-las-protestas-entran-en-su-sexto-dia/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-19T00:14:06Z",
-   "id": "d2f91d007534"
-  },
-  {
-   "titulo": "Secretaría de Transparencia pidió grupo conjunto para investigar presunta corrupción en San Andrés",
-   "resumen": "La secretaria de Transparencia, Cristina Lombana, solicitó este domingo la creación de un grupo conjunto, conformado por la Procuraduría, Contraloría y Fiscalía, para intervenir en San Andrés e investigar los presuntos…",
-   "imagen": "https://caracol.com.co/resizer/v2/W3KT7NLO2BDQ3L3RLDQCABB2DE.jpg?auth=25f0e2951efa8b86a4d968011d807707e2558ddb1e1509c0eeb48ae86bbbe2a6&smart=true&width=2000&height=1500",
-   "enlace": "https://caracol.com.co/2026/10/19/secretaria-de-transparencia-pidio-grupo-conjunto-para-investigar-presunta-corrupcion-en-san-andres/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-19T00:04:29Z",
-   "id": "749659a97802"
-  },
-  {
-   "titulo": "Turista cubano extravió dispositivo electrónico y Policía de Cartagena logró recuperarlo",
-   "resumen": "En una rápida y efectiva reacción, uniformados de la Policía Nacional de Colombia adscritos a la Metropolitana de Cartagena de Indias lograron la recuperación de un iPad de última generación avaluada en más de 8…",
-   "imagen": "https://caracol.com.co/resizer/v2/NQA5PNW2YBFI5H54M5F22P4C4I.jpeg?auth=250a9274e89fb81bfea1174592921c929aceaf64777cee4a884a55410fcf5d15&smart=true&width=1200&height=1600",
-   "enlace": "https://caracol.com.co/2026/10/18/turista-cubano-extravio-dispositivo-electronico-y-la-policia-de-cartagena-logro-recuperarlo/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-18T23:39:05Z",
-   "id": "0de29c24b407"
   },
   {
    "titulo": "A un adulto mayor le negaron subirse a un bus con su perro en El Santuario, Antioquia; empresa se pronunció y ofreció disculpas",
@@ -198,83 +363,6 @@
    "id": "fdf5d454cfc5"
   },
   {
-   "titulo": "Atlético Bucaramanga y América de Cali empataron en el Montanini en el clásico de la fecha 15 de la Liga BetPlay",
-   "resumen": "El Leopardo se mantiene invicto en el campeonato, con seis victorias y siete empates en 13 partidos disputados.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/XEYFQB6FJJAO5O4RTD5V5DBKDA.jpg?auth=6500b401dad6d9a78cc80112c859584c2a1a1558a35a8a78ee13bdd462e9da0c&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/deportes/futbol/2026/10/18/atletico-bucaramanga-y-america-de-cali-empataron-en-el-montanini-en-el-clasico-de-la-fecha-15-de-la-liga-betplay/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-18T22:59:18Z",
-   "id": "869f39146b93"
-  },
-  {
-   "titulo": "Citarán a debate de control político a Paola Holguín por retiro de obras del Museo Nacional",
-   "resumen": "Además de la polémica por las obras retiradas, la congresista Jennifer Pedraza anunció que pedirá explicaciones por los nombramientos y las convocatorias suspendidas en el sector cultural.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/V2MFBXCUUJDQBLIMFH2TUVYJZ4.jpeg?auth=1be40f47b9a0c978e45ba164a9c6945bf662300802af5230c84f4da08f1bf83d&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/colombia/2026/10/18/citaran-a-debate-de-control-politico-a-paola-holguin-por-retiro-de-obras-del-museo-nacional/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-18T22:57:06Z",
-   "id": "d956a039ef29"
-  },
-  {
-   "titulo": "Nuevamente el Esmad se enfrenta a manifestantes en el Museo Nacional",
-   "resumen": "El presidente Abelardo De La Espriella ordenó retirar del Museo Nacional más de 30 obras.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/3WIZKKOHRZACHO5AM4IN6MD36Y.jpg?auth=8a8a130dc2b2459cf3a62217070ed7ea2c72d39230c0168e45f3d27ad33b20e2&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/colombia/2026/10/18/nuevamente-el-esmad-se-enfrenta-a-manifestantes-en-el-museo-nacional/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-18T22:55:13Z",
-   "id": "3076cb5e141e"
-  },
-  {
-   "titulo": "Muerte del sacerdote Patricio Sánchez en Ecuador revive una inquietante escena de una película de terror",
-   "resumen": "El largometraje combina terror, humor negro y referencias bíblicas, pero una secuencia específica llamó la atención por su parecido con lo ocurrido durante una misa en Ecuador.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/IXC6MFCGLVFQHKPZNOIBALMT2Y.jpg?auth=2b5d093bb837cdd255a1d856a24ad466ae127c7fb39d95bc00c85af4651efa72&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/mundo/2026/10/18/muerte-del-sacerdote-patricio-sanchez-en-ecuador-revive-una-inquietante-escena-de-una-pelicula-de-terror/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-18T22:35:32Z",
-   "id": "aeb80c7e819c"
-  },
-  {
-   "titulo": "Golpe a “los Pachenca”: Policía incautó 27 fusiles y un lanzagranadas en Santa Marta",
-   "resumen": "La Policía halló una caleta del frente Libardo Vergel de las Autodefensas Conquistadoras de la Sierra Nevada o “los Pachenca”, en un operativo coordinado con la DEA.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/H4RTWEYGCVEEHFOCWXGYEYDESA.webp?auth=651eb68f2abd5a50f389484e0082244f14d7dc4743494440537145329ead9b87&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/colombia/2026/10/18/golpe-a-los-pachenca-policia-incauto-27-fusiles-y-un-lanzagranadas-en-santa-marta/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-18T22:31:26Z",
-   "id": "77f7ce972fa4"
-  },
-  {
-   "titulo": "Muere Lua Blanco, actriz de la versión brasileña de ‘Rebelde’, a los 39 años",
-   "resumen": "Lua Blanco, actriz y cantante brasileña que interpretó a Roberta Messi en 'Rebelde', murió a los 39 años tras luchar contra el cáncer, según reportes.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/KLS6SDSG2NBKXBRJINMLE2CZBE.jpg?auth=dcafd6b053353b5856eea16f9beda3e7da010bce994ee4f81a51791abf02a71c&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/entretenimiento/tendencias/2026/10/18/muere-lua-blanco-actriz-de-la-version-brasilena-de-rebelde-a-los-39-anos/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-18T22:26:23Z",
-   "id": "475ae150f004"
-  },
-  {
-   "titulo": "“Los sueños no envejecen”: 40 adultos mayores cumplirán el sueño de conocer el mar",
-   "resumen": "El municipio de Neira, Caldas está ubicado en la región cafetera de Colombia y es reconocido en el país por su tradición agrícola y sus impresionantes paisajes montañosos. Neira es además el municipio más longevo de…",
-   "imagen": "https://caracol.com.co/resizer/v2/P657MJMP7BGOFGCER3UJH7ON6Q.jpeg?auth=641f2a375151f6bfc0e86150cae46c30279ccbbae23c0e1be73843a657e8a712&smart=true&width=1600&height=900",
-   "enlace": "https://caracol.com.co/2026/10/18/los-suenos-no-envejecen-40-adultos-mayores-cumpliran-el-sueno-de-conocer-el-mar/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-18T22:24:24Z",
-   "id": "af7930ea6da6"
-  },
-  {
    "titulo": "Salario de intendentes y subintendentes de la Policía en 2026: Así es la escala salarial",
    "resumen": "",
    "imagen": "",
@@ -284,72 +372,6 @@
    "region": "Colombia",
    "fecha": "2026-10-18T22:10:45Z",
    "id": "ba244f36e214"
-  },
-  {
-   "titulo": "A quemarropa asesinaron a una pareja tras salir de un cementerio",
-   "resumen": "Las autoridades investigan los móviles del crimen y buscan a los responsables. Las víctimas recibieron múltiples impactos de bala.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/6IOMPHWR3BHN5MV2LLAMK2L4CE.jpg?auth=20a75c532d4ecae7c71ca87b52aeaa81fc447fcb5cf7b2590f0260d589c625b0&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/judicial/2026/10/18/a-quemarropa-asesinaron-a-una-pareja-tras-salir-de-un-cementerio/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-18T21:59:18Z",
-   "id": "417563eceacb"
-  },
-  {
-   "titulo": "RCN Radio",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMTRBMUFpSkFZbFV0bFdSMTFlS2ZnX1IyNkU0SW1SSEczVFRhamNSVlJqM2V5dlJ6V2hrVkFidFlwQ2gtbHJKa2pkVjNFOUdya2xTQktOeWxVOGk3U3c2Y0JVdHF0RXY1NUJyM3Z5Vzc0WUlqd3JYUXVGa3BlOWszbGRDbFo1aVQ4?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-10-18T21:59:04Z",
-   "id": "480277a57d6e"
-  },
-  {
-   "titulo": "Europa estalla en protestas: incendios, saqueos y choques con la Policía sacuden varias ciudades",
-   "resumen": "Incendios, saqueos y enfrentamientos con la Policía marcan las protestas en varias ciudades europeas, donde el malestar por el costo de vida, la crisis de vivienda y los servicios públicos aumenta la tensión social.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/FOZX34PRWJCI7A5CUUSSCGON2M.jpg?auth=1aa2130f0b3ad68dfe90bc784469861e3ea723a14f6849f5f9713c50a0f5e0ff&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/mundo/2026/10/18/europa-estalla-en-protestas-incendios-saqueos-y-choques-con-la-policia-sacuden-varias-ciudades/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-18T21:53:19Z",
-   "id": "c77eebe13422"
-  },
-  {
-   "titulo": "En Bucaramanga vecinos unen esfuerzos para recuperar muros y fachadas vandalizadas",
-   "resumen": "Fachadas de negocios, espacios públicos y hasta obras de arte fueron afectadas con grafitis. Residentes y comerciantes en Bucaramanga emprendieron una campaña para recolectan donativos, que se utilizarán para recuperar…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/BWCEMXDVOFCK3JJRFP7I6O2RQY.jpg?auth=d4a8b195120d744696385b6cd489e0a2bad6cb5bd42c3bf0e3b9cdc231edf8ba&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/10/18/en-bucaramanga-vecinos-unen-esfuerzos-para-recuperar-muros-y-fachadas-vandalizadas/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-18T21:51:09Z",
-   "id": "b8f923d580a2"
-  },
-  {
-   "titulo": "El cubo de Rubik reúne a 170 estudiantes de ocho departamentos en Neomundo",
-   "resumen": "La sexta edición del Intercolegiado de Cubo de Rubik abrió este domingo 18 de octubre una programación de tres días dedicada al talento estudiantil.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/B6OHNSGRAVHMROZFGPVNF76GPY.jpeg?auth=e01ba1c644b42bbbf9200b719af41edef780cb5bf1bc986b55e6897ddb63e339&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/area-metropolitana/2026/10/18/el-cubo-de-rubik-reune-a-170-estudiantes-de-ocho-departamentos-en-neomundo/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-18T21:47:17Z",
-   "id": "17b8d5a76b63"
-  },
-  {
-   "titulo": "¿Quiénes son Girley Ordóñez Bowie, la gobernadora de San Andrés, y la congresista Elizabeth Jay-Pang Díaz, del careo del presidente De La Espriella?",
-   "resumen": "La mandataria de San Andrés, quien reemplazó al destituido Nicolás Gallardo, y la parlamentaria enfrentan crisis tras el reclamo del jefe de Estado.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/18/6ad4f1dfa3561.r_d.873-545-0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/quienes-son-girley-ordonez-bowie-la-gobernadora-de-san-andres-y-la-congresista-elizabeth-jay-pang-diaz-del-careo-del-presidente-de-la-espriella-3594418",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-18T21:45:56Z",
-   "id": "cecc513316a7"
   },
   {
    "titulo": "Medellín impulsa el turismo del futuro: más de 9.000 prestadores le apuestan a la formalidad y la inteligencia artificial",
@@ -418,17 +440,6 @@
    "id": "1b4d1215349d"
   },
   {
-   "titulo": "Aeropuerto Ernesto Cortissoz: así avanzan las obras en las salas internacionales que ya buscan agilizar Migración antes de la final de la Sudamericana",
-   "resumen": "La intervención contempla 10 puestos migratorios, ocho módulos Biomig y una sala para 680 viajeros; Barranquilla espera visitantes el 21 de noviembre.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/01/17/696bda06e2faf.r_d.600-267-0.png",
-   "enlace": "https://www.eltiempo.com/colombia/barranquilla/aeropuerto-ernesto-cortissoz-asi-avanzan-las-obras-en-las-salas-internacionales-que-ya-buscan-agilizar-migracion-antes-de-la-final-de-la-sudamericana-3594416",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-18T15:40:46Z",
-   "id": "21608d035a8e"
-  },
-  {
    "titulo": "Comisión Primera de Cámara aprueba proyecto para ampliar la escolaridad obligatoria en Colombia: ¿De qué se trata?",
    "resumen": "",
    "imagen": "",
@@ -438,6 +449,17 @@
    "region": "Colombia",
    "fecha": "2026-10-18T12:05:55Z",
    "id": "ca2e59a8a7c5"
+  },
+  {
+   "titulo": "RCN Radio",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSX043ZTl6T2dZMDhEMlJGVFYxNzdTdGUtNG52SmNWWWVfbzV3cmI1R3hoRUFvRHJqQk9JekZlblMyNUQ2azcwYTd3Z1Jwc0lYaVJMOW0yalJkRjRDN0VqN0JjTEZudVM1MW12NThpeFNtMVJLWGo3QlFGTFhnTlU?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-10-18T11:17:31Z",
+   "id": "480277a57d6e"
   },
   {
    "titulo": "Netflix anuncia Cyberpunk, Nadie quiere esto y el regreso de Lupin",
@@ -559,17 +581,6 @@
    "region": "Santander",
    "fecha": "2026-10-16T13:28:45Z",
    "id": "a9fc2e69cdb8"
-  },
-  {
-   "titulo": "La Patria Milagro: Invías habilita el paso vehicular en el sector Pescadero de la vía San Gil–Bucaramanga",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNb3hIU3QtcVRadktXVXpQSEFucHE3dTVYTkNlaXNvRGJMX01CMFlpZVdxYmVmaGthVTBVUzd0VFdhckk3QmFmZ1BFaWNPc2M5Y0NZM3UzbTg1YVpEXzc4YVp6cE55MHZRZi01M1ZNRW8tbEh0Z21YQXhac1EwU0RhSjhyWnpqYzYtcVVhYTM1WVp0MFBVVjJiZUlCSVJYVTgwSFliYnlMTkFqWkw0Y3BFMzJhUURWYkRneHAzdko3SDRNNlI3bUloeTNWRlRnbmZHS2NIcmVZOFBGcU9lbHg4a1Y0T0s?oc=5",
-   "medio": "Invías",
-   "fuente": "provincia",
-   "region": "Santander",
-   "fecha": "2026-10-16T05:00:00Z",
-   "id": "4cbc0af512ea"
   }
  ]
 }
