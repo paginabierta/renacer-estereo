@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-19T15:36:35Z",
+ "actualizado": "2026-10-19T21:03:27Z",
  "fuentes": [
   {
    "id": "vanguardia",
@@ -44,92 +44,257 @@
  ],
  "noticias": [
   {
-   "titulo": "Corte Suprema dejó en firme condena de seis años contra Camilo Tarquino por el cartel de la toga",
-   "resumen": "La Corte Suprema de Justicia dejó en firme este lunes 19 de octubre la condena de seis años de prisión contra el exmagistrado Camilo Humberto Tarquino por su participación en el escándalo conocido como el cartel de la…",
-   "imagen": "https://caracol.com.co/resizer/v2/K53GSEUV7VHITNDFIJBDXMGKBM.jpg?auth=f6865cbbb2e4a349484153950b68213ab39b20e279b467825eef0b149724c3e7&smart=true&width=640&height=464",
-   "enlace": "https://caracol.com.co/2026/10/19/corte-suprema-dejo-en-firme-condena-de-seis-anos-contra-camilo-tarquino-por-el-cartel-de-la-toga/",
+   "titulo": "El alcalde de Inzá pidió ayuda urgente para la atención de los ocupantes del helicóptero UH-60 Black Hawk del Ejército que se cayó en el Cauca",
+   "resumen": "El mandatario convocó a las comunidades para identificar el punto exacto del siniestro y facilitar la atención de los militares heridos.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/10/6aca6f62c4afe.r_d.1023-315-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/cali/el-alcalde-de-inza-pidio-ayuda-urgente-para-la-atencion-de-los-ocupantes-del-helicoptero-uh-60-black-hawk-del-ejercito-que-se-cayo-en-el-cauca-3594709",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-19T20:57:46Z",
+   "id": "cde8e3384e92"
+  },
+  {
+   "titulo": "Denuncian que una menor abusada sexualmente no fue atendida en un hospital de Envigado",
+   "resumen": "En la sesión de este lunes, el Concejo de Envigado denunció que una menor de 14 años habría sido abusada sexualmente en esa población, lo que fue rechazado por los corporados, quienes exigieron una investigación para…",
+   "imagen": "https://caracol.com.co/resizer/v2/DGZNAWJA7BEX7LJFIAJDBXQ434.jpeg?auth=b0a79f2ca964ec22945f10e07ca39cb00b1a0ec385fdac32e646e6c4e4081349&smart=true&width=650&height=488",
+   "enlace": "https://caracol.com.co/2026/10/19/denuncian-que-una-menor-abusada-sexualmente-no-fue-atendida-en-un-hospital-de-envigado/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-10-19T15:28:27Z",
-   "id": "ab211f69098d"
+   "fecha": "2026-10-19T20:57:17Z",
+   "id": "74e0035559b1"
   },
   {
-   "titulo": "Pionyang estudia reinstalar altavoces de propaganda en la frontera ante tensiones con Seúl",
-   "resumen": "Kim Yo-Jong , la hermana del líder norcoreano, Kim Jong-un, dijo este lunes que, a raíz del aumento de tensiones en la frontera con Corea del Sur por la explosión de dos minas, Pionyang está estudiando instalar de nuevo…",
-   "imagen": "https://caracol.com.co/resizer/v2/CCPKDZKCCRDD3ORZPHDPSTFP5Y.jpg?auth=fe2a110c9049dd00a8ec25fb617a2c3b4c94fc2f88cb3d50d0a8f53b37242722&smart=true&width=4824&height=2903",
-   "enlace": "https://caracol.com.co/2026/10/19/pionyang-estudia-reinstalar-altavoces-de-propaganda-en-la-frontera-ante-tensiones-con-seul/",
+   "titulo": "Más de 400 personas completan 24 horas confinadas en Linares, Nariño, por enfrentamientos armados: 'Esta es una situación reiterativa'",
+   "resumen": "Ya se han realizado 17 consejos extraordinarios de seguridad y la situación no cambia.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/06/15/6a3082f4f2509.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/cali/mas-de-400-personas-completan-24-horas-confinadas-en-linares-narino-por-enfrentamientos-armados-esta-es-una-situacion-reiterativa-3594691",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-19T20:54:31Z",
+   "id": "48991cfc7943"
+  },
+  {
+   "titulo": "El rol del exgobernador de San Andrés, Everth Julio Hawkins, en su presunta vinculación con grupo delincuencial 'Las Salsas Mexicanas'",
+   "resumen": "La investigación permitió documentar dos afectados, ambos contratistas de la Gobernación. Esto se sabe.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/19/6ad67ad52633e.r_d.783-264-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/el-rol-del-exgobernador-de-san-andres-everth-julio-hawkins-en-su-presunta-vinculacion-con-grupo-delincuencial-las-salsas-mexicanas-3594701",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-19T20:54:27Z",
+   "id": "7f2d78942c5e"
+  },
+  {
+   "titulo": "Morat agota dos conciertos en Barcelona y estrena en vivo su canción ‘Me Mata’",
+   "resumen": "La banda colombiana Morat inició su recorrido por España con dos conciertos con boletería agotada en Barcelona , los días 16 y 17 de octubre, en el Palau Sant Jordi. Las presentaciones reunieron cerca de 40.000…",
+   "imagen": "https://caracol.com.co/resizer/v2/PJML7CQ2CRCOZMQMCCRIBIIZDY.jpg?auth=9b2d0cbabb1f6649c7013982850ee91b5978a0e4aeed6a280460e8678606e9e6&smart=true&width=7008&height=4672",
+   "enlace": "https://caracol.com.co/2026/10/19/morat-agota-dos-conciertos-en-barcelona-y-estrena-en-vivo-su-cancion-me-mata/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-10-19T15:26:28Z",
-   "id": "59dea6f62f8d"
+   "fecha": "2026-10-19T20:53:28Z",
+   "id": "a3ba949470f8"
   },
   {
-   "titulo": "Cortes de agua en Bogotá del 19 al 22 de octubre del 2026: Barrios y horarios",
+   "titulo": "De La Espriella en Arauca: “no voy aceptar que manos sucias de sangre decidan destinos del pueblo”",
+   "resumen": "Una fuerte advertencia volvió a realizar el presidente Abelardo De La Espriella, en medio de un nuevo consejo de seguridad que lideró este lunes, 19 de octubre, desde Arauca. Señaló que no permitirá más corruptos, ni…",
+   "imagen": "https://caracol.com.co/resizer/v2/ZVU4WCIF7JAMJEFLRP53E3SMUY.jpg?auth=5434592cd6ba853874466cde23c897b4f764b8a6960f231a3c5157a59d3d72a1&smart=true&width=1600&height=1067",
+   "enlace": "https://caracol.com.co/2026/10/19/de-la-espriella-en-arauca-no-voy-aceptar-que-manos-sucias-de-sangre-decidan-destinos-del-pueblo/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-19T20:50:10Z",
+   "id": "4f2fd30ab8dc"
+  },
+  {
+   "titulo": "Atención, estudiantes de Bolívar: Prosperidad Social entrega la quinta transferencia de Renta Joven a más de 4.600 beneficiados esta semana",
+   "resumen": "Para este periodo, la inversión asignada por el Gobierno Nacional en el departamento de Bolívar supera los $2.241 millones de pesos.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/19/6ad67ef522ff3.r_d.739-542-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/atencion-estudiantes-de-bolivar-prosperidad-social-entrega-la-quinta-transferencia-de-renta-joven-a-mas-de-4-600-beneficiados-esta-semana-3594702",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-19T20:43:49Z",
+   "id": "04741c0d1270"
+  },
+  {
+   "titulo": "El desplome de un helicóptero Black Hawk del Ejército Nacional en Cauca: reportan el estado preliminar de los 19 ocupantes de la aeronave",
+   "resumen": "En el helicóptero se movilizaban 15 soldados y cuatro tripulantes. La aeronave realizaba operaciones de abastecimiento y transporte.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/05/14/6a067972e1d77.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/cali/el-desplome-de-un-helicoptero-black-hawk-del-ejercito-nacional-en-cauca-reportan-estado-preliminar-de-los-19-ocupantes-de-la-aeronave-3594696",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-19T20:40:36Z",
+   "id": "0dcef88cefb4"
+  },
+  {
+   "titulo": "Este martes 20 de octubre cierre total vía La Línea entre Quindío y Tolima por carrera ciclística",
+   "resumen": "Este martes 20 de octubre de 2026 se presentarán cierres viales temporales con motivo de una actividad ciclística. La Policía Quindío a través de la seccional de tránsito y transporte Quindío, informa a todos los…",
+   "imagen": "https://caracol.com.co/resizer/v2/PY3ZDFEEDZEKXOSNOJ7WT2WX7M.jpg?auth=cb211e24ad7fecbbc73e859fb79aec7a367f2045bc633338b3f784fa032c1186&smart=true&width=1300&height=867",
+   "enlace": "https://caracol.com.co/2026/10/19/tenga-en-cuenta-este-martes-cierre-total-via-la-linea-entre-quindio-y-tolima-por-carrera-ciclistica/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-19T20:40:21Z",
+   "id": "cd65097a0bde"
+  },
+  {
+   "titulo": "Se enredó debate de presupuesto en la Cámara: sesión se reanudará las 8:00 de la noche",
+   "resumen": "#POLÍTICA | Por falta de cuórum, la Cámara de Representantes decretó un receso en la plenaria que debate el Presupuesto General de la Nación para 2027. La sesión se reanudará a las 8:00 p. m. Vía: @Juangut10errez…",
+   "imagen": "https://caracol.com.co/resizer/v2/UO6XTTIVIBFHFFEEA4WDXRHTBM.jpeg?auth=744b0d03743ae7ab385e9ee8812658eec5f434e645584488ff3de0893cb61ca3&smart=true&width=5433&height=3622",
+   "enlace": "https://caracol.com.co/2026/10/19/se-enredo-debate-de-presupuesto-en-la-camara-sesion-se-reanudara-las-800-de-la-noche/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-19T20:33:49Z",
+   "id": "4b8283af62ca"
+  },
+  {
+   "titulo": "Más de 30 organizaciones culturales de Santander se reunirán en San Gil para definir una agenda común",
    "resumen": "",
    "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcXVWYVhSMDUtd2ZUcklrX2VDckthSTRtQmpLNkMyaF9RUTNxcDBCYjRRQWZodHZZNFVPZ3BxT3hXVkd4Vk53cEVNbVdaXzh2cFV6dzdUVS01LURSOTA1YVlTYk82MlFNX2pPbDNBY1ZlTU5JVnZnemNtMkRnalJfSFptamxFMFdkQ3pNcVFhc0g3blJ6UWlxeGJBM1YzX2xrV3BxVi1IdWhFUFdUeDBGMUR6M1NUUQ?oc=5",
+   "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbTMwZGl5a3FDZk9hSlpEajMwVHJpdm8wVTI1SjZOTzBrNXZiaHB3M3hUSEFTZm5pRWZKNGVsMnYzR2xwcy16Q2JUYk5sSzhwaUZpSlREaUdxTWVJdEpGN2pRTmp0UUpoWnpHVUNEQUpYV1BVcHhoRFBoRjJ6QzdPaDJkcmtyZnlxcDd4ZGZxOUlVSnVOeHN0VXJqVXdoR0VrM2J3Sk1aTnIxUXp5Y1hURU44WW4yWUdheGN4REJZRU9BZGFOb0x5bC1lbnptZmYxczlYRnlYWHgtRU5zeDRJX1NPVnB4dUpRRE1WUGN0QU5RRk9lWUJz?oc=5",
+   "medio": "Vanguardia",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-10-19T20:32:00Z",
+   "id": "9bde92130ba4"
+  },
+  {
+   "titulo": "Usuarios que excedan consumo de energía tendrían cobros adicionales según la ESSA",
+   "resumen": "El gerente de la Electrificadora de Santander, José Gregorio Ramírez, hizo un llamado a los usuarios del departamento para ahorrar energía eléctrica, gas natural y agua ante los efectos del fenómeno de El Niño. El…",
+   "imagen": "https://caracol.com.co/resizer/v2/3YGZUDUMTNGM7PE4T7FZ5CI7WE.jpg?auth=8b9c8a636e80272673f411b5f3be1dcfc3aaa3ac7f9ae0de831facd57dcb0ba9&smart=true&width=591&height=292",
+   "enlace": "https://caracol.com.co/2026/10/19/usuarios-que-excedan-consumo-de-energia-tendrian-cobros-adicionales-segun-la-essa/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-19T20:30:38Z",
+   "id": "cec5af849019"
+  },
+  {
+   "titulo": "Fiscalía capturó al exgobernador de San Andrés Everth Hawkins por presunta extorsión y secuestro",
+   "resumen": "La Fiscalía General de la Nación capturó al exgobernador del archipiélago de San Andrés, Providencia y Santa Catalina, Everth Julio Hawkins Sjorgreen , por su presunta participación en hechos de extorsión y secuestro…",
+   "imagen": "https://caracol.com.co/resizer/v2/YAUHKCX7VJHE7P3KC62PC43664.jpeg?auth=9a67069de92a24f421877651b5be3b2713a32e971d8aaddca36180ab874a4133&smart=true&width=1600&height=1024",
+   "enlace": "https://caracol.com.co/2026/10/19/fiscalia-capturo-al-exgobernador-de-san-andres-everth-hawkins-por-presunta-extorsion-y-secuestro/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-19T20:07:45Z",
+   "id": "530ae0575ad6"
+  },
+  {
+   "titulo": "“No tenía conocimiento”: Gob. San Andrés sobre denuncias de nómina paralela y contratos en hospital",
+   "resumen": "En entrevista con Dos Puntos de Caracol Radio, la gobernadora de San Andrés, Girley Ordóñez Bowie , se pronunció sobre la crisis de salud que atraviesa el archipiélago y la reciente intervención de la Superintendencia…",
+   "imagen": "https://caracol.com.co/resizer/v2/XSNGWMCOCJEDZGE2OMXU3W3GII.jpg?auth=f15d41e9336c6742740b237dcbdb129b6f5c32be78468b40f8687cca6b8b7767&smart=true&width=1616&height=1080",
+   "enlace": "https://caracol.com.co/2026/10/19/no-tenia-conocimiento-gob-san-andres-sobre-denuncias-de-nomina-paralela-y-contratos-en-hospital/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-19T20:02:25Z",
+   "id": "8b47704f7abc"
+  },
+  {
+   "titulo": "Hospital de San Gil realizará jornada de salud preventiva para mujeres",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaG5VUXl3ZV9QQ0pTQ2QtOTZpNTk1N0w4cGViSG1BNndmWXpEc2JoUS1neHVITzZMQ3Mwbk5oTnRDNVNheVZZek8xdF94Qlh4eC1FVmM0UXhTRXJDa3pfelBrdmVEM3dCUUdMWkFwNjIzU25qSkh6cEp6bVdtSDI3Vmdzc0ZEdjlGeFVJQU9FUmxkSTNSMXBhT1N3X0N3SERHTUptSHhRR1ZZQlBORk1WVTVqWkxpMkF6TzlrM21TOUNwWHYtNWxj?oc=5",
+   "medio": "Vanguardia",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-10-19T19:55:00Z",
+   "id": "47d19822a409"
+  },
+  {
+   "titulo": "'Las balas van más rápido que las ideas': un senador propone reemplazar el minuto de silencio por un 'abrazo por la vida' en el Congreso",
+   "resumen": "Tras el atentado contra el exalcalde de Jamundí, Duvalier Sánchez rompió el protocolo de la plenaria para invitar a sus colegas a abrazarse.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/19/6ad670d2d811a.r_d.644-375-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/cali/las-balas-van-mas-rapido-que-las-ideas-un-senador-propone-reemplazar-el-minuto-de-silencio-por-un-abrazo-por-la-vida-en-el-congreso-3594687",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-19T19:36:04Z",
+   "id": "c01f053ab93a"
+  },
+  {
+   "titulo": "Barranquilla: así avanza la transformación de la sede Centro de Uniatlántico; nuevo edificio tendrá nueve pisos, 72 aulas y biblioteca",
+   "resumen": "La segunda fase incluye otro bloque de cinco niveles para los sistemas técnicos del complejo y la adecuación del entorno de la calle 50.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/19/6ad66f190d5b4.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-asi-avanza-la-transformacion-de-la-sede-centro-de-uniatlantico-nuevo-edificio-tendra-nueve-pisos-72-aulas-y-biblioteca-3594683",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-19T19:33:51Z",
+   "id": "321f8b48ab0e"
+  },
+  {
+   "titulo": "Arroceros del Llano afectados por las inundaciones y los bajos precios del grano le insisten al Gobierno Nacional en busca de ayuda",
+   "resumen": "Los productores piden el cierre de la frontera con Ecuador para evitar que siga ingresando el grano de contrabando.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/19/6ad6693c10688.png",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/arroceros-del-llano-afectados-por-las-inundaciones-y-los-bajos-precios-del-grano-le-insisten-al-gobierno-nacional-en-busca-de-ayuda-3594675",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-19T19:06:37Z",
+   "id": "367710b18e50"
+  },
+  {
+   "titulo": "RCN Radio",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUWs2YkVoZjE0MGd0OE5pSy1WVnZMN2xZMVNVOXZLMnFXeGtrR0w0dHJNNC1BdkpoY2F4dHlua0g0blRiTmRQNkgyenF3UjRvWEdiLVdZc09hZ0I1cEhXNEhDMVlZMC1rbG4wUldZeTB0OUZONE5GUkIyS3I2WjF5RWVucWJIQTdVa2k0Xy1UY01JRHhBclAzWE5HSEJRLWVoRWg3REI3Ri13SEh2MjBCYXg3ZkMxc3NPOWRCODU3eUNrMmZHSEVjQUd5a3ZUVDdLVlE?oc=5",
    "medio": "RCN Radio",
    "fuente": "rcn",
    "region": "Colombia",
-   "fecha": "2026-10-19T15:26:12Z",
-   "id": "ea8df0d2475c"
+   "fecha": "2026-10-19T17:59:09Z",
+   "id": "480277a57d6e"
   },
   {
-   "titulo": "La voz de un personaje de Los Simpson volvió a escucharse tras casi una década: ¿De quién se trata?",
-   "resumen": "Este domingo, la voz de uno de los actores más entrañables de “Los Simpson” volvió a escucharse. ¿Qué personaje regresó a Los Simpson? Apu Nahasapeemapetilon volvió a hablar por primera vez en casi una década en el…",
-   "imagen": "https://caracol.com.co/resizer/v2/IQJKVPSFPVOQDKNTJVXL25AQ24.jpg?auth=4d95b9d1fa0b13625c799bf7dda3a34edce238149fb2a22305d430b0e33fa6bd&smart=true&width=770&height=452",
-   "enlace": "https://caracol.com.co/2026/10/19/la-voz-de-un-personaje-de-los-simpson-volvio-a-escucharse-tras-casi-una-decada-de-quien-se-trata/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
+   "titulo": "Resultado Chontico Día hoy, 19 de octubre de 2026: consulte el número ganador del sorteo de este lunes",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLXgwUHhpMjdCTlBIdUhUa2M0NndYbm1scElGT2dRSllGaHV3ck1PMHdnMXFicjhIVnhwejUtVzVhMVNaZnZ5OFh2MjVuVmZQenh5R1VKWUxBVFkxRDdvMW12bENnazhvUmNHdEVxXzNENnNSUTF5Y29tcmZDRG5KS1pNZGJCeUJ2T0NCd09GU0luVHNKblVYYzFaMVBXNGZyc3lOUFBmSVFSRlZtallPTEFUOTVrd0F2bDJOQ091VzQ1bHN1MmJib2pEVDJkQThXMnBmQl9NTXg?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
    "region": "Colombia",
-   "fecha": "2026-10-19T15:24:03Z",
-   "id": "5a4661fc1a11"
+   "fecha": "2026-10-19T17:58:46Z",
+   "id": "c7c845c8feee"
   },
   {
-   "titulo": "Entregan renovado Centro de Alto Rendimiento en Santa Rosa del Sur",
-   "resumen": "Los deportistas de Santa Rosa del Sur ya cuentan con un escenario a la altura de los mejores del país. El gobernador de Bolívar, Yamil Arana, entregó el renovado Centro de Alto Rendimiento, una infraestructura que…",
-   "imagen": "https://caracol.com.co/resizer/v2/TQSV2S4XH5EOZDTN3DYOM54LVQ.jpeg?auth=7be4761e8936c33fa642f26dd2ac5d5f529befd2b83c0d8fb28284b639615e8e&smart=true&width=1280&height=854",
-   "enlace": "https://caracol.com.co/2026/10/19/entregan-renovado-centro-de-alto-rendimiento-en-santa-rosa-del-sur/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
+   "titulo": "Así son los nuevos torniquetes anticolados de los buses SITP de Bogotá",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNckYxaTBTTWd1RDlRUk9Ub0VPc1FfWi1QaEw5VUhXNG9UWGJJa0FnaGhpS0dCMlJadkdCaW1HS3VuUmIzZVZGR0JXUlNkN2xHNlU1M1RaMnNQLVVfMGFFQTNWLUJkNWVYSFRvTTg3ellHbU9CMHBHRFpmbUJpQUhiSFlDRDVnOTg4TWNxc1BxSHFYcTlhV1A4NTJ4cDgxOV9EWEdCZkN1amtLZ1FvVHc?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
    "region": "Colombia",
-   "fecha": "2026-10-19T15:23:32Z",
-   "id": "cd2757938a63"
+   "fecha": "2026-10-19T17:54:15Z",
+   "id": "f872ea1f05f7"
   },
   {
-   "titulo": "Exmindefensa explicó protocolos en aviones tras denuncias de Eva Ferrer sobre Verónica Alcocer",
-   "resumen": "El exministro de Defensa, general Pedro Sánchez, se pronunció en entrevista con Caracol Radio sobre las denuncias de Eva Ferrer relacionadas con presuntos traslados de armas, droga y dinero en vuelos de la Fuerza…",
-   "imagen": "https://caracol.com.co/resizer/v2/TFPIRTEFZNCLLA52Q72HV4RIPA.jpeg?auth=5bede91c7777cc136c4bb1023bc65db03f33e71ff14138c48fd0ae4c510438cb&smart=true&width=3695&height=2463",
-   "enlace": "https://caracol.com.co/2026/10/19/exmindefensa-explico-protocolos-en-aviones-tras-denuncias-de-eva-ferrer-sobre-veronica-alcocer/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
+   "titulo": "TransMilenio estrenará estación Calle 53 – Universidad Manuela Beltrán y cierra temporalmente Marly",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNFVxNkw0Sk4tejF3QTJmYkp3X056aC10T21tYWNIVEdwMm41ZjJXNHVrcUllQ0JBa1dnbmliSzdhYXBwUU9oRXhYMjlpQjI5Snc1RHpNWmNMak1wRkVYNHFJeExHQWVYU2U2UXNWbFdsLWtOYjh5Qjlva0dpYVJxZnlmRTN0ZUVEY3RxNXZRWmhBTE44X0xWZnNjX05ocDYxcVl2YWFkTzB5M2RjQ1dQLVJyYmkyekI2R19oSTlLVGFySUlHSHkyZU04dHJ0TEh3b0E?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
    "region": "Colombia",
-   "fecha": "2026-10-19T15:22:08Z",
-   "id": "d5a858de2526"
+   "fecha": "2026-10-19T17:41:14Z",
+   "id": "ab2d7ba7e4ef"
   },
   {
-   "titulo": "La crisis del hospital de San Andrés que desató el choque entre De La Espriella, la gobernadora y una representante: hablan desde la isla",
-   "resumen": "Nóminas atrasadas, médicos sin pago y presunta corrupción, son las denuncias que hacen desde el archipiélago.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/16/6ad2d6330ffd1.r_d.1043-173-0.png",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/la-crisis-del-hospital-de-san-andres-que-desato-el-choque-entre-de-la-espriella-la-gobernadora-y-una-representante-hablan-desde-la-isla-3594581",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-19T15:22:00Z",
-   "id": "0f90da6753ae"
-  },
-  {
-   "titulo": "VIDEO | Camioneta Cybertruck de Tesla, avaluada en más de 600 millones de pesos, chocó contra un poste de luz en el Oriente de Antioquia",
-   "resumen": "En videos registrados por conductores que pasaban por la zona del incidente, se aprecia la magnitud de la colisión del extravagante vehículo.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/19/6ad62f22ac106.png",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/video-camioneta-cybertruck-de-tesla-avaluada-en-mas-600-millones-de-pesos-choco-contra-un-poste-de-luz-en-el-oriente-de-antioquia-3594580",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-19T15:20:49Z",
-   "id": "9093bf0f12af"
+   "titulo": "Buseta rodó por un abismo de 50 metros en Tona, Santander: diez personas heridas, dos mujeres están en UCI",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX1dUazEtM3l0NWZiY0Y4UXl4NmF4cHpuXzJSZTF2cG9WNXc3bkpRUGxGYUpwMWN0bFRzbVFvMnVaZmFMRHVYeWFSbWJMN25ZRWlrWXdOaGZUQXFmZGRiTG53dlJXYjZIWHhpY3dabFZ0Zm9sNER2cFpXU213Ql9VQkNEa3J6N01EQmJMQk9XV0xZLUZRczF5WFhSc2l0QjE2aTg0bnV5NkVUWnpIclVGV2VQRXJTby1ydWlhcVU5YzZGSGt6UnNN?oc=5",
+   "medio": "El Frente",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-10-19T15:20:35Z",
+   "id": "6f1c8843a17c"
   },
   {
    "titulo": "Colegio de la Presentación de Piedecuesta ganador en varias modalidades",
@@ -143,28 +308,6 @@
    "id": "30b998f4a210"
   },
   {
-   "titulo": "Santander despliega fuerte ofensiva militar y ofrece recompensa de 50 millones de pesos tras la quema de un bus en la provincia García Rovira",
-   "resumen": "La incineración de un bus en la vía entre Málaga y Cerrito, en el sector de El Almorzadero, llevó a reforzar la seguridad en la provincia.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/17/6ad3a87570035.r_d.93-302-0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/santander/santander-despliega-fuerte-ofensiva-militar-y-ofrece-recompensa-de-50-millones-de-pesos-tras-la-quema-de-un-bus-en-la-provincia-garcia-rovira-3594593",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-19T15:15:41Z",
-   "id": "3732777e746b"
-  },
-  {
-   "titulo": "Turista extranjero recuperó cadena de oro que le había sido arrebatada en pleno Centro Histórico de Cartagena",
-   "resumen": "El ladrón abordó al turista para atracarlo en medio de la multitud de viajeros que a esa hora caminaban por el muelle.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/19/6ad6304e8c85e.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/turista-extranjero-recupero-cadena-de-oro-que-le-habia-sido-arrebatada-en-pleno-centro-historico-de-cartagena-3594585",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-19T15:10:54Z",
-   "id": "f9d49c3c4d9e"
-  },
-  {
    "titulo": "Banda Show de la Institución Educativa Santa Teresita de Arauca ganó concurso nacional en Santander",
    "resumen": "",
    "imagen": "",
@@ -174,94 +317,6 @@
    "region": "Santander",
    "fecha": "2026-10-19T15:02:39Z",
    "id": "1f735dec9202"
-  },
-  {
-   "titulo": "Capturan a capitán del Ejército por presuntos nexos con disidencia FARC en el Valle",
-   "resumen": "Un capitán activo del Ejército Nacional fue capturado por sus presuntos nexos con el frente 57 ‘Yair Bermúdez’ de las disidencias Farc, en una operación que dejó otros ocho presuntos integrantes de esta estructura…",
-   "imagen": "https://caracol.com.co/resizer/v2/U2SZITF35JEIFKLVGVTO55E33Y.jpeg?auth=6678a2b52013589bd9a4595174233057c4f1798d2644ec37c10f7970605f7f5a&smart=true&width=1080&height=579",
-   "enlace": "https://caracol.com.co/2026/10/19/capturan-a-capitan-del-ejercito-por-presuntos-nexos-con-disidencia-farc-en-el-valle/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-19T14:44:03Z",
-   "id": "4976733dfadd"
-  },
-  {
-   "titulo": "Estos son los cinco más buscados de Bucaramanga: revelan el cartel de los más peligrosos luego de la captura de alias 'Julito', el sicario más temido",
-   "resumen": "A alias Julito se le señala por más de 20 homicidios. Se había volado de una correccional en Bogotá y llevaba meses delinquiendo en Santander.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/19/6ad62977ed62f.r_d.529-505-1.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/santander/estos-son-los-cinco-mas-buscados-de-bucaramanga-revelan-el-cartel-de-los-mas-peligrosos-luego-de-la-captura-de-alias-julito-el-sicario-mas-temido-3594572",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-19T14:41:27Z",
-   "id": "391863fbbbf8"
-  },
-  {
-   "titulo": "Alerta en el Cauca: el Ejército halla explosivos ocultos en una alcantarilla en la vía Panamericana, entre Popayán y Nariño",
-   "resumen": "No se reportan víctimas. Los militares se encuentran en la zona para desactivar los artefactos.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/09/6a5011bf91ae8.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/alerta-en-el-cauca-el-ejercito-desactiva-explosivos-ocultos-en-una-alcantarilla-en-la-via-panamericana-entre-popayan-y-narino-3594573",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-19T14:39:02Z",
-   "id": "4c0e9a899878"
-  },
-  {
-   "titulo": "Bogotá transforma la educación de grados 10.° y 11.°: Así funcionará el nuevo modelo",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFcta080N0lOblBPOFJoQUtjYkN3ZTZYcHJGX2dqQW5OYWIzSVV5djhnVU9CSnVBQXljYUZRbld0a3pfSkRqbjJIbEJ0WlgySzU0MnNoNl9aLXRFOThDN0NTRzVNTzkwRGRnNVhQU3FjNjdXeHNKT1R0RnRoQi1uQ0xPa0NyYmxWREJZSkdaZlFwU1dDWHFsVDJ0VWFKSUtEVTNUcmhVS0x6ZURRVGoxTmtIc1ZsU2ZQMVE?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-10-19T14:30:12Z",
-   "id": "1352cfbfc773"
-  },
-  {
-   "titulo": "'La deuda supera los $200.000 millones y sigue creciendo': Jorge Senior, rector de la Universidad Autónoma del Caribe",
-   "resumen": "El directivo explica los efectos del fallo de segunda instancia, anuncia ajustes en la nómina y gestiones para recuperar $2.800 millones del Icetex.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/19/6ad623b02ba51.png",
-   "enlace": "https://www.eltiempo.com/colombia/barranquilla/la-deuda-supera-los-200-000-millones-y-sigue-creciendo-jorge-senior-rector-de-la-universidad-autonoma-del-caribe-3594564",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-19T14:30:00Z",
-   "id": "5d423fd38d1f"
-  },
-  {
-   "titulo": "Radiografía de la crisis en San Andrés: ¿qué está pasando en la isla?",
-   "resumen": "La periodista Michelle Arévalo, de Dos Puntos de Caracol Radio, conversó con Juio Sánchez Cristo para 6AM W acerca de la crisis que se vive en el archipiélago de San Andrés a propósito de la reciente visita del…",
-   "imagen": "https://caracol.com.co/resizer/v2/WK6HQYNU7JBERDKX554X2DB7T4.jpg?auth=89fc51de0cc2c0654698ca4dcf045121d59cd397c3411f0df12b430c9d0e0221&smart=true&width=3840&height=2160",
-   "enlace": "https://caracol.com.co/2026/10/19/radiografia-de-la-crisis-en-san-andres-que-esta-pasando-en-la-isla/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-19T14:18:25Z",
-   "id": "80ad96bb2738"
-  },
-  {
-   "titulo": "'Eviten instalar alumbrados': la petición de un senador que genera polémica en redes sociales meses antes de Navidad",
-   "resumen": "Juan Espinal llamó a alcaldías y ciudadanos a ahorrar agua y energía ante las alertas por el fenómeno de El Niño y sus posibles consecuencias.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/19/6ad61e15ea0ac.png",
-   "enlace": "https://www.eltiempo.com/colombia/la-polemica-peticion-de-un-senador-para-que-los-colombianos-no-pongan-alumbrados-navidenos-es-una-decision-que-requiere-sensatez-3594563",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-19T14:18:03Z",
-   "id": "2dd536cefac5"
-  },
-  {
-   "titulo": "Exigieron declarar sobre Uribe, De la Espriella y Vargas Lleras: testigo sobre ‘Pacto de Valledupar’",
-   "resumen": "En entrevista exclusiva con 6AMW y la Unidad Investigativa de Caracol Radio , Juan Carlos Villamizar, abogado- asesor de Salvatore Mancuso, y testigo presencial de las reuniones que han sido llamadas el “Pacto de…",
-   "imagen": "https://caracol.com.co/resizer/v2/YIFHNNO4CZF5VL2K4P5LEHSBHE.jpg?auth=66328b787223ccf0a09affb6264191cfed34fb55a3c16a9335cfb1216fdb308e&smart=true&width=1072&height=821",
-   "enlace": "https://caracol.com.co/2026/10/19/exigieron-declarar-sobre-uribe-de-la-espriella-y-vargas-lleras-testigo-sobre-pacto-de-valledupar/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-19T13:26:29Z",
-   "id": "e5b941daabd0"
   },
   {
    "titulo": "Microbús cayó 50 metros por un abismo en Tona, Santander: al menos 10 personas heridas",
@@ -295,6 +350,17 @@
    "region": "Colombia",
    "fecha": "2026-10-19T01:56:58Z",
    "id": "281e741a99d5"
+  },
+  {
+   "titulo": "Bus rodó 50 metros por un abismo en Tona, Santander: hay diez heridos, incluidos menores de edad",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzLWs4a0hrS0dCWEwwUWVVUkdycU9PWWZiVlppb2xVTTRBVTNFTlhpb2Y4d0ZlWkh2UjkxTVhJdnNKQ1VQVnJPN296UTBlWldKUEVYMlZIVkNiblNfZkc1NEVqT2JOQU10NEFwcWVHakNRNC1kX2lxbjlhSQ?oc=5",
+   "medio": "Metropolitano",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-10-19T01:54:24Z",
+   "id": "739709dd0303"
   },
   {
    "titulo": "Atlético Bucaramanga y América de Cali empataron en el clásico de la fecha 15 de Liga BetPlay",
@@ -451,17 +517,6 @@
    "id": "6637eb5e254b"
   },
   {
-   "titulo": "Cortes de agua en Cali este lunes 19 de octubre del 2026: Barrios afectados y horario de suspensión",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcXgwWk1uQ1BlQnp2WjM4QmN1a1ExcjRZX1NXaUZFX0EyYWs0NzVwSlM3UWJtZmpET0FkZkRfMUNaaGpvSW5udHIwQ1BySDk0eURhYWJUQU50ck91eTBaOHdMNDB1S2lFd3hLaUVaTWZIbEhwWUU2ZGViUHY0ZGJKMFVfbGs4MXZOaXBEYnlfRFBJODRLSHkwMWRvUEo1RFZUM3Jma1QwanROeTlFclJ6TEp6T0RGdzRRdXVlNFM2OGNxaTZXNkItSU1iT3NIc2lBaGdJ?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-10-19T01:08:40Z",
-   "id": "bcb9b62dd612"
-  },
-  {
    "titulo": "Culona Noche: número ganador del sorteo del domingo 18 de octubre de 2026",
    "resumen": "Conoce los resultados del último sorteo de La Culona Noche del domingo 18 de octubre de 2026.",
    "imagen": "https://www.vanguardia.com/resizer/v2/3KMAZOIOORDWZGQKVE2HOV4JPQ.png?auth=272753e0038f59d4e2963e8d72383cf4fe6191db4b37b97eace2e55da08aa6b1&smart=true&width=900&height=600",
@@ -484,6 +539,17 @@
    "id": "25fe0b118e6a"
   },
   {
+   "titulo": "Player Page",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORk5kNHlBdW5TMldtdjlRd3N1MGZwUVRXTVMtblVtcU5USl91ZzhjUVdGTUFKZXdqSnk5ZmNuSDdxN3pvT2pBQ0xieWpnS0NpRE9OSlBGZWVqWnBSdG4tdy1adEtzdHJMN3ZiUlRDQl80d3M0LTJQWVNQdjhjLXgwUkF3R1pxTmVISDhmOEVySkRSaVF6M0ZIYzJVMk9WYnhYT1BpV0VxaUxFN1NtbGdfcl9tUExTb09P?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-10-19T00:26:36Z",
+   "id": "e66bf6683d4a"
+  },
+  {
    "titulo": "Salario de intendentes y subintendentes de la Policía en 2026: Así es la escala salarial",
    "resumen": "",
    "imagen": "",
@@ -493,17 +559,6 @@
    "region": "Colombia",
    "fecha": "2026-10-18T22:10:45Z",
    "id": "ba244f36e214"
-  },
-  {
-   "titulo": "RCN Radio",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMTRBMUFpSkFZbFV0bFdSMTFlS2ZnX1IyNkU0SW1SSEczVFRhamNSVlJqM2V5dlJ6V2hrVkFidFlwQ2gtbHJKa2pkVjNFOUdya2xTQktOeWxVOGk3U3c2Y0JVdHF0RXY1NUJyM3Z5Vzc0WUlqd3JYUXVGa3BlOWszbGRDbFo1aVQ4?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-10-18T21:59:04Z",
-   "id": "480277a57d6e"
   },
   {
    "titulo": "“Aún escucho sus gritos”: el dramático relato de una testigo de la tragedia en un restaurante de Bucaramanga",
@@ -517,39 +572,6 @@
    "id": "7c99d1583283"
   },
   {
-   "titulo": "¿Cómo son los drones que Estados Unidos envió a Colombia para combatir el narcotráfico?",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZXFwczhvOFBmaG1BSE4yMDF6TkdKa25zRnVUQWlGSmVTUFlNSlpSSTM3ZW9kci1JNUtXWE8xRHdBeWd6TW56THBKMm5wRWFKSW5DSDJSams1bjlKamttZV85dW5XTHBxSHRWUTV5SVM0c1JSV0QyajJyeDgwbTBGQTJpYlhWX1lUUEVwa0JBVlNzNGRzY2liQk1VLTVucE5vaWZOa3dyNS01S05HbnZVQlhQYjIzOVJlNlo0Ymc3UzdUdw?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-10-18T15:52:29Z",
-   "id": "2ee483f94427"
-  },
-  {
-   "titulo": "Ataque sicarial en la vía Piedecuesta–Floridablanca dejó seis heridos, entre ellos dos menores",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOUY3VHhXWFd6WktlSzZkVC02aThyVDY4S2Q4NW5GcXBjbzJ5YklwSzBpV1cxdVhpc1BMQ0Y0OVd6Qlc5RFBBSFJudm1RYVR6dDlGbGVKT2FXN0o1YThYY2RXeWk0eFBEMEtya0Zkb3lDa0JRQm5IWDl6X2pJZVkzXzhSTFF1eHN3WEY3cF9rb2FnU1BHUWVtVU4wZjZsaFBCS2VpdmloUUFJZHlKS2ZWV1liV3k4bVpNYkxsM1RGcGNmVERWX3NWa3pfWEJ6Tmxr?oc=5",
-   "medio": "Agencia de Periodismo Investigativo",
-   "fuente": "provincia",
-   "region": "Santander",
-   "fecha": "2026-10-17T21:52:39Z",
-   "id": "d16795ff9d1b"
-  },
-  {
-   "titulo": "Santander hizo la tarea",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcGZPN1g4aHo4TlM2ck1tNzRuaUlUVWFsOTZCbnFLcFY2bWdzLXlfZ3dGMTYzRXcyWE1HenVkNjJFdk14dmF4TFlVMXR1TmQwUFdVVnRER0xROV93WWNfckhJYVhMWmZEd2JjNU0zODQyZlNjRUlIZjZVdlFJcmw5SkU4LWM4YlRQbWc?oc=5",
-   "medio": "Vanguardia",
-   "fuente": "provincia",
-   "region": "Santander",
-   "fecha": "2026-10-17T06:00:00Z",
-   "id": "bd1c0c4016f1"
-  },
-  {
    "titulo": "¡San Gil le baja a la deuda! Ya pagó $8.400 millones entre capital e intereses",
    "resumen": "",
    "imagen": "",
@@ -559,28 +581,6 @@
    "region": "Santander",
    "fecha": "2026-10-17T00:15:34Z",
    "id": "ca92bb84bc7a"
-  },
-  {
-   "titulo": "San Gil reunió a expertos internacionales para debatir futuro del turismo en Santander",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMUR4dHZJc0VaaTkzMGc3U3JhUDVvUWxlRi1ablN6RkYxLVJoX1E4ZVZVQlp2clhhRVU3NlJyN0JWU2lGTkw5c3lJalc3Vmgtbms0MXRVeDNWTUVrQ2VEcG9xNVdrb0R6bjJuM28tSlBkSFJqbmx5Wkg5aml4WGJRR3JXNWhnVllDaUpHdXpLS3I1dUJ0OVdXd0xXbmJBaFM4dXNrTXpZNVlfZlVPT0dVVA?oc=5",
-   "medio": "El Frente",
-   "fuente": "provincia",
-   "region": "Santander",
-   "fecha": "2026-10-16T20:39:52Z",
-   "id": "6ccc6e4f62ba"
-  },
-  {
-   "titulo": "Janeth Mylene Suárez, la ingeniera que falleció tras sufrir graves quemaduras en un restaurante en Bucaramanga",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObkE0WlgySkE4dVJORlVJLWJoSUIzS2xSbGVGU0E5c2JhR3MwVXZSczVVQTVxWS1ESzBmZmhuMTdzTFFCYUNUbEhOemFqV0ZCbDZuMXJla2RjdGJ3NU5sSUVYUkc3RzVYODZpLTZZZGdmWlliTERHWHRtYU1ieHRQXzBzOU1UbjFDbjNsaUl1VWhBMzZ5U3huTG5vdHpaaE5mVFgtMWRtU3NOUlRzNEx2emUtTktLSjJtOHpVbWFUYm4yMnpvUEpqODd0OHlrNnNJS3FDUkxWQkhPZXJmb2hfRU9xT3EtZmdvaVhF?oc=5",
-   "medio": "ELHERALDO.CO",
-   "fuente": "provincia",
-   "region": "Santander",
-   "fecha": "2026-10-16T15:43:28Z",
-   "id": "9d31dadecbcc"
   }
  ]
 }
