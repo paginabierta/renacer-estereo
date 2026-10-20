@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-20T20:35:47Z",
+ "actualizado": "2026-10-20T23:53:18Z",
  "fuentes": [
   {
    "id": "vanguardia",
@@ -44,15 +44,323 @@
  ],
  "noticias": [
   {
-   "titulo": "Video | Alcalde de Barranquilla, Alejandro Char, se pronunció sobre caso de hombres que arrojaron cascos y desechos a un arroyo en La Sierrita",
-   "resumen": "El hecho ocurrió en la mañana de este martes 20 de octubre a la altura de la diagonal 88 con carrera 5E.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/20/6ad7ab55c0c9a.png",
-   "enlace": "https://www.eltiempo.com/colombia/barranquilla/video-alcalde-de-barranquilla-alejandro-char-se-pronuncio-sobre-caso-de-hombres-que-arrojaron-cascos-y-desechos-a-un-arroyo-en-la-sierrita-3594950",
+   "titulo": "Chontico Noche: resultado del sorteo de hoy martes 20 de octubre de 2026",
+   "resumen": "Resultado del último sorteo del Chontico Noche del martes 20 de octubre de 2026 ¡Felicitaciones al ganador!",
+   "imagen": "https://www.vanguardia.com/resizer/v2/YIAK7RU6JNC6RI2NQJS3CN27TY.png?auth=7a27344a03dfca0462b21feb3ebbf8d986689b231764a4cb5f5d7cd41599ebfc&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/loterias/2026/10/20/chontico-noche-resultado-del-sorteo-de-hoy-martes-20-de-octubre-de-2026/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-20T23:50:00Z",
+   "id": "1cc35f65dfd8"
+  },
+  {
+   "titulo": "Trump antes de la elección en Brasil: Sudamérica giró a la derecha y será un lugar próspero",
+   "resumen": "Sudamérica se está convirtiendo en “ un lugar completamente diferente” de “una forma muy positiva”, dijo el presidente de Estados Unidos, Donald Trump, a pocos días de la segunda vuelta de las elecciones brasileñas…",
+   "imagen": "https://caracol.com.co/resizer/v2/ZBAKLJUU6FAZ3EJZQT3BSCUZ2M.jpg?auth=14088eaaf650a60fa06302ca2bc261df474b4620e794ed843c0194b759b57bed&smart=true&width=2884&height=1922",
+   "enlace": "https://caracol.com.co/2026/10/20/trump-antes-de-la-eleccion-en-brasil-sudamerica-giro-a-la-derecha-y-sera-un-lugar-prospero/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-20T23:42:34Z",
+   "id": "fc3a9ef340c9"
+  },
+  {
+   "titulo": "Renault-Sofasa y Gobierno De La Espriella impulsan inversión de hasta US$150 millones",
+   "resumen": "Colombia podría consolidar su posición como plataforma regional de producción automotriz gracias a un proyecto de inversión estratégica de hasta US$150 millones que adelantan el Gobierno De La Espriella y Renault-Sofasa…",
+   "imagen": "https://caracol.com.co/resizer/v2/3FCGYV43S5DELAHOKMBAKUSCHM.jpeg?auth=2019d140fc20a829e6b4c2ac59f3150d2e235ba7bfb3d9c0f94bafd29409b1d4&smart=true&width=1600&height=1228",
+   "enlace": "https://caracol.com.co/2026/10/20/renault-sofasa-y-gobierno-de-la-espriella-impulsan-inversion-de-hasta-us150-millones/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-20T23:39:42Z",
+   "id": "884476a18a0f"
+  },
+  {
+   "titulo": "Presto: empresario colombiano está interesado en comprarlo; avalan continuidad mientras se concreta",
+   "resumen": "Caracol Radio conoció en primicia que la Superintendencia de Sociedades suspendió algunos efectos de la liquidación de la cadena de comida Presto para que los restaurantes sigan funcionando mientras avanza la…",
+   "imagen": "https://caracol.com.co/resizer/v2/52675BXLOZHUDNRZBECNSYFFC4.jpg?auth=6ec9f24e3efcfabcdcafac36b1eb171b6b16b692cca2c2ecbd7ef033c7707980&smart=true&width=1758&height=1758",
+   "enlace": "https://caracol.com.co/2026/10/20/presto-empresario-colombiano-esta-interesado-en-comprarlo-avalan-continuidad-mientras-se-concreta/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-20T23:35:49Z",
+   "id": "dd2ad190784e"
+  },
+  {
+   "titulo": "ONG de salud impulsa decálogo para que Colombia enfrente una deuda externa más justa",
+   "resumen": "La organización AIDS Healthcare Foundation (AHF) lideró la firma de un decálogo que busca promover condiciones más equitativas para el pago de la deuda externa de Colombia y otros países en desarrollo, con el objetivo…",
+   "imagen": "https://caracol.com.co/resizer/v2/UD6YYTUZ25AAVPT3OXTLW73ENE.png?auth=a8c028cb4dcddceed6269b466158931988cd60dd8d1533637c2b4fe44cf17fb8&smart=true&width=630&height=487",
+   "enlace": "https://caracol.com.co/2026/10/20/ong-de-salud-impulsa-decalogo-para-que-colombia-enfrente-una-deuda-externa-mas-justa/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-20T23:32:12Z",
+   "id": "466be7c45da7"
+  },
+  {
+   "titulo": "Último reporte del IDEAM: ¿Se acabarán las lluvias en Colombia? Clima del 20 al 23 de octubre",
+   "resumen": "El pronóstico del clima en Colombia para esta semana estará marcado por lluvias de variada intensidad en varias regiones del país y temperaturas elevadas en departamentos del norte y el oriente. De acuerdo con el…",
+   "imagen": "https://caracol.com.co/resizer/v2/PLKADN4RMNHMHJR4JALGAYLZLA.png?auth=c231c32dea90008910e7d04eaa7457c9db740635433d7410cb0d3e5cfd9061a5&smart=true&width=650&height=488",
+   "enlace": "https://caracol.com.co/2026/10/20/ultimo-reporte-del-ideam-se-acabaran-las-lluvias-en-colombia-clima-del-20-al-23-de-octubre/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-20T23:31:53Z",
+   "id": "f61a711f3083"
+  },
+  {
+   "titulo": "Misteriosa muerte de pensionado de la Fiscalía en Bucaramanga: apareció sin vida en el parqueadero de un conjunto residencial conocido",
+   "resumen": "Sus hijos hallaron el cuerpo y las autoridades adelantan las investigaciones para esclarecer las circunstancias de su muerte.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2023/01/20/63ca821184bd7.r_d.475-237-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/santander/misteriosa-muerte-de-pensionado-de-la-fiscalia-en-bucaramanga-aparecio-sin-vida-en-el-parqueadero-de-un-conjunto-residencial-conocido-3595016",
    "medio": "El Tiempo",
    "fuente": "eltiempo",
    "region": "Colombia",
-   "fecha": "2026-10-20T20:31:30Z",
-   "id": "7867081738d8"
+   "fecha": "2026-10-20T23:26:46Z",
+   "id": "380032e93ae8"
+  },
+  {
+   "titulo": "Pacto Histórico convoca marcha el 24 de noviembre: estas son las razones",
+   "resumen": "La bancada cuestiona el aumento del servicio de la deuda y la reducción de recursos para la JEP, el Sena y las regiones.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/CVK2WLWD2JAR3A3FDTJ3B7UZQ4.jpeg?auth=89b7c94222b9b1e9125a32b5ee6f98f1f8f381bca1b2477ac0251138a5edf52c&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/colombia/2026/10/20/pacto-historico-convoca-marcha-contra-el-presupuesto-de-2027-estas-son-las-razones/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-20T23:26:35Z",
+   "id": "949ee6e24d07"
+  },
+  {
+   "titulo": "Fiscalía capturó al hombre que habría amenazado de muerte a la primera dama, Ana Lucía Pineda",
+   "resumen": "La Fiscalía General de la Nación identificó y capturó en la tarde de este martes al presunto responsable de amenazar de muerte a la primera dama de la Nación, Ana Lucía Pineda Aruachán, en Pereira (Risaralda). Según se…",
+   "imagen": "https://caracol.com.co/resizer/v2/LX76WI5WRZA4DJ3BCQ2LUIFT6E.jpeg?auth=fe988c86a2c37f70b636b79937665a986ae6823f505d5ecf20afea3eaf9f53d8&smart=true&width=1280&height=718",
+   "enlace": "https://caracol.com.co/2026/10/20/fiscalia-capturo-al-hombre-que-habria-amenazado-de-muerte-a-la-primera-dama-ana-lucia-pineda/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-20T23:24:48Z",
+   "id": "8b20bbf3bceb"
+  },
+  {
+   "titulo": "Intentó salvar a otra persona y murió ahogado en un río de Santander",
+   "resumen": "Luis Francisco Mejía Naranjo, de 65 años, habría ingresado al río La Llana, en San Vicente de Chucurí, para auxiliar a otra persona, pero terminó perdiendo la vida por inmersión.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/E7ULQO5XGVHLRGGRUWERJWPWC4.png?auth=9511c2a77dbfec43544aef1666e587ad9d24f005d43232fb92ae9a0614e44f60&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/judicial/2026/10/20/intento-salvar-a-otra-persona-y-murio-ahogado-en-un-rio-de-santander/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-20T23:24:24Z",
+   "id": "4ae82bf541f7"
+  },
+  {
+   "titulo": "Colombia y Ucrania trabajan para resolver situación de connacionales vinculados al conflicto",
+   "resumen": "Con la llegada del presidente Abelardo De La Espriella, avanza una nueva etapa para las relaciones bilaterales, entre ellas la de Colombia y el Gobierno de Ucrania. Hoy en medio de una llamada que sostuvo el canciller…",
+   "imagen": "https://caracol.com.co/resizer/v2/MHP5ZYGBBVFJRCDRXEYCCLHUZY.jpeg?auth=a1061266f5f09bbf540bc96a86387f02d681ca26f8adef4cea12ffa94d949cbf&smart=true&width=1170&height=669",
+   "enlace": "https://caracol.com.co/2026/10/20/colombia-y-ucrania-trabajan-para-resolver-situacion-de-connacionales-vinculados-al-conflicto/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-20T23:15:55Z",
+   "id": "365bf85a66ae"
+  },
+  {
+   "titulo": "Paisita 2: resultado del sorteo de hoy martes 20 de octubre de 2026",
+   "resumen": "¿Ganó el Paisita 2? Consulte el número ganador de hoy martes 20 de octubre de 2026 y revise si la suerte lo acompañó en el segundo sorteo de la jornada.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/Q2UC22JMRRE6DFJFETQVEGNJMY.png?auth=23f789d1c4e884daa2401584a61942913894c86d599a016a09609c8b7bed2f52&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/loterias/2026/10/20/paisita-2-resultado-del-sorteo-de-hoy-martes-20-de-octubre-de-2026/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-20T22:50:00Z",
+   "id": "e40b1e4f6d9d"
+  },
+  {
+   "titulo": "Defensor de la comunidad: denuncian deterioro de casa que preocupa a vecinos",
+   "resumen": "Casa abandonada frente al Colegio San Pedro es 'dormitorio' improvisado y basurero",
+   "imagen": "https://www.vanguardia.com/resizer/v2/QE2JI7IK7BBULH7G67MGLZZUOE.jpeg?auth=40e11c72cdcf69044064b7d1239b25b1a1bf806a844fd7b6408c50dd5134a74a&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/10/20/defensor-de-la-comunidad-denuncian-deterioro-de-casa-que-preocupa-a-vecinos/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-20T22:45:32Z",
+   "id": "6983a86e73d5"
+  },
+  {
+   "titulo": "Claudia Sheinbaum y Nayib Bukele lideran el ranking de popularidad en América Latina",
+   "resumen": "Claudia Sheinbaum y Nayib Bukele encabezan el ranking de popularidad presidencial en América Latina. El nuevo sondeo también revela qué mandatarios pierden respaldo y dónde se concentra el mayor rechazo.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/WJHJ63XZCNHSVBENL3CDBRBTXM.jpg?auth=bcbac11e0d6d5c7dba30660176d8e717ee739b4b66137a94d04d0b449cc3f588&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/mundo/2026/10/20/claudia-sheinbaum-y-nayib-bukele-lideran-el-ranking-de-popularidad-en-america-latina/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-20T22:42:01Z",
+   "id": "918d2d54f496"
+  },
+  {
+   "titulo": "Ataque a caravana humanitaria en Nariño: más de 300 personas fueron evacuadas",
+   "resumen": "Funcionarios de la Gobernación de Nariño y de la Alcaldía de Linares denunciaron que hombres armados dispararon contra la caravana.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/7Y25RE37VNFJDKZQ6KEN67OUG4.png?auth=ebc9ef7bb3d91293a14cd91532c6273c5f19e66fcf13cc990bdb33b3e9df0e7d&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/colombia/2026/10/20/ataque-a-caravana-humanitaria-en-narino-mas-de-300-personas-fueron-evacuadas/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-20T22:41:41Z",
+   "id": "c8ae08c61182"
+  },
+  {
+   "titulo": "Van 25 toneladas de cocaína incautadas en el Puerto de Cartagena en lo que va del año: solo en las últimas horas cayó un cargamento con 7,6 toneladas",
+   "resumen": "En lo que va del año, la Policía Nacional ha incautado 431 toneladas en todo el territorio nacional.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/19/6ad69e3490c1e.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/van-25-toneladas-de-cocaina-incautadas-en-el-puerto-de-cartagena-en-lo-que-va-del-ano-solo-en-las-ultimas-horas-cayo-un-cargamento-con-7-6-toneladas-3594883",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-20T22:39:57Z",
+   "id": "c2bfd9564ad4"
+  },
+  {
+   "titulo": "¿Qué ocurrió en el depósito? Las preguntas por muerte de un pensionado de la Fiscalía en Bucaramanga",
+   "resumen": "Los familiares manifestaron que Martínez Guido no tendría amenazas conocidas, por lo que su muerte genera varios interrogantes que deberan ser resultos por las autoridades competentes.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/4LYSY3L3QBHAFGXO37ZMVV27LY.jpg?auth=21cfbba1269bfd7574e92361a9ec46962ce6f714adcd92fb2a90ca3edb082244&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/judicial/2026/10/20/que-ocurrio-en-el-deposito-las-preguntas-por-la-muerte-de-un-pensionado-de-la-fiscalia-en-bucaramanga/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-20T22:32:17Z",
+   "id": "9ee5e6ee5742"
+  },
+  {
+   "titulo": "Se acaba el descuento del 90 % en multas de tránsito en Piedecuesta",
+   "resumen": "Aquellas personas que registran deudas por infracciones de tránsito cometidas en Piedecuesta, pueden acogerse a este descuento excepcional y lograr una rebaja del 90 % en los intereses.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/TL6BVKJIJZEE5LVX7K762GEN4Q.jpg?auth=3d21ab20b3a2bb0f93497e11c2e0c1a2f96e74f24483fca706064f4d3f34ed42&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/10/20/se-acaba-el-descuento-del-90-en-multas-de-transito-en-piedecuesta/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-20T22:31:42Z",
+   "id": "355a9a4471f7"
+  },
+  {
+   "titulo": "Santandereano representará a Colombia en el Mundial de Tostadores de Café",
+   "resumen": "Gonzalo Mancilla Díaz se coronó campeón del IV Campeonato Colombiano de Tostadores y representará al país en la competencia mundial que se realizará en Nueva Orleans, Luisiana, Estados Unidos.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/ZCDWVPDTG5AZVIIN5KNNRLISH4.jpeg?auth=129c7f157c39be515e7a76fd044fd1cec27dbbdbb72739b74661de244d167a28&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/santander/2026/10/20/santandereano-representara-a-colombia-en-el-mundial-de-tostadores-de-cafe/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-20T22:27:24Z",
+   "id": "1788009a2512"
+  },
+  {
+   "titulo": "La IA transforma la educación: así podría cambiar el trabajo de los docentes y el aprendizaje de los alumnos",
+   "resumen": "La automatización de tareas académicas puede liberar tiempo para la mentoría y la atención personalizada. Sin embargo, el uso de estas herramientas también plantea riesgos para el aprendizaje.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/GXVURTRGPZFC3PZXNAZVIESMKE.jpeg?auth=94060bc9159b1367eb017fcfc875648a68417882d841aafb914098da68f4bb22&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/mundo/tecnologia/2026/10/20/la-ia-transforma-la-educacion-asi-podria-cambiar-el-trabajo-de-los-docentes-y-el-aprendizaje-de-los-alumnos/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-20T22:24:06Z",
+   "id": "c44f48f20611"
+  },
+  {
+   "titulo": "¿Qué pasó con los $3.600 millones del drenaje pluvial de Riohacha? Ministro denuncia siete suspensiones y Alcaldía explica dónde está el dinero",
+   "resumen": "Se trata de la misma obra anunciada por el presidente Abelardo de la Espriella hace un mes en Riohacha.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/20/6ad7e586940a3.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/que-paso-con-los-3-600-millones-del-drenaje-pluvial-de-riohacha-ministro-denuncia-siete-suspensiones-y-alcaldia-explica-donde-esta-el-dinero-3595023",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-20T22:19:44Z",
+   "id": "321d3c1e741c"
+  },
+  {
+   "titulo": "Floridablanca abrirá inscripciones para entregar ayudas técnicas a personas con discapacidad",
+   "resumen": "Sillas de ruedas, caminadores y colchones antiescaras hacen parte de los elementos que entregará la Administración del alcalde José Fernando Sánchez. La postulación será virtual y solo durante dos días.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/473SKQVZYNHYJAGHIYGWRYFQTI.jpg?auth=e11872e0d29112480244163e4d03527358c3a6adabeba2696b58e36e3c685f8f&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/area-metropolitana/floridablanca/2026/10/20/floridablanca-abrira-inscripciones-para-entregar-ayudas-tecnicas-a-personas-con-discapacidad/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-20T22:18:36Z",
+   "id": "32df4d369bc8"
+  },
+  {
+   "titulo": "Joven murió tras ser baleado cerca de una tienda en Santander",
+   "resumen": "Brian Guzmán murió tras ser baleado cerca de una tienda del barrio El Progreso, en Barrancabermeja. Aunque fue trasladado a una clínica, no logró sobrevivir a las heridas.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/RDI62OBOSRDZFK5ORYE6ONMXHI.png?auth=109070ac5c6ef636eb5c25d1be5f76418c5181464d6627f689bc664a08e4ad12&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/judicial/2026/10/20/joven-murio-tras-ser-baleado-cerca-de-una-tienda-en-santander/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-20T22:16:05Z",
+   "id": "19600f2b2f47"
+  },
+  {
+   "titulo": "Cecilia Moreno presenta ‘Poemas para el alma’: de las aulas y la política a su primera obra de poesía",
+   "resumen": "La educadora y escritora Cecilia Moreno Rodríguez, nacida en Guadalupe, Santander, presenta Poemas para el alma, su primera edición de poesías.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/KLAOEQMVCRCR7FPAWXXB2AQIMI.png?auth=674915cb2856c7706dc347799e54a67b46b3be0b4b4327b1dc464308be9183be&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/entretenimiento/cultura/magazin-cultural/2026/10/20/cecilia-moreno-presenta-poemas-para-el-alma-de-las-aulas-y-la-politica-a-su-primera-obra-de-poesia/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-20T22:15:38Z",
+   "id": "d4a9600cfa74"
+  },
+  {
+   "titulo": "El primer piloto de transporte de carga urbana con drones en Colombia inició en Medellín: estos son los pormenores de la operación aérea",
+   "resumen": "En la mañana de este martes se realizó el primer viaje con carga transportada por un dron en Medellín en un trayecto de menos de cinco minutos.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/20/6ad7d6c61dfd4.r_d.1588-678-0.png",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/el-primer-piloto-de-transporte-de-carga-urbana-de-drones-en-colombia-inicio-en-medellin-estos-son-los-pormenores-de-la-operacion-aerea-3595001",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-20T22:13:12Z",
+   "id": "3599a0a2282d"
+  },
+  {
+   "titulo": "Santander recibirá $3,3 billones en 2027 tras ajustes en el Congreso",
+   "resumen": "Santander recibirá $3,2 billones en 2027 por parte del Gobierno Nacional en el presupuesto regionalizado. Frente al primer debate, el departamento ganó recursos para acueductos. A esa inversión se suman $100.000…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/PKCWAYGXPZFQHCSMQEUGJMK4BQ.jpeg?auth=e19f35eb10d255f8cde6ca6186a1f8f3e741872b15cf247b4c428faad71c524f&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/economia/2026/10/20/santander-recibira-33-billones-en-2027-tras-ajustes-en-el-congreso/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-20T21:58:09Z",
+   "id": "820d94cd9cfc"
+  },
+  {
+   "titulo": "Video delató a un hombre que arrojaba cascos y partes de motos a un arroyo de Barranquilla: deberá responder por multa de $976.673",
+   "resumen": "La Policía Ambiental identificó y sancionó al responsable. Este año, el Distrito ha retirado 14.200 toneladas de basura de arroyos y caños.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/20/6ad7dcf2e2b9d.png",
+   "enlace": "https://www.eltiempo.com/colombia/barranquilla/video-delato-a-un-hombre-que-arrojaba-cascos-y-partes-de-motos-a-un-arroyo-de-barranquilla-debera-responder-por-multa-de-976-3595015",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-20T21:42:32Z",
+   "id": "ac339b60fb8f"
+  },
+  {
+   "titulo": "Alcalde de Barranquilla, Alejandro Char, se pronunció sobre video de hombres que arrojaron cascos y desechos a un arroyo: ‘No puede seguir pasando’",
+   "resumen": "El hecho se conoció en la mañana de este martes 20 de octubre a la altura de la diagonal 88 con carrera 5E.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/20/6ad7ab55c0c9a.r_d.604-441-0.png",
+   "enlace": "https://www.eltiempo.com/colombia/barranquilla/alcalde-de-barranquilla-alejandro-char-se-pronuncio-sobre-video-de-hombres-que-arrojaron-cascos-y-desechos-a-un-arroyo-no-puede-seguir-pasando-3594950",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-20T21:27:07Z",
+   "id": "cb5c3bf370cb"
+  },
+  {
+   "titulo": "Mujer campesina dio a luz a trillizos en San Carlos, Córdoba: clama por apoyo monetario y social",
+   "resumen": "La familia enfrenta dificultades económicas y solicita ayuda al Gobierno Nacional, a las autoridades locales y a la ciudadanía.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/20/6ad7d13f62cf7.r_d.57-186-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/mujer-campesina-dio-a-luz-a-trillizos-en-san-carlos-cordoba-clama-por-apoyo-monetario-y-social-3594976",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-20T21:08:38Z",
+   "id": "0791cf98fe5b"
   },
   {
    "titulo": "Indignante: sellan una empresa y capturan a cinco personas con fines penales por realizar descargas de residuos peligrosos a la bahía de Cartagena",
@@ -66,91 +374,14 @@
    "id": "c3c2410ef8d5"
   },
   {
-   "titulo": "Presidencia auditará proceso de selección del aliado estratégico alumbrado público de Cali",
-   "resumen": "La Secretaría de Transparencia del Gobierno Nacional remitió a EMCALI y a la Alcaldía un oficio en el que se solicita una auditoría al proceso de selección del aliado estratégico para el alumbrado público de Cali.. La…",
-   "imagen": "https://caracol.com.co/resizer/v2/FKHU4KBIWFG65JIOTF2DB5W7CM.jpeg?auth=2a3a1af74a858f235accb72f35a206dbdf997e6e6e6e1903dc5d7caf83e7d52b&smart=true&width=1280&height=720",
-   "enlace": "https://caracol.com.co/2026/10/20/presidencia-auditara-proceso-de-seleccion-del-aliado-estrategico-alumbrado-publico-de-cali/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-20T20:24:58Z",
-   "id": "c2e13c46cf56"
-  },
-  {
-   "titulo": "Marcela Peralta, la líder que conecta la generosidad con los sueños de jóvenes santandereanos",
-   "resumen": "Marcela Peralta, participante de Lideremos y líder de filantropía de la UNAB, impulsa un modelo que combina donaciones, apoyo institucional y aporte familiar para que jóvenes con talento y dificultades económicas puedan…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/YBT3WBLS25EG3E4FGDQRELCYDM.jpeg?auth=cbced9e4d4e05f2e5418b963f16af980253649623c1c9ff546551897dbbd5cf4&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/area-metropolitana/2026/10/20/marcela-peralta-la-lider-que-conecta-la-generosidad-con-los-suenos-de-jovenes-santandereanos/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-20T20:24:44Z",
-   "id": "1ae9c5cc1930"
-  },
-  {
-   "titulo": "Concurso Procuraduría General: ¿Cuándo publican la lista oficial de admitidos? Cronograma",
-   "resumen": "Las personas que se inscribieron en el concurso de méritos de la Procuraduría General de la Nación deben estar atentos a las fechas de publicación de resultados, presentación de reclamaciones y recursos de apelación…",
-   "imagen": "https://caracol.com.co/resizer/v2/4PO634RJHRGYZGPUNKIME24GI4.png?auth=5bcc7dc54d0e28544abd470cb8b48b6775d46a331bdf1d549773bfd3c441e8c8&smart=true&width=768&height=576",
-   "enlace": "https://caracol.com.co/2026/10/20/concurso-procuraduria-general-cuando-publican-la-lista-oficial-de-admitidos-cronograma/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-20T20:24:19Z",
-   "id": "7de4c84c261b"
-  },
-  {
-   "titulo": "María Angélica Arenas, la santandereana que quiere transformar la enseñanza del inglés en Santander",
-   "resumen": "María Angélica Arenas Paredes, participante de la cohorte 2026 de Lideremos, quiere impulsar una política pública de bilingüismo a 10 años en Santander. Tras estudiar en Londres y liderar proyectos educativos en…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/PG7HVIIEY5FIFG7AE37OFSGDNE.jpeg?auth=44a579bbb7c26c887ffcfd597f4402d195d49f73ab81ede5318b7fea4e8b28da&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/area-metropolitana/2026/10/20/maria-angelica-arenas-la-santandereana-que-quiere-transformar-la-ensenanza-del-ingles-en-santander/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-20T20:23:07Z",
-   "id": "04583d098ced"
-  },
-  {
-   "titulo": "María Fernanda Carrascal, bajo investigación por lo ocurrido con una niña en protesta",
-   "resumen": "El organismo busca establecer si la representante indujo a una menor a lanzar expresiones contra el presidente durante una movilización del 14 de octubre.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/WJZ6JHZGVNDVTA22YAAQURBNI4.png?auth=2aa1dc4467bcc4661e06eef433a680eb5e676d8657ba02f5dbd6b8cde15d4bc2&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/colombia/2026/10/20/maria-fernanda-carrascal-bajo-investigacion-por-lo-ocurrido-con-una-nina-en-protesta/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-20T20:22:48Z",
-   "id": "9e647d755a50"
-  },
-  {
-   "titulo": "Dorado Tarde: resultado del sorteo de hoy martes 20 de octubre de 2026",
-   "resumen": "Conozca el resultado del Dorado Tarde y La Quinta del martes 20 de octubre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/LJ6AFAIIONEDPK4NI6BEJ6E7OI.png?auth=55e2934746fc8ce06965ef2d02c79cd015600975fe8ec619d3da061ad949d371&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/20/dorado-tarde-resultado-del-sorteo-de-hoy-martes-20-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-20T20:21:00Z",
-   "id": "352be92ebb16"
-  },
-  {
-   "titulo": "Procuraduría investiga a Armando Benedetti y Angie Rodríguez por presunto plan contra figuras políticas",
-   "resumen": "La Procuraduría abrió una investigación disciplinaria contra Armando Benedetti y Angie Rodríguez por su presunta participación en un plan que habría buscado obtener testimonios de antiguos jefes paramilitares para…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/OM6TLDKGJBFSZM4VNDYEVTKJAU.jpg?auth=59952a5e8c13bb736d3b94b032c8c3209c1afa9c0e197e13f22ea9898807c82c&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/colombia/2026/10/20/procuraduria-investiga-a-armando-benedetti-y-angie-rodriguez-por-presunto-plan-contra-figuras-politicas/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-20T20:20:27Z",
-   "id": "480c67d6c57f"
-  },
-  {
    "titulo": "Incautan más de 8.000 productos de contrabando en San Gil",
-   "resumen": "Mercancía extranjera de contrabando avaluada en más de $45 millones quedó bajo custodia de la Dirección de Impuestos y Aduanas Nacionales (DIAN), tras una serie de controles adelantados junto con la Policía Nacional en…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/Z4FKE6UBQNBJBA5PCF5WYPIA34.jpg?auth=f908a0d454cd962e7b6d0b72b46cea77cde8a7fab1c6c5c8a7443167ac1da7de&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/santander/guanenta/2026/10/20/incautan-mas-de-8000-productos-de-contrabando-en-san-gil/",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTN4WXQyai1Ka0x4TXE4WkR6TVNxWnAweGE0QXdIR2o5ME5HOXNNV010ZTEycmNTdmcwaVFZd3U2MlY4cVBmM1U2bzVOQUZXS3ZFeHdGd0RWcnAtVUQ1UktvRkEwWTlEOTRCbWZVY2M3RzF4SVhuTmhBR196V0VISm14aXJFLVlSa3RPUEtFVmtLeFFYR3NFSzd4WVIxYTlnMzdVSkJFa3lOT3d5V2hTWlRiek8?oc=5",
    "medio": "Vanguardia",
-   "fuente": "vanguardia",
+   "fuente": "provincia",
    "region": "Santander",
-   "fecha": "2026-10-20T20:19:41Z",
+   "fecha": "2026-10-20T20:20:33Z",
    "id": "17681eb523cb"
   },
   {
@@ -165,160 +396,6 @@
    "id": "760322f3ddfe"
   },
   {
-   "titulo": "Defensa de Verónica Alcocer entregó a la Fiscalía informe técnico sobre su viaje a Venezuela",
-   "resumen": "En desarrollo... Este es el informe de Verónica Alcocer",
-   "imagen": "https://caracol.com.co/resizer/v2/L645BWVTLBBU3FGX3OSBUKVTUY.jpg?auth=be066124c380281e4515c5d262457be69779cbc05c4489cc3fe9c511b23d3498&smart=true&width=649&height=507",
-   "enlace": "https://caracol.com.co/2026/10/20/defensa-de-veronica-alcocer-entrego-a-la-fiscalia-informe-tecnico-sobre-su-viaje-a-venezuela/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-20T20:16:22Z",
-   "id": "e7717ea227a8"
-  },
-  {
-   "titulo": "Desde este miércoles, más de mil jóvenes del Magdalena Medio recibirán pagos de Renta Joven",
-   "resumen": "1.149 jóvenes del Magdalena Medio recibirán los pagos de Renta Joven en octubre. Conoce las fechas de entrega, los montos y cómo reclamar la transferencia de Prosperidad Social.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/ATHVUQ3R3VHH5ADAHVUYRTCUFI.jpeg?auth=dc15f042ad5d0a8878bce89befcf0246d4715c8f9028f53fbb2513bd0439d4d0&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/santander/barrancabermeja/2026/10/20/desde-este-miercoles-mas-de-mil-jovenes-del-magdalena-medio-recibiran-pagos-de-renta-joven/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-20T20:15:43Z",
-   "id": "c8e268582f28"
-  },
-  {
-   "titulo": "Las libretas secretas de los artistas del siglo XIX llegan a Bucaramanga de la mano de Beatriz González y Verónica Uribe",
-   "resumen": "Verónica Uribe Hanabergh revelará en Bucaramanga cómo fue investigar estos cuadernos junto a Beatriz González y qué pueden contar hoy sobre la intimidad creativa de los artistas.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/5BR7F4KUYVHOTA4XBT4UB5IAYA.png?auth=f86adb99c865fdcf305a00ae54838bfc2fc43fe98b24e04f4b221021e8f73a34&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/entretenimiento/cultura/magazin-cultural/2026/10/20/las-libretas-secretas-de-los-artistas-del-siglo-xix-llegan-a-bucaramanga-de-la-mano-de-beatriz-gonzalez-y-veronica-uribe/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-20T20:14:55Z",
-   "id": "576bfdca943c"
-  },
-  {
-   "titulo": "Piscina y estadio del colegio Guanentá de San Gil fueron arrendados por un canon mensual de $1,5 millones",
-   "resumen": "La piscina y el estadio del Colegio Nacional San José de Guanentá, en San Gil, ya fueron asignados a operadores privados, luego de que se adelantaran los procesos de contratación a través de la plataforma Secop II.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/FPZIEORFF5HOFPZ4YTGQCQDXN4.jpg?auth=1f997506b9d891f4127677cfba33f0f442dc136817c7e8b2f830de3e280bd8b6&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/santander/guanenta/2026/10/20/piscina-y-estadio-del-colegio-guanenta-de-san-gil-fueron-arrendados-por-un-canon-mensual-de-15-millones/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-20T20:13:53Z",
-   "id": "accf7b3f2904"
-  },
-  {
-   "titulo": "Pereira vs Chicó: siga EN VIVO el minuto a minuto del partido de la fecha 15 en la Liga Colombiana",
-   "resumen": "La decimoquinta fecha del fútbol colombiano sigue su curso este martes 10 de octubre con el duelo entre Deportivo Pereira y Boyacá Chicó , el cual se llevará a cabo en el Estadio de Palmaseca. Aunque ambos equipos están…",
-   "imagen": "https://caracol.com.co/resizer/v2/V43AV4MQIFCJ3M2ASSOTD4AQSY.jpg?auth=15caee5aba6d992d8b91246b0084f16925140b60fbf4cf077bcbabffe087e924&smart=true&width=896&height=640",
-   "enlace": "https://caracol.com.co/2026/10/20/pereira-vs-chico-siga-en-vivo-el-minuto-a-minuto-del-partido-de-la-fecha-15-en-la-liga-colombiana/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-20T20:08:27Z",
-   "id": "a03138ac4207"
-  },
-  {
-   "titulo": "“Vamos rumbo a Argentina”: senador Ocampo calificó el nuevo presupuesto como “el de la mentira”",
-   "resumen": "El Congreso de la República aprobó el Presupuesto General de la Nación por 634,9 billones de pesos para 2027 , con 57 votos a favor y dos en contra en el Senado, y 112 votos favorables y uno contrario en la Cámara de…",
-   "imagen": "https://caracol.com.co/resizer/v2/ARFGZZJJKZH7BGNFNGDM7ADIRQ.jpg?auth=1939ad921c8fcd0d8818622eb9ebbbe146e84979cfed1698929a2823ead6e489&smart=true&width=1280&height=855",
-   "enlace": "https://caracol.com.co/2026/10/20/vamos-rumbo-a-argentina-senador-ocampo-califico-el-nuevo-presupuesto-como-el-de-la-mentira/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-20T20:04:35Z",
-   "id": "1a55465e8a81"
-  },
-  {
-   "titulo": "Motilón Tarde: resultado del sorteo del martes 20 de octubre de 2026",
-   "resumen": "¿Ganó el Motilón Tarde? Consulte el número ganador del sorteo del martes 20 de octubre de 2026 y revise si es el nuevo afortunado del chance en la región.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/7YYAYZSMGBAQFAWQU4LWNXJLMA.jpeg?auth=0b2556d132881a205aa423a3d6b424522abcc05d6ad37378871943cf21e034ec&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/20/motilon-tarde-resultado-del-sorteo-del-martes-20-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-20T20:01:53Z",
-   "id": "9f852026b992"
-  },
-  {
-   "titulo": "Último rastro de María Alejandra Molina, modelo de Bogotá desaparecida en Cali tras asistir a viaje de trabajo: pistas clave y extraña versión que dio",
-   "resumen": "La hermana de la joven de 27 años habló con EL TIEMPO y entregó detalles de transferencias y pagos que se hicieron desde Cali. Esto se sabe.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/20/6ad7c234bda06.r_d.267-301-0.png",
-   "enlace": "https://www.eltiempo.com/colombia/cali/ultimo-rastro-de-maria-alejandra-molina-modelo-de-bogota-desaparecida-en-cali-tras-asistir-a-viaje-de-trabajo-pistas-clave-y-extrana-version-que-dio-3594989",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-20T20:01:35Z",
-   "id": "9d7ffe0012f9"
-  },
-  {
-   "titulo": "FCV reunirá este jueves al sector salud para dialogar sobre los retos de humanizar la atención",
-   "resumen": "La agenda incluirá temas como inteligencia artificial con propósito humano, seguridad del paciente, empatía, voluntades anticipadas y participación de pacientes y colaboradores en la transformación del cuidado.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/KQBMWIQJL5BKDFR52STI5BOFUY.jpg?auth=d348766eef88ea971b1d491e22e51569ace94558e9796c76dc0cda898b447391&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/contenido-especial/2026/10/20/fcv-reunira-este-jueves-al-sector-salud-para-dialogar-sobre-los-retos-de-humanizar-la-atencion/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-20T20:01:25Z",
-   "id": "115aa1837318"
-  },
-  {
-   "titulo": "Muere recordado actor y villano de telenovelas ‘Muchachitas’ y ‘Soñadoras’, a los 67 años",
-   "resumen": "El fallecimiento del actor y comediante mexicano Carlos Miguel fue confirmado por su amigo y colega Roberto Tello. Hasta el momento, no se han revelado las causas de su muerte.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/G2WC3376KZEN7CQX5AJS6OGX4I.webp?auth=d74ae9ec06bb865bf0aee0ea13695bc5c53e254833aec0d7aed61fd0cf9f0ec5&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/entretenimiento/tendencias/2026/10/20/muere-un-recordado-actor-y-villano-de-telenovelas-muchachitas-y-sonadoras-a-los-67-anos/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-20T19:54:22Z",
-   "id": "8183968634f1"
-  },
-  {
-   "titulo": "Culona Día: resultado del sorteo del martes 20 de octubre de 2026",
-   "resumen": "Conozca los resultados del último sorteo de Culona Día del martes 20 de octubre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/UKQT7KWURJG35H7TCNFPEI2LOU.png?auth=20c8ba11dde5066ed513dd3932ff016595cc7714bcc89a27d1922f3509769af2&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/20/culona-dia-resultado-del-sorteo-del-martes-20-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-20T19:53:56Z",
-   "id": "36b38bea01a4"
-  },
-  {
-   "titulo": "Abren inscripciones para quienes deseen capacitarse para atender emergencias en Barrancabermeja",
-   "resumen": "Barrancabermeja abrió inscripciones para capacitar a 200 ciudadanos como primeros respondientes en emergencias. El curso incluye primeros auxilios, gestión del riesgo y prácticas presenciales.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/IQ5XBH6V2ZERFHYMWYXOABRBIU.jpg?auth=a6033255ee325a8adc34891184e97110aafdb818471432da8bd1e4cc0f9929ba&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/santander/barrancabermeja/2026/10/20/abren-inscripciones-para-quienes-deseen-capacitarse-para-atender-emergencias-en-barrancabermeja/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-20T19:47:22Z",
-   "id": "5c7e503a0277"
-  },
-  {
-   "titulo": "PGN abrió investigación a Benedetti y Rodríguez por presuntos ofrecimientos a exparamilitares",
-   "resumen": "La Procuraduría General de la Nación abrió investigación disciplinaria contra el exministro del Interior Armando Benedetti y la exdirectora del Departamento Administrativo de la Presidencia de la República (Dapre)…",
-   "imagen": "https://caracol.com.co/resizer/v2/JIYQAALU4NGFJJX4OZTFKFTACE.jpg?auth=126e11f8bda4ff413a04f3f69bc895a04da763a257e88468aa71fb05d520928d&smart=true&width=650&height=488",
-   "enlace": "https://caracol.com.co/2026/10/20/pgn-abrio-investigacion-a-benedetti-y-rodriguez-por-presuntos-ofrecimientos-a-exparamilitares/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-20T19:44:13Z",
-   "id": "4b32cad3b012"
-  },
-  {
-   "titulo": "Andrés Camilo Ardila ganó la etapa reina del Clásico RCN 2026 y es el nuevo líder de la carrera",
-   "resumen": "El corredor tolimense del NU Colombia se impuso en la cuarta etapa, de 133 kilómetros entre Ibagué y Sevilla, con un tiempo de 3 horas, 39 minutos y 11 segundos.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/R6BWJANA2VHCHA7ZIFC3DTTBYQ.jpg?auth=142107025ff157ecf174d547209e845074cce52aaafd7965354b0b2443abe544&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/deportes/ciclismo/2026/10/20/andres-camilo-ardila-gano-la-etapa-reina-del-clasico-rcn-2026-y-es-el-nuevo-lider-de-la-carrera/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-20T19:43:11Z",
-   "id": "8eb098b89663"
-  },
-  {
    "titulo": "Incautaron más de 8.000 artículos de contrabando avaluados en $45 millones en San Gil",
    "resumen": "",
    "imagen": "",
@@ -330,48 +407,15 @@
    "id": "57e07d143cbc"
   },
   {
-   "titulo": "La impresionante cantidad de basura que termina en los arroyos de Barranquilla: 14.200 toneladas retiradas en 2026 y 50 canales intervenidos",
-   "resumen": "La última jornada dejó 5.800 toneladas de basura retiradas de los canales pluviales. Plásticos y escombros siguen obstruyendo el paso del agua.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/20/6ad79f2fe79b6.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/barranquilla/la-impresionante-cantidad-de-basura-que-termina-en-los-arroyos-de-barranquilla-14-200-toneladas-retiradas-en-2026-y-50-canales-intervenidos-3594947",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
+   "titulo": "Newsroom RCN Radio | Noticias en vivo y última hora",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9SRk9HTl91RkpGLU5BZ084Snl6b3VVdEZsTkRIel9EdHVMem9EV0RXWGcwd0p0Ym8zYmQ4WmYyZ2FBd25D?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
    "region": "Colombia",
-   "fecha": "2026-10-20T19:01:00Z",
-   "id": "a9a37f18acbb"
-  },
-  {
-   "titulo": "Cuentas claras para iluminar a Cali: Emcali y Presidencia revisarán con lupa la modernización del alumbrado público",
-   "resumen": "La entidad acatará la solicitud de la Secretaría de Transparencia, en un proceso para garantizar la protección de los recursos públicos.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/07/6a4d75b7de5f7.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/cuentas-claras-para-iluminar-a-cali-emcali-y-presidencia-revisaran-con-lupa-la-modernizacion-del-alumbrado-publico-3594980",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-20T19:00:20Z",
-   "id": "418ff0b8f08f"
-  },
-  {
-   "titulo": "'Pedimos el favor de que nos vengan a liberar': confinamiento y zozobra en Linares, Nariño, por combates entre grupos armados",
-   "resumen": "Los confinamientos y desplazamientos forzados de pobladores están desbordando la capacidad de las autoridades.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2024/01/03/659576ae4642f.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/pedimos-el-favor-de-que-nos-vengan-a-liberar-confinamiento-y-zozobra-en-linares-narino-por-combates-entre-grupos-armados-3594971",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-20T18:38:17Z",
-   "id": "c61e889b13c3"
-  },
-  {
-   "titulo": "Precluyeron caso contra el padre Francisco de Roux por presunto encubrimiento de abusos sexuales",
-   "resumen": "El juez 64 Penal del Circuito con Función de Conocimiento de Bogotá precluyó la investigación por presunto encubrimiento de casos de pederastia en favor del padre Francisco de Roux, argumentando atipicidad de la…",
-   "imagen": "https://caracol.com.co/resizer/v2/UTVGZR6PLVFBZCCBETTCYGPWIM.jpeg?auth=a1097bb7279661765acc47ce1839830792c7c207d8eda3497ef956a110aaadb7&smart=true&width=1359&height=715",
-   "enlace": "https://caracol.com.co/2026/10/20/precluyeron-caso-contra-el-padre-francisco-de-roux-por-presunto-encubrimiento-de-abusos-sexuales/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-20T18:20:57Z",
-   "id": "0f5a6078975a"
+   "fecha": "2026-10-20T18:21:06Z",
+   "id": "9f3b3d900d2c"
   },
   {
    "titulo": "Un motociclista quedó atrapado en cemento fresco por ingresar a una vía cerrada en San Gil, Santander: todo quedó en video",
@@ -383,17 +427,6 @@
    "region": "Santander",
    "fecha": "2026-10-20T18:18:08Z",
    "id": "ff618cb6d1b7"
-  },
-  {
-   "titulo": "Demolieron pesebreras que pertenecían al Cartel de Medellín en San Cristóbal y estaban vinculadas a un famoso rejoneador cercano a los Ochoa",
-   "resumen": "Las pesebreras estaban ubicadas al lado de un colegio. Con el tiempo se convirtieron en un punto de consumo de sustancias.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/20/6ad7a4ad106cb.png",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/demolieron-pesebreras-que-pertenecian-al-cartel-de-medellin-en-san-cristobal-y-estaban-vinculadas-a-un-famoso-rejoneador-cercano-a-los-ochoa-3594960",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-20T18:17:14Z",
-   "id": "3de2d7e31eb3"
   },
   {
    "titulo": "Resultado Chontico Día hoy, 20 de octubre de 2026: consulte el número ganador del sorteo de este martes",
@@ -418,17 +451,6 @@
    "id": "b45fe59dcfce"
   },
   {
-   "titulo": "Entre escombros y un 'Súper Niño': la inversión privada, una tabla de salvación para la economía del Valle del Cauca",
-   "resumen": "Corficolombiana presentó un análisis sobre los retos macroeconómicos del país y la región, alertando sobre factores que pueden agudizar la crisis.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/20/6ad7a37132658.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/entre-escombros-y-un-super-nino-la-inversion-privada-una-tabla-de-salvacion-para-la-economia-del-valle-del-cauca-3594948",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-20T17:28:29Z",
-   "id": "96dbf2cb6330"
-  },
-  {
    "titulo": "[Video] Motociclista quedó atrapado en cemento fresco y terminó discutiendo con trabajadores de la obra",
    "resumen": "",
    "imagen": "",
@@ -449,6 +471,17 @@
    "region": "Colombia",
    "fecha": "2026-10-20T15:35:19Z",
    "id": "29d957964291"
+  },
+  {
+   "titulo": "RCN Radio",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZUtMbkJsR1VBVWFCNEljVzhmTE5Xb2dtQTVtN3FZaTZRaEItNkZFUl9FT3N0SENiOXh4dVJlY3ZubVNGUkhFc2pwZW1Hc1E1NC1zTHJrd1JHaFo1OVlETnZSbmRFRHVaQ2VOTHpIazJlRDlvc2NWRDVkVEx3dkVSd3o1Z2VlclR5QXA5dkcwY2ZxM2Y3Z19qU084OEk?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-10-20T14:58:29Z",
+   "id": "480277a57d6e"
   },
   {
    "titulo": "11 procedimientos contra el contrabando dejan 8.134 unidades de mercancía aprehendidas en Santander",
@@ -517,15 +550,15 @@
    "id": "11b9d5854a0c"
   },
   {
-   "titulo": "RCN Radio",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51eU5JNnNhb1NCWkJINkR3MXU5N0FTQV9JNDRrUlFWY0hFeVExNFNEMzlRZG5TT1M1ZXdfVXBnUEJJWmdMY2pIVzZzT2FXdnp0cWwwV3ZXdldtUQ?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
+   "titulo": "Tabla del descenso 2026: Así quedó tras la derrota del Chicó a manos del Deportivo Pereira",
+   "resumen": "Transcurre la fecha 15 de la Liga colombiana , la cual va depurando los equipos que no siguen en carrera por entrar a cuadrangulares. Del mismo modo, cobra más relevancia la clasificación del descenso, que tiene…",
+   "imagen": "https://caracol.com.co/resizer/v2/BMHBSJBPYJCGZMFF2PBIZNVWXU.jpeg?auth=14d63dbec7040b2696ab55730cfa0ad6e0c2b3969fcc1399816ec029bb206cf1&smart=true&width=3049&height=2033",
+   "enlace": "https://caracol.com.co/2026/10/18/tabla-del-descenso-2026-asi-quedo-tras-derrotas-de-jaguares-y-boyaca-chico/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-10-20T05:01:24Z",
-   "id": "480277a57d6e"
+   "fecha": "2026-10-20T03:03:19Z",
+   "id": "3a6cfa975132"
   },
   {
    "titulo": "Hormiga culona: origen guane, historia y festivales de Santander",
@@ -537,50 +570,6 @@
    "region": "Santander",
    "fecha": "2026-10-20T00:32:11Z",
    "id": "92d6cb0db924"
-  },
-  {
-   "titulo": "De los cuestionamientos a los elogios: las versiones que rodean a la Alcaldía de El Socorro",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVHlQcnZwZHdFUWE2NWg4SnlmRTVFVWxRdlN4TE51V05ZY3FuLUpYeGFJWE9YMUtRVE03bjR2S0kwX3BBbDNPTXpnM18xckh6MzltNUlLeTh6cENxQURiOS1lS2lhYkxTWnlWVFBxUW9GUlo5d29PUjZKN2ZuWGFmdERmUE95V3dwNWwxMG1jOE5zYW12OTlCUHhCZTk0QnBNVDRHeVBHNjhjQVJBamR6MW8wMDFMYVNhNWczUEh3WHh4dmI5?oc=5",
-   "medio": "Oro Noticias TV",
-   "fuente": "provincia",
-   "region": "Santander",
-   "fecha": "2026-10-19T22:54:07Z",
-   "id": "c001e7c12f64"
-  },
-  {
-   "titulo": "Cortes de agua en Medellín y Bello este martes 20 de octubre de 2026: barrios afectados y horarios",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNDdwN2Z3REVzVEswcGdTd1NWanZKNU10ZzBRX3dJQTFLVUktdUt3UmNhTzFxd0VpQ3hYSFVJRjk4YnpuNms3dndJOXZ1eWVPUjRtTVFVX25xUFlFYnBxMldnNGRIVnhFem1HeVNWN1h2N1NjaktDd1NhZWI2YWJmR3c0MzBxMTBGTExQT2F3ZlZiWFNjcV9DdXZLM0Q2bXhOOC1NWXR2bmtzYm5uWjFqY0lPU09zV2JMX1VDem1NQTNsakk2aENoM0s3YUtSaVdUSVE?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-10-19T21:44:23Z",
-   "id": "a6f449803417"
-  },
-  {
-   "titulo": "Líneas de base en San Andrés: ¿Qué debe cumplir Colombia tras fallos de La Haya? Abogado explica",
-   "resumen": "El Gobierno anunció que el próximo 30 de noviembre publicará la cartografía oficial con las líneas de base para medir los espacios marítimos del archipiélago de San Andrés, Providencia y Santa Catalina. Fabián Cárdenas…",
-   "imagen": "https://caracol.com.co/resizer/v2/WRRWPOL7Y5FG7J4YOV67TVJSEQ.jpg?auth=48be5efa76c3adaeb73a65c7e26447e599306efdf598275295b279ac1e569725&smart=true&width=650&height=488",
-   "enlace": "https://caracol.com.co/2026/10/19/lineas-de-base-en-san-andres-que-debe-cumplir-colombia-tras-fallos-de-la-haya-abogado-explica/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-19T21:03:09Z",
-   "id": "3403f3bb17b8"
-  },
-  {
-   "titulo": "Más de 30 organizaciones culturales de Santander se reunirán en San Gil para definir una agenda común",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbTMwZGl5a3FDZk9hSlpEajMwVHJpdm8wVTI1SjZOTzBrNXZiaHB3M3hUSEFTZm5pRWZKNGVsMnYzR2xwcy16Q2JUYk5sSzhwaUZpSlREaUdxTWVJdEpGN2pRTmp0UUpoWnpHVUNEQUpYV1BVcHhoRFBoRjJ6QzdPaDJkcmtyZnlxcDd4ZGZxOUlVSnVOeHN0VXJqVXdoR0VrM2J3Sk1aTnIxUXp5Y1hURU44WW4yWUdheGN4REJZRU9BZGFOb0x5bC1lbnptZmYxczlYRnlYWHgtRU5zeDRJX1NPVnB4dUpRRE1WUGN0QU5RRk9lWUJz?oc=5",
-   "medio": "Vanguardia",
-   "fuente": "provincia",
-   "region": "Santander",
-   "fecha": "2026-10-19T20:32:00Z",
-   "id": "9bde92130ba4"
   }
  ]
 }
