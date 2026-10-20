@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-20T06:01:33Z",
+ "actualizado": "2026-10-20T11:37:22Z",
  "fuentes": [
   {
    "id": "vanguardia",
@@ -44,15 +44,147 @@
  ],
  "noticias": [
   {
-   "titulo": "Denuncian a expresidente Gustavo Petro en la Comisión de Acusaciones por el ‘Pacto de Valledupar’",
-   "resumen": "La representante a la Cámara Carol Borda junto con la bancada del partido Salvación Nacional, radicaron una nueva denuncia formal ante la Comisión de Investigación y Acusación de la Cámara de Representantes en contra…",
-   "imagen": "https://caracol.com.co/resizer/v2/DJC2AAD2JVHLPAWEMLZQE42KM4.jpg?auth=47238f79a3b00704970fa1f1074f91af64b9c7fa9033078a2ddefb5574b47a1f&smart=true&width=889&height=500",
-   "enlace": "https://caracol.com.co/2026/10/20/denuncian-a-expresidente-gustavo-petro-en-la-comision-de-acusaciones-por-el-pacto-de-valledupar/",
+   "titulo": "Risaralda pide más tecnología y vehículos para reforzar la seguridad al occidente del departamento",
+   "resumen": "Desde la Secretaría de Gobierno departamental se trabaja en tres líneas principales, entre ellas una mayor presencia institucional en el territorio y una articulación permanente con la Policía Metropolitana, la Policía…",
+   "imagen": "https://caracol.com.co/resizer/v2/T3ZBFB4R6JGITMFBVCZXCK5CZM.jpeg?auth=b94b12b46fddc52bc2b3e0eee47891b79ff1fbd18c5192d07241b109259bf59d&smart=true&width=1280&height=960",
+   "enlace": "https://caracol.com.co/2026/10/20/risaralda-pide-mas-tecnologia-y-vehiculos-para-reforzar-la-seguridad-al-occidente-del-departamento/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-10-20T04:45:34Z",
-   "id": "73f6046805e5"
+   "fecha": "2026-10-20T11:27:13Z",
+   "id": "bc435944399e"
+  },
+  {
+   "titulo": "¿Qué pasa con la pintura del puente de la calle 153 en Bogotá?: IDU responde",
+   "resumen": "En las redes sociales se cuestionó el estado del puente peatonal y para bicicletas ubicado en la Autopista Norte con calle 153 y que fue entregado el pasado 6 de agosto en el marco de los cumpleaños de Bogotá. De…",
+   "imagen": "https://caracol.com.co/resizer/v2/MQDZK2VQ5RAKTDQCH5XJBQEL5E.jpg?auth=995d06eb050dd2ee87fd0184ab541b462fbfb18c34dc64b2f5b6ac1cabcfcfa0&smart=true&width=1600&height=1204",
+   "enlace": "https://caracol.com.co/2026/10/20/que-pasa-con-la-pintura-del-puente-de-la-calle-153-en-bogota-idu-responde/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-20T11:10:19Z",
+   "id": "00c163d16b4d"
+  },
+  {
+   "titulo": "Gobernador de Santander considera viciado proceso de elección de rector de UTS; Lengerke responde",
+   "resumen": "El gobernador de Santander , Juvenal Díaz Mateus hizo reparos al actual proceso de elección del rector de la Universitaria Tecnológica de Santander, UTS , al que calificó de “ viciado ”; a su turno, el actual rector de…",
+   "imagen": "https://caracol.com.co/resizer/v2/4ABSSQPSXZCNHBG5QJZIP2O7R4.jpeg?auth=19011ad6810d84de6b0ab9176563749fd1980bcf3b3052745d8aafc151993684&smart=true&width=3936&height=2216",
+   "enlace": "https://caracol.com.co/2026/10/20/gobernador-de-santander-considera-viciado-proceso-de-eleccion-de-rector-de-uts-lengerke-responde/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-20T11:05:14Z",
+   "id": "bb7bbecdf032"
+  },
+  {
+   "titulo": "Alcaldía de Medellín y empresa privada capacitarán a emprendedores en comercio electrónico",
+   "resumen": "La Alcaldía de Medellín anunció la capacitación de más de 200 emprendedores de la ciudad que quieran recibir formación en comercio electrónico e inteligencia artificial , lo cual se logra gracias a la experiencia de la…",
+   "imagen": "https://caracol.com.co/resizer/v2/UABIGOTI6JOXJANDDPFFA4FZ7Y.jpg?auth=b883a26b78c5398999f41571dc7e8dac9feb8529f453505cbbe5dc20535f555b&smart=true&width=1080&height=625",
+   "enlace": "https://caracol.com.co/2026/10/20/alcaldia-de-medellin-y-empresa-privada-capacitaran-a-emprendedores-en-comercio-electronico/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-20T11:05:10Z",
+   "id": "c26b3ec9d72d"
+  },
+  {
+   "titulo": "Cementerio Central de Cúcuta: UBPD realizará dos nuevas fases de búsqueda de personas desaparecidas",
+   "resumen": "La Unidad de Búsqueda de Personas dadas por Desaparecidas -UBPD - dio a conocer que, en lo que resta del año 2026, se adelantarán dos intervenciones forenses más en el Cementerio Central de Cúcuta. De acuerdo con la…",
+   "imagen": "https://caracol.com.co/resizer/v2/RGXR5GYFD5FJ5PJZRHCKHXN75Y.jpeg?auth=f87921509e49fdf3a61edebb253091c11acbc242980bb3813f9733c086d234fa&smart=true&width=1600&height=1066",
+   "enlace": "https://caracol.com.co/2026/10/20/cementerio-central-de-cucuta-ubpd-realizara-dos-nuevas-fases-de-busqueda-de-personas-desaparecidas/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-20T11:04:37Z",
+   "id": "7ed7c106f9e1"
+  },
+  {
+   "titulo": "Investigan asesinato del propietario de Pollo Broaster en Dosquebradas: esto es lo que se sabe",
+   "resumen": "Nuevos detalles comienzan a conocerse sobre el asesinato de Danilo Alberto Urrego García, de 34 años, empresario y propietario de Pollo Broaster , que fue encontrado sin vida en una bodega ubicada sobre la variante La…",
+   "imagen": "https://caracol.com.co/resizer/v2/6LS4BOGS5BC7HDAJOWBW3P4RYI.jpg?auth=9ea6e4427ecb6bc6aea251fe83a4d6cf8708ef29fda972e7949142f30790d56b&smart=true&width=1200&height=800",
+   "enlace": "https://caracol.com.co/2026/10/20/investigan-asesinato-del-propietario-de-pollo-broaster-en-dosquebradas-esto-es-lo-que-se-sabe/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-20T10:58:47Z",
+   "id": "4bc504803bad"
+  },
+  {
+   "titulo": "Incendio Forestal en Villa de Leyva, ya esta controlado en un 90%",
+   "resumen": "Justo cuando se cumplía un mes de la emergencia por un incendio que se salió de control y terminó consumiendo cerca de 1.500 hectáreas de vegetación, Villa de Leyva de nuevo enfrenta una crisis ambiental. La tarde del…",
+   "imagen": "https://caracol.com.co/resizer/v2/JRO3KSYFDVCWBDRZBB4PLH66TY.jpg?auth=d5680f8bfa43799c3b7b60019743561ec6867c73d16ac192bbe7a38d74d313bc&smart=true&width=1200&height=675",
+   "enlace": "https://caracol.com.co/2026/10/20/incendio-forestal-en-villa-de-leyva-ya-esta-controlado-en-un-90/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-20T10:54:27Z",
+   "id": "84221da11b86"
+  },
+  {
+   "titulo": "Habitante de El Carmen, en Norte de Santander, retiró cilindro con insignias del ELN",
+   "resumen": "Durante ocho días los habitantes de El Carmen, en Norte de Santander, estuvieron bajo el temor por la posible presencia de explosivos en un cilindro, con insignias del ELN, que fue abandonado a escasos metros de la…",
+   "imagen": "https://caracol.com.co/resizer/v2/HJTNK2QP4JC7LDTLE4QRF3VL4M.jpeg?auth=027293d1656f0c854e05ec6440f99bba4c89ad83ed15780d2a638130ecd3d268&smart=true&width=251&height=172",
+   "enlace": "https://caracol.com.co/2026/10/20/habitante-de-el-carmen-en-norte-de-santander-retiro-cilindro-con-insignias-del-eln/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-20T10:40:23Z",
+   "id": "1b75547f5bc9"
+  },
+  {
+   "titulo": "Habló amiga de turista española que murió tras volcamiento de lancha en el Parque Tayrona, en Santa Marta: 'No hubo atención alguna'",
+   "resumen": "La embarcación zarpó desde un punto no autorizado en Buritaca y no contaba con chalecos salvavidas suficientes para los pasajeros.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/02/18/6995aa0d6feef.r_d.832-465-0.png",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/hablo-amiga-de-turista-espanola-que-murio-tras-volcamiento-de-lancha-en-el-parque-tayrona-santa-marta-no-hubo-ni-atencion-alguna-3594799",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-20T09:30:00Z",
+   "id": "374a8608c0e1"
+  },
+  {
+   "titulo": "¡Atención, conductores! Pico y placa en Bucaramanga para el martes 20 de octubre de 2026: estas son las placas restringidas",
+   "resumen": "La medida regirá durante 14 horas en la capital de Santander. Consulte los dígitos que no podrán circular y los horarios establecidos.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/11/6a7b4eef0af1c.png",
+   "enlace": "https://www.eltiempo.com/colombia/santander/atencion-conductores-pico-y-placa-en-bucaramanga-para-el-martes-20-de-octubre-de-2026-estas-son-las-placas-restringidas-3594792",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-20T08:15:00Z",
+   "id": "49218e16085b"
+  },
+  {
+   "titulo": "¡Ojo, conductor! Pico y placa en Cali para el martes 20 de octubre de 2026: estas placas tendrán restricción",
+   "resumen": "La medida aplicará para vehículos particulares entre las 6:00 a. m. y las 7:00 p. m. Consulte los números restringidos y las excepciones.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2023/08/15/64dbb00a0cc3d.png",
+   "enlace": "https://www.eltiempo.com/colombia/cali/ojo-conductor-pico-y-placa-en-cali-para-el-martes-20-de-octubre-de-2026-estas-placas-tendran-restriccion-3594686",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-20T07:33:00Z",
+   "id": "2ac1e6551409"
+  },
+  {
+   "titulo": "¡Ojo, conductor! Pico y placa en Pereira para el martes 20 de octubre de 2026: estos carros y motos no podrán circular",
+   "resumen": "La medida regirá durante 14 horas en la capital de Risaralda. Conozca los dígitos restringidos y cómo aplica la rotación para cada vehículo.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2025/02/13/67ae9f4e6cbec.png",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/ojo-conductor-pico-y-placa-en-pereira-para-el-martes-20-de-octubre-de-2026-estos-carros-y-motos-no-podran-circular-3594790",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-20T07:30:00Z",
+   "id": "cda6beefda48"
+  },
+  {
+   "titulo": "Pico y placa en Medellín para el martes 20 de octubre de 2026: estos son los carros, motos y taxis con restricción",
+   "resumen": "La medida para carros particulares y motocicletas regirá de 5:00 a. m. a 8:00 p. m. Los taxis tendrán un horario y una rotación diferentes.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2021/09/06/61365581959c4.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/pico-y-placa-en-medellin-para-el-martes-20-de-octubre-de-2026-estos-son-los-carros-motos-y-taxis-con-restriccion-3594684",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-20T07:30:00Z",
+   "id": "e35cc881c316"
   },
   {
    "titulo": "Megacárcel metropolitana para sindicados del Valle de Aburrá presenta un avance constructivo del 47%: inversión supera los 675.000 millones de pesos",
@@ -66,50 +198,6 @@
    "id": "8b2c0909ce3c"
   },
   {
-   "titulo": "El Senado de la República aprobó el presupuesto del 2027: estos son los cambios claves",
-   "resumen": "Tras intensas discusiones entre oficialistas y opositores y la negativa del gobierno a aprobar grandes cambios, el Senado le dio el sí definitivo al Presupuesto General de la Nación 2027 . Al cierre de esta edición…",
-   "imagen": "https://caracol.com.co/resizer/v2/UO6XTTIVIBFHFFEEA4WDXRHTBM.jpeg?auth=744b0d03743ae7ab385e9ee8812658eec5f434e645584488ff3de0893cb61ca3&smart=true&width=5433&height=3622",
-   "enlace": "https://caracol.com.co/2026/10/20/el-senado-de-la-republica-aprobo-el-presupuesto-del-2027-estos-son-los-cambios-claves/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-20T03:52:35Z",
-   "id": "30a3c5988d66"
-  },
-  {
-   "titulo": "Capturaron a alias ‘Jhoncito’ cuando recibía $200.000 de una extorsión en Cartagena",
-   "resumen": "denuncia ciudadana permitió la captura en flagrancia de alias ‘Jhoncito’, señalado de extorsionar a comerciantes de los barrios Chiquinquirá y Las Gaviotas, en Cartagena. El procedimiento se realizó cuando presuntamente…",
-   "imagen": "https://caracol.com.co/resizer/v2/C5SPFKBNCZGLXCDGMDPIRTMV5Q.jpeg?auth=5b9bf984c61a86ef8578707c209606224f0297e15b697f603bb0219b2972de6b&smart=true&width=1600&height=900",
-   "enlace": "https://caracol.com.co/2026/10/20/capturaron-a-alias-jhoncito-cuando-recibia-200000-de-una-extorsion-en-cartagena/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-20T03:06:41Z",
-   "id": "5a9d86719524"
-  },
-  {
-   "titulo": "Reportan incendio forestal en Villa de Leyva, Boyacá: la emergencia se presenta en la parte alta del sector de Boquerón",
-   "resumen": "Por el momento, se desconoce la extensión del área y las causas que habrían originado la situación. El gobernador anunció atención inmediata.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/19/6ad6aed1655b2.r_d.600-800-0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/reportan-incendio-en-forestal-en-villa-de-leyva-boyaca-la-emergencia-se-presenta-en-la-parte-alta-del-sector-de-boqueron-3594778",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-20T03:05:29Z",
-   "id": "6a4a12d02bb9"
-  },
-  {
-   "titulo": "Tabla del descenso 2026: Así quedó tras derrotas de Jaguares y Boyacá Chicó",
-   "resumen": "Transcurre la fecha 15 de la Liga colombiana , la cual va depurando los equipos que no siguen en carrera por entrar a cuadrangulares. Del mismo modo, cobra más relevancia la clasificación del descenso, que tiene…",
-   "imagen": "https://caracol.com.co/resizer/v2/2EWEI2LDGZG2NJOFNFXENDBIDE.jpg?auth=edb53915828a775b1787e1d5c310e7c9fe4d8775857bd58b72e4d27aba406656&smart=true&width=1570&height=1065",
-   "enlace": "https://caracol.com.co/2026/10/18/tabla-del-descenso-2026-asi-quedo-tras-derrotas-de-jaguares-y-boyaca-chico/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-20T03:03:19Z",
-   "id": "d49d498e4c10"
-  },
-  {
    "titulo": "A 14 ascienden los muertos en una mina artesanal de oro en Santa Bárbara de Iscuandé, Nariño: hay otras siete personas heridas",
    "resumen": "El gobernador de Nariño, Luis Alfonso Escobar, solicitó revisar la situación de la minería artesanal.",
    "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/19/6ad6626a42c12.r_d.784-665-0.jpeg",
@@ -119,17 +207,6 @@
    "region": "Colombia",
    "fecha": "2026-10-20T02:40:55Z",
    "id": "385c545d6d6e"
-  },
-  {
-   "titulo": "Habitante de El Carmen, Norte de Santander, retiró un cilindro marcado con las siglas del Eln que llevaba una semana en la vía",
-   "resumen": "La comunidad había alertado a las autoridades sin obtener respuesta, hasta que un vecino decidió trasladarlo él mismo hasta la Policía.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/19/6ad6b10029e25.r_d.1620-806-0.png",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/habitante-de-el-carmen-norte-de-santander-retiro-un-cilindro-sospechoso-marcado-con-las-siglas-del-eln-que-llevaba-una-semana-en-la-via-3594767",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-20T02:10:13Z",
-   "id": "5aa57eaf3fd5"
   },
   {
    "titulo": "Video | Relato de robo tras el concierto de Ryan Castro en Cali y el llamado a denunciar de las autoridades: 'Me meten la mano y siento un quemonazo'",
@@ -143,17 +220,6 @@
    "id": "78dca3b84769"
   },
   {
-   "titulo": "Mujer denuncia presunta agresión física de su suegro en un centro comercial de Cali: 'Me dijo que tenía mucho poder porque trabaja con el Estado'",
-   "resumen": "Desde la Gobernación adelantan la ruta de atención, mientras que la Secretaría de Movilidad de Cali aclara el vínculo del hombre implicado en el caso.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/19/6ad6a3d0044b8.r_d.364-385-0.png",
-   "enlace": "https://www.eltiempo.com/colombia/cali/mujer-denuncia-presunta-agresion-fisica-de-su-suegro-en-un-centro-comercial-de-cali-me-dijo-que-tenia-mucho-poder-porque-trabaja-con-el-estado-3594756",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-20T01:00:57Z",
-   "id": "c70848cd8eea"
-  },
-  {
    "titulo": "Hormiga culona: origen guane, historia y festivales de Santander",
    "resumen": "",
    "imagen": "",
@@ -163,39 +229,6 @@
    "region": "Santander",
    "fecha": "2026-10-20T00:32:11Z",
    "id": "92d6cb0db924"
-  },
-  {
-   "titulo": "Resultados de las loterías de Cundinamarca, Tolima, ColorLoto y Baloto Revancha HOY 19 de octubre",
-   "resumen": "La Lotería de Cundinamarca y la Lotería del Tolima se juegan todos los lunes al mismo tiempo a las 10:30 de la noche, de allí que este día sea conocido como ‘lunes millonario’. Vea aquí: Resultados Lotería de Boyacá del…",
-   "imagen": "https://caracol.com.co/resizer/v2/UEBHSNA5LNC3DISXLJIKUU3DV4.jpg?auth=e802f9826846ea797edbe456f3f12858eb3cbfcabf7dc6a8dcf2d826b2ebf5fc&smart=true&width=2000&height=1300",
-   "enlace": "https://caracol.com.co/2026/10/20/resultados-de-las-loterias-de-cundinamarca-tolima-colorloto-y-baloto-revancha-hoy-19-de-octubre/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-20T00:30:00Z",
-   "id": "bfe802272192"
-  },
-  {
-   "titulo": "Alianza vence en su visita a Pasto y sigue con vida por clasificar: resumen del partido",
-   "resumen": "Alianza Valledupar consiguió una importante victoria por 1-0 frente a Deportivo Pasto en un partido por la fecha 15 de la Liga Colombiana 2026-ll. El compromiso que tuvo como protagonista a Israel Alba, autor del único…",
-   "imagen": "https://caracol.com.co/resizer/v2/KUN2BVL3XRBM5G4UDFT3B3DASA.jpeg?auth=ee11d328f9c4e72c1996defd3ae5599db9bf941610f441d0ee0f979e243b84da&smart=true&width=1023&height=767",
-   "enlace": "https://caracol.com.co/2026/10/20/en-vivo-pasto-vs-alianza-en-vivo-por-liga-colombiana-2026-ll-vea-aqui-el-minuto-a-minuto/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-20T00:26:15Z",
-   "id": "3b3b3c66d949"
-  },
-  {
-   "titulo": "Alejandro Char agradece a Abelardo De La Espriella el respaldo de $300.000 millones para recuperar Bocas de Ceniza en Barranquilla",
-   "resumen": "El proyecto conectará el Gran Malecón, la Ciénaga de Mallorquín y Puerto Mocho. El ministro Mauricio Gómez anunció recursos para la intervención.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/19/6ad6a11c3d00b.png",
-   "enlace": "https://www.eltiempo.com/colombia/barranquilla/alejandro-char-agradece-a-abelardo-de-la-espriella-el-respaldo-de-300-000-millones-para-recuperar-bocas-de-ceniza-en-barranquilla-3594752",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-19T23:08:47Z",
-   "id": "b480f0ee0bde"
   },
   {
    "titulo": "De los cuestionamientos a los elogios: las versiones que rodean a la Alcaldía de El Socorro",
@@ -209,28 +242,6 @@
    "id": "c001e7c12f64"
   },
   {
-   "titulo": "“El garaje de las historias”: Un nuevo espacio para contar el legado del automovilismo colombiano",
-   "resumen": "El automovilismo colombiano es protagonista de un encuentro que busca recuperar historias, experiencias y anécdotas que han marcado esta disciplina. Todo esto, se habla en “ El Garaje de las Historias” , una iniciativa…",
-   "imagen": "https://caracol.com.co/resizer/v2/VQHXZWEZYFHRVARGEZIXXXMRGM.jpg?auth=97b4d69465a4ba7c9936fe6d486be6bdafdbc61b1a354355f83f96a97ef64530&smart=true&width=1296&height=864",
-   "enlace": "https://caracol.com.co/2026/10/19/el-garaje-de-las-historias-un-nuevo-espacio-para-contar-el-legado-del-automovilismo-colombiano/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-19T22:50:36Z",
-   "id": "60b46b3fcd83"
-  },
-  {
-   "titulo": "Rescatan los primeros seis cuerpos tras el fatal derrumbe en mina de Santa Bárbara de Iscuandé, Nariño: una mujer fue identificada entre las víctimas",
-   "resumen": "Patricia Copete figura entre las víctimas señaladas por la comunidad tras el desprendimiento de tierra en la zona minera de El Chambero.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/19/6ad6626a42c12.r_d.784-665-0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/rescatan-los-primeros-seis-cuerpos-tras-el-fatal-derrumbe-en-mina-de-santa-barbara-de-iscuande-una-mujer-fue-identificada-entre-las-victimas-3594739",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-19T22:28:44Z",
-   "id": "9190a506bde6"
-  },
-  {
    "titulo": "Cortes de agua en Medellín y Bello este martes 20 de octubre de 2026: barrios afectados y horarios",
    "resumen": "",
    "imagen": "",
@@ -240,17 +251,6 @@
    "region": "Colombia",
    "fecha": "2026-10-19T21:44:23Z",
    "id": "a6f449803417"
-  },
-  {
-   "titulo": "Continúa debate del Presupuesto 2027 en la Cámara: Ya hay quórum decisorio",
-   "resumen": "Tras el receso que se extendió desde las 3:00 de la tarde hasta las 8:00 de la noche, se reanudó la plenaria de la Cámara de Representantes con 99 congresistas registrados, con lo que se cuenta con cuórum decisorio para…",
-   "imagen": "https://caracol.com.co/resizer/v2/UO6XTTIVIBFHFFEEA4WDXRHTBM.jpeg?auth=744b0d03743ae7ab385e9ee8812658eec5f434e645584488ff3de0893cb61ca3&smart=true&width=5433&height=3622",
-   "enlace": "https://caracol.com.co/2026/10/19/se-enredo-debate-de-presupuesto-en-la-camara-sesion-se-reanudara-las-800-de-la-noche/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-19T20:33:49Z",
-   "id": "e30cefdb2674"
   },
   {
    "titulo": "Más de 30 organizaciones culturales de Santander se reunirán en San Gil para definir una agenda común",
@@ -273,6 +273,17 @@
    "region": "Santander",
    "fecha": "2026-10-19T18:27:00Z",
    "id": "05091b7723c9"
+  },
+  {
+   "titulo": "RCN Radio",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUWs2YkVoZjE0MGd0OE5pSy1WVnZMN2xZMVNVOXZLMnFXeGtrR0w0dHJNNC1BdkpoY2F4dHlua0g0blRiTmRQNkgyenF3UjRvWEdiLVdZc09hZ0I1cEhXNEhDMVlZMC1rbG4wUldZeTB0OUZONE5GUkIyS3I2WjF5RWVucWJIQTdVa2k0Xy1UY01JRHhBclAzWE5HSEJRLWVoRWg3REI3Ri13SEh2MjBCYXg3ZkMxc3NPOWRCODU3eUNrMmZHSEVjQUd5a3ZUVDdLVlE?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-10-19T17:59:09Z",
+   "id": "480277a57d6e"
   },
   {
    "titulo": "Resultado Chontico Día hoy, 19 de octubre de 2026: consulte el número ganador del sorteo de este lunes",
@@ -383,17 +394,6 @@
    "region": "Santander",
    "fecha": "2026-10-19T12:31:52Z",
    "id": "bb5b2424d826"
-  },
-  {
-   "titulo": "RCN Radio",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeTVUUXdlVS1Cc1VxRXFsOHFudXdyMG5OOHpwM0tGMmpjOE5hNElpNmtyRHlmWTIyc3JVeGF0N1VkcU12cFhXdjRDclZFMHJxa0JpTmxQZm0tUHRzaExlc2NUdm5nNTZmRUdfck8wdF9EMDNKMWRBTV80U0dKNFRtRm44emtZN0Q0VUNiVmlWa1NJNmRxWmhXTGZaSlZwVE93Q2tqRU1sYXpLRFpyQ1RoTA?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-10-19T09:53:34Z",
-   "id": "480277a57d6e"
   },
   {
    "titulo": "Bus rodó 50 metros por un abismo en Tona, Santander: hay diez heridos, incluidos menores de edad",
