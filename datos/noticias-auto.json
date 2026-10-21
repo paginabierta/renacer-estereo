@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-21T04:48:23Z",
+ "actualizado": "2026-10-21T10:09:04Z",
  "fuentes": [
   {
    "id": "vanguardia",
@@ -44,15 +44,180 @@
  ],
  "noticias": [
   {
-   "titulo": "Revelan lo que habría desatado riña en el Batallón Tarqui de Sogamoso, Boyacá, que terminó con la muerte de un sargento y un soldado: 'Una orden’",
-   "resumen": "Un soldado y un canino terminaron gravemente heridos en el hecho que dejó dos muertos. Las autoridades investigan la hipótesis de la riña.",
+   "titulo": "Concejo de Medellín aprobó la reforma administrativa del Distrito: 40 nuevos bomberos y 60 agentes",
+   "resumen": "El Concejo de Medellín aprobó en segundo debate la reforma administrativa del Distrito , mediante el Proyecto de Acuerdo 107 de 2026, que establece la estructura administrativa del Distrito Especial de Ciencia…",
+   "imagen": "https://caracol.com.co/resizer/v2/IMAN257YJBHIRORKTKRMTZAW5Q.jpg?auth=3332c700cfd271cce852e191472cd2d0d8186226efcfa8d02d749bbc8313eab4&smart=true&width=736&height=552",
+   "enlace": "https://caracol.com.co/2026/10/21/concejo-de-medellin-aprobo-la-reforma-administrativa-del-distrito-40-nuevos-bomberos-y-60-agentes/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-21T09:48:56Z",
+   "id": "043b33fff411"
+  },
+  {
+   "titulo": "CCS entrega recomendaciones para una respuesta efectiva en el Simulacro Nacional de Emergencias",
+   "resumen": ". En el marco de la realización del Simulacro Nacional de Respuesta a Emergencias del próximo 21 de octubre, el Consejo Colombiano de Seguridad (CCS) emitió una serie de recomendaciones dirigidas a empresas…",
+   "imagen": "https://caracol.com.co/resizer/v2/YMUHKPXMX5DENHYEK6LKJTWFPU.jpeg?auth=cf49f5dbc65b7cd5dd5663da5a7f50c71cdd2a01307202e28ba866b02d239179&smart=true&width=1600&height=1200",
+   "enlace": "https://caracol.com.co/2026/10/21/ccs-entrega-recomendaciones-para-una-respuesta-efectiva-en-el-simulacro-nacional-de-emergencias/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-21T09:28:49Z",
+   "id": "1b5956121613"
+  },
+  {
+   "titulo": "Simulacro Nacional de Respuesta a Emergencias: Prepárese para evacuar y participar",
+   "resumen": "Colombia se prepara para el Simulacro Nacional de Respuesta a Emergencias 2026, que se realizará este miércoles 21 de octubre, con la participación de 1.046 municipios de los 32 departamentos , según cifras entregadas…",
+   "imagen": "https://caracol.com.co/resizer/v2/IG266T73ERPQPPLMRSGDKIKAPA.jpg?auth=647f38c5b28f7f9e1183dd0507e9b0818a441cf1bd5abc11988ebc643d45a8f5&smart=true&width=980&height=550",
+   "enlace": "https://caracol.com.co/2026/10/21/simulacro-nacional-de-respuesta-a-emergencias-preparese-para-evacuar-y-participar/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-21T09:14:34Z",
+   "id": "39b8f654a13f"
+  },
+  {
+   "titulo": "Capturado alias ‘Brayan Veneco’, cabecilla de las disidencias de las FARC-EP en el sur de Bolívar",
+   "resumen": "La Policía Nacional capturó en Morales, Bolívar, a alias “Brayan Veneco”, cabecilla de comisión armada del grupo narcoterrorista Estructura 4 del Estado Mayor de Bloques y Frentes (EMBF), facción disidente de las…",
+   "imagen": "https://caracol.com.co/resizer/v2/YKOG3UG2ZNEDJELQ7PQR4YNF54.jfif?auth=bd7d00da50ddafef7832141a9c661e49fbb5a5cd7b0898f3a0f68391970b73f3&smart=true&width=1246&height=799",
+   "enlace": "https://caracol.com.co/2026/10/21/capturado-alias-brayan-veneco-cabecilla-de-las-disidencias-de-las-farc-ep-en-el-sur-de-bolivar/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-21T08:14:09Z",
+   "id": "db807698204d"
+  },
+  {
+   "titulo": "Patio interno de la cancillería vuelve a llamarse ‘Patio de los Novios’",
+   "resumen": "El canciller Omar Bula anunció la decisión de volver a nombrar el patio interno del Palacio de San Carlos ‘Patio de los Novios’ , retirando el nombre ‘Patio Quintín Lame’, que se le había asignado durante la presidencia…",
+   "imagen": "https://caracol.com.co/resizer/v2/F3625ITY2NHVVBLQP2CKHNB6PY.jpeg?auth=7007c21070b337403622d42594daa4deb5f4ad74882040fb41851a5fc039e711&smart=true&width=1280&height=854",
+   "enlace": "https://caracol.com.co/2026/10/21/patio-interno-de-la-cancilleria-vuelve-a-llamarse-patio-de-los-novios/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-21T07:45:19Z",
+   "id": "92746490a6bf"
+  },
+  {
+   "titulo": "Armada Nacional explicó el brindis durante la visita del presidente Abelardo De La Espriella al buque ARC en San Andrés: 'Tradiciones históricas'",
+   "resumen": "La fuerza naval aclaró que el gesto ceremonial busca exaltar el honor de las tropas dedicadas a salvaguardar las aguas del territorio colombiano.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/21/6ad84dc2bf339.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/armada-nacional-explico-el-brindis-durante-la-visita-del-presidente-abelardo-de-la-espriella-al-buque-arc-en-san-andres-tradiciones-historicas-3595084",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-21T06:09:26Z",
+   "id": "4886355709da"
+  },
+  {
+   "titulo": "¿Hasta cuándo debemos pagar por nuestros errores?",
+   "resumen": "La culpa es un demonio que atormenta a muchas personas y que, cuando persiste, puede afectar profundamente su calidad de vida, incluso al final de esta. Debemos diferenciar la culpa de la responsabilidad. Esta última…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/CUMUCND6LBASLFUJKCMD52DNIQ.jpg?auth=5e70b06cd55ecaacbca534df5ded2035a59d7331f1276d4899d6c1300523b479&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/21/hasta-cuando-debemos-pagar-por-nuestros-errores/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-21T06:00:00Z",
+   "id": "d51471aae04a"
+  },
+  {
+   "titulo": "¿Alimentos ultraprocesados afectan negativamente la salud?",
+   "resumen": "En columnas anteriores he citado acreditadas publicaciones que advierten sobre los riesgos para la salud asociados al consumo de alimentos clasificados como ultraprocesados; diferentes a los alimentos procesados…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/4IFRRGEPRRETTH4K54SI7KL6TA.jpg?auth=ec050ef63aefa092488aa394efc583b7054b348ada1a6108618b977c8e3a7e9a&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/21/alimentos-ultraprocesados-afectan-negativamente-la-salud/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-21T06:00:00Z",
+   "id": "82548f759480"
+  },
+  {
+   "titulo": "Que los resultados también se vean",
+   "resumen": "Hace unos días conocimos la noticia de cuatro proyectos de Barrancabermeja afectados por la suspensión de pagos de regalías, por cerca de $24.800 millones. La información llamó mi atención, especialmente porque…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/HIPP36LUJFDWHANMLE3WPUWKB4.jpg?auth=46f585661c47e9d06fb2b3a316ebf5da1dcba494094fbfe8c84ae195e610f650&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/21/que-los-resultados-tambien-se-vean/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-21T06:00:00Z",
+   "id": "5dfb4598393b"
+  },
+  {
+   "titulo": "Lo que cuentan las paredes de la ciudad",
+   "resumen": "Aunque suelen ser fuertemente desestabilizadores del ánimo y la armonía que debe primar en la comunidad, los grafitis que hoy cubren fachadas, muros y espacios públicos en Cabecera y en otros sectores de Bucaramanga no…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/Y77HSAMVDRGCBAKRMUB7GJBV6Y.jpg?auth=9fda64626f20c1611bc18d55707d029290a765be2ce035a22502a229ab61e783&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/editorial/2026/10/21/lo-que-cuentan-las-paredes-de-la-ciudad/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-21T06:00:00Z",
+   "id": "9bc848d9fd97"
+  },
+  {
+   "titulo": "Se fueron ‘de frente’",
+   "resumen": "Caricatura de Yeyo del 21 de octubre de 2026",
+   "imagen": "https://www.vanguardia.com/resizer/v2/ZAH2NBEVONAVLB5YSEG2DIBSAY.jpg?auth=91fb76156bb350140427ab5b0f813a833bc84a3bca0f4f9ca4630f710efdda65&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/caricaturas/2026/10/21/se-fueron-de-frente/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-21T06:00:00Z",
+   "id": "6ba3098709d0"
+  },
+  {
+   "titulo": "Es cuestión de tiempo",
+   "resumen": "Un día cualquiera nos preguntamos qué hicimos con nuestro tiempo. Una pregunta sencilla cuya respuesta podría tomarnos horas e incluso días en responderla. Y lo curioso es que mientras hallamos la forma de hacerlo…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/GPCOHTBE5FCMPEXBVH66NXNOUI.jpg?auth=50f59fc455ed7284f4c04b8538e2816a73e4bd85e2530b7ead85d3d78f2dd961&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/21/es-cuestion-de-tiempo/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-21T06:00:00Z",
+   "id": "dec32a1704a0"
+  },
+  {
+   "titulo": "Movilidad metropolitana: ¿Metrolínea o motos?",
+   "resumen": "No se vislumbre solución al transporte masivo metropolitano. Las obras de recuperación de las doce estaciones de Metrolinea en Bucaramanga, por valor de $ 11.950 millones, son soluciones aisladas y puntuales, no…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/IIEJNG4QWJEFVN4JCOZNEKUWPY.jpg?auth=e41be0cb689b314676d0b430ee34a89774c688bd9a6c72cc9171a79483aebb50&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/21/movilidad-metropolitana-metrolinea-o-motos/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-21T06:00:00Z",
+   "id": "c1d6e032e008"
+  },
+  {
+   "titulo": "Minhacienda pide al Congreso aprobación de 1,2 billones para evitar apagón en Colombia",
+   "resumen": "Durante el debate sobre la situación energética en el país, el ministro de Hacienda y Crédito Público Miguel Gómez habló ante el congreso de la necesidad de aprobar el proyecto de adición presupuestal por $1,2 billones…",
+   "imagen": "https://caracol.com.co/resizer/v2/X4EAFXGPIFGYVBHXKAROZDFGEY.jpg?auth=4499c66d5415654303d9a32f51e02fb6a2e21d117e542fafd3fb14c3c6612696&smart=true&width=2000&height=1500",
+   "enlace": "https://caracol.com.co/2026/10/21/minhacienda-pide-al-congreso-aprobacion-de-12-billones-para-evitar-apagon-en-colombia/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-21T05:48:12Z",
+   "id": "50cc14dd77dc"
+  },
+  {
+   "titulo": "Revelan lo que habría desatado la riña en el Batallón Tarqui de Sogamoso, Boyacá, que terminó con la muerte de un sargento y un soldado: 'Una orden'",
+   "resumen": "Un soldado y un canino terminaron gravemente heridos en el hecho que dejó dos muertos. Las autoridades investigan.",
    "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/20/6ad835ff28145.r_d.155-295-0.png",
    "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/esto-seria-lo-que-habria-desatado-rina-en-el-batallon-tarqui-de-sogamoso-boyaca-que-culmino-con-la-muerte-de-un-sargento-y-un-soldado-una-orden-3595079",
    "medio": "El Tiempo",
    "fuente": "eltiempo",
    "region": "Colombia",
-   "fecha": "2026-10-21T04:16:24Z",
-   "id": "b7610de13f05"
+   "fecha": "2026-10-21T05:44:37Z",
+   "id": "5aee1cdd854c"
+  },
+  {
+   "titulo": "De apartamentos a lotes, alternativas para distintos compradores en Santander",
+   "resumen": "Desde apartamentos con criterios de sostenibilidad hasta casas campestres, viviendas de interés social y lotes para construir, estos desarrollos ofrecen alternativas para diferentes necesidades y presupuestos en…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/GLSDTHGCSZDFTO7IHPX2MLUBGI.jpg?auth=6cb55f74a9bb3955f212c1cb7337bc72790ceb425c54fd21c60bbd8d480c5719&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/contenido-especial/2026/10/21/de-apartamentos-a-lotes-alternativas-para-distintos-compradores-en-santander/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-21T05:00:00Z",
+   "id": "5126d153dcd0"
   },
   {
    "titulo": "Lotería de la Cruz Roja: resultado del sorteo del martes 20 de octubre de 2026",
@@ -121,28 +286,6 @@
    "id": "ac2f9754021e"
   },
   {
-   "titulo": "Once Caldas salva el empate en El Campín ante Millonarios y sigue en la pelea: resumen del partido",
-   "resumen": "Millonarios dejó escapar tres puntos frente a Once Caldas tras empatar 1-1 este martes 20 de octubre en el estadio Nemesio Camacho el Campín , en un partido aplazado de la fecha 13 de la Liga Colombiana 2026-ll . El…",
-   "imagen": "https://caracol.com.co/resizer/v2/4PBJZSLBDZFZLJ6HWNAYGWG3JE.jpeg?auth=b3d78787d10eca1ca7c01e57c1d89cead8aea7afe4230ccc32b6bd3819471f6d&smart=true&width=1280&height=854",
-   "enlace": "https://caracol.com.co/2026/10/21/millonarios-vs-once-caldas-en-vivo-por-liga-colombiana-2026-transmision-y-minuto-a-minuto/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-21T03:24:43Z",
-   "id": "c303cfeb080e"
-  },
-  {
-   "titulo": "Sinuano Noche: resultado del sorteo del martes 20 de octubre de 2026",
-   "resumen": "¿La suerte lo acompañó esta noche? Conozca el número ganador del Sinuano Noche de hoy martes 20 de octubre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/DVUEQEWJSNBU5CXGMWP4EBIGYM.png?auth=faf89f97dd2a0267d4e738dd300ede0947a2df3474a229b8fa0c9011d34a16e3&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/20/sinuano-noche-resultado-del-sorteo-del-martes-20-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-21T03:21:00Z",
-   "id": "ec301b8561b9"
-  },
-  {
    "titulo": "Caribeña Noche: resultado del sorteo de hoy martes 20 de octubre de 2026",
    "resumen": "Resultado del último sorteo de La Caribeña Noche del martes 20 de octubre de 2026.",
    "imagen": "https://www.vanguardia.com/resizer/v2/2NTDVATLUNC6JAMMKR4IZKUR34.png?auth=1879f7d21cf845eab048d4a9f8b61fceb9fc7d2066e6b67fedebc4bf6a98b229&smart=true&width=900&height=600",
@@ -154,52 +297,8 @@
    "id": "f20345b3d10e"
   },
   {
-   "titulo": "Pacto Histórico convoca marcha el 24 de noviembre: estas son las razones",
-   "resumen": "La bancada cuestiona el aumento del servicio de la deuda y la reducción de recursos para la JEP, el Sena y las regiones.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/CVK2WLWD2JAR3A3FDTJ3B7UZQ4.jpeg?auth=89b7c94222b9b1e9125a32b5ee6f98f1f8f381bca1b2477ac0251138a5edf52c&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/colombia/2026/10/20/pacto-historico-convoca-marcha-contra-el-presupuesto-de-2027-estas-son-las-razones/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-21T03:11:22Z",
-   "id": "949ee6e24d07"
-  },
-  {
-   "titulo": "María Angélica Arenas, la líder que quiere transformar la enseñanza del inglés en Santander",
-   "resumen": "María Angélica Arenas Paredes, participante de la cohorte 2026 de Lideremos, quiere impulsar una política pública de bilingüismo a 10 años en Santander. Tras estudiar en Londres y liderar proyectos educativos en…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/PG7HVIIEY5FIFG7AE37OFSGDNE.jpeg?auth=44a579bbb7c26c887ffcfd597f4402d195d49f73ab81ede5318b7fea4e8b28da&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/area-metropolitana/2026/10/20/maria-angelica-arenas-la-santandereana-que-quiere-transformar-la-ensenanza-del-ingles-en-santander/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-21T03:06:07Z",
-   "id": "7929f7c5f8a3"
-  },
-  {
-   "titulo": "Dorado Noche: resultado del sorteo de hoy martes 20 de octubre de 2026",
-   "resumen": "La expectativa crece hoy martes 20 de octubre de 2026 entre miles de apostadores en todo el país por el sorteo de El Dorado Noche.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/PKJVAHEA7NGDJKKV6EJMCC4S6E.png?auth=02ccda7bae1517aca0c0baf48afb615c51caf3c1c2c2afe93fb915973b3cb26a&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/20/dorado-noche-resultado-del-sorteo-de-hoy-martes-20-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-21T03:05:00Z",
-   "id": "7acb563a28f0"
-  },
-  {
-   "titulo": "Muere alias ‘Resorte’, señalado cabecilla financiero del Eln en Norte de Santander",
-   "resumen": "Ricardo Trigos Peñaranda murió en un enfrentamiento con tropas del Ejército en zona rural de Chinácota.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/23M6JJFVLNDUHJQPDV5RSSZCCQ.jfif?auth=f40076ddc0a9c309958fec6d40ac7b0b3026895bfd206ea6307b4e72aab37b43&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/colombia/2026/10/20/muere-alias-resorte-senalado-cabecilla-financiero-del-eln-en-norte-de-santander/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-21T02:57:40Z",
-   "id": "e02809e5ad2d"
-  },
-  {
    "titulo": "Atención: se cae el Presupuesto General 2027 por error de trámite",
-   "resumen": "Fuentes confirmaron a Caracol Radio que se cae el Presupuesto General de la Nación 2027 por un error de trámite, luego de una denuncia de la senadora del Pacto Histórico Esmeralda Hernández. El presupuesto tendrá que…",
+   "resumen": "Fuentes del Gobierno confirmaron a Caracol Radio que se cae el Presupuesto General de la Nación 2027 por un error de trámite , luego de una denuncia de la senadora del Pacto Histórico Esmeralda Hernández. El presupuesto…",
    "imagen": "https://caracol.com.co/resizer/v2/2JTBHGPTJ5FALGYXCT66MC2RRQ.jpeg?auth=5fccc67cc5abe9f363a784c7a88f128608729e1372dded2ca3eb6e3ca2592a80&smart=true&width=1600&height=900",
    "enlace": "https://caracol.com.co/2026/10/21/presupuesto-de-la-espriella-se-caeria-por-falta-de-conciliacion-denuncia-senadora-del-pacto/",
    "medio": "Caracol Radio",
@@ -207,83 +306,6 @@
    "region": "Colombia",
    "fecha": "2026-10-21T02:47:59Z",
    "id": "523203c25d10"
-  },
-  {
-   "titulo": "Con Álvaro Montero y Sebastián Villa titulares, Boca Juniors es semifinalista de Copa Sudamericana",
-   "resumen": "Boca Juniors se clasificó este martes 20 de octubre a la final de la Copa Sudamericana 2026, tras vencer por 1-3 al Vasco da Gama en el partido de vuelta de las semifinales jugado en el estadio Maracaná de Río de…",
-   "imagen": "https://caracol.com.co/resizer/v2/2IJVFFGVRFE3ZH4Y4HC2XDKWOE.jpg?auth=ed3b4294b1b5ed668d6a5047937a09296c7220d549abf336081746e489cb5205&smart=true&width=4339&height=2894",
-   "enlace": "https://caracol.com.co/2026/10/21/con-alvaro-montero-y-sebastian-villa-titulares-boca-juniors-es-semifinalista-de-copa-sudamericana/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-21T02:45:58Z",
-   "id": "ea5305bf4130"
-  },
-  {
-   "titulo": "Danilo Rojas asumirá la presidencia de la JEP: estos son sus retos para 2026-2028",
-   "resumen": "El magistrado obtuvo 23 votos y reemplazará a Alejandro Ramelli el 5 de noviembre.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/X56WUGUOGNEVLNK66RWL6E3QMY.jfif?auth=2f4b1138cfdce5e934836ae13a281afd26478bab75e8ade3ae8f3e83b8cca00a&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/colombia/2026/10/20/danilo-rojas-asumira-la-presidencia-de-la-jep-estos-son-sus-retos-para-2026-2028/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-21T02:42:15Z",
-   "id": "367cc8ec3ff0"
-  },
-  {
-   "titulo": "Policía capturó a alias ‘Chogua’ con una escopeta hechiza en Villanueva",
-   "resumen": "El procedimiento se registró en la calle 15, cerca del parque principal, cuando uniformados que adelantaban labores de vigilancia encontraron al señalado con el arma de fuego en su poder. Según las autoridades, se…",
-   "imagen": "https://caracol.com.co/resizer/v2/C6IKWSMAGJA4VEGQZF5XIUWTNI.jpeg?auth=69cfa623e0da2e7727a6dcffb9db3a01eae989e233e7de75b003053849fa6bf3&smart=true&width=1280&height=771",
-   "enlace": "https://caracol.com.co/2026/10/21/policia-capturo-a-alias-chogua-con-una-escopeta-hechiza-en-villanueva/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-21T02:35:37Z",
-   "id": "4e5e582243e6"
-  },
-  {
-   "titulo": "Fue capturado el alcalde de Villanueva, Santander y un concejal por presunta corrupción",
-   "resumen": "Tras una diligencia en Bucaramanga con hombres de la Dirección de Investigación Criminal e Interpol (Dijin) de la Policía Nacional se dio la captura del alcalde de Villanueva, José Luis Gómez Mancilla, por presuntos…",
-   "imagen": "https://caracol.com.co/resizer/v2/XLU2APFB7VBGHMWHSL7VU434HY.png?auth=e3bd88723ff425bc16ebd49930bbf65570477dbef1767c02aa2e0b8e6b00cca7&smart=true&width=650&height=488",
-   "enlace": "https://caracol.com.co/2026/10/21/fue-capturado-el-alcalde-de-villanueva-santander-y-un-concejal-por-presunta-corrupcion/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-21T02:33:17Z",
-   "id": "e39cc27c56da"
-  },
-  {
-   "titulo": "Enviaron a prisión a dos hombres señalados de agredir a sus madres en Cartagena",
-   "resumen": "Dos hombres señalados de agredir a sus madres fueron enviados a centros carcelarios por decisión de jueces de control de garantías en Cartagena, Bolívar, tras las investigaciones adelantadas por la Fiscalía General de…",
-   "imagen": "https://caracol.com.co/resizer/v2/3HCZPNEBAVAM7KSWKRTPYXRPHY.jpeg?auth=3c0ccf47851b2b8f397e916b17b1cff1bc676e27dc63dac1e48a8e3849f6927d&smart=true&width=1600&height=900",
-   "enlace": "https://caracol.com.co/2026/10/21/enviaron-a-prision-a-dos-hombres-senalados-de-agredir-a-sus-madres-en-cartagena/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-21T02:30:18Z",
-   "id": "60d4ce5823f6"
-  },
-  {
-   "titulo": "Capturaron a cinco personas por presunta venta de drogas a domicilio y al menudeo en Bucaramanga",
-   "resumen": "Ocho allanamientos permitieron capturar a cinco personas señaladas de comercializar estupefacientes. Tres de los procesados fueron enviados a la cárcel.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/K2U4P2NHYRECFDJVPEVNK4AEWU.jpeg?auth=e8fb7289b700b314f61c40eb5350fcb220dbbd53783e438126925c280c590feb&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/judicial/2026/10/20/capturaron-a-cinco-personas-por-presunta-venta-de-drogas-a-domicilio-y-al-menudeo-en-bucaramanga/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-21T02:24:10Z",
-   "id": "08893fd61ef7"
-  },
-  {
-   "titulo": "Verónica Alcocer entrega informe a la Fiscalía sobre su viaje a Venezuela",
-   "resumen": "El documento reúne una reconstrucción del desplazamiento realizado el 31 de enero de 2023 y elementos que su defensa pide contrastar con las declaraciones de Eva Ferrer.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/CJX4HNL3SJH55HIGEICEPQPNWI.png?auth=5b9aca81ef887d851ee262b1c6ec819e4d5f6a2cca136e01e4109e0683af5daf&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/colombia/2026/10/20/veronica-alcocer-entrega-informe-a-la-fiscalia-sobre-su-viaje-a-venezuela/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-21T02:09:48Z",
-   "id": "5b4e1fe6574e"
   },
   {
    "titulo": "Video delató a un hombre que arrojaba cascos y partes de motos a un arroyo de Barranquilla: deberá responder por multa de $976.673",
@@ -306,6 +328,17 @@
    "region": "Colombia",
    "fecha": "2026-10-21T01:28:06Z",
    "id": "c2bfd9564ad4"
+  },
+  {
+   "titulo": "5,5 millones de bogotanos participarán en el Simulacro Nacional de este 21 de octubre",
+   "resumen": "A partir de las 10:00 a. m. de este miércoles 21 de octubre, Bogotá realizará la edición número 18 del simulacro, con un total de 5.501.786 de participantes registrados. La jornada contará con la participación de…",
+   "imagen": "https://caracol.com.co/resizer/v2/L7K3MXTSNZBLNAOPL73Z3FTXTM.png?auth=eb31dc8255bfdf7781c2855130a368616a0216862f6a63ee85560f81522aeacc&smart=true&width=758&height=413",
+   "enlace": "https://caracol.com.co/2026/10/21/55-millones-de-bogotanos-participaran-en-el-simulacro-nacional-de-este-21-de-octubre/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-21T00:50:45Z",
+   "id": "5fa17a8431d5"
   },
   {
    "titulo": "Mujer campesina dio a luz a trillizos en San Carlos, Córdoba: clama por apoyo monetario y social",
@@ -363,17 +396,6 @@
    "id": "820d94cd9cfc"
   },
   {
-   "titulo": "Alcalde de Barranquilla, Alejandro Char, se pronunció sobre video de hombres que arrojaron cascos y desechos a un arroyo: ‘No puede seguir pasando’",
-   "resumen": "El hecho se conoció en la mañana de este martes 20 de octubre a la altura de la diagonal 88 con carrera 5E.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/20/6ad7ab55c0c9a.r_d.604-441-0.png",
-   "enlace": "https://www.eltiempo.com/colombia/barranquilla/alcalde-de-barranquilla-alejandro-char-se-pronuncio-sobre-video-de-hombres-que-arrojaron-cascos-y-desechos-a-un-arroyo-no-puede-seguir-pasando-3594950",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-20T21:27:07Z",
-   "id": "cb5c3bf370cb"
-  },
-  {
    "titulo": "Nueva prima para militares y policías en Colombia: Estos son los rangos que podrían recibirla",
    "resumen": "",
    "imagen": "",
@@ -429,6 +451,17 @@
    "id": "c88d487a4c4d"
   },
   {
+   "titulo": "¿Cómo será el nuevo estadio El Campín de Bogotá?: Se conocen imágenes y nuevos detalles",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ3RaU1V6RDRtc29BanlLRXFtbGphQko5WldsRnZNR0wtMTFDTVdPcWZ2U3pRMXdWeVFHdlB4X24tRXdsZWM5QW5vSXppMVplcFIzSFlvaVRKSHVEOUV5VnFETFRFemNrQzQ1c2hGSTR5WVBMN2FNcnk3c1Zhbks1YVBhQjlqcUZoT19MRk1PQlRxNDZVRC1vdzVNV29nNjhYYzBXR1JMUEdGczVQUmxJejk1TWQ4cXlCcFhtUXJnT04?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-10-20T17:58:21Z",
+   "id": "59a551b1cdcc"
+  },
+  {
    "titulo": "EPM anuncia cortes de agua en Medellín, Bello y Envigado este miércoles 21 de octubre del 2026: barrios afectados y horarios",
    "resumen": "",
    "imagen": "",
@@ -460,6 +493,17 @@
    "region": "Colombia",
    "fecha": "2026-10-20T15:35:19Z",
    "id": "29d957964291"
+  },
+  {
+   "titulo": "RCN Radio",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZUtMbkJsR1VBVWFCNEljVzhmTE5Xb2dtQTVtN3FZaTZRaEItNkZFUl9FT3N0SENiOXh4dVJlY3ZubVNGUkhFc2pwZW1Hc1E1NC1zTHJrd1JHaFo1OVlETnZSbmRFRHVaQ2VOTHpIazJlRDlvc2NWRDVkVEx3dkVSd3o1Z2VlclR5QXA5dkcwY2ZxM2Y3Z19qU084OEk?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-10-20T14:58:29Z",
+   "id": "480277a57d6e"
   },
   {
    "titulo": "11 procedimientos contra el contrabando dejan 8.134 unidades de mercancía aprehendidas en Santander",
@@ -528,59 +572,15 @@
    "id": "c674ac2cafa0"
   },
   {
-   "titulo": "Voces del Deporte del 19 de octubre de 2026",
+   "titulo": "Banda Show Santa Teresita de Arauca se coronó campeona nacional en Santander",
    "resumen": "",
    "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV3lxUFF0NWxINWJmemN2Y2NFOHhtVXdfRGVsOHZmUlZfblMyQ09Kdk1HQ1FmQ01jdGloWFNyVWlLdktuTVFNS3F1RktnYjBsRFgzdG12M0EzTmRnS0ZJQUFDQXhxR3ExdG9wLWxXVTR0Y2MtYjlodGdES2x1bjhGMVhIUXpoNk1aclhDcHFUR2NOUURnOFZ3MGhfOWhTc2ZT?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-10-20T05:24:32Z",
-   "id": "11b9d5854a0c"
-  },
-  {
-   "titulo": "RCN Radio",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51eU5JNnNhb1NCWkJINkR3MXU5N0FTQV9JNDRrUlFWY0hFeVExNFNEMzlRZG5TT1M1ZXdfVXBnUEJJWmdMY2pIVzZzT2FXdnp0cWwwV3ZXdldtUQ?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-10-20T05:01:24Z",
-   "id": "480277a57d6e"
-  },
-  {
-   "titulo": "Tabla posiciones Liga colombiana: Así quedó con el empate de Millonarios y la derrota de Nacional",
-   "resumen": "Se disputó la fecha 15 del campeonato, la cual fue clave de cara a conocer equipos que se quedaron sin posibilidades de clasificar a los cuadrangulares. La jornada comenzó el sábado 17 de octubre y terminó el martes 20…",
-   "imagen": "https://caracol.com.co/resizer/v2/DWYG2S7ZCVDRTKODMMMCLDBDDA.jpeg?auth=2dbd4c7edf24bd53019f96fab1c413e7a6af6a1c14dfbaf0c17a9b0062564373&smart=true&width=1280&height=854",
-   "enlace": "https://caracol.com.co/2026/10/18/tabla-de-posiciones-de-liga-colombiana-2026-ii-asi-quedo-tras-goleadas-de-nacional-y-millonarios/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-20T03:00:36Z",
-   "id": "5b6301a48eda"
-  },
-  {
-   "titulo": "Hormiga culona: origen guane, historia y festivales de Santander",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fZEYyRkNwMGJQSndPUU9yWXdhRUhPZmxzZnB1ZjB4S3Z4OWJ3ZkdmUzRzVzB3WHhuNkxna0dtYjFKTnQxb1hyeUxMcWFuN19teHJSMkY4RjJhRExsZnR0ZEpoelJDMmxrQjhXcnphTQ?oc=5",
-   "medio": "Radio Nacional de Colombia",
+   "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSjdSdjJfaENqaFNyWFRORUxSTGJOM2YyOFVpQ0JCay1mVWJMMHRoY0pWMXByLVZKSElkdEpUZkRoU1dyUmFRRGJCLWQwTEM0aHBXdHktaGJKcDBXUi15dXRuXzIxdFZMTUpwWVIxUkRHQXZOc3BTNlBldy1kN3pLazdRR255YjNKeEJGaW9qRlRXUjJkSTRwZFhvQVhCUzZUd2VDUDdsbXhtQQ?oc=5",
+   "medio": "La Voz del Cinaruco",
    "fuente": "provincia",
    "region": "Santander",
-   "fecha": "2026-10-20T00:32:11Z",
-   "id": "92d6cb0db924"
-  },
-  {
-   "titulo": "Reclasificación 2026: Cupos a torneos Conmebol tras empate de Millonarios y derrota de Nacional",
-   "resumen": "Avanza el desarrollo de la fecha 15 de la Liga colombiana , la cual es clave para ir depurando algunos equipos que dejarán de hacer cuentas buscando la clasificación a los cuadrangulares. Más allá de lo apasionante que…",
-   "imagen": "https://caracol.com.co/resizer/v2/A5FA6IVYDRC5TOZT3BPXR7O7BY.jpeg?auth=c21469166f844a67da185e6fe03d1f5d521c8d77f4c14c9dc8854250cbef338e&smart=true&width=1280&height=854",
-   "enlace": "https://caracol.com.co/2026/10/18/reclasificacion-2026-cupos-a-torneos-conmebol-tras-victorias-de-millonarios-y-once-caldas/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-19T03:33:22Z",
-   "id": "864985280c9f"
+   "fecha": "2026-10-19T12:31:52Z",
+   "id": "bb5b2424d826"
   }
  ]
 }
