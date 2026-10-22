@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-22T04:46:29Z",
+ "actualizado": "2026-10-22T10:11:36Z",
  "fuentes": [
   {
    "id": "vanguardia",
@@ -44,6 +44,292 @@
  ],
  "noticias": [
   {
+   "titulo": "Dos muertos en un ataque al aeropuerto internacional saudí de Dammam",
+   "resumen": "Dos personas han muerto y ocho han resultado heridas en un ataque contra el aeropuerto internacional Rey Fahd de Dammam, en el este de Arabía Saudí, según informaron este jueves las autoridades saudíes, en lo que supone…",
+   "imagen": "https://caracol.com.co/resizer/v2/6AYAERBJBJCFRDLONTCR6GXUTY.jpeg?auth=97a8d72c0d4199549b27e453a35bcba7af8ff24e0828f9ca2828990b0b901118&smart=true&width=1098&height=718",
+   "enlace": "https://caracol.com.co/2026/10/22/dos-muertos-en-un-ataque-al-aeropuerto-internacional-saudi-de-dammam/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-22T09:51:46Z",
+   "id": "71634008554b"
+  },
+  {
+   "titulo": "Envían carrotanques tras más de 48 horas sin agua en barrios de Barranquilla y Soledad",
+   "resumen": "Más de 48 horas sin servicio de agua potable completaban familias de seis barrios de Soledad y del barrio Simón Bolívar, en Barranquilla, debido a los trabajos de reparación de una fuga en una tubería de conducción de…",
+   "imagen": "https://caracol.com.co/resizer/v2/2PZXKVP7RJ4MKH7UX3QE2MHBDQ.jpg?auth=ebb8c372ed18baa267ce3e8e09c732447dfc75ddc85f1171db911c44607e27c2&smart=true&width=6606&height=4206",
+   "enlace": "https://caracol.com.co/2026/10/22/envian-carrotanques-tras-mas-de-48-horas-sin-agua-en-barrios-de-barranquilla-y-soledad/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-22T09:45:53Z",
+   "id": "79ae7af3e657"
+  },
+  {
+   "titulo": "Nacieron en Medellín los cuatrillizos idénticos de una pareja de Caucasia: un caso excepcional que podría ser único en Colombia",
+   "resumen": "Este fenómeno monocigótico ocurre una vez cada 10 a 15 millones de embarazos y no tenía precedentes confirmados en el país.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/22/6ad9c4de35a91.r_d.1808-132-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/nacieron-en-medellin-los-cuatrillizos-identicos-de-una-pareja-de-caucasia-un-caso-excepcional-que-podria-ser-unico-en-colombia-3595378",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-22T09:32:36Z",
+   "id": "2fc80770357d"
+  },
+  {
+   "titulo": "Marco Rubio abandona la India tras impulsar la cooperación energética y el petróleo venezolano",
+   "resumen": "El secretario de Estado estadounidense, Marco Rubio , abandonó este jueves la India tras una visita centrada en ampliar la cooperación energética y promover el procesamiento de petróleo venezolano en las refinerías del…",
+   "imagen": "https://caracol.com.co/resizer/v2/FGTQ7ICG2JBS3N2JFZQVQX2GVE.jpg?auth=410aa894f45713f1a8338e4e7d32749c557e3a0d53a43804a5c072ec50e20b69&smart=true&width=2048&height=1305",
+   "enlace": "https://caracol.com.co/2026/10/22/marco-rubio-abandona-la-india-tras-impulsar-la-cooperacion-energetica-y-el-petroleo-venezolano/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-22T09:32:05Z",
+   "id": "f6016f40f0d8"
+  },
+  {
+   "titulo": "Medellín se convierte en la puerta del ciclismo:2.000 corredores buscan clasificación a Francia 2027",
+   "resumen": "Colombia vuelve a ponerse en el mapa del ciclismo internacional. Después de una primera edición en Bogotá que reunió a 2.000 corredores de 15 países, el UCI Gran Fondo World Series llegará a Medellín el próximo 29 de…",
+   "imagen": "https://caracol.com.co/resizer/v2/BQTBZ6RS3RHRDC45N7GZA7ZOTI.jpeg?auth=83f63e04600e88ace8c8713268443b45f3153790e23c953e2655977f5b3bed41&smart=true&width=6000&height=4000",
+   "enlace": "https://caracol.com.co/2026/10/22/medellin-se-convierte-en-la-puerta-del-ciclismo2000-corredores-buscan-clasificacion-a-francia-2027/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-22T09:17:08Z",
+   "id": "2f2b11e499ed"
+  },
+  {
+   "titulo": "Los robos con escopolamina en Medellín se duplicaron al pasar de 275 a 556 en menos de un año",
+   "resumen": "De acuerdo con datos del Sistema de Información para la Seguridad y la Convivencia (SISC), en todo 2025 se registraron 299 hurtos con escopolamina en Medellín, mientras que en los diez meses que van de 2026 la cifra…",
+   "imagen": "https://caracol.com.co/resizer/v2/EBGY74XPNVAGBDNIKK7VLSTA54.jpg?auth=a42f4ce74072d3727cf77199437a2dcdcb64637c3fc8954d541f9ff434eaf562&smart=true&width=800&height=560",
+   "enlace": "https://caracol.com.co/2026/10/22/los-robos-con-escopolamina-en-medellin-se-duplicaron-al-pasar-de-275-a-556-en-menos-de-un-ano/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-22T09:08:25Z",
+   "id": "83b1dfdd33d8"
+  },
+  {
+   "titulo": "¡Ojo, conductor! Pico y placa en Cali para el jueves 22 de octubre de 2026: estas placas tendrán restricción",
+   "resumen": "La medida aplicará para vehículos particulares entre las 6:00 a. m. y las 7:00 p. m. Consulte los números restringidos y las excepciones.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2024/11/27/674721e179539.r_d.662-61-0.png",
+   "enlace": "https://www.eltiempo.com/colombia/cali/ojo-conductor-pico-y-placa-en-cali-para-el-jueves-22-de-octubre-de-2026-estas-placas-tendran-restriccion-3595364",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-22T07:31:00Z",
+   "id": "0ed0aeb39763"
+  },
+  {
+   "titulo": "¡Atención, conductores! Pico y placa en Bucaramanga para el jueves 22 de octubre de 2026: estas son las placas restringidas",
+   "resumen": "La medida regirá durante 14 horas en la capital de Santander. Consulte los dígitos que no podrán circular y los horarios establecidos.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2023/08/30/64efcd4463475.png",
+   "enlace": "https://www.eltiempo.com/colombia/santander/atencion-conductores-pico-y-placa-en-bucaramanga-para-el-jueves-22-de-octubre-de-2026-estas-son-las-placas-restringidas-3595365",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-22T07:30:00Z",
+   "id": "d449cebc7ac4"
+  },
+  {
+   "titulo": "¡Pilas, conductor! Pico y placa en Pereira para el jueves 22 de octubre de 2026: estos carros y motos no podrán circular",
+   "resumen": "La restricción estará vigente durante 14 horas en Pereira. Consulte los números de las placas y las condiciones para carros y motocicletas.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2024/05/08/663b745058e42.r_d.829-193-0.png",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/pilas-conductor-pico-y-placa-en-pereira-para-el-jueves-22-de-octubre-de-2026-estos-carros-y-motos-no-podran-circular-3595363",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-22T07:30:00Z",
+   "id": "1cfea09a3a4b"
+  },
+  {
+   "titulo": "Capturan en distintos departamentos del país a ocho personas requeridas por Estados Unidos por narcotráfico, lavado de activos y otros delitos",
+   "resumen": "Capturas en Bogotá, Cajicá, Maicao y Barranquilla. Uno de los detenidos habría movido US$42 millones en criptomonedas desde 2018.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/22/6ad9a5b597c6a.r_d.1088-537-0.jpeg",
+   "enlace": "https://www.eltiempo.com/justicia/delitos/capturan-en-distintos-departamentos-del-pais-a-ocho-personas-requeridas-por-estados-unidos-por-narcotrafico-lavado-de-activos-y-otros-delitos-3595375",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-22T07:14:37Z",
+   "id": "2a4c4687ba4d"
+  },
+  {
+   "titulo": "Pico y placa en Medellín para el jueves 22 de octubre de 2026: estos son los carros, motos y taxis con restricción",
+   "resumen": "La medida para carros y motocicletas regirá de 5:00 a. m. a 8:00 p. m. Los taxis tendrán una rotación y un horario diferentes.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2021/09/06/613655b89ef43.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/pico-y-placa-en-medellin-para-el-jueves-22-de-octubre-de-2026-estos-son-los-carros-motos-y-taxis-con-restriccion-3595362",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-22T07:10:00Z",
+   "id": "939472237d11"
+  },
+  {
+   "titulo": "De Currea-Lugo dice que buscó a Mancuso para entrevistarlo “por iniciativa exclusivamente personal”",
+   "resumen": "El exasesor presidencial de Gustavo Petro, Victor de Currea-Lugo, emitió un comunicado en el que se refiere a su participación en los hechos que rodean al ‘Pacto de Valledupar’. Allí, asegura que buscó por su propia…",
+   "imagen": "https://caracol.com.co/resizer/v2/MHGS23HJZRHONOT2PHRAZA3B2A.jpg?auth=2f7d229c0572494ae34ec7d984ca98fcd72b1720150246cbfe8357e4a3e647fb&smart=true&width=4832&height=3222",
+   "enlace": "https://caracol.com.co/2026/10/22/de-currea-lugo-contacto-a-mancuso-para-entrevistarlo-por-iniciativa-exclusivamente-personal/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-22T06:42:41Z",
+   "id": "bfb27008d0e7"
+  },
+  {
+   "titulo": "Estar enamorado o tener un apego patológico",
+   "resumen": "Como psiquiatra, creo que vale la pena hacernos una pregunta: ¿cuál es la diferencia entre estar enamorado y desarrollar un apego patológico que termina haciéndonos daño? Estar enamorado es querer compartir la vida con…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/CYTR3B4MAFC5TJ7OQHBU3JS5UA.jpg?auth=a5173e88613a287795ee2c5e4c94c291186c5429e28ef9889b3cfca6a874677f&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/22/estar-enamorado-o-tener-un-apego-patologico/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-22T06:00:00Z",
+   "id": "0badc0b7696a"
+  },
+  {
+   "titulo": "Más aislados",
+   "resumen": "La política exterior puede ser entendida como un campo de la acción gubernamental que involucra fundamentalmente tres dimensiones: la diplomática, la estratégico-militar y la económica. Y sabemos también que, en la…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/NHI6UXWY4BCT7HISEH2A5K6VBY.jpg?auth=1d99778bfcdcacbcedcc1604ac465aaa27db54cc6007df6dbdf9f6f630f24db5&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/22/mas-aislados/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-22T06:00:00Z",
+   "id": "ad1b875e5e9e"
+  },
+  {
+   "titulo": "El preocupante convenio 348 de Metrolínea",
+   "resumen": "Lo inviable para el aseo resultó viable para la obra, y es ahí donde está el problema fiscal que trae implícito el contrato del arreglo de las estaciones. Si el convenio está vigente ¿Por qué siguen invirtiendo recursos…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/ET3JPF7CKNBKXPZQQ4TEKYKMAA.jpeg?auth=aa9e830fee8056ec08bc7e046ded7dcb0dd9f0d5604f07016998a0a9d7620aa3&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/22/el-preocupante-convenio-348-de-metrolinea/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-22T06:00:00Z",
+   "id": "f7f446368d29"
+  },
+  {
+   "titulo": "Vivienda digna, servicio digno",
+   "resumen": "En un edificio o conjunto residencial conviven personas, mas no máquinas. hay un equipo humano: administrador, vigilantes, personal de aseo, mantenimiento, jardinería y contratistas de diversa índole; y de la calidad en…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/PQVFAVY2KRB75BTZ6REKZHR2SU.jpg?auth=e5b30c0cf703ea5f0478c8c698a9b835c70c1ecf61f2895cdd8c30579648ae2d&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/22/vivienda-digna-servicio-digno/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-22T06:00:00Z",
+   "id": "8ac6372bdb09"
+  },
+  {
+   "titulo": "Un día funesto",
+   "resumen": "Hay día estelares en la historia de la nación colombiana, como el 7 de agosto de 1819, el 17 de diciembre de 1819, el 15 de mayo de 1831, el 7 de marzo de 1849 y el 26 de marzo de 1933. Pero también hay días funestos…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/FH2ZR74Q4BBYVNLB3ZCNVVLU5A.jpg?auth=401cd6c2fbb4e8fac4b5a04646a98d23cf10ca2fba7fc9a9d1b292b42a596590&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/22/un-dia-funesto/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-22T06:00:00Z",
+   "id": "28b4faf448bf"
+  },
+  {
+   "titulo": "Israel y Palestina: una guerra que parece no tener final",
+   "resumen": "Quizás el mayor desafío sea comprender que la historia puede explicar el conflicto, pero no debería condenar a las nuevas generaciones a repetirlo.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/OTRYVT6O2RAVXP6W7SNYIPKK2A.jpg?auth=e5756e48fe0f83f774e77d61aade4b4a9f6d2f0aecd37c06d0b127028c9ac68f&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/luis-ernesto-ruiz/2026/10/22/israel-y-palestina-una-guerra-que-parece-no-tener-final/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-22T06:00:00Z",
+   "id": "16738aaa4079"
+  },
+  {
+   "titulo": "Roles al revés",
+   "resumen": "“El concepto de «roles al revés» (o inversión de roles) se refiere al intercambio de funciones, expectativas o dinámicas habituales entre personas, ya sea en el ámbito social, de pareja, familiar o laboral”. En…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/FKIUBYL34JAUHDIAWSLBUXLIJM.jpg?auth=8c161a4e4798b73c2637bbc08517bb80f403b495fca6c78b7b622a27bf448bd7&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/22/roles-al-reves/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-22T06:00:00Z",
+   "id": "cb1a6458cffc"
+  },
+  {
+   "titulo": "“Cantando, cantando versos bonitos”",
+   "resumen": "Caricatura de Yeyo del 22 de octubre de 2026",
+   "imagen": "https://www.vanguardia.com/resizer/v2/MAHPPOLQNVCG5E6AIX24FS634U.jpg?auth=17200c12073e8498abb9f236a57d91272e3238c5fc5934a012035cb048ef00a4&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/caricaturas/2026/10/22/cantando-cantando-versos-bonitos/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-22T06:00:00Z",
+   "id": "7fe4c9555908"
+  },
+  {
+   "titulo": "¿Y si la JEP se queda a medio camino?",
+   "resumen": "La decisión de reducir el presupuesto de la Jurisdicción Especial para la Paz llega en un momento delicado, cuando sus despachos enfrentan una considerable carga de trabajo y miles de personas esperan respuestas que…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/K6NCJLQDIRBMPOPUP73YLZXX3M.jpg?auth=a8b58cb7b4b2915e60e473fdd5976deb94187df0640e1f0ca594751da46c46c2&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/22/y-si-la-jep-se-queda-a-medio-camino/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-22T06:00:00Z",
+   "id": "ab6265b572b2"
+  },
+  {
+   "titulo": "En Los Santos el agua sigue siendo una ilusión",
+   "resumen": "El Acueducto Regional del Chicamocha es otro renglón en la larga lista de proyectos eternos en Santander.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/Y77HSAMVDRGCBAKRMUB7GJBV6Y.jpg?auth=9fda64626f20c1611bc18d55707d029290a765be2ce035a22502a229ab61e783&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/editorial/2026/10/22/en-los-santos-el-agua-sigue-siendo-una-ilusion/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-22T06:00:00Z",
+   "id": "7a07b2f6116b"
+  },
+  {
+   "titulo": "El chavismo y la oposición acuerdan revisar la ley utilizada para las inhabilitaciones políticas",
+   "resumen": "El chavismo y un sector de la oposición acordaron revisar la Ley orgánica de la Contraloría General, específicamente lo inherente al proceso de inhabilitaciones políticas en Venezuela, tras concluir su tercer ciclo de…",
+   "imagen": "https://caracol.com.co/resizer/v2/JCTUBXD2VRCQTE6S4YJCHP33HM.jpeg?auth=1fc1a2aec069e7a1f4d2b6dcdd5ac187fdf701153c089f61c2c4400bfb62a5c5&smart=true&width=1600&height=1066",
+   "enlace": "https://caracol.com.co/2026/10/22/el-chavismo-y-la-oposicion-acuerdan-revisar-la-ley-utilizada-para-las-inhabilitaciones-politicas/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-22T05:34:44Z",
+   "id": "5c256be7ae4b"
+  },
+  {
+   "titulo": "RCN Radio",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kZjQ3MFZRUUpTV29yQ0dTclNPZi1QRFI5cHlObVpwY0pQMVBNVGRWb2x4c3dxdFk2aU16VVNOaFFTYVE3eExFOW00eHd4TDY1c1RwdFVQODJ4blY2V0IwRjRISS1yMzhV?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-10-22T05:01:31Z",
+   "id": "480277a57d6e"
+  },
+  {
+   "titulo": "Cuatro proyectos inmobiliarios para encontrar el lugar ideal para vivir e invertir",
+   "resumen": "Desde apartamentos en Bucaramanga hasta lotes urbanos y parcelas campestres, estas propuestas inmobiliarias ofrecen alternativas para diferentes estilos de vida y necesidades de inversión. La edición número 22 de la…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/UJUB2HY2KRAYJD4WWJELZU7PAU.jpg?auth=d45e8e174ac6a2d8fca605f952871c36c1584a9a2920ecec06b4b960d0940e82&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/contenido-especial/2026/10/22/cuatro-proyectos-inmobiliarios-para-encontrar-el-lugar-ideal-para-vivir-e-invertir/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-22T05:00:00Z",
+   "id": "bb8496d0b6f1"
+  },
+  {
+   "titulo": "Después de cuatro años la ANT y SAC retoman el diálogo por el Campo en Colombia",
+   "resumen": "Después de cuatro años, la Sociedad de Agricultores de Colombia (SAC) y la Agencia Nacional de Tierras (ANT) retoman sus relaciones y abren nuevamente un espacio de diálogo entre la entidad y uno de los gremios más…",
+   "imagen": "https://caracol.com.co/resizer/v2/LVYQ3RVURNAMBHDTTFTIIWA7DQ.jpeg?auth=9e7390c8bc0136624924f41d9bbcb271686a7ed93fc06678f83f381589efffb6&smart=true&width=1600&height=1070",
+   "enlace": "https://caracol.com.co/2026/10/22/despues-de-cuatro-anos-la-ant-y-sac-retoman-el-dialogo-por-el-campo-en-colombia/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-22T04:58:57Z",
+   "id": "209c5a3d014f"
+  },
+  {
    "titulo": "En Bucaramanga, comunidad se queja por “la creciente invasión” de andenes en la Avenida 42",
    "resumen": "Vecinos afectados por el estacionamiento indebido de automotores sobre los senderos peatonales de esta vía, de doble sentido, solicitan labores de despeje y recuperación del espacio público a las autoridades, en…",
    "imagen": "https://www.vanguardia.com/resizer/v2/CZC5YLJORVFSJBQV3SUBM67MYU.jpeg?auth=44d67bbc11504e09c5f9cf07c5cc8feed80dcb4e3914c2320cd90d5b960dc7fd&smart=true&width=900&height=600",
@@ -77,193 +363,6 @@
    "id": "85ef039cdfdc"
   },
   {
-   "titulo": "Camilo inició su gira “Para Cuando Sean Mayores” y anuncia conciertos en Bogotá y Barranquilla",
-   "resumen": "El cantante colombiano Camilo inició su gira “Para Cuando Sean Mayores Tour” con tres conciertos en Miami, Orlando y Puerto Rico , donde presentó un espectáculo inspirado en su quinto álbum de estudio, que lleva el…",
-   "imagen": "https://caracol.com.co/resizer/v2/Y3L6LDNY2JFOBGGVI7YR462DLM.jpg?auth=2f1fe6e226711276c50c07075edc1080f2d2a9d34d3dccf645e1870a42c6c59b&smart=true&width=1024&height=683",
-   "enlace": "https://caracol.com.co/2026/10/22/camilo-inicio-su-gira-para-cuando-sean-mayores-y-anuncia-conciertos-en-bogota-y-barranquilla/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-22T04:13:18Z",
-   "id": "a000a0e78cf6"
-  },
-  {
-   "titulo": "Lotería de Manizales: resultado del sorteo del miércoles 21 de octubre de 2026",
-   "resumen": "Aquí le contamos el número ganador de la Lotería de Manizales de hoy miércoles 21 de octubre de 2026, el plan de premios y más detalles.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/OT3Y6CAYWREDZNP2BHEYCSCH7A.png?auth=bb7c373433f4673c253bc1cd1c48aaed436b40fa0b081357183abbe4b3bfc0dc&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/21/loteria-de-manizales-todos-los-resultados-del-sorteo-del-miercoles-21-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-22T03:57:29Z",
-   "id": "c0881ca46974"
-  },
-  {
-   "titulo": "Resultado de Baloto y Revancha: qué cayó hoy miércoles 21 de octubre de 2026",
-   "resumen": "¿Busca los resultados del Baloto? Consulte los números ganadores del sorteo más reciente y conozca el multimillonario acumulado para este miércoles 21 de octubre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/DOIVHEEQVRBEDNWU7YSGAEAB2I.png?auth=88709c2eac74c22b9e8634b7de514194cc0ed2a228e35ed2809411a2635eba25&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/21/resultado-de-baloto-y-revancha-que-cayo-hoy-miercoles-21-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-22T03:51:00Z",
-   "id": "f52086d0f072"
-  },
-  {
-   "titulo": "Lotería del Valle: resultado del sorteo del miércoles 21 de octubre de 2026",
-   "resumen": "Consulte acá todos los números y series ganadores del último sorteo de la Lotería del Valle del miércoles 21 de otubre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/TQGHS67QW5D7JPHPBUA643SWJY.png?auth=6c9ccd265524e583bb50edf3f7b82ae8762877fe87264820fd5fa3a903dbec1b&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/21/loteria-del-valle-todos-los-resultados-del-sorteo-del-miercoles-21-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-22T03:50:15Z",
-   "id": "92fb2ded4038"
-  },
-  {
-   "titulo": "Lotería del Meta: resultado del sorteo del miércoles 21 de octubre de 2026",
-   "resumen": "Este miércoles 21 de octubre 2026 se realizó un nuevo sorteo de la Lotería del Meta. Conozca el número ganador del premio mayor y los premios secos.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/DW4YBEBW35H5BJLFU7FVUZX7ME.png?auth=0957bee1ad735bfbec18f384dce4036180a2dc62f905c88e724b177d76570cb3&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/21/loteria-del-meta-todos-los-resultados-del-sorteo-del-miercoles-21-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-22T03:49:50Z",
-   "id": "7b00eb071796"
-  },
-  {
-   "titulo": "Super Astro Luna: resultado del sorteo del miércoles 21 de octubre de 2026",
-   "resumen": "¿Se volvió millonario hoy? Consulte el resultado del Super Astro Luna de este miércoles 21 de octubre de 2026 y revise si su número y signo fueron los ganadores.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/XGSVV6FL5JH4FHJFIUIHMLRYVM.png?auth=a70377deec8145e284d5886d25962ce77996e43695ac8f55c700a73efc557239&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/21/super-astro-luna-resultado-del-sorteo-del-miercoles-21-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-22T03:45:00Z",
-   "id": "b6525639eb5d"
-  },
-  {
-   "titulo": "Gobierno anuncia plan educativo para Soacha y Cali: 13 colegios y $887.000 millones",
-   "resumen": "La Agencia Nacional de Infraestructura (ANI) y el Ministerio de Educación firmaron un acuerdo de entendimiento para avanzar en la estructuración de 13 proyectos de infraestructura educativa en Soacha, Cundinamarca, y…",
-   "imagen": "https://caracol.com.co/resizer/v2/T7CRVTLGMZESLDIEY7PUTGKUQ4.jpeg?auth=65bb8ece7d7772a72f734247eedac070736f1f03b6ebe76a325d17e1c81c6278&smart=true&width=740&height=493",
-   "enlace": "https://caracol.com.co/2026/10/22/gobierno-anuncia-plan-educativo-para-soacha-y-cali-13-colegios-y-887000-millones/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-22T03:40:06Z",
-   "id": "96ac189815a7"
-  },
-  {
-   "titulo": "Tabla del descenso 2026: Jaguares volvió a caer y quedó al borde de perder la categoría",
-   "resumen": "Transcurre la fecha 15 de la Liga colombiana , la cual va depurando los equipos que no siguen en carrera por entrar a cuadrangulares. Del mismo modo, cobra más relevancia la clasificación del descenso, que tiene…",
-   "imagen": "https://caracol.com.co/resizer/v2/KHDMZSEVGFAZFOQB3H47BSNSDU.jpeg?auth=d563b499e801aa875e6a06018a67e933915105dd5d8815c8a414c586cc5dfe1e&smart=true&width=1280&height=854",
-   "enlace": "https://caracol.com.co/2026/10/18/tabla-del-descenso-2026-asi-quedo-tras-derrotas-de-jaguares-y-boyaca-chico/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-22T03:38:10Z",
-   "id": "bf4faf70ef46"
-  },
-  {
-   "titulo": "Villa de Leyva recibirá a 350 agencias de viajes para impulsar el turismo internacional",
-   "resumen": "Villa de Leyva se prepara para recibir a cerca de 350 agencias de viajes y operadores especializados en turismo receptivo , durante el encuentro nacional que reunirá al sector para fortalecer los negocios, crear…",
-   "imagen": "https://caracol.com.co/resizer/v2/NGRRAZGJNFHHJNSTFWYBVTJGWM.jpg?auth=c3b0164b3ea362f7ac2819051563f652097e2e5116b7661400cb571962b4f42d&smart=true&width=596&height=350",
-   "enlace": "https://caracol.com.co/2026/10/22/villa-de-leyva-recibira-a-350-agencias-de-viajes-para-impulsar-el-turismo-internacional/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-22T03:30:14Z",
-   "id": "d0abefa2ea7d"
-  },
-  {
-   "titulo": "Tabla posiciones Liga colombiana: Así quedó con los triunfos de Deportivo Cali y Santa Fe",
-   "resumen": "Se disputó la fecha 15 del campeonato, la cual fue clave de cara a conocer equipos que se quedaron sin posibilidades de clasificar a los cuadrangulares. La jornada comenzó el sábado 17 de octubre y terminó el martes 20…",
-   "imagen": "https://caracol.com.co/resizer/v2/MG2WNJNYF5HUDH6HZWMMURWCJY.jpeg?auth=ec8a3d580175e84cf9e49d0a717acf0d209e3dbdec7f0496e8109ccea4e92195&smart=true&width=1280&height=854",
-   "enlace": "https://caracol.com.co/2026/10/18/tabla-de-posiciones-de-liga-colombiana-2026-ii-asi-quedo-tras-goleadas-de-nacional-y-millonarios/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-22T03:24:54Z",
-   "id": "d7a67a4c69c7"
-  },
-  {
-   "titulo": "Sinuano Noche: resultado del sorteo del miércoles 21 de octubre de 2026",
-   "resumen": "¿La suerte lo acompañó esta noche? Conozca el número ganador del Sinuano Noche de hoy miércoles 21 de octubre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/DVUEQEWJSNBU5CXGMWP4EBIGYM.png?auth=faf89f97dd2a0267d4e738dd300ede0947a2df3474a229b8fa0c9011d34a16e3&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/21/sinuano-noche-resultado-del-sorteo-del-miercoles-21-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-22T03:21:00Z",
-   "id": "4a2a2c578079"
-  },
-  {
-   "titulo": "Caribeña Noche: resultado del sorteo de hoy miércoles 21 de octubre de 2026",
-   "resumen": "Resultado del último sorteo de La Caribeña Noche del miércoles 21 de octubre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/2NTDVATLUNC6JAMMKR4IZKUR34.png?auth=1879f7d21cf845eab048d4a9f8b61fceb9fc7d2066e6b67fedebc4bf6a98b229&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/21/caribena-noche-resultado-del-sorteo-de-hoy-miercoles-21-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-22T03:21:00Z",
-   "id": "ff7fd22864ce"
-  },
-  {
-   "titulo": "Entre números y retos: UDES pone a prueba el ingenio en Olimpiadas de Matemáticas de la UDES",
-   "resumen": "El talento matemático entra en su recta final: la UDES reunió a escolares y universitarios en sus Olimpiadas Matemáticas",
-   "imagen": "https://www.vanguardia.com/resizer/v2/5XAAQVSKUFCHTKSRHO2FLJHQRM.jpg?auth=cabeedd5684453f35da50e5a5ac853e4f0fcc4b15613c525dacec8ec314380d2&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/area-metropolitana/las-cosas-buenas/2026/10/21/entre-numeros-y-retos-udes-pone-a-prueba-el-ingenio-en-olimpiadas-matematicas/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-22T03:18:53Z",
-   "id": "b8368ef82fc2"
-  },
-  {
-   "titulo": "Santa Fe gana, se aferra a los ocho y deja a Jaguares con un pie en el descenso: resumen del partido",
-   "resumen": "Independiente Santa Fe consiguió una victoria por 2-1 frente a Jaguares de Córdoba , en un compromiso correspondiente a la séptima jornada de la liga 2026-ll . El encuentro se llevará a cabo en el estadio Nemesio…",
-   "imagen": "https://caracol.com.co/resizer/v2/6XH42HFU6ZD6PIGXCL7NP2L5XY.jpeg?auth=d8665116ace48e79ad966e38d096f57292e9f1c7a632309722eb337d2caba1f4&smart=true&width=1280&height=854",
-   "enlace": "https://caracol.com.co/2026/10/22/en-vivo-santa-fe-vs-jaguares-en-liga-colombiana-2026-ll-transmision-y-minuto-a-minuto/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-22T03:11:22Z",
-   "id": "a58abaa08a6f"
-  },
-  {
-   "titulo": "Dorado Noche: resultado del sorteo de hoy miércoles 21 de octubre de 2026",
-   "resumen": "La expectativa crece hoy miércoles 21 de octubre de 2026 entre miles de apostadores en todo el país por el sorteo de El Dorado Noche.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/PKJVAHEA7NGDJKKV6EJMCC4S6E.png?auth=02ccda7bae1517aca0c0baf48afb615c51caf3c1c2c2afe93fb915973b3cb26a&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/21/dorado-noche-resultado-del-sorteo-de-hoy-miercoles-21-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-22T03:05:00Z",
-   "id": "1ba34fbcae98"
-  },
-  {
-   "titulo": "El giro que daría investigación por desaparición de la modelo bogotana María Alejandra Molina en Cali: se activó alerta por otra desaparecida",
-   "resumen": "Hay preocupación entre las autoridades por estos recientes casos. El CTI de la Fiscalía investiga la desaparición de la modelo.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/21/6ad95303ce855.r_d.1008-563-0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/el-giro-que-daria-investigacion-por-desaparicion-de-la-modelo-bogotana-maria-alejandra-molina-en-cali-se-activo-alerta-por-otra-desaparecida-3595324",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-22T02:54:04Z",
-   "id": "403a690c9d7b"
-  },
-  {
-   "titulo": "Fue aprobada la Ley de Sometimiento del Gobierno De la Espriella en primer debate",
-   "resumen": "En la noche de este miércoles fue aprobada la ley de sometimiento del gobierno de Abelardo de la Espriella en primer debate. Sin la presencia de la oposición y con la tensión tras la salida del ministro Rodrigo Lara…",
-   "imagen": "https://caracol.com.co/resizer/v2/GUDMQIFAONFFDDC6QK4VABKSH4.jpg?auth=f573a3501b3c53f2fc756308dac7969beafaf42d5ab18b3805604056c1755da0&smart=true&width=854&height=640",
-   "enlace": "https://caracol.com.co/2026/10/22/fue-aprobada-la-ley-de-sometimiento-del-gobierno-de-la-espriella-en-primer-debate/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-22T02:41:43Z",
-   "id": "d8e200d8e24f"
-  },
-  {
    "titulo": "En video, un motociclista robó a una mujer y luego un ciudadano lo derribó: en el forcejeo, el hijo de la víctima del hurto recibió un disparo en Cali",
    "resumen": "La Policía Metropolitana de Cali capturó al presunto ladrón. Según el reporte, está malherido por los golpes. También fue enviado a un hospital.",
    "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/21/6ad96a7b7f4a5.r_d.1059-446-1.jpeg",
@@ -273,17 +372,6 @@
    "region": "Colombia",
    "fecha": "2026-10-22T02:37:06Z",
    "id": "1aac464611c7"
-  },
-  {
-   "titulo": "En Santander alertan sobre “destrucción de bosque” y un presunto loteo ilegal en zona de preservación",
-   "resumen": "La comunidad denuncia que desde hace cerca de una década se reportan afectaciones en dicho ecosistema de Santander, en donde existen predios de especial cuidado para la preservación del agua.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/FRGNJFVFOREBXFFNM2JXBYYLSY.jpeg?auth=4fa81d3da7ca576a5d1eb305856e88efb7a96818fdb73267cb3a4f486e884955&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/10/21/en-santander-alertan-sobre-destruccion-de-bosque-y-un-presunto-loteo-ilegal-en-zona-de-preservacion/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-22T02:22:45Z",
-   "id": "c92b820748d0"
   },
   {
    "titulo": "De La Espriella anuncia salida de Rodrigo Lara del Ministerio del Interior y nombra a su reemplazo",
@@ -297,17 +385,6 @@
    "id": "d1cea20a36b1"
   },
   {
-   "titulo": "Juez envía a prisión a joven investigado por amenazas contra la primera dama",
-   "resumen": "La Fiscalía le imputó cargos por amenazas agravadas y delitos relacionados con estupefacientes.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/SXPO2XYSJFH5LLSAKSICSKO5EY.jpeg?auth=030e6a66871957fb2c392939498efb10c7e3e3aff05b5b221ce6ac9df5668aac&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/colombia/2026/10/21/juez-envia-a-prision-a-joven-investigado-por-amenazas-contra-la-primera-dama/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-22T02:09:34Z",
-   "id": "fbc578b4db00"
-  },
-  {
    "titulo": "Envían a la cárcel a una mujer que traía a cuestas 28 condenas por fraude y que volvió a delinquir: desfalcó a 10 empresas en Cali",
    "resumen": "La procesada Marly Tabares recibió aseguramiento y aceptó su responsabilidad en nueve hurtos y fraudes informáticos entre 2023 y 2026.",
    "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/21/6ad96558d2799.r_d.644-335-0.jpeg",
@@ -317,17 +394,6 @@
    "region": "Colombia",
    "fecha": "2026-10-22T01:35:52Z",
    "id": "4d1f154f8953"
-  },
-  {
-   "titulo": "Murió el papá de Sonia Restrepo, viuda del cantante de música popular Yeison Jiménez, en Caldas: esto se sabe",
-   "resumen": "Sus familiares no han revelado detalles oficiales sobre la causa de su fallecimiento.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/21/6ad94a8662f2d.r_d.279-280-0.png",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/murio-el-papa-de-sonia-restrepo-viuda-del-cantante-de-musica-popular-yeison-jimenez-en-caldas-esto-se-sabe-3595333",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-22T01:27:06Z",
-   "id": "f03cbd156a1c"
   },
   {
    "titulo": "Creciente del río Sisota causó emergencia en Guaca, Santander: reportan daños en viviendas, puentes y cultivos",
@@ -341,28 +407,6 @@
    "id": "7ca89ab5a2b1"
   },
   {
-   "titulo": "Resultados Lotería del Valle, Manizales, Meta y Baloto HOY 21 de octubre 2026: último sorteo",
-   "resumen": "La Lotería del Valle realiza su sorteo todos los miércoles a las 10:30 de la noche , mismo día de la Lotería de Manizales y la Lotería del Meta. Es importante destacar que, si el día cae festivo, se moverá al siguiente…",
-   "imagen": "https://caracol.com.co/resizer/v2/TPIZ37RSFVG5DIU4U6ICU6NX5E.png?auth=f3843f0144b3869ed90fd54fb41360a3da15623676f59015d6a9f2303b7e954f&smart=true&width=2000&height=1410",
-   "enlace": "https://caracol.com.co/2026/10/22/resultados-loteria-del-valle-manizales-meta-y-baloto-hoy-21-de-octubre-2026-ultimo-sorteo/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-22T00:24:29Z",
-   "id": "d991d3487630"
-  },
-  {
-   "titulo": "A la cárcel los presuntos responsables de torturar y asesinar a un profesor pensionado para robarlo en Medellín",
-   "resumen": "Cámaras de seguridad fueron clave para identificar a los atacantes de Luis Bernardo Villegas. La Policía y la Fiscalía lograron las capturas.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/21/6ad94bf4812f4.r_d.858-213-0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/a-la-carcel-los-presuntos-responsables-de-torturar-y-asesinar-a-un-profesor-pensionado-para-robarlo-en-medellin-3595335",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-21T23:42:23Z",
-   "id": "0f6a85c61169"
-  },
-  {
    "titulo": "Lluvias generan afectaciones en la provincia de García Rovira en Santander",
    "resumen": "",
    "imagen": "",
@@ -372,28 +416,6 @@
    "region": "Santander",
    "fecha": "2026-10-21T22:51:15Z",
    "id": "ea4affcbf97f"
-  },
-  {
-   "titulo": "El proyecto para ajustar el POT de Medellín superó su primer debate: ¿qué se aprobó y cuáles son los cambios clave?",
-   "resumen": "La Comisión Primera avaló cambios al POT para frenar el costo del arriendo, proteger barrios y frenar la prostitución en áreas como Provenza.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/06/17/6a32e0590fdd8.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/el-proyecto-para-ajustar-el-pot-de-medellin-supero-su-primer-debate-que-se-aprobo-y-cuales-son-los-cambios-clave-3595313",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-21T22:37:18Z",
-   "id": "d642495c4c3a"
-  },
-  {
-   "titulo": "Cortes de luz en Barranquilla y Atlántico este jueves 22 de octubre: barrios, sectores y horarios de suspensión",
-   "resumen": "Air-e Intervenida anunció trabajos eléctricos para este jueves 22 de octubre en Barranquilla, Santa Lucía y Manatí.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/02/6ac01e0d51eea.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/barranquilla/cortes-de-luz-en-barranquilla-y-atlantico-este-jueves-22-de-octubre-barrios-sectores-y-horarios-de-suspension-3595316",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-21T22:32:17Z",
-   "id": "28c92f6c8fe2"
   },
   {
    "titulo": "Crecientes por lluvias afectan puentes y una casa en San Andrés y Guaca, Santander",
@@ -517,6 +539,17 @@
    "id": "008d5956457d"
   },
   {
+   "titulo": "ICETEX realizará feria de empleabilidad y estudio para mujeres en Bogotá: ¿Cómo participar?",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM1JvNjBqckZyWmVZNjZObzVSQlkwdjgtZTJnNnJ0aWVQMHFqV0JXMUtsVFhrLWJPQXF4OHBzVEhOZEpONXlYd0lWX0hUZ0hpSmVaSlpwdV92SXRxbl9DYlRIWnBNenh3VTA0UnV4NG1EbTdoLTJMZmgzTVpRcmFraGtJQlYwZnQxYVVhU2xSRmFYV2N5UEpaa2h1ZDIyaHM5bzFrdk01NDQ1NzlrTEJNQmZkM3MtZ3UzaWN2aTBnaEFiVDYtX3c?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-10-21T14:16:14Z",
+   "id": "aefd6af07e0b"
+  },
+  {
    "titulo": "Player Page",
    "resumen": "",
    "imagen": "",
@@ -537,17 +570,6 @@
    "region": "Santander",
    "fecha": "2026-10-21T11:20:14Z",
    "id": "faf2aac440a1"
-  },
-  {
-   "titulo": "RCN Radio",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2ItdHI5M3QwV1ZLNS1aUTZPLWtyVm92d0tMMkF5ZGF6ZnE2OWdNS2dEOXVxNWV1TkZzbFlSWkhSMVktZmZsZk91LW42Q0RxTGFBM1VwUW9VQWI4S3JET1l4Y0RGSmxuazRCQ0lRODRZSW9keTdaSTJVWTRPTGFscjdhNGc4RGdLNlhqSmVpN1hPTzFrVHJscHpWVVBGQQ?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-10-21T09:46:27Z",
-   "id": "480277a57d6e"
   },
   {
    "titulo": "Un motociclista quedó atrapado en cemento fresco por ingresar a una vía cerrada en San Gil, Santander: todo quedó en video",
