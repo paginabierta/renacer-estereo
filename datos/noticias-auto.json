@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-23T07:33:11Z",
+ "actualizado": "2026-10-23T13:27:33Z",
  "fuentes": [
   {
    "id": "vanguardia",
@@ -44,37 +44,268 @@
  ],
  "noticias": [
   {
-   "titulo": "Por ataques a la primera dama 25 senadores piden a la Fiscalía investigar al activista Levy Rincón",
-   "resumen": "Un grupo de 25 senadores denunciaron penalmente ante la Fiscalía General de la Nación al influenciador y activista de izquierda Levy Rincón , solicitando que se investiguen presuntas conductas punibles contra la honra…",
-   "imagen": "https://caracol.com.co/resizer/v2/PV5QPTLTEFEFZEIAJU3YOKV2BY.png?auth=0f32b688fb4fc75c1f82f5aeb18c30353b864dc7af9ce0156908b820bc4277be&smart=true&width=650&height=488",
-   "enlace": "https://caracol.com.co/2026/10/23/por-ataques-a-la-primera-dama-25-senadores-piden-a-la-fiscalia-investigar-al-activista-levy-rincon/",
+   "titulo": "Atentado con carro bomba en el peaje San Pedro, Casanare: ministra de Transporte, Elsa Noguera, se pronuncia tras el ataque y expresa su rechazo",
+   "resumen": "La explosión dejó tres personas con lesiones leves, daños en la infraestructura y el cierre total de la vía.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/23/6adb1e526a78a.r_d.696-435-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/atentado-con-carro-bomba-en-el-peaje-san-pedro-casanare-ministra-de-transporte-elsa-noguera-se-pronuncia-tras-el-ataque-y-expresa-su-rechazo-3595741",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-23T13:20:20Z",
+   "id": "c544daf9b990"
+  },
+  {
+   "titulo": "Capturan a alias ‘Chompiras’, acusado de coordinar extorsiones en el centro de Medellín",
+   "resumen": "En un golpe contra la criminalidad en el centro de Medellín, la Policía Nacional capturó a alias ‘Chompiras’ , de 28 años. El detenido es señalado como presunto coordinador del grupo delincuencial ‘Caicedo’ , una…",
+   "imagen": "https://caracol.com.co/resizer/v2/N6GGBEZ43RBAJBMLSPZIK27A6I.jpeg?auth=d41efc9e06d936cc98007a68a9bd220b795b0bf08697095dad1757840ee0fbdb&smart=true&width=1280&height=720",
+   "enlace": "https://caracol.com.co/2026/10/23/capturan-a-alias-chompiras-acusado-de-coordinar-extorsiones-en-el-centro-de-medellin/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-10-23T06:31:13Z",
-   "id": "793f61eea7a4"
+   "fecha": "2026-10-23T13:16:46Z",
+   "id": "7f1616dd851f"
   },
   {
-   "titulo": "Las lecciones sobre Metrolínea que hay que aprender",
-   "resumen": "La Alcaldía de Bucaramanga presentó un plan para rescatar Metrolínea que, en su formulación actual, acumula más interrogantes que certezas. La intención de reparar estaciones y gestionar recursos para nueva flota ante…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/Y77HSAMVDRGCBAKRMUB7GJBV6Y.jpg?auth=9fda64626f20c1611bc18d55707d029290a765be2ce035a22502a229ab61e783&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/opinion/editorial/2026/10/23/las-lecciones-sobre-metrolinea-que-hay-que-aprender/",
+   "titulo": "Anuncian $27.000 millones para recuperar colegios afectados por el terremoto en Pereira",
+   "resumen": "La recuperación de la infraestructura educativa afectada por el terremoto del pasado 10 de agosto recibió nuevos recursos durante la visita del presidente Abelardo de la Espriella a Pereira, donde se anunció una…",
+   "imagen": "https://caracol.com.co/resizer/v2/63LQCDQXKNHANN6OHGUBIAIF24.jpeg?auth=c05058fdbcd963605d658c6535e72fe5245f44c7ed58faa23f272e51108f4f13&smart=true&width=1280&height=970",
+   "enlace": "https://caracol.com.co/2026/10/23/anuncian-27000-millones-para-recuperar-colegios-afectados-por-el-terremoto-en-pereira/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-23T13:13:24Z",
+   "id": "6a09f5f0159c"
+  },
+  {
+   "titulo": "Alcalde de Cartagena aseguró que invierte $6 billones en infraestructura para la ciudad e instó a Camacol a acelerar alianzas público-privadas",
+   "resumen": "El Gran Malecón del Mar, que inaugura el presidente de la República este sábado, es una de las cartas de presentación.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/08/6aa04e5a3bc23.png",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/alcalde-de-cartagena-asegura-que-invirtio-6-billones-en-infraestructura-en-la-ciudad-e-insto-a-camacol-a-acelerar-alianzas-publico-privadas-3595726",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-23T13:07:40Z",
+   "id": "c16b8dc236aa"
+  },
+  {
+   "titulo": "El Gobierno francés movilizará a 70.000 policías ante las llamadas a saqueos este sábado",
+   "resumen": "El ministro francés de Interior, Laurent Nuñez, anunció este viernes el despliegue de 70.000 policías y gendarmes en todo el país , ante la convocatoria de nuevas protestas y la constatación de llamadas en las redes a…",
+   "imagen": "https://caracol.com.co/resizer/v2/5DJRKDB22NB5XPRGPS3JGZEVXA.jpg?auth=2bd526ccf9b73c9d302946780b62d57e8d6cc2721cdf9420d445dfcf9d21c316&smart=true&width=8192&height=5464",
+   "enlace": "https://caracol.com.co/2026/10/23/el-gobierno-frances-movilizara-a-70000-policias-ante-las-llamadas-a-saqueos-este-sabado/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-23T13:04:05Z",
+   "id": "9c0596e6c31d"
+  },
+  {
+   "titulo": "Videos muestran momento exacto del atentado con carro bomba en peaje San Pedro, en Casanare, que dejó tres heridos: delincuentes huyeron en moto",
+   "resumen": "La ministra de Transporte, Elsa Noguera, rechazó el atentado y expresó su solidaridad con los trabajadores afectados.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/23/6adb503e73ce7.png",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/videos-muestran-momento-exacto-del-atentado-con-carro-bomba-en-peaje-san-pedro-en-casanare-que-dejo-tres-heridos-delincuentes-huyeron-en-moto-3595724",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-23T13:01:02Z",
+   "id": "ddf895673ed1"
+  },
+  {
+   "titulo": "Dólar HOY 23 de octubre 2026 en Colombia: la divisa abre la jornada con descenso de $6,46 pesos",
+   "resumen": "La moneda estadounidense es la divisa más recurrente para la compra y venta en el mercado internacional y desempeña un papel clave en productos colombianos, como el café , el petróleo, las flores, entre otros. Por este…",
+   "imagen": "https://caracol.com.co/resizer/v2/HEURVGCW3RHWJNXV6CTQM7RNSE.png?auth=d77cf10322dfb4167eb1cddd50685fbd0c28449a691b201507e2b05404920e4e&smart=true&width=2048&height=1365",
+   "enlace": "https://caracol.com.co/2026/10/23/dolar-hoy-23-de-octubre-2026-en-colombia-la-divisa-abre-la-jornada-con-descenso-de-646-pesos/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-23T12:58:47Z",
+   "id": "04bcf258b00b"
+  },
+  {
+   "titulo": "'Es uno entre 15 millones': el relato del padre de los primeros cuatrillizos idénticos de los que se tiene registro en Colombia sobre su nacimiento",
+   "resumen": "Mariano, Maximiliano, Emiliano y Thiago Zapa nacieron el 21 de octubre en Medellín, consumando un 'milagro médico' sin precedentes en el país.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/22/6adae80ee6360.png",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/el-milagro-medico-de-uno-entre-15-millones-la-historia-de-los-primeros-cuatrillizos-identicos-de-los-que-se-tiene-registro-en-colombia-3595694",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-23T12:53:59Z",
+   "id": "a8836f10d5d7"
+  },
+  {
+   "titulo": "Grupo Nutresa explicó qué pasará con Presto tras compra de cadena: ¿cambiarán de nombre o fórmula?",
+   "resumen": "A propósito de uno de los movimientos empresariales del momento: la compra de la reconocida cadena de hamburguesas Presto, 6AM W de Caracol Radio habló con Felipe Baquero Saldarriaga, presidente de Alimentos al…",
+   "imagen": "https://caracol.com.co/resizer/v2/H47F7337RFC7HFBFKMX2XNFAMM.png?auth=f92540a3ccc6233aea4daf2ef3eee8c8d953c99248ac4cbfcb3f70de737134ea&smart=true&width=650&height=488",
+   "enlace": "https://caracol.com.co/2026/10/23/grupo-nutresa-explico-que-pasara-con-presto-tras-compra-de-cadena-cambiaran-de-nombre-o-formula/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-23T12:45:42Z",
+   "id": "649385a63994"
+  },
+  {
+   "titulo": "Abelardo De La Espriella designó a Viviane Morales como consejera comisionada de paz",
+   "resumen": "La exfiscal Viviane Morales vuelve al Gobierno Nacional, luego de haber salido de la cartera de Educación por motivos personales. El presidente Abelardo De La Espriella la designó este viernes como Consejera Comisionada…",
+   "imagen": "https://caracol.com.co/resizer/v2/6VU4ZRDI4ZFOTKRMX2GCAKQ67Q.jpg?auth=0102b1baa7273cc3851ab04fe9f66c02a334497abc3b9e535c6bc2b21831f105&smart=true&width=5184&height=3456",
+   "enlace": "https://caracol.com.co/2026/10/23/abelardo-de-la-espriella-designo-a-viviane-morales-como-consejera-comisionada-de-paz/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-23T12:45:26Z",
+   "id": "6e08bb6c7903"
+  },
+  {
+   "titulo": "VIDEO: Creciente “nunca antes vista” según comunidad, arrasó cultivos, puentes y ganado en Santander",
+   "resumen": "Una creciente del río Guaca en Santander provocó graves afectaciones en las veredas, Sisota y San Pablo, en una emergencia que habitantes de la zona califican como “inusual, nunca antes vista y de gran magnitud”. Únase…",
+   "imagen": "https://caracol.com.co/resizer/v2/WCS65Y3P6VHUDPPXSL47GBEYBI.jpg?auth=bdb4dad42c5f4579943b5d7fe25a7f071237e1484d742c0b1a40a1b06631f814&smart=true&width=1193&height=896",
+   "enlace": "https://caracol.com.co/2026/10/23/video-creciente-nunca-antes-vista-segun-comunidad-arraso-cultivos-puentes-y-ganado-en-santander/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-23T12:38:37Z",
+   "id": "9a4e5bbb2770"
+  },
+  {
+   "titulo": "Ojo con los cortes: revise si su barrio está en la lista de trabajos de Emcali para este 23 de octubre en Cali",
+   "resumen": "Las intervenciones se llevarán a cabo en diversos sectores de Cali y zonas aledañas con el fin de optimizar la infraestructura de servicios públicos.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/06/23/6a3a7757404c6.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/cali/ojo-con-los-cortes-revise-si-su-barrio-esta-en-la-lista-de-trabajos-de-emcali-para-este-23-de-octubre-en-cali-3595723",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-23T12:29:23Z",
+   "id": "3fde9e7f42a5"
+  },
+  {
+   "titulo": "Dian rebajará 85% de las sanciones a contribuyentes en mora con decreto del sismo",
+   "resumen": "La entidad reporta 643.332 obligaciones pendientes y señala cuáles son las ciudades que concentran los mayores saldos.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/SSIXSVDW2BE4LPOY62EHWYUPCM.JPG?auth=441c39edf9a9b0a4633344a63544f3856de0c31a975119f35ba61f1d3ee4deb2&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/economia/nacional/2026/10/23/dian-rebajara-85-de-las-sanciones-a-contribuyentes-en-mora-con-decreto-del-sismo/",
    "medio": "Vanguardia",
    "fuente": "vanguardia",
    "region": "Santander",
-   "fecha": "2026-10-23T06:00:00Z",
-   "id": "87cef077115e"
+   "fecha": "2026-10-23T12:12:31Z",
+   "id": "19b82f350402"
   },
   {
-   "titulo": "La primiparada",
-   "resumen": "Conservar el Ministerio del Interior siempre será más difícil que conseguirlo. Es un trabajo de alto riesgo, alta exposición y – últimamente – bajo retorno. El cargo exige saber contar votos y manejar grandes egos. Esta…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/HRVSNJS5DBEHRFYPMAZITV2FV4.jpg?auth=09f51171162a5f90391b80f57c109214f24d45b47a91ddcec8a189b4e054f38c&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/23/la-primiparada/",
+   "titulo": "De La Espriella responde a Rodrigo Lara tras su salida del Ministerio del Interior",
+   "resumen": "Alejandro Ordóñez asumirá la cartera política, mientras Iván Cancino ejercerá temporalmente las funciones hasta el relevo ministerial.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/XAZPC52RCZAJNHJTWNPV3Q4BS4.jpg?auth=504116cdcf665e752aa9351b417a1992a0af3a2169146215373c3372c6983ca7&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/colombia/2026/10/23/de-la-espriella-responde-a-rodrigo-lara-tras-su-salida-del-ministerio-del-interior/",
    "medio": "Vanguardia",
    "fuente": "vanguardia",
    "region": "Santander",
-   "fecha": "2026-10-23T06:00:00Z",
-   "id": "38835163a485"
+   "fecha": "2026-10-23T12:06:35Z",
+   "id": "d009944c3ae4"
+  },
+  {
+   "titulo": "Otro santandereano desaparecido en Rusia: su familia lleva meses sin saber de él",
+   "resumen": "Óscar Mauricio Velásquez, un santandereano de 37 años, viajó a Rusia en busca de mejores oportunidades y desde mayo su familia no sabe nada de él.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/ZETMHK4MXFGZZGXAJE4U4EE6TE.jpg?auth=fa08a3e352146b540456512415286b12106e94aa8d037b8b9ece45dcfd3be667&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/judicial/2026/10/22/otro-santandereano-desaparecido-en-rusia-su-familia-lleva-meses-sin-saber-de-el/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-23T11:41:52Z",
+   "id": "ee59eba75472"
+  },
+  {
+   "titulo": "Bucaramanga: cerca de 60 toneladas de llantas usadas se recuperan mensualmente y se genera combustible",
+   "resumen": "En el marco del 'plan choque' que se emprendió en Bucaramanga para contrarrestar la contaminación por llantas usadas en las calles, toneladas de estos residuos son recolectadas, tratadas y recuperadas para darles nuevos…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/5GHUR62KG5H45E33MD4UZ3CD2U.JPG?auth=1b59e9ecbb0e5aa2c0cde3737ea98aae079fb52ee5ba8161073cbc3c657e756f&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/10/22/bucaramanga-cerca-de-60-toneladas-de-llantas-usadas-se-recuperan-mensualmente-y-se-genera-combustible/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-23T11:41:33Z",
+   "id": "bcf2d76c2ecd"
+  },
+  {
+   "titulo": "Piedecuesta invertirá $7.500 millones en la PTAR El Santuario",
+   "resumen": "Las obras contemplan mejoras en el tratamiento preliminar, el manejo de lodos y los aireadores para optimizar el funcionamiento de la planta.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/MND45JYNIBAM7M3IUV3U7HFUAY.jfif?auth=061a556b785f7e8055844c1510a33ca2c1ea0d1e95093bc57b230f2022a4a91d&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/area-metropolitana/piedecuesta/2026/10/22/piedecuesta-invertira-7500-millones-en-la-ptar-el-santuario/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-23T11:40:53Z",
+   "id": "8a4f6756ad8f"
+  },
+  {
+   "titulo": "Sogamoso tendrá una semana de actividades gratuitas de Halloween en el Parque El Laguito",
+   "resumen": "Del 26 de octubre al 1 de noviembre, Sogamoso realizará Halloweek 2026, una propuesta de entretenimiento gratuito que incluirá una casa del terror, calabazas gigantes, figuras interactivas, espectáculos de luces, danzas…",
+   "imagen": "https://caracol.com.co/resizer/v2/GBWJOHQXPFCXFJJO6I354UNMGM.jpg?auth=32ea020781cadd924987a835361d25d8492276ee6975287b11a0e0ef0cb2f4f3&smart=true&width=1240&height=886",
+   "enlace": "https://caracol.com.co/2026/10/23/sogamoso-tendra-una-semana-de-actividades-gratuitas-de-halloween-en-el-parque-el-laguito/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-23T11:37:53Z",
+   "id": "d88730a065a5"
+  },
+  {
+   "titulo": "Carro bomba explotó en peaje de Casanare y dejó cuatro trabajadores heridos",
+   "resumen": "El gobernador César Ortiz Zorro anunció una reunión extraordinaria para coordinar acciones con la Fuerza Pública y avanzar en la captura de los responsables.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/XR5AW6CRJ5GHNBCFDOGRCEZP3Q.jpg?auth=582dcf228c1d9e039b2fd104c77be2d1b136896d9cbea32e612fe1351c2e5ec8&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/colombia/2026/10/23/carro-bomba-exploto-en-peaje-de-casanare-y-dejo-cuatro-trabajadores-heridos/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-23T11:27:30Z",
+   "id": "dacffc539b9a"
+  },
+  {
+   "titulo": "Cocina con propósito y conciencia: la fórmula gastronómica con la que 160 paelleros transforman el dolor en esperanza y tejido social en Cali",
+   "resumen": "La XVI edición de 'Paella por una Doble Causa' se hará este sábado 24 de octubre en el Centro de Eventos Orbit. Se esperan más de 2.000 asistentes",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/09/22/68d15f7c6ded8.r_d.1338-962-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/cali/cocina-con-proposito-y-conciencia-la-formula-gastronomica-con-la-que-160-paelleros-transforman-el-dolor-en-esperanza-y-tejido-social-en-cali-3595695",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-23T11:15:54Z",
+   "id": "76acfb0ac699"
+  },
+  {
+   "titulo": "Concurso Procuraduría General de la Nación: ¿Cuándo se conoce la lista oficial de admitidos?",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcThHdzhuWGFOZ2Q5UVdkTXNkaDZoNzkwZFg2OVF6OUtDdkFqejZpcmpsNDh2TTN2ZWdDdzNTd2I5eEo3VjJHalZUTzd6ZXI5cWNFRWh1U0VXWWJCdDdKcXpHbXotQVZnM0xpbEtkNnhFNFN2dE1nTXlBTVNtLVJfSEZuc3JwMUV6NlkwTFJEMkdFeUNyblRBZzVBNXU2RXJpOWJkMUpMM1IzejBmYUd2TEJicXNJa2xSbWZVRUxPWmRxNGw4OU5Z?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-10-23T11:03:34Z",
+   "id": "3f270f8d7522"
+  },
+  {
+   "titulo": "Avalancha en Guaca, Santander, deja cuatro puentes afectados y pérdidas millonarias",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMlFhT0JFRExwLWg0cVdPOWZtSHdqdVZiWFlnTk42ZmMzR1NCUllqSFFPYXNmYVRsNEQ3d0RIUThNcFUzVllILXl4cnV5eGhfcC1xcGxHdUFXYmhHZFZvUDJPZk1WWVlBdDZwRVhtZWg3MndBam8xTmJLelVlNDZMbXUxY1dDcjNIbXh6ZlBrSExvSjRTcmk0STMzWm9yNEN1ZTFQM241VWJnS2YzMDhTM2x6WGs5MTd4akVQODFRM25UNHhaWV84Z2xHMjLSAdoBQVVfeXFMTl9BcXFuVGRaZUxYNWNzTHV0cE1fa0pNNGk5YXJhejhjRjFlUGZpc2hTMkpBdk9meklVemlNa2F2M2ZYY3JmdzRQVWd2MFdTNmg1c3Y0YWk0amNtRldpeXJ4WTNaWHc1Ykxhb3ZrcGtEaUQ3OUQ1bVd5eHZ4ZXhibF96ZzQ1anZiSlN4NzE5NnpYa0tLVFlKZDdKX01KQm52WGt4bkRqNTlfZ3JkbTFPWEZlVnY0em1udUhtSkwtSnQyMlRBRWpKMkNkNXlrcldaOGFZbGdSSW1hcVE?oc=5",
+   "medio": "Blu Radio",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-10-23T10:50:42Z",
+   "id": "f91136fc5d6c"
+  },
+  {
+   "titulo": "Explosión de carro bomba en peaje entre Villanueva y Monterrey, Casanare, en la madrugada de este viernes 23 de octubre: habría varios heridos",
+   "resumen": "El reporte preliminar confirmó importantes daños en la estructura mientras se busca precisar los detalles sobre las víctimas.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/23/6adb1e526a78a.r_d.696-435-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/explosion-de-carro-bomba-en-peaje-entre-villanueva-y-monterrey-casanare-en-la-madrugada-de-este-viernes-23-de-octubre-habria-personas-heridas-3595702",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-23T10:40:11Z",
+   "id": "523e5b79cbb4"
+  },
+  {
+   "titulo": "¡Pilas, conductor! Pico y placa en Cali para el viernes 23 de octubre de 2026: estas son las placas que tendrán restricción",
+   "resumen": "La medida para vehículos particulares regirá durante 13 horas. Las motocicletas y los taxis no están incluidos en esta restricción.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2024/11/27/674721e179539.r_d.662-61-0.png",
+   "enlace": "https://www.eltiempo.com/colombia/cali/pilas-conductor-pico-y-placa-en-cali-para-el-viernes-23-de-octubre-de-2026-estas-son-las-placas-que-tendran-restriccion-3595530",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-23T07:30:00Z",
+   "id": "359949183769"
   },
   {
    "titulo": "Anulado",
@@ -99,17 +330,6 @@
    "id": "8289d91ff1d0"
   },
   {
-   "titulo": "Las eternas obras públicas",
-   "resumen": "Las ciudades tienen que hacer obras públicas, eso es indiscutible; lo que no entendemos es quiénes programan la ejecución que se hace para el desarrollo de las mismas, pues algunas veces, en la mayoría de los casos…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/HDIZPATRKBEMJPKF6P2THJSG6A.jpg?auth=001af19cc1bf4cbd5b2d7382dea28b4395bfe9b71eb4c64816436762ee8dec6b&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/23/las-eternas-obras-publicas/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-23T06:00:00Z",
-   "id": "88dd44b441c2"
-  },
-  {
    "titulo": "IndeSencia",
    "resumen": "La seguidilla de errores, la improvisación, la ambición, quizás, tienen contra las cuerdas a Sencia, el concesionario encargado de la operación, administración y renovación del estadio El Campín de Bogotá. A finales de…",
    "imagen": "https://www.vanguardia.com/resizer/v2/QNW55KMVQNAHJMFMHANND4F26U.jpg?auth=0dd4deb26077f0b22b57943ba81dee97c98ecb242e2f8f64f7832e2229fb8289&smart=true&width=900&height=600",
@@ -121,15 +341,37 @@
    "id": "ff8ad0f5c451"
   },
   {
-   "titulo": "Feria Inmobiliaria Vanguardia: proyectos, financiación y oportunidades en un solo lugar",
-   "resumen": "Este 24 y 25 de octubre, Neomundo será el punto de encuentro para quienes buscan vivienda propia o una oportunidad de inversión. La 22. ª Feria Inmobiliaria Vanguardia reunirá constructoras, entidades financieras y…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/DSJPARZT3NFQVPWQSO65752R4I.jpg?auth=1197babb7f18dffb4c9e9bb29f06400e537af015e1b6351f5a47981fc35463f3&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/contenido-especial/2026/10/23/feria-inmobiliaria-vanguardia-proyectos-financiacion-y-oportunidades-en-un-solo-lugar/",
+   "titulo": "Las eternas obras públicas",
+   "resumen": "Las ciudades tienen que hacer obras públicas, eso es indiscutible; lo que no entendemos es quiénes programan la ejecución que se hace para el desarrollo de las mismas, pues algunas veces, en la mayoría de los casos…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/HDIZPATRKBEMJPKF6P2THJSG6A.jpg?auth=001af19cc1bf4cbd5b2d7382dea28b4395bfe9b71eb4c64816436762ee8dec6b&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/23/las-eternas-obras-publicas/",
    "medio": "Vanguardia",
    "fuente": "vanguardia",
    "region": "Santander",
-   "fecha": "2026-10-23T05:00:00Z",
-   "id": "53b3a598017a"
+   "fecha": "2026-10-23T06:00:00Z",
+   "id": "88dd44b441c2"
+  },
+  {
+   "titulo": "La primiparada",
+   "resumen": "Conservar el Ministerio del Interior siempre será más difícil que conseguirlo. Es un trabajo de alto riesgo, alta exposición y – últimamente – bajo retorno. El cargo exige saber contar votos y manejar grandes egos. Esta…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/HRVSNJS5DBEHRFYPMAZITV2FV4.jpg?auth=09f51171162a5f90391b80f57c109214f24d45b47a91ddcec8a189b4e054f38c&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/23/la-primiparada/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-23T06:00:00Z",
+   "id": "38835163a485"
+  },
+  {
+   "titulo": "Las lecciones sobre Metrolínea que hay que aprender",
+   "resumen": "La Alcaldía de Bucaramanga presentó un plan para rescatar Metrolínea que, en su formulación actual, acumula más interrogantes que certezas. La intención de reparar estaciones y gestionar recursos para nueva flota ante…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/Y77HSAMVDRGCBAKRMUB7GJBV6Y.jpg?auth=9fda64626f20c1611bc18d55707d029290a765be2ce035a22502a229ab61e783&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/editorial/2026/10/23/las-lecciones-sobre-metrolinea-que-hay-que-aprender/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-23T06:00:00Z",
+   "id": "87cef077115e"
   },
   {
    "titulo": "Nuevos desarrollos inmobiliarios amplían la oferta de vivienda e inversión en Santander",
@@ -143,26 +385,15 @@
    "id": "04fe9340db3e"
   },
   {
-   "titulo": "‘Ajuste fiscal en marcha’: Presidente anuncia recorte por 13.8 billones en gasto estatal para 2027",
-   "resumen": "El presidente de Abelardo De La Espriella, anunció que el ajuste fiscal ya está en marcha con un recorte inicial de $13,8 billones de pesos en el gasto del Estado. A través de la firma del Decreto 1585 de 2026, el…",
-   "imagen": "https://caracol.com.co/resizer/v2/ZECAHHXSSRCKXKYAIV6YEQMX44.jpg?auth=4e7f7f5846aa44d91f182b16bf8796ce43c64d2215742fae0e1517a3457f8621&smart=true&width=4500&height=2995",
-   "enlace": "https://caracol.com.co/2026/10/23/ajuste-fiscal-en-marcha-presidente-anuncia-recorte-por-138-billones-en-gasto-estatal-para-2027/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-23T04:33:43Z",
-   "id": "c964003dc087"
-  },
-  {
-   "titulo": "Yahir Acuña, alcalde de Sincelejo, se pronunció tras el anuncio de Estados Unidos de revocarle su visa y aseguró que va a 'solicitarla nuevamente'",
-   "resumen": "En sus declaraciones, señaló que su visa fue renovada en pasado mes de abril de 2026. Esto dijo.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/11/24/6924ebb41aa5c.r_d.713-368-0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/yahir-acuna-alcalde-de-sincelejo-se-pronuncio-tras-anuncio-de-estados-unidos-de-revocarle-su-visa-y-aseguro-que-va-a-solicitarla-nuevamente-3595689",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-23T04:06:50Z",
-   "id": "f66f306b5001"
+   "titulo": "Feria Inmobiliaria Vanguardia: proyectos, financiación y oportunidades en un solo lugar",
+   "resumen": "Este 24 y 25 de octubre, Neomundo será el punto de encuentro para quienes buscan vivienda propia o una oportunidad de inversión. La 22. ª Feria Inmobiliaria Vanguardia reunirá constructoras, entidades financieras y…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/DSJPARZT3NFQVPWQSO65752R4I.jpg?auth=1197babb7f18dffb4c9e9bb29f06400e537af015e1b6351f5a47981fc35463f3&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/contenido-especial/2026/10/23/feria-inmobiliaria-vanguardia-proyectos-financiacion-y-oportunidades-en-un-solo-lugar/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-23T05:00:00Z",
+   "id": "53b3a598017a"
   },
   {
    "titulo": "Lotería de Bogotá: resultado del sorteo del jueves 22 de octubre de 2026",
@@ -174,94 +405,6 @@
    "region": "Santander",
    "fecha": "2026-10-23T04:05:00Z",
    "id": "d64c665e3fab"
-  },
-  {
-   "titulo": "Timaná alerta por presunto uso ilegal de péptidos inyectables en centros estéticos",
-   "resumen": "La Dirección Local de Salud de Timaná, Huila, emitió una alerta sanitaria por el uso de péptidos sintéticos inyectables sin registro sanitario del Invima y presuntamente administrados o formulados por personas sin…",
-   "imagen": "https://caracol.com.co/resizer/v2/JMQYZ4HZQZH3HIFXYLX4WPVXFE.jpg?auth=c2a091300a063167bc6f7f24e0fd30e4a1d56c89409d619819e61c3becb1c004&smart=true&width=1200&height=627",
-   "enlace": "https://caracol.com.co/2026/10/23/timana-alerta-por-presunto-uso-ilegal-de-peptidos-inyectables-en-centros-esteticos/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-23T03:46:19Z",
-   "id": "87235c9570bd"
-  },
-  {
-   "titulo": "Super Astro Luna: resultado del sorteo del jueves 22 de octubre de 2026",
-   "resumen": "¿Se volvió millonario hoy? Consulte el resultado del Super Astro Luna de este jueves 22 de octubre de 2026 y revise si su número y signo fueron los ganadores.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/YDXUBW74MRCZFCMO36C4CT57UM.png?auth=424b60f212e1b7a99864fa68f3555dc920a6d885410c524ef2796eed4ea82bee&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/22/super-astro-luna-resultado-del-sorteo-del-jueves-22-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-23T03:45:00Z",
-   "id": "7d47636f841e"
-  },
-  {
-   "titulo": "Lotería del Quindío: resultado del sorteo del jueves 22 de octubre de 2026",
-   "resumen": "Resultado del último sorteo de la Lotería del Quindío del jueves 22 de octubre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/YIDJMYCC2VHVBPSBGQM754O6PE.png?auth=d39caf0be8691e0a82ebaa3a5e3e90c7d9223bc6ae0c473f14efb8dc8cc27555&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/22/loteria-del-quindio-resultado-del-sorteo-del-jueves-22-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-23T03:34:38Z",
-   "id": "2585021aa8e1"
-  },
-  {
-   "titulo": "Emergencia en Moniquirá, Boyacá, por deslizamiento de tierra en la vereda de Pajales tras fuertes lluvias: se reportan tres casas afectadas",
-   "resumen": "Gestión del Riesgo del departamento y el alcalde del municipio confirmaron que no hay víctimas mortales y que se adelanta la evaluación del terreno.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/22/6adab588c4f0e.png",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/emergencia-en-moniquira-boyaca-por-deslizamiento-de-tierra-en-la-vereda-de-pajales-tras-fuertes-lluvias-se-reportan-tres-casas-destruidas-3595671",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-23T03:34:38Z",
-   "id": "61e3e3cc3acd"
-  },
-  {
-   "titulo": "Caribeña Noche: resultado del sorteo de hoy jueves 22 de octubre de 2026",
-   "resumen": "Resultado del último sorteo de La Caribeña Noche del jueves 22 de octubre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/4VCHTU4ZLJHDBG5ITYNVM6BQS4.png?auth=9039843e8c8149d7c2160fad8084dae7a4cba3acd4e9ccbc5359c0a66f4aecf1&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/22/caribena-noche-resultado-del-sorteo-de-hoy-jueves-22-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-23T03:21:00Z",
-   "id": "28c5f76f9cd7"
-  },
-  {
-   "titulo": "Sinuano Noche: resultado del sorteo del jueves 22 de octubre de 2026",
-   "resumen": "¿La suerte lo acompañó esta noche? Conozca el número ganador del Sinuano Noche de hoy jueves 22 de octubre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/SSHVAUKCMJEHTLNT7BO3KMCKLE.png?auth=52ce2bfb258290340577a67dec2e19479c41e7c33846a041ded863b0b64c9469&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/22/sinuano-noche-resultado-del-sorteo-del-jueves-22-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-23T03:21:00Z",
-   "id": "c7db08a54655"
-  },
-  {
-   "titulo": "Presto tiene nuevo dueño: el empresario Jaime Gilinski compró la cadena de restaurantes",
-   "resumen": "El empresario caleño Jaime Gilinski, a través de su empresa Nutresa, compró la cadena de restaurantes Presto, tras entrar en liquidación hace unos días, con lo que salva de cerrar y se conservarán más de 700 empleos. La…",
-   "imagen": "https://caracol.com.co/resizer/v2/G2N5OT7UEJDXVGUTXV53NLH2CE.png?auth=9356b7782b6eb8cce6f0d1974ef4b2124e3dcae1213453244defe0fd60928cf0&smart=true&width=768&height=576",
-   "enlace": "https://caracol.com.co/2026/10/23/presto-tiene-nuevo-dueno-el-empresario-jaime-gilinski-compro-la-cadena-de-restaurantes/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-23T02:52:42Z",
-   "id": "b3e5fe09d774"
-  },
-  {
-   "titulo": "MiLoto: qué cayó en el sorteo del jueves 22 de octubre de 2026",
-   "resumen": "Consulte los resultados del sorteo de MiLoto del jueves 22 de octubre de 2026. Revise los números ganadores y entérese si cayó el gran acumulado millonario.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/FKFFYVZHPNEM7HPTL2RKV6XZNU.jpg?auth=1fa9a8c9732540213904acd8fa2433d4418718a5f56eef482d3cbb373806c819&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/22/miloto-que-cayo-en-el-sorteo-del-jueves-22-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-23T02:50:00Z",
-   "id": "311887ac5db9"
   },
   {
    "titulo": "Exgobernador de Santander, Mauricio Aguilar Hurtado, es acusado ante la Corte Suprema por presuntas irregularidades en contrato para colegio agrícola en Suaita",
@@ -286,50 +429,6 @@
    "id": "13971eb60abc"
   },
   {
-   "titulo": "Motilón Noche: número ganador del sorteo del jueves 22 de octubre de 2026",
-   "resumen": "¿Ganó El Motilón Noche? Consulte el número ganador del sorteo de hoy jueves 22 de octubre de 2026 y revise si es el nuevo afortunado del chance.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/OYWRTTDKVVGRHCY2WSJGMIA7PE.png?auth=99ed5b0a4c905f0b3bd75b64c4311b7d728cf32aa9f63026fb50999ca53277b8&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/22/motilon-noche-numero-ganador-del-sorteo-del-jueves-22-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-23T01:52:00Z",
-   "id": "00e6bf6e6457"
-  },
-  {
-   "titulo": "Médicos y enfermeras habrían realizado cirugías estéticas en 74 clínicas ilegales en dos años en Nariño: destapan una red de centros clandestinos",
-   "resumen": "Las autoridades decomisaron más de 10.000 insumos vencidos y trasladaron los casos al Tribunal de Ética Médica por poner en riesgo a los pacientes.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/22/6ada9f1fe9bae.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/medicos-y-enfermeras-habrian-realizado-cirugias-esteticas-en-74-clinicas-ilegales-en-dos-anos-en-narino-destapan-una-red-de-centros-clandestinos-3595657",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-23T01:06:29Z",
-   "id": "897150533d82"
-  },
-  {
-   "titulo": "Esta es la alianza con Italia para impulsar la agricultura del país: el café, la piña y el aguacate del Cauca son claves para los mercados europeos",
-   "resumen": "A través del programa LabInnova 2026, productores del Cauca, Boyacá, Cundinamarca, Huila y Tolima buscan conquistar el Viejo Continente.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/22/6adab0496820f.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/esta-es-la-alianza-con-italia-para-impulsar-la-agricultura-del-pais-el-cafe-la-pina-y-el-aguacate-del-cauca-son-claves-para-los-mercados-europeos-3595654",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-23T01:03:27Z",
-   "id": "536957d91d35"
-  },
-  {
-   "titulo": "Informe forense de Medicina Legal confirmó que el periodista Mateo Pérez fue torturado y ejecutado en Antioquia: la reconstrucción del crimen",
-   "resumen": "El joven reportero que viajó al Norte del departamento para registrar el conflicto cayó en manos de las disidencias de las Farc en Briceño.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/22/6adaa7bfd2da6.r_d.960-540-0.png",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/informe-forense-de-medicina-legal-confirmo-que-el-periodista-mateo-perez-fue-torturado-y-ejecutado-en-antioquia-la-reconstruccion-del-crimen-3595533",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-23T00:58:15Z",
-   "id": "36fc744e1c94"
-  },
-  {
    "titulo": "Acusan a exgobernador de Santander por contrato irregular en construcción de colegio",
    "resumen": "",
    "imagen": "",
@@ -341,70 +440,15 @@
    "id": "6e8b60cc1f9a"
   },
   {
-   "titulo": "Estos son los oficiales de FFMM que harán curso de CAEM y CIDENAL para generales y contraalmirantes",
-   "resumen": "Ocho coroneles del Ejército Nacional fueron seleccionados para realizar el Curso de Altos Estudios Militares (CAEM) 2027 y una coronel del Cuerpo Administrativo fue escogida para el Curso de Información de Defensa…",
-   "imagen": "https://caracol.com.co/resizer/v2/ELJ3QWMIUFFUNCMSE2DUJCIANA.jpeg?auth=3c104bd3cefbdb144c473afdb05f65e35833f28f7337d7629286bd72b5a470f2&smart=true&width=1194&height=1159",
-   "enlace": "https://caracol.com.co/2026/10/23/estos-son-los-oficiales-de-las-ffmm-que-haran-curso-para-general-y-contraalmirante-en-2027/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-23T00:41:32Z",
-   "id": "4b0698a0a306"
-  },
-  {
-   "titulo": "Presidente De La Espriella, testigo de demolición de edificio que era de 'Pacho' Herrera en Cali: anunció con la Alcaldía bonos de vivienda tras sismo",
-   "resumen": "El jefe de Estado y el alcalde Alejandro Eder presenciaron el inicio del derribo del edificio Arábico. Entregarán bonos a 350 familias damnificadas.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/22/6adaa76c6e3f4.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/presidente-de-la-espriella-testigo-de-demolicion-de-edificio-que-era-de-pacho-herrera-en-cali-anuncio-con-alcaldia-bonos-de-vivienda-tras-sismo-3595668",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-23T00:38:19Z",
-   "id": "5a4e247cb451"
-  },
-  {
-   "titulo": "Resultado Lotería de Bogotá, Quindío y ColorLoto HOY 22 de octubre 2026: ganadores y premios",
-   "resumen": "La Lotería de Bogotá y la del Quindío se juegan todos los jueves a las 10:30 de la noche; la primera puede verla por medio del Canal 1 y la segunda por el canal regional Telecafé, o ambas en sus transmisiones en vivo en…",
-   "imagen": "https://caracol.com.co/resizer/v2/7L6A66UESRH6ZMTIJPYNDRE3JE.png?auth=dc7d00d5e8c543d4246118b36d07979209587b4f0bdd4d13c6f2acdb06ab3233&smart=true&width=650&height=488",
-   "enlace": "https://caracol.com.co/2026/10/23/resultado-loteria-de-bogota-quindio-y-colorloto-hoy-22-de-octubre-2026-ganadores-y-premios/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-23T00:30:00Z",
-   "id": "e21d3c960387"
-  },
-  {
-   "titulo": "Reportaron la desaparición de un estudiante de 16 años en Popayán mientras iba al colegio; la institución realizó una velatón y exige respuestas",
-   "resumen": "La prima del niño dijo que la familia no descarta que se trate de un “posible reclutamiento de menores por parte de los grupos armados”.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/22/6ada759b53360.png",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/reportaron-la-desaparicion-de-un-estudiante-de-16-anos-en-popayan-mientras-iba-al-colegio-la-institucion-realizo-una-velaton-y-exige-respuestas-3595579",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-23T00:17:26Z",
-   "id": "c951e12f2287"
-  },
-  {
-   "titulo": "Urabá: El vicepresidente se comprometió a impulsar la subregión en sectores sociales y económicos",
-   "resumen": "Este jueves se llevó a cabo en el Urabá antiqueño el encuentro “ Misión Crecer Región ”; a esta reunión asistieron el vicepresidente José Manuel Restrepo, los ministros Elsa Noguera de Transporte y Mauricio Gómez Amín…",
-   "imagen": "https://caracol.com.co/resizer/v2/SAN46BRDXJHH3IN6GNKGGZTVRA.jpeg?auth=7623bf9fc5c4a63007ef23b6d969056067e6948d047cf7350bf8bec16aa5c573&smart=true&width=1280&height=854",
-   "enlace": "https://caracol.com.co/2026/10/22/uraba-el-vicepresidente-se-comprometio-a-impulsar-la-subregion-en-sectores-sociales-y-economicos/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-22T23:42:14Z",
-   "id": "dc9beb9dc3cb"
-  },
-  {
-   "titulo": "Crisis energética: audiencia en Barranquilla deja acuerdos para evitar racionamientos y atender la situación de Air-e y Afinia",
-   "resumen": "El Gobierno, el Congreso y las empresas definieron una hoja de ruta para enfrentar la crisis.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/22/6ada93bb15b61.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/barranquilla/crisis-energetica-audiencia-en-barranquilla-deja-acuerdos-para-evitar-racionamientos-y-atender-la-situacion-de-air-e-y-afinia-3595643",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-22T23:30:00Z",
-   "id": "edc7a2627ae6"
+   "titulo": "Después de cuatro años, restauran los murales de la Galería a Cielo Abierto de San Gil",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVUJmbHdFNjNNT3c0NW9FYWhFY2ZhNEhvM2t1TTR0eC1aVXNvQ0pHU2ZkanZvTmFPVWVBdW4zTFpBbWVfN2M1SVVpdjlkRE15RWU5YUhBb2xhMVNnME9BV0VyME5wRGY4VEpSQThJSjFtRjdNUWpSa2VranZKU2RLUWwzQlU2eGpqTlFjbTNBRzA0WkJrR2hCZkRfb1RVdGN1V2VpbkpESHd0NE5TNGFWc0huaUVhd2ZabXJSZlhVeWFINlFQZ3ZGcnA2LVVjZVdCT21RZDVBdGlueTg?oc=5",
+   "medio": "Vanguardia",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-10-22T19:10:00Z",
+   "id": "1706e5c0380d"
   },
   {
    "titulo": "Resultado Chontico Día hoy, 22 de octubre de 2026: consulte el número ganador del sorteo de este jueves",
@@ -427,17 +471,6 @@
    "region": "Colombia",
    "fecha": "2026-10-22T17:34:27Z",
    "id": "63afc6b71cb8"
-  },
-  {
-   "titulo": "“Cancelaron mis clases”: profesor israelí amenazado por sus opiniones contra genocidio en Gaza",
-   "resumen": "El escritor Sebastián Ben Daniel , quien es profesor de computación en la Universidad Ben Gurión del Neguev, en la ciudad de Beer Sheva, conversó con Julio Sánchez Cristo para 6AM W acerca de la persecución que han…",
-   "imagen": "https://caracol.com.co/resizer/v2/E2PEPIDOW5GAPGZX3AYBN5IV5E.jpg?auth=4212ba35a3cfa674521623168408db5cdfe5b8a004a06fe76b0614e3047489fe&smart=true&width=1024&height=683",
-   "enlace": "https://caracol.com.co/2026/10/22/cancelaron-mis-clases-profesor-israeli-amenazado-por-sus-opiniones-contra-genocidio-en-gaza/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-22T16:52:10Z",
-   "id": "07b1c420c2d7"
   },
   {
    "titulo": "¿Cómo reportar un semáforo dañado en Cali?: Línea de atención y pasos",
@@ -473,15 +506,15 @@
    "id": "7d90a92653a9"
   },
   {
-   "titulo": "Santander pierde $580 mil millones con el presupuesto decretado",
+   "titulo": "RCN Radio",
    "resumen": "",
    "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTzZlcTVkQVF4eWYtU2JlcFNBZHVhTXZadTBzRDZCUXFUSDlJRTYteWJiMUJINVF3U0tGNGlWSUt1X1lPOWxiQ0hjUFBxMFdXU1Fic0YxaTFsZjJ4UnBhbUFSa2MyRE9PZ21iVFdyM3BGWFB0eTlQdk1QTi1nTW1FWTluaWlkUmVaemc1a3dSWFNmbkduN1ZRc0RYR0JfS1VVMXZZMDd4V1JDQmJGdjhZ?oc=5",
-   "medio": "Vanguardia",
-   "fuente": "provincia",
-   "region": "Santander",
-   "fecha": "2026-10-22T14:53:00Z",
-   "id": "8ee3c01b93c9"
+   "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQWpGMVlCSjkzMWhWRnJxWl9xY2d4SWJyN3NCNEc2c3hGMVYwVEp2ZXdnTHE1RWZNSjRqd3R6WjBsXzRzSmhjZmI2VkNXS29hS3J2bno4aHFxS05pRU1EazRrY1hTakdsb0ZDTDIzVTNadEl1U1JjN05kVGR2U05VQ3JFcG5xbjRtVjBPemd0S3BlcU03SkFZS1J5dw?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-10-22T14:35:03Z",
+   "id": "480277a57d6e"
   },
   {
    "titulo": "¿Quién es el nuevo ministro del Interior de Colombia tras la salida de Rodrigo Lara Restrepo?",
@@ -493,28 +526,6 @@
    "region": "Colombia",
    "fecha": "2026-10-22T14:18:02Z",
    "id": "9822e8444209"
-  },
-  {
-   "titulo": "Player Page",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLWRhWnNwTk93Yl9maFJvcUh4QWRPeXM0SjYxMWcyVExINGlXcWpZRGZPb0NPejN1SmZFYnI3Y2hGcUlLRkszREZPWGVGNWtOYnhNdnJ4YVQ1cjNkMmQxekg3NmRJM3lZRFYzQjhzbUFQeXk3dS1sZ2hGbWo4a0dfcHpyLUdSczJhRVJVV05DN2JodXVPZEhEN05pTHQ3WE1tcUE?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-10-22T12:53:25Z",
-   "id": "e66bf6683d4a"
-  },
-  {
-   "titulo": "RCN Radio",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpS0FscEcta3l3Y1hmOHN3dzJ4bW8zSThadnNua2NLSHl4dU91YllnUmVUQzlvWERaTW1Jd19za05YVzVadGVZVkllVERJTENUNjVZ?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-10-22T12:25:25Z",
-   "id": "480277a57d6e"
   },
   {
    "titulo": "Creciente del río Sisota causó emergencia en Guaca, Santander: reportan daños en viviendas, puentes y cultivos",
@@ -559,17 +570,6 @@
    "region": "Santander",
    "fecha": "2026-10-21T21:45:50Z",
    "id": "c6aaeb02f348"
-  },
-  {
-   "titulo": "El Socorro aporta talentos al futuro del judo colombiano",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWVZhQW50czlsT2hPd2szbF9LMUpKME83ajRyd0NiUU9IMkxqbE5fTGVxMG4xSnZ4T3kxRk9leVpPTm9SczhpMHZ4NUU1ajNUeDdMbzViQkwwV2k2UTZZc2FNTkdMLTExb282cXYyUVdFU2J1LS1xOHRoNEh0Zm16WEhpS2tNQzMz?oc=5",
-   "medio": "El Frente",
-   "fuente": "provincia",
-   "region": "Santander",
-   "fecha": "2026-10-21T14:59:35Z",
-   "id": "008d5956457d"
   },
   {
    "titulo": "Un motociclista quedó atrapado en cemento fresco por ingresar a una vía cerrada en San Gil, Santander: todo quedó en video",
