@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-24T05:54:20Z",
+ "actualizado": "2026-10-24T11:01:26Z",
  "fuentes": [
   {
    "id": "vanguardia",
@@ -44,59 +44,235 @@
  ],
  "noticias": [
   {
-   "titulo": "Caribbean Beach Resort de Marval, el mejor proyecto para para invertir en Santa Marta",
-   "resumen": "Ubicado en primera línea de mar, en Playa Salguero, una de las más exclusivas de la ciudad, está conformado por tres torres, Cabo, Sierra y su último lanzamiento, Tayrona, implantadas para aprovechar al máximo las…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/JF62YGNBBBFFBPU5RVJ5IYPBLA.jpg?auth=f776bbfde57329010e9a6d052de04323a7d8a8adafcc7f1f58165e32fa137e64&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/informes-comerciales/2026/10/24/caribbean-beach-resort-de-marval-el-mejor-proyecto-para-para-invertir-en-santa-marta/",
+   "titulo": "¿Cómo rige hoy, sábado 24 de octubre, el pico y placa en Bucaramanga y el área?",
+   "resumen": "Esté atento al pico y placa de este sábado, 24 de octubre",
+   "imagen": "https://www.vanguardia.com/resizer/v2/HASPH5JDSRECXITCODMQWDJXTU.jpg?auth=f0aa008ed0af419f210c67da64871c787658f727db2bc3a1fbdeea1fe7ab7654&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/10/24/como-rige-hoy-sabado-24-de-octubre-el-pico-y-placa-en-bucaramanga-y-el-area/",
    "medio": "Vanguardia",
    "fuente": "vanguardia",
    "region": "Santander",
-   "fecha": "2026-10-24T05:00:00Z",
-   "id": "a696bb3a774d"
+   "fecha": "2026-10-24T10:54:25Z",
+   "id": "edc149b739bc"
   },
   {
-   "titulo": "Aliados que acercan a los santandereanos a nuevas oportunidades de vivienda",
-   "resumen": "La financiación y los programas institucionales son fundamentales para facilitar el acceso a vivienda y mejorar las condiciones habitacionales de las familias. En la 22.ª Feria Inmobiliaria Vanguardia, el Banco Agrario…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/J2VIHLS5SFGWZGKF4T44UII6XA.jpg?auth=ea0e5eaa3e2c8c42ff6cc04d1f987a55734aba9e13a6b12f8836ac569f23cf26&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/contenido-especial/2026/10/24/aliados-que-acercan-a-los-santandereanos-a-nuevas-oportunidades-de-vivienda/",
+   "titulo": "El terror se toma Barranquilla: Criaturas Fest reúne cortometrajes, arte y música este sábado en Plaza 76",
+   "resumen": "La programación comienza a las 2 p. m. e incluye charlas, un taller de fanzines y una feria de creadores.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/24/6adc89e6d32c2.png",
+   "enlace": "https://www.eltiempo.com/colombia/barranquilla/el-terror-se-toma-barranquilla-criaturas-fest-reune-cortometrajes-arte-y-musica-este-sabado-en-plaza-3595995",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-24T10:42:53Z",
+   "id": "68fc476b7a74"
+  },
+  {
+   "titulo": "Temblor hoy en Colombia | Reportan nuevo sismo en Chocó en la madrugada de este sábado 24 de octubre: profundidad, epicentro y detalles",
+   "resumen": "El Servicio Geológico Colombiano no reporta víctimas ni daños y pide a la población registrar su experiencia en la plataforma Sismo Sentido.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/19/6aae275d76362.r_d.349-492-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-nuevo-sismo-en-choco-en-la-madrugada-de-este-sabado-24-de-octubre-profundidad-epicentro-y-detalles-3595994",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-24T10:23:48Z",
+   "id": "96b2a185327e"
+  },
+  {
+   "titulo": "Una vida de entrega: legado eterno del exalcalde de Bucaramanga, Luis Fernando Ariza Moreno",
+   "resumen": "Falleció Luis Fernando Ariza Moreno, exalcalde de Bucaramanga, a los 91 años",
+   "imagen": "https://www.vanguardia.com/resizer/v2/PYRMO45RBFAKPKCXR5ICNBZMJE.jpeg?auth=ecca7294130af1b8407130e955d94c9a05c6b9db00ec6872ad31ea119c320df1&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/10/23/una-vida-de-entrega-legado-eterno-del-exalcalde-de-bucaramanga-luis-fernando-ariza-moreno/",
    "medio": "Vanguardia",
    "fuente": "vanguardia",
    "region": "Santander",
-   "fecha": "2026-10-24T05:00:00Z",
-   "id": "3f0f9f514f17"
+   "fecha": "2026-10-24T10:20:25Z",
+   "id": "dfc223e09516"
   },
   {
-   "titulo": "¿Por qué dos personas con el mismo cáncer reciben tratamientos diferentes?",
-   "resumen": "Aunque dos pacientes tengan el mismo diagnóstico y la enfermedad se encuentre en una etapa similar, el tratamiento puede variar. Las características biológicas del tumor y las condiciones de cada persona permiten…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/IEWKDDEGABGZHBCSJXIKTDZCXY.jpg?auth=986a73c1aaf9e3d04800d8afbf35c4ebdec0b7adeb0afefd3d7680e8cb26d0ef&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/entretenimiento/salud/2026/10/24/por-que-dos-personas-con-el-mismo-cancer-reciben-tratamientos-diferentes/",
+   "titulo": "Ministra de Salud destacó infraestructura del Hospital de Canapote durante su visita a Cartagena",
+   "resumen": "La ministra de Salud, Ana María Vesga, destacó la infraestructura del Hospital de Canapote durante una visita a Cartagena, en la que recorrió sus instalaciones y conoció los servicios que presta a habitantes de…",
+   "imagen": "https://caracol.com.co/resizer/v2/KFBSSRV2SRGALIV7WJ7ENWHPYM.jpeg?auth=0a73b8288ed8761afd0fccd3e4163971c72d5fbe9a9202c61daedc264e07817c&smart=true&width=1280&height=853",
+   "enlace": "https://caracol.com.co/2026/10/24/ministra-de-salud-destaco-infraestructura-del-hospital-de-canapote-durante-su-visita-a-cartagena/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-24T10:15:58Z",
+   "id": "ce626b269926"
+  },
+  {
+   "titulo": "Vivero Nazareth: donde la tierra herida volvió a florecer",
+   "resumen": "Vivero Nazareth: raíces que protegen, árboles que transforman",
+   "imagen": "https://www.vanguardia.com/resizer/v2/Z3AFEG4BH5ALTHDZGGIJOG6NOU.jpg?auth=e0c32c519779501d97ca8dd23cd799a68dd7e87a2430c94d0eac550a6d623f73&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/mundo/ola-verde/2026/10/23/vivero-nazareth-donde-la-tierra-herida-volvio-a-florecer/",
    "medio": "Vanguardia",
    "fuente": "vanguardia",
    "region": "Santander",
-   "fecha": "2026-10-24T05:00:00Z",
-   "id": "cd3a0e69aef2"
+   "fecha": "2026-10-24T10:13:33Z",
+   "id": "8516b33c888a"
   },
   {
-   "titulo": "Inteligencia artificial para pacientes, una aliada con límites",
-   "resumen": "Estas herramientas pueden ayudar a comprender resultados médicos, organizar antecedentes y dar seguimiento a los tratamientos. Su uso exige verificar la información, proteger los datos personales y mantener las…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/TU63QDJEDZF4RLFJOA4UPF6BNI.jpg?auth=63f3621d0ec07a08f2c82bd9e3094208c3b3aec008fc5416b93e797c422bdcde&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/informes-comerciales/2026/10/24/inteligencia-artificial-para-pacientes-una-aliada-con-limites/",
+   "titulo": "“El Gobierno heredó una bomba de tiempo que refleja una profunda irresponsabilidad”: José Restrepo",
+   "resumen": "Durante el Congreso Colombiano de la Construcción en Cartagena, el vicepresidente José Manuel Restrepo volvió a alertar por la situación fiscal del país, y aseguró que es producto de la “ irresponsabilidad ” de las…",
+   "imagen": "https://caracol.com.co/resizer/v2/QUNTMVE7XVDBHDQAYP6X6WEDWM.png?auth=6d77fb2a1f10ce85735e51f92a5673affbd7880ab97394a5b2b544897c24f9a4&smart=true&width=705&height=390",
+   "enlace": "https://caracol.com.co/2026/10/24/el-gobierno-heredo-una-bomba-de-tiempo-que-refleja-una-profunda-irresponsabilidad-jose-restrepo/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-24T07:16:50Z",
+   "id": "628565e44faf"
+  },
+  {
+   "titulo": "Fantasmas",
+   "resumen": "Entre cafés oscuros y poemas, la madrugada trae golpes metálicos, visitas inesperadas y pesadillas que cambian las casas de lugar.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/AQ27UVPKSBELFCE4YOTXMKITKQ.jpg?auth=bb5c00a4e443a1561fdc3ae5d634002b764334928d04dd81098f12b48fea62e4&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/entretenimiento/cultura/magazin-cultural/2026/10/24/fantasmas/",
    "medio": "Vanguardia",
    "fuente": "vanguardia",
    "region": "Santander",
-   "fecha": "2026-10-24T05:00:00Z",
-   "id": "1fe9576f1589"
+   "fecha": "2026-10-24T06:23:00Z",
+   "id": "45eb8fd773f0"
   },
   {
-   "titulo": "Exclusivo: las sofisticadas cámaras de 60 millones de pesos con las que disidencias de las Farc potencian sus drones en Antioquia",
+   "titulo": "‘La última noche de Dostoievski’: la novela de Cristina Peri Rossi que desnuda la adicción al juego y sigue vigente 30 años después",
+   "resumen": "Publicada originalmente en 1992 y recuperada en una nueva edición de Planeta, La última noche de Dostoievski, de la escritora uruguaya Cristina Peri Rossi, conserva intacta su capacidad de provocación.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/RJ7KBVMMFBEF5PAO4MEWQN3HXY.png?auth=ed99d41074c2e46e1f24c3cef47bb13b7bea30925757a4c7b6a27f5b7f44280f&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/entretenimiento/cultura/magazin-cultural/2026/10/24/la-ultima-noche-de-dostoievski-la-novela-de-cristina-peri-rossi-que-desnuda-la-adiccion-al-juego-y-sigue-vigente-30-anos-despues/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-24T06:19:00Z",
+   "id": "a624c602027c"
+  },
+  {
+   "titulo": "Exclusivo: las sofisticadas cámaras de 60 millones de pesos con las que las disidencias de las Farc potencian sus drones en Antioquia",
    "resumen": "EL TIEMPO conoció los rasgos de los dispositivos adquiridos por el GAO-r 36. El valor de los drones y sus mejoras supera los 100 millones de pesos.",
    "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/23/6adc338b74280.png",
    "enlace": "https://www.eltiempo.com/colombia/medellin/exclusivo-las-sofisticadas-camaras-de-60-millones-de-pesos-con-las-que-disidencias-de-las-farc-potencian-sus-drones-en-antioquia-3595981",
    "medio": "El Tiempo",
    "fuente": "eltiempo",
    "region": "Colombia",
-   "fecha": "2026-10-24T04:52:58Z",
+   "fecha": "2026-10-24T06:01:55Z",
    "id": "43d05d5515fa"
+  },
+  {
+   "titulo": "Ordóñese, pero no de la risa",
+   "resumen": "Cuando el presidente Abelardo de la Espriella presentó a Rodrigo Lara como su ministro del Interior, escribió: “Nunca más pactos ocultos. Nunca más corrupción”. Dos meses y medio después, tras un error del Gobierno…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/YR3NKICGCFFU7NJ7APMUCGZGWQ.jpg?auth=d6ec142837f90620fa0c083e3b451fde945ae8f5ca1466869a69ab49e4c773fe&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/24/ordonese-pero-no-de-la-risa/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-24T06:00:00Z",
+   "id": "1fb51e38989f"
+  },
+  {
+   "titulo": "Bienvenido, doctor Ordóñez",
+   "resumen": "La llegada de Alejandro Ordóñez al Ministerio del Interior es una buena noticia para Santander y para Colombia. Llega en un momento en el que el Gobierno necesita carácter, experiencia y claridad política para construir…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/FJTJDBNWFNGB7MI5ZX3HX4LK2Y.jpg?auth=d3ac1ac90f31b9680cc2e032ea5652c886e8afae30d2507effbac316e3aa58ce&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/24/bienvenido-doctor-ordonez/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-24T06:00:00Z",
+   "id": "8d4957f78131"
+  },
+  {
+   "titulo": "El enigma de la autodestrucción",
+   "resumen": "En El ruletista, uno de los cuentos más célebres del escritor rumano Mircea Cărtărescu, resulta fascinante al analizar el impulso de autodestrucción que arrastraba a su protagonista, cada vez con más fuerza, a provocar…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/AHGS5RS2Y5EJ3AX2PVJA6F2DM4.jpg?auth=b360f717127d01d878ef45420b9b49ceeb2d1b0860b37f9e89d8232ed253095a&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/24/el-enigma-de-la-autodestruccion/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-24T06:00:00Z",
+   "id": "c418e37c63ea"
+  },
+  {
+   "titulo": "El Estatuto Antiterrorista",
+   "resumen": "Colombia necesita herramientas serias para combatir el terrorismo. El problema es que tener un objetivo legítimo no convierte utilizar cualquier medio para validarlo, y el Estatuto Antiterrorista que el gobierno De la…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/UJ35BBCT6VHHHI6XL4L33O2I2I.jpg?auth=98823bc4b12447430f96364565a46ad1c330792878185222236f7e29bd9d7620&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/24/el-estatuto-antiterrorista/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-24T06:00:00Z",
+   "id": "4fc27d600852"
+  },
+  {
+   "titulo": "Las vías de Santander siguen esperando que den paso a las obras",
+   "resumen": "El plan que el Instituto Nacional de Vías presentó en Barrancabermeja ante la Comisión Sexta del Senado constituye, sin duda, un reconocimiento explícito de una realidad que Santander ha padecido durante demasiados…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/Y77HSAMVDRGCBAKRMUB7GJBV6Y.jpg?auth=9fda64626f20c1611bc18d55707d029290a765be2ce035a22502a229ab61e783&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/editorial/2026/10/24/las-vias-de-santander-siguen-esperando-que-den-paso-a-las-obras/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-24T06:00:00Z",
+   "id": "ef0c7464d79a"
+  },
+  {
+   "titulo": "Automatizar el trabajo sin hipotecar el talento del futuro",
+   "resumen": "La inteligencia artificial está transformando la forma en que las empresas trabajan, toman decisiones y obtienen resultados. Su capacidad para automatizar tareas, agilizar procesos y mejorar la productividad representa…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/VCVYPYMO6VAHZL6IX7R6R2VOEM.jpg?auth=bbd73176d9de98276758b343a8901da16ce9b18a504e625419df0771ab004e9c&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/24/automatizar-el-trabajo-sin-hipotecar-el-talento-del-futuro/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-24T06:00:00Z",
+   "id": "def829095993"
+  },
+  {
+   "titulo": "Uber, así no se les puede apoyar",
+   "resumen": "Las plataformas digitales de transporte se han convertido en una alternativa real para millones de ciudadanos. En muchos casos ofrecen mejor atención, comodidad, facilidad de pago y una experiencia que el transporte…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/5TOYNIW3ZFC2JNTWEO6ZKER2CY.jpg?auth=19af5629051263d89d2f43016aa6bde977f5b0dade0ac258ffb67737f09d260d&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/24/uber-asi-no-se-les-puede-apoyar/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-24T06:00:00Z",
+   "id": "420f9296631d"
+  },
+  {
+   "titulo": "¿Cuál es el plan?",
+   "resumen": "Varias veces he venido insistiendo en que un objetivo sin plan es solo un deseo. Recibimos esta semana anuncios sobre el sistema de transporte masivo para el área metropolitana que podrían ser halagüeños, pero no vemos…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/Y7IXZPG5GFGNDDZMUTXU4BL2BE.jpg?auth=a301586bc87b8293d1035c29c8d1609d712b24d4925fb9fd361254f92bf02d90&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/24/cual-es-el-plan/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-24T06:00:00Z",
+   "id": "68a9b187ad1c"
+  },
+  {
+   "titulo": "Ricardo Roa sin visa USA",
+   "resumen": "Caricatura de Yeyo del 24 de octubre de 2026",
+   "imagen": "https://www.vanguardia.com/resizer/v2/CCZQP7UUHVBY7IA42KRO5WFL7E.jpg?auth=ac5fe4a943d526525327b24693c70316a39fb234370ebd84e377d5b32ffaed35&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/caricaturas/2026/10/24/ricardo-roa-sin-visa-usa/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-24T06:00:00Z",
+   "id": "e16b00b84a5a"
+  },
+  {
+   "titulo": "Torcer la memoria",
+   "resumen": "¿Por qué el bullicio con la decisión gubernamental de retirar unas piezas del Museo Nacional? Las paredes ahora desnudas hablaban de nuestra historia reciente, de muertos, de exclusión y discriminación, de los procesos…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/IK7LLVMGLRCN5HOJMQOJLVL25Q.jpg?auth=788854f8a038563a84c2a5060040824af074d863f569e79f62ea267cb9ffa8b6&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/24/torcer-la-memoria/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-24T06:00:00Z",
+   "id": "8ffc1fefd002"
+  },
+  {
+   "titulo": "Player Page",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVXpSMUJWRGtmZ180Vk9RSWlMY3BzbnUwbkU3cXFEaUY4dExHTVg4VjFqR0xNZzdiT1hJd3ZjOWN0djhSU1E0MktMcXZWQy1kTnVLeFdPWnZkUUhFekJvc2hlUGhmc1pjN0lkVDJYekpoQWFCZEVyd0RrMmF5NkF2MXFRVjd3OW4zTlFXejRGdVAydkowaEZJ?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-10-24T05:10:50Z",
+   "id": "e66bf6683d4a"
   },
   {
    "titulo": "Temblor hoy en Colombia | Reportan sismo de magnitud 3,9 durante la noche de este viernes 23 de octubre: se sintió en Cali, Medellín y otras ciudades",
@@ -110,72 +286,6 @@
    "id": "d6bda520995a"
   },
   {
-   "titulo": "Lotería del Risaralda: resultado del sorteo del viernes 23 de octubre de 2026",
-   "resumen": "¿Qué número cayó en la Lotería de Risaralda? Resultado del viernes 23 de octubre de 2026 con todos los premios secos.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/NENNEOHIONFHLKT2WVN6ZZAQPI.png?auth=3c19e910d2f810947ffe39cdc24f7797850664ebc16487cc7cb9dcdf5eebc857&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/23/loteria-del-risaralda-resultado-del-sorteo-del-viernes-23-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-24T03:51:00Z",
-   "id": "5151892ea63b"
-  },
-  {
-   "titulo": "Lotería de Medellín: resultado del sorteo del viernes 23 de octubre de 2026",
-   "resumen": "Resultado del último juego de la Lotería de Medellín del viernes 23 de octubre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/TNDLNF3DTNEHVHH5IKFETENAJ4.png?auth=29cf70c8b57081dfb9f642fdd086aa03bec0a03049828dd85df1c55c80a5f4f3&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/23/loteria-de-medellin-todos-los-resultados-del-sorteo-del-viernes-23-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-24T03:51:00Z",
-   "id": "bc026c66fb61"
-  },
-  {
-   "titulo": "Lotería de Santander: resultado del sorteo del viernes 23 de octubre de 2026",
-   "resumen": "Vanguardia presenta los resultados de la Lotería de Santander que jugó desde Bucaramanga este viernes 23 de octubre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/WYGD7MGD6VBLNJ6RADNR2V7LTA.png?auth=47c6a7f35682563868a8459cee9b4230fd4f72d98b58929c568a5d8924f0615a&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/23/loteria-de-santander-resultado-del-sorteo-del-viernes-23-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-24T03:51:00Z",
-   "id": "13f54aaf33db"
-  },
-  {
-   "titulo": "Super Astro Luna: resultado del sorteo del viernes 23 de octubre de 2026",
-   "resumen": "¿Se volvió millonario hoy? Consulte el resultado del Super Astro Luna de este viernes 23 de octubre de 2026 y revise si su número y signo fueron los ganadores.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/YDXUBW74MRCZFCMO36C4CT57UM.png?auth=424b60f212e1b7a99864fa68f3555dc920a6d885410c524ef2796eed4ea82bee&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/23/super-astro-luna-resultado-del-sorteo-del-viernes-23-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-24T03:45:00Z",
-   "id": "e564e6399d91"
-  },
-  {
-   "titulo": "Caribeña Noche: resultado del sorteo de hoy viernes 23 de octubre de 2026",
-   "resumen": "Resultado del último sorteo de La Caribeña Noche del viernes 23 de octubre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/4VCHTU4ZLJHDBG5ITYNVM6BQS4.png?auth=9039843e8c8149d7c2160fad8084dae7a4cba3acd4e9ccbc5359c0a66f4aecf1&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/23/caribena-noche-resultado-del-sorteo-de-hoy-viernes-23-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-24T03:21:00Z",
-   "id": "f7cc0a2e16d9"
-  },
-  {
-   "titulo": "Sinuano Noche: resultado del sorteo del viernes 23 de octubre de 2026",
-   "resumen": "¿La suerte lo acompañó esta noche? Conozca el número ganador del Sinuano Noche de hoy viernes 23 de octubre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/SSHVAUKCMJEHTLNT7BO3KMCKLE.png?auth=52ce2bfb258290340577a67dec2e19479c41e7c33846a041ded863b0b64c9469&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/23/sinuano-noche-resultado-del-sorteo-del-viernes-23-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-24T03:21:00Z",
-   "id": "8ebebd2f3e1f"
-  },
-  {
    "titulo": "Tabla del descenso en Colombia: así quedó el Chicó tras su sorpresiva victoria frente al Bucaramanga",
    "resumen": "Comenzó la jornada 16 de la Liga Colombiana 2026-2 . Además de la lucha que hoy por clasificarse a los cuadrangulares de fin de año, otros equipos pelean activamente por mantenerse en primera división de cara a la…",
    "imagen": "https://caracol.com.co/resizer/v2/5BKLZ7JHJFGMDL4EAASOOOXA5U.jpg?auth=501a17138020d98e001b255c6f03b3750abb6ea2a374ed0c8f465886d795009b&smart=true&width=6000&height=4286",
@@ -185,61 +295,6 @@
    "region": "Colombia",
    "fecha": "2026-10-24T03:07:01Z",
    "id": "b381c8d388b2"
-  },
-  {
-   "titulo": "Tabla de posiciones de la Liga Colombiana: así quedó con los triunfos de Chicó y Junior",
-   "resumen": "La jornada 16 de la Liga Colombiana 2026-2 comenzó el viernes 23 de octubre con el partido Boyacá Chicó vs Atlético Bucaramanga y se extenderá hasta el lunes 26 de octubre con el compromiso Jaguares vs Llaneros . Es…",
-   "imagen": "https://caracol.com.co/resizer/v2/37HPOFJNLZCSNCHXBCTXUU75SU.jpeg?auth=436a8126eaafa4b007fe4b40451d17cf5f83d68e9cd9655fc077b519bd000ddd&smart=true&width=3360&height=2240",
-   "enlace": "https://caracol.com.co/2026/10/24/tabla-de-posiciones-de-la-liga-colombiana-asi-quedo-con-los-triunfos-de-chico-y-junior/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-24T03:06:41Z",
-   "id": "590bc5776a54"
-  },
-  {
-   "titulo": "Dorado Noche: resultado del sorteo de hoy viernes 23 de octubre de 2026",
-   "resumen": "La expectativa crece hoy viernes 23 de octubre de 2026 entre miles de apostadores en todo el país por el sorteo de El Dorado Noche.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/STALCZWH5VG75AVTXHUCN4GPLE.png?auth=f08cfaab28c4ed8375dda845aa9da396785827d46248f11187fd0d8320624dd5&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/23/dorado-noche-resultado-del-sorteo-de-hoy-viernes-23-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-24T03:05:00Z",
-   "id": "eec0f9574ddb"
-  },
-  {
-   "titulo": "Player Page",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaDFvY05zWExnenpoX3NieUgySm1SaDYycTJic0NqSzQzc05pMXpOR2NPMUhLRFlWM1VkYTE3MllyV0RzVGQwZnN6YmxZeXl0R1RvX09KdjBQSUhzVnlHNnAxVm1Mb1NxdHU0b3VNZzhKekcyZFR1clhPSTBRNDJOa1ZYdmpwdUZ0?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-10-24T02:54:50Z",
-   "id": "e66bf6683d4a"
-  },
-  {
-   "titulo": "MiLoto: qué cayó en el sorteo del viernes 23 de octubre de 2026",
-   "resumen": "Consulte los resultados del sorteo de MiLoto del viernes 23 de octubre de 2026. Revise los números ganadores y entérese si cayó el gran acumulado millonario.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/U3AQAU2PPRCK3OD6MOSRNPOXOQ.png?auth=f12adb18223db6b5899bce5cc6f3be7718e1a555182ee5852f2a015f4985f38e&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/23/miloto-que-cayo-en-el-sorteo-del-viernes-23-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-24T02:51:00Z",
-   "id": "012f5b3d7454"
-  },
-  {
-   "titulo": "DIAN ofrece descuentos de hasta 85% en sanciones: quiénes pueden ponerse al día con sus deudas",
-   "resumen": "La Dirección de Impuestos y Aduanas Nacionales (DIAN) hizo un llamado a los contribuyentes que tienen obligaciones pendientes con la entidad para que se pongan al día y aprovechen las medidas de alivio tributario…",
-   "imagen": "https://caracol.com.co/resizer/v2/ZQ5OUOYFDJH2BKMXI5GGPJ736M.jpg?auth=f0b6a480d2f9081b254c6fe979c9dfe6e02c588bf6af9751b392cc9ad7452b3c&smart=true&width=650&height=488",
-   "enlace": "https://caracol.com.co/2026/10/24/dian-ofrece-descuentos-de-hasta-85-en-sanciones-quienes-pueden-ponerse-al-dia-con-sus-deudas/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-24T02:31:50Z",
-   "id": "5c12c88fb28d"
   },
   {
    "titulo": "Tres policías quedaron heridos y un presunto delincuente murió tras una balacera en el centro de Cali: los uniformados acudieron por un robo",
@@ -253,37 +308,26 @@
    "id": "05458ad146c8"
   },
   {
-   "titulo": "Vivero Nazareth: donde la tierra herida volvió a florecer",
-   "resumen": "Vivero Nazareth: raíces que protegen, árboles que transforman",
-   "imagen": "https://www.vanguardia.com/resizer/v2/Z3AFEG4BH5ALTHDZGGIJOG6NOU.jpg?auth=e0c32c519779501d97ca8dd23cd799a68dd7e87a2430c94d0eac550a6d623f73&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/mundo/ola-verde/2026/10/23/vivero-nazareth-donde-la-tierra-herida-volvio-a-florecer/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-24T02:21:09Z",
-   "id": "8516b33c888a"
+   "titulo": "Bienestar animal en Colombia: cómo promover una producción más humana, sostenible y respetuosa con los animales de granja",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPeTMxcXkySEpXNGxMX0hQT3YyM2duWF95eXRfQktZNjEtYmlWaW12eVZJX0k1aWdDcmFXa1haM3VLUV95dkZlMVNuajIwYjRyaGFaelkzLVhvX2d3MDBBWlFvZWltM0hodzlrNEZrM2V0VF9tQXZlVkpoUmtJOEt4bG9IYjlVanJzaWxfTHoxcDlIN05zLWVRNE9xQkhiN2JreER6ZHVJOUdDVW43OGdETlZiOHhTQ3dwS2hGd25zc2xxU1hzUXVhRHB6Uk9HYWh1NVFiSHlscEIwQWtNdUNJSk9va2hjNG94UEJDUThYRmMzSWdJXzg2cTFfOEFBTW0wOC14Y2gwRQ?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-10-24T02:25:00Z",
+   "id": "16cba898e190"
   },
   {
-   "titulo": "José Manuel Restrepo advierte que Colombia necesitaría un ajuste fiscal de $70 billones en 2027",
-   "resumen": "La propuesta del vicepresidente contrasta con la reducción de $13,8 billones que el Gobierno decretó para el presupuesto de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/5SXUDSI5H5FB7COF2JSYLTDJ24.jpg?auth=418e32fe27e461ccce9deb75fbf9dbcb4f7f7a6bbfedcc2c61dbc71215bcb6be&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/economia/2026/10/23/jose-manuel-restrepo-advierte-que-colombia-necesitaria-un-ajuste-fiscal-de-70-billones-en-2027/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-24T02:20:37Z",
-   "id": "64e8b463e472"
-  },
-  {
-   "titulo": "Quedó en video: así atracaron a una pareja de adultos mayores en una tienda de Bucaramanga",
-   "resumen": "Una pareja de adultos mayores fue víctima de un atraco en su tienda. Los responsables quedaron registrados en las cámaras de seguridad.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/TWDBZHFULZFM3LOMWKMPQB2W64.png?auth=3b92c5a7843ac93348f6d722901f609828c56199f94e73c7ad35fdd036a23f64&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/judicial/2026/10/23/quedo-en-video-asi-atracaron-a-una-pareja-de-adultos-mayores-en-una-tienda-de-bucaramanga/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-24T02:02:36Z",
-   "id": "b57a8dc69e42"
+   "titulo": "Pilas con el ambiente: Colombia ha recolectado más de 300 millones de pilas para impulsar la economía circular",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWkxEQnlYQmJOLTdNdUdzeTVocGpKMzRyd0x6U3M5OFM0Nk8xRWN5Tnd0V0NCOFh5Z2FpN1AxekF3RTROck9vNjNPUDlHbkpBczJsV040d2podFN3c0JrOERuUW1ZY0o0QXduVDdjRmtFUy12eHJwUmx2ekRyWVFNeWRJN0RjYkxYbTA4VVg0cDNxeV9yNHZFSDFQeUR6RUVpSEhubENuX2IyZEgtZWhiYXlPU21ObklCbWFEX25ENXBXazl1ZmhmWktydjE0eFoyd1hkRTBEQVhIYWxkNGwtZzNDVXFBd2dpVzJfMUdxVXFJMHYyNGoxNEx3?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-10-24T02:22:06Z",
+   "id": "74c198747919"
   },
   {
    "titulo": "Video | Operativo sorpresa en Medellín detectó cuatro autos de lujo realizando maniobras peligrosas en el Túnel de Oriente",
@@ -297,15 +341,15 @@
    "id": "affd9e4e1082"
   },
   {
-   "titulo": "Medellín se ubicó como la segunda ciudad del país con más casos de extorsión en los últimos 15 años: aumentaron las capturas, pero hay subregistro",
-   "resumen": "En un informe publicado en los últimos días, Asocapitales reportó las cifras de este delito en las principales ciudades de Colombia.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/21/6a88bd4ee34c6.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/medellin-se-ubico-como-la-segunda-ciudad-del-pais-con-mas-casos-de-extorsion-en-los-ultimos-15-anos-aumentaron-las-capturas-pero-hay-subregistro-3595947",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
+   "titulo": "NACIONAL GOLEÓ A PASTO. NUEVA FECHA DEL FPC",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbUpZRUVzdGtYOXhrWlc2RGVSN0xwcGpmcTI1LURzX1BZZTNqTVB6d2JkS2RydndHeDYzYUtqLW5hbDhLUXhNUURkajZwN2kxcVJQamlJZ3lEVGg0YWE2M3JqV0JLVmdQS294c2V3TGdLekVkaG1lNmNlT0lHb3ZEeTlDbVYtT28xc3doc3Ewb3JDMEdPZ0JRc1JUQlZSZw?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
    "region": "Colombia",
-   "fecha": "2026-10-24T00:55:44Z",
-   "id": "953e5092eb79"
+   "fecha": "2026-10-24T00:56:24Z",
+   "id": "7f0495d02dc5"
   },
   {
    "titulo": "Junior vence a Águilas y complica su pelea para entrar a los 8: resumen del partido",
@@ -341,28 +385,6 @@
    "id": "8c1b71676ae0"
   },
   {
-   "titulo": "Así se vivieron momentos de tensión por el voraz incendio en la zona céntrica de locales comerciales de Cali: en el último año, más de 500 emergencias",
-   "resumen": "El Cuerpo de Bomberos Voluntarios atendió 42 incidentes en un solo día en la capital del Valle del Cauca.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/23/6adbf3f2203af.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/asi-se-vivieron-momentos-de-tension-por-el-voraz-incendio-en-la-zona-centrica-de-locales-comerciales-de-cali-en-el-ultimo-ano-mas-de-500-emergencias-3595942",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-24T00:09:04Z",
-   "id": "565f28cfab29"
-  },
-  {
-   "titulo": "Pico y placa en Bogotá para este sábado 24 de octubre de 2026: horarios y vehículos autorizados",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMEdwOENqWXlwdlBFLUp0RlJscFNicVlGTHpRT2tXQjFFMjN2OGI2SC10RnNHN0oxVjUzX1FNT2JhbC1LTURPNmJLT216VzRmVUtzbUtCTllWSkhFSGhYMndGOWpHRm92S08zalJPbGI5SG1aTW5uWEpjQzc1LW9pZTZteUxNOHRpNzc1bTByci01U3g0R0NZOW5HcHFKQU9xQ0JVXy1Gck1ueTM1aWNKZTYxVWtiSG9nSElOdmQ2U0dsenM3TTBIdjVSd1Etdw?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-10-23T23:25:47Z",
-   "id": "0a092f1442d5"
-  },
-  {
    "titulo": "Fiscalía acusa a exgobernador de Santander Mauricio Aguilar por contrato de colegio en Suaita",
    "resumen": "",
    "imagen": "",
@@ -394,17 +416,6 @@
    "region": "Santander",
    "fecha": "2026-10-23T18:27:57Z",
    "id": "89843d6cb811"
-  },
-  {
-   "titulo": "EMCALI anuncia corte de luz este sábado 24 de octubre del 2026: sector afectado y horario",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSDd1NURBNGF5c3EzZmNIOUdNN1FPSHNsS1lFN05BckJTM3c5eWxkQWs1bTFRd0RBY0R2RWRlN2FISUxlUFZqYjJFaHZkTFNSQ3JoVG00b0NMcjBfbVNQaHdNZDl0NkFzTXlsUDFDOERBLXJtUEQ0NkVnZHIxOVVPMkpXMzNwQ1h6ZXVjbTFDS2pCRUFXTFh6bTRDekFBTGl6Z2ZnZFhCVXczSE5kMFItbndJNU42UkdFa1c4SkVkVUU1T0RVOXc?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-10-23T18:10:42Z",
-   "id": "c8e1dcf312c9"
   },
   {
    "titulo": "La capital turística de Santander se llena de color: programación de las XLVIII Ferias y Fiestas de San Gil",
@@ -462,28 +473,6 @@
    "id": "9a4e5bbb2770"
   },
   {
-   "titulo": "RCN Radio",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOXZNZ0VyS2lxNW9odmlNeTN5UG9DV05jdWtObE9iQWtZc1dHWV94Tm1RQmpiYUFlQjNPY0xjUzNtTjBEZzI1ZnM1c19vQWlQakxkMUtuRmZxM29DTW56RGw4d0M4NkRnam5oTkdCSHlIa1JFY2kyMmVTR0NRY0hQVTFFd1BSRUJfYTJxbjJ5czZnQlpmdlVzU0dGdmgwTks2WVBqRERIc2x4QmNwSncxZS1LbFJ1YWN3MXJjcmVn?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-10-23T10:05:10Z",
-   "id": "480277a57d6e"
-  },
-  {
-   "titulo": "Clima en Palmas del Socorro, Santander por horas",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV3JIWDhWbm1PRFVsQ2dQQWVod1Z0NExlSUZwSzNLM1Q3dkF2a0VxNEszU3dHVFM2eDZaM2Q5cmVLSjFqOEJpSDdseGNIY2Z4c2FUcWZNczVhR1RuRmFkbkE1bTZWelNFVG4zX1V6N3lveUExZDR4NjZuZmFaUVZMNTJDQzV2UHM?oc=5",
-   "medio": "SpaceRef",
-   "fuente": "provincia",
-   "region": "Santander",
-   "fecha": "2026-10-23T08:27:37Z",
-   "id": "620695789a38"
-  },
-  {
    "titulo": "Exgobernador de Santander, Mauricio Aguilar Hurtado, es acusado ante la Corte Suprema por presuntas irregularidades en contrato para colegio agrícola en Suaita",
    "resumen": "",
    "imagen": "",
@@ -493,6 +482,17 @@
    "region": "Santander",
    "fecha": "2026-10-23T02:05:47Z",
    "id": "9083e0ab4e91"
+  },
+  {
+   "titulo": "Acusan a exgobernador de Santander por contrato irregular en construcción de colegio",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOUdNX1lOSkdyakxZRldDVWR1eG5ZdjVJRWI1cElUU181Q1BRMnpiUkxCTURSOVpmbW1ZM0JoVjV0cGhUUDZWME83bEVtUG9OS0dNOTVGRnY4WjFjR2liRzhCb0p1cnoxZTRoeDNLd0QxUmpCdTNwLWowWGVuM1hfaWNuX251V0RXR3lCZ200ODRMa2ZPZWhLMVZRZ09KTlhsM3hCRVJ1M3RXcG9sVWVwRXRicUdVQ2I4SmN2TWJyQi3SAdQBQVVfeXFMTWk2Mklucml0TEN0WFUzTVB5TUVXS3Q0M08yblA1bzhMY2ZMZkVtRFlkbi1BYmJnZ290YkFqX1RWSWR6OXZjTURCanpZOGU4SkdHT1pILWowWVplVGZTcHBKVWExSUlodW5tcEp0dENIa0dYVlhqeHNfOWphclJ3dkRIeTVDaDBMN0RIVl9rT0Z0MHB1SUZZYWdtOUFwejNyWjdSS252cW5qeXZld0FodWVCT2NTQmplZUpVRm0yVkhLTUpyUWh1amtETkZnc1R4R2t3cW8?oc=5",
+   "medio": "El Espectador",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-10-23T00:49:21Z",
+   "id": "6e8b60cc1f9a"
   },
   {
    "titulo": "De La Espriella respondió a la carta de renuncia de Rodrigo Lara: “diferencias de criterio”",
