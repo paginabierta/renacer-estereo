@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-25T19:37:37Z",
+ "actualizado": "2026-10-25T22:33:36Z",
  "fuentes": [
   {
    "id": "vanguardia",
@@ -44,92 +44,290 @@
  ],
  "noticias": [
   {
-   "titulo": "La SIP entrega a Pilar Gil el Premio Ejecutiva del Año por su liderazgo de Prisa Media",
-   "resumen": "La consejera delegada de Prisa Media, Pilar Gil, defendió este domingo el papel del periodismo como pilar de la democracia y aseguró que seguirá trabajando por la libertad de expresión y los derechos humanos al recibir…",
-   "imagen": "https://caracol.com.co/resizer/v2/KTA52LYRR5DLPJLZYL76TWRQM4.jpeg?auth=2a9a9f0a92afac54805a9d05c971a0e4758a8de43781fe859c9456558e4d0e18&smart=true&width=1600&height=1200",
-   "enlace": "https://caracol.com.co/2026/10/25/la-sip-entrega-a-pilar-gil-el-premio-ejecutiva-del-ano-por-su-liderazgo-de-prisa-media/",
+   "titulo": "Real Madrid da un golpe de autoridad en el clásico ante Barcelona y le pone picante a la Liga",
+   "resumen": "Real Madrid venció al Barcelona con una destacada actuación de Kylian Mbappé en el clásico español y le puso emoción a la lucha por el título de la Liga.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/RJCE7JOBEBCZXPW4E62JSZPXMQ.jpg?auth=c2a1072b5f4ad2f29aa06a2a898b0ba6277d537b961350fc8f74581d38427007&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/deportes/futbol/2026/10/25/real-madrid-da-un-golpe-de-autoridad-en-el-clasico-ante-barcelona-y-le-pone-picante-a-la-liga/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-25T22:19:49Z",
+   "id": "f4b807763669"
+  },
+  {
+   "titulo": "El vestido, regalos y recepción: todos los detalles de boda de Ariadna Gutiérrez en Cartagena",
+   "resumen": "La ex Señorita Colombia y virreina universal de la belleza se casó por la iglesia con el empresario neerlandés en una ceremonia privada en Cartagena.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/3HMLTVQOGJBMVER3XAAFK7SE5E.jpg?auth=00a92311b0aff816e663f04be189295a116f4b2a06801688fff11e21d77462aa&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/entretenimiento/tendencias/2026/10/25/el-vestido-de-ariadna-gutierrez-y-otros-detalles-de-su-boda-con-guus-franke-en-cartagena/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-25T22:17:39Z",
+   "id": "e2c47432007b"
+  },
+  {
+   "titulo": "María José Recuero, la patrullera de 20 años asesinada durante un procedimiento en Cali",
+   "resumen": "La uniformada murió el sábado 24 de octubre, un día después de recibir un disparo en la cabeza durante un enfrentamiento con presuntos delincuentes.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/QOJZZ7ZVJBESZLWC2HOZE3ZAEE.jpg?auth=3818296d062d6107f89fc18e3cffe2e14d98300221d8bf576068301b46da92f7&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/colombia/2026/10/25/maria-jose-recuero-la-patrullera-de-20-anos-asesinada-durante-un-procedimiento-en-cali/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-25T22:16:45Z",
+   "id": "35b731df2688"
+  },
+  {
+   "titulo": "Mamdani explica en español qué hacer ante ICE y revela los derechos de los inmigrantes",
+   "resumen": "El alcalde de Nueva York, Zohran Mamdani, publicó un video en español con consejos para inmigrantes sobre sus derechos ante agentes de ICE y líneas de ayuda.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/B7GLM6VXRFAYPLPWIE2CVFJ2QI.jpg?auth=a92e890c54cd97483107bf8e2782ebc8ebcf3d9c379890d92d62ac9a8dced4dd&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/mundo/2026/10/25/mamdani-explica-en-espanol-que-hacer-ante-ice-y-revela-los-derechos-de-los-inmigrantes/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-25T22:01:29Z",
+   "id": "ba0d833cdc44"
+  },
+  {
+   "titulo": "¿Debe impuestos vehiculares en Santander? Así puede ahorrar en intereses y sanciones",
+   "resumen": "Los propietarios de vehículos matriculados en Santander tienen hasta el 30 de octubre para acceder al descuento del 70 % en intereses y sanciones por deudas del impuesto vehicular de 2025 y vigencias anteriores.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/ZWPRPPTJ2BCPZDJGJOTD3YAZBE.JPG?auth=5549c0292ec00f5ca3de4fce7713d313885e669c3c1564dd0ca6975be152ee7a&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/10/25/debe-impuestos-vehiculares-en-santander-asi-puede-ahorrar-en-intereses-y-sanciones/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-25T21:52:30Z",
+   "id": "847448e81a1c"
+  },
+  {
+   "titulo": "La conexión vial del Diamante II ya supera el 50 % de avance: ¿cuándo estará lista?",
+   "resumen": "La obra que permitirá conectar al sector del Cacique con la Autopista, sin que los conductores tengan que atravesar el barrio Diamante II, ya alcanza un 54 % de ejecución.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/POLDOHMW6NERPIJSNCTJFNSUUA.jpeg?auth=f1ec26ab562f541f5036b4e2ca9ed6cbcb0b366b931967447e30af5cfadd9db0&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/10/25/la-conexion-vial-del-diamante-ii-ya-supera-el-50-de-avance-cuando-estara-lista/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-25T21:50:37Z",
+   "id": "c1861d6704eb"
+  },
+  {
+   "titulo": "Lo que se sabe del fatal accidente de tránsito entre un carro particular y una moto en Cali: ¿quiénes eran las víctimas de una empresa de transporte?",
+   "resumen": "El accidente ocurrió en la calle 70 con carrera 3, en el paso elevado (puente), en la vía de Cali al municipio de Yumbo.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/25/6ade71e250baa.r_d.389-227-2.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/cali/lo-que-se-sabe-del-fatal-accidente-de-transito-entre-un-carro-particular-y-una-moto-en-cali-quienes-eran-las-victimas-de-una-empresa-de-transporte-3596199",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-25T21:47:16Z",
+   "id": "c25cfbeff897"
+  },
+  {
+   "titulo": "Sanción por declarar renta fuera de plazo 2026: cómo reducir el valor de la multa ante la DIAN",
+   "resumen": "La Dirección de Impuestos y Aduanas Nacionales (DIAN) recordó que las personas naturales obligadas a declarar renta en 2026 deben cumplir con los plazos establecidos. De acuerdo con el calendario oficial, la declaración…",
+   "imagen": "https://caracol.com.co/resizer/v2/E5I6Y622W5EDJMBNRFEFILBK74.jpg?auth=4711b8b416b2faacf123e383963205ef64df6eb6ef1719b15e92d8a5a6578883&smart=true&width=2000&height=1500",
+   "enlace": "https://caracol.com.co/2026/10/25/sancion-por-declarar-renta-fuera-de-plazo-2026-como-reducir-el-valor-de-la-multa-ante-la-dian/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-10-25T19:28:30Z",
-   "id": "7dad3dfacc17"
+   "fecha": "2026-10-25T21:41:14Z",
+   "id": "7770f0834774"
   },
   {
-   "titulo": "“Solo te espera la muerte”: la advertencia de un hombre antes de caer de una cascada en Brasil",
-   "resumen": "Maurício Marques Gomes visitaba por primera vez la cascada Cachoeira da Fortuna, en Río de Janeiro. Antes del accidente, compartió imágenes del lugar.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/ZBWJTN3OEZDTNOXGCXJ52YLHHU.png?auth=1cec235167cb3e2cc4a4b3f9b306791f6ecdc064edf553ccdfc81ae79c88a5f6&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/mundo/2026/10/25/solo-te-espera-la-muerte-la-advertencia-de-un-hombre-antes-de-caer-de-una-cascada-en-brasil/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-25T19:27:17Z",
-   "id": "ec59e1d44962"
-  },
-  {
-   "titulo": "Depresión resistente: tres de cada 10 pacientes no responden a los antidepresivos habituales",
-   "resumen": "Cerca del 30 % de los pacientes con depresión presenta resistencia a los antidepresivos habituales, pero existen otras alternativas terapéuticas.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/CGDFYWORR5D27I7M64V2DRR5GU.jpg?auth=e569741382272bc59e46490d1023661832613366cf69853071e484a0da47e841&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/entretenimiento/salud/2026/10/25/depresion-resistente-tres-de-cada-10-pacientes-no-responden-a-los-antidepresivos-habituales/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-25T19:26:34Z",
-   "id": "087fc2feb5a7"
-  },
-  {
-   "titulo": "Caribeña Día: resultado del sorteo de hoy domingo 25 de octubre de 2026",
-   "resumen": "Conozca el resultado del sorteo del chance La Caribeña Día de hoy domingo 25 de octubre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/YKKEPBMLYNHXBA2LV3JQVTBLXM.png?auth=795b00758e8159d31d4e85aea7309ee01b12bd3390217ff193a3343c1e81babe&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/25/caribena-dia-resultado-del-sorteo-de-hoy-domingo-25-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-25T19:22:00Z",
-   "id": "a6e15c094930"
-  },
-  {
-   "titulo": "Culona Día: resultado del sorteo del domingo 25 de octubre de 2026",
-   "resumen": "Conozca los resultados del último sorteo de Culona Día del domingo 25 de octubre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/F2Q6ZBJXKVBXTCSERXN25SH2LY.png?auth=060a26efb9ad96d4f2fdca7bdb6597d7983e2933c0cd085a3b20bd188609e35b&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/25/culona-dia-resultado-del-sorteo-del-domingo-25-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-25T19:21:00Z",
-   "id": "1ba38d47503c"
-  },
-  {
-   "titulo": "Sinuano Día: resultado del sorteo de hoy domingo 25 de octubre de 2026",
-   "resumen": "Este juego, que goza de una gran popularidad en varias zonas del país, se juega dos veces al día durante toda la semana. Este es el resultado del sorteo de hoy domingo 25 de octubre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/CI7M2CFQUVF27LBK2KIGKYCGSE.png?auth=a3a12ea3b264f632b4508a2293d49185d327e388dd4dcd58a75ebbafbabeed74&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/25/sinuano-dia-resultado-del-sorteo-de-hoy-domingo-25-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-25T19:21:00Z",
-   "id": "05daa75faeeb"
-  },
-  {
-   "titulo": "¿Giovanny Ayala incursionará en el contenido para adultos? El cantante reveló de qué se trata",
-   "resumen": "El cantante de música popular Giovanny Ayala sorprendió a sus seguidores con un video en el que habló de supuestos problemas económicos y anunció que incursionaría en la creación de contenido para adultos . La…",
-   "imagen": "https://caracol.com.co/resizer/v2/ATCOXKQ6J5BJ5MONAHNVMDE76Y.JPG?auth=51bd934e87c3690758d0f70b81cae8d2b508fe35d7e40e8dcee9cd1803f1efcc&smart=true&width=1936&height=1288",
-   "enlace": "https://caracol.com.co/2026/10/25/giovanny-ayala-incursionara-en-el-contenido-para-adultos-el-cantante-revelo-de-que-se-trata/",
+   "titulo": "Regreso sorpresivo de María Corina Machado se celebra en la frontera",
+   "resumen": "El sorpresivo regreso a Venezuela de la líder opositora María Corina Machado generó una serie de emociones en los ciudadanos venezolanos que se encuentran en la frontera colombiana. La noticia que se generó en horas del…",
+   "imagen": "https://caracol.com.co/resizer/v2/VUWKKPFGWBB2TNJS6SZA232IAA.jpg?auth=2236e668c733fb27c62f545c7b3f142bc8d3eab8fc7fdc6129201f97c7fb5661&smart=true&width=1122&height=1402",
+   "enlace": "https://caracol.com.co/2026/10/25/regreso-sorpresivo-de-maria-corina-machado-se-celebra-en-la-frontera/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-10-25T19:14:48Z",
-   "id": "fd7a3ec292e3"
+   "fecha": "2026-10-25T21:32:16Z",
+   "id": "6b5f5628e256"
   },
   {
-   "titulo": "Bomberos rescataron a un adulto mayor que cayó cerca de 60 metros en Barichara",
-   "resumen": "Una operación de rescate permitió salvar la vida de un adulto mayor que cayó cerca de 60 metros en el sector conocido como La Peña, sobre la vía que comunica a Barichara con Corralitos , en inmediaciones del puente…",
-   "imagen": "https://caracol.com.co/resizer/v2/ZXOMEPVHCBBAXG5NSYKWX56STQ.png?auth=94f1c39a0ca8dc9cb130960abaffbd742211ebecd11d84e7cd2814bff4676239&smart=true&width=650&height=488",
-   "enlace": "https://caracol.com.co/2026/10/25/bomberos-rescataron-a-un-adulto-mayor-que-cayo-cerca-de-60-metros-en-barichara/",
+   "titulo": "Así opera el pico y placa en Bogotá para la semana del 26 al 31 de octubre de 2026 ¡Evite sanciones!",
+   "resumen": "Colombia, y su capital Bogotá, es uno de los tantos países que ha implementado medidas como el pico y placa para mitigar los impactos del tránsito en la sociedad. Lea también: Bogotá alcanza récord histórico en ventas…",
+   "imagen": "https://caracol.com.co/resizer/v2/HZ2UQGF5MZBIRA4C3RAUARVX5M.jpg?auth=1257f9e8185f69b977e14683347492c72fe0939bb4d0d1f430873bc417a2dcbf&smart=true&width=650&height=488",
+   "enlace": "https://caracol.com.co/2026/10/25/asi-opera-el-pico-y-placa-en-bogota-para-la-semana-del-26-al-31-de-octubre-de-2026-evite-sanciones/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-10-25T19:09:00Z",
-   "id": "06d1902f0244"
+   "fecha": "2026-10-25T21:25:18Z",
+   "id": "1137f006ccd2"
+  },
+  {
+   "titulo": "¿Por qué protestan en Portugal? Los desalojos policiales y la polémica reforma del alquiler",
+   "resumen": "Reforma del alquiler en Portugal desata protestas tras el desalojo de campamentos en Lisboa y Oporto.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/MO5BKTSMTBB5FBMEIVT3OBNMTY.jpg?auth=5ade090598cb4f92e01318093c5f1188431ef316630c752b5fc57c1487392fab&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/mundo/2026/10/25/por-que-protestan-en-portugal-los-desalojos-policiales-y-la-polemica-reforma-del-alquiler/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-25T21:20:37Z",
+   "id": "df7d98ecd1b8"
+  },
+  {
+   "titulo": "Resultados elecciones en BRASIL 2026 🔴 ¿Quién va ganando? Conteo de votos EN DIRECTO",
+   "resumen": "Este domingo 25 de octubre de 2026, los brasileños acudieron a las urnas para elegir en segunda vuelta al próximo presidente del país. La contienda enfranta al actual mandatario, Luiz Inácio Lula da Silva, y a Flávio…",
+   "imagen": "https://caracol.com.co/resizer/v2/DTZWDVUAFJHKNAE2XMVNLELMZI.jpg?auth=943847668aded7af42a9869c6fbdc2dca99bae3a6d5dbd1f66f89bed7badca39&smart=true&width=650&height=488",
+   "enlace": "https://caracol.com.co/2026/10/25/como-van-las-elecciones-en-brasil-en-vivo-de-segunda-vuelta-y-resultados-en-directo/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-25T21:20:34Z",
+   "id": "b2fbc527de33"
+  },
+  {
+   "titulo": "Nuevo aumento de Air-e golpeará recibos de energía en el Caribe: kilovatio pasa de $873 a $936 y usuarios piden intervención del Gobierno",
+   "resumen": "La Liga Nacional de Usuarios denuncia un incremento del 7,2 % en octubre, que se reflejaría en las facturas de noviembre.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/25/6ade6d60bb12d.png",
+   "enlace": "https://www.eltiempo.com/colombia/barranquilla/nuevo-aumento-de-air-e-golpeara-recibos-de-energia-en-el-caribe-kilovatio-pasa-de-873-a-936-y-usuarios-piden-intervencion-del-gobierno-3596197",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-25T21:16:07Z",
+   "id": "d8b90544debc"
+  },
+  {
+   "titulo": "Autoridades verifican cilindro abandonado vía Abrego",
+   "resumen": "Las autoridades adelantan protocolos de rigor en la vía Abrego-Ocaña ante el abandono de un cilindro sobre esta arteria nacional que comunica a esa región con la Costa Caribe. Son más de ocho horas donde la movilidad se…",
+   "imagen": "https://caracol.com.co/resizer/v2/AR3IHTBBNBADRGVHT5D3OPQUG4.jpg?auth=05d7713ad86d3551c8ec1793c646815d403103ca672a55edcf4206ad81570d8e&smart=true&width=889&height=500",
+   "enlace": "https://caracol.com.co/2026/10/25/autoridades-verifican-cilindro-abandonado-via-abrego/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-25T21:14:32Z",
+   "id": "1031aff17639"
+  },
+  {
+   "titulo": "El perfil criminal del presunto asesino de la niña Jhady Sofía, cuyo crimen conmocionó a Frontino, Antioquia: la evidencia reina para capturarlo",
+   "resumen": "Mientras el gobernador Rendón y la alcaldesa Luz Gabriela Rivera claman por justicia en Frontino, los investigadores avanzan con un perfil conductual.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/25/6ade623bdc565.r_d.393-300-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/el-perfil-criminal-del-presunto-asesino-de-la-nina-jhady-sofia-cuyo-crimen-conmociono-a-frontino-antioquia-la-evidencia-reina-para-capturarlo-3596184",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-25T21:05:09Z",
+   "id": "ac48a9a87513"
+  },
+  {
+   "titulo": "Cortes de agua en Cali este domingo 25 de octubre del 2026: Barrios afectados y horarios",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQWJkS25WQkVSbjNocm4xUWdvcU50cjJPRDd3OEhLOVg3b25HbDRMVzRZSFg2SXM0YTd4aG1XTlAxemcxdDAzMTlsTlZQVTBndzVrcGJxS1F6d0sxMzNOeTNPME5KY3ZXMFh0Zl82ckJqS0l4UWFacGszUXpqZTJvUlhyMEx3ZElJNmREQUJHR0pJUWwwQ01WTHpOTmNFVDVPTS1aZFMzOHp0UUJEd1hLdDc2Q2tDaXgyZHBRVmQxNElKZkFE?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-10-25T21:02:20Z",
+   "id": "fd3bf6b10afd"
+  },
+  {
+   "titulo": "Imágenes del accidente en Manizales en el que murieron dos obreros electrocutados: así quedó el edificio que estaban pintando",
+   "resumen": "La emergencia se registró en el barrio Palermo, donde Bomberos y personal paramédico acudieron tras recibir una llamada a la línea de emergencias 119.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/25/6ade6cf5d4413.r_d.666-1316-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/imagenes-del-accidente-en-manizales-en-el-que-murieron-dos-obreros-electrocutados-asi-quedo-el-edificio-que-estaban-pintando-3596198",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-25T21:01:57Z",
+   "id": "499123cc80ec"
+  },
+  {
+   "titulo": "Alerta por la fuga de ocho sindicados de un CAI de la Policía en Palmira, Valle del Cauca: van tres fugas de detenidos de sedes policiales en un mes",
+   "resumen": "Se dispuso un despliegue institucional para adelantar las acciones de búsqueda.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/25/6ade488a69764.r_d.375-204-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/cali/alerta-por-la-fuga-de-ocho-detenidos-del-cai-las-delicias-en-palmira-valle-del-cauca-eran-sindicados-a-la-espera-de-la-sentencia-de-un-juez-3596179",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-25T21:00:38Z",
+   "id": "0b287ce48fb3"
+  },
+  {
+   "titulo": "María Corina Machado habría entrado a Venezuela desde Colombia: lo que revela el diario ‘ABC’",
+   "resumen": "El diario español señala que el retorno de la líder opositora venezolana se concretó entre el 24 y el 25 de octubre, tras varios intentos fallidos y gestiones diplomáticas.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/G7GW252ROFGDTKVC6EH5JIEDCQ.jpg?auth=aa8d12623026550f014efffb864a76d2d0323df537cc14283c3c6c0c0d61e2e9&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/mundo/2026/10/25/maria-corina-machado-habria-entrado-a-venezuela-desde-colombia-lo-que-revela-el-diario-abc/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-25T20:55:50Z",
+   "id": "f95bf0fec481"
+  },
+  {
+   "titulo": "Atlético Bucaramanga y la nómina que maneja para enfrentar a Independiente Santa Fe",
+   "resumen": "Atlético Bucaramanga, con ajustes en su nómina, visita este lunes, 26 de octubre, a Independiente Santa Fe, por la fecha 14 de la Liga BetPlay II de 2026.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/VH3LFTKH3NHNLMUKD3VLWYCSTI.jpg?auth=eb069c66f691eb1dd25cdb4d6540bc928794a51bced3e31876d8fc4cc0ab1573&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/deportes/futbol/2026/10/25/atletico-bucaramanga-y-la-nomina-que-maneja-para-enfrentar-a-independiente-santa-fe/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-25T20:54:20Z",
+   "id": "b85070ee1663"
+  },
+  {
+   "titulo": "¿Qué ocurrió en el depósito? Las preguntas por muerte de un pensionado de la Fiscalía en Bucaramanga",
+   "resumen": "Los familiares manifestaron que Martínez Guido no tendría amenazas conocidas, por lo que su muerte genera varios interrogantes que deberan ser resultos por las autoridades competentes.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/4LYSY3L3QBHAFGXO37ZMVV27LY.jpg?auth=21cfbba1269bfd7574e92361a9ec46962ce6f714adcd92fb2a90ca3edb082244&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/judicial/2026/10/20/que-ocurrio-en-el-deposito-las-preguntas-por-la-muerte-de-un-pensionado-de-la-fiscalia-en-bucaramanga/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-25T20:52:11Z",
+   "id": "9ee5e6ee5742"
+  },
+  {
+   "titulo": "Palogordo: la cárcel donde permanecerá alias ‘Julito’, señalado de múltiples hechos violentos en Bucaramanga",
+   "resumen": "Según las investigaciones de la Policía Metropolitana de Bucaramanga, alias ‘Julito’ sería presunto integrante del componente sicarial de la estructura delincuencial conocida como ‘Los del Sur’.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/KNHTBPEEQZGCDDMXAYN44CHYZE.png?auth=32ad7fc8ab0cfca225040aef764820ec8f3e1c55cc4f269f6fd0648446bb9915&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/judicial/2026/10/19/palogordo-la-carcel-donde-permanecera-alias-julito-senalado-de-multiples-hechos-violentos-en-bucaramanga/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-25T20:51:36Z",
+   "id": "4af741f286b4"
+  },
+  {
+   "titulo": "Así quedará el presupuesto regionalizado de Santander para 2027",
+   "resumen": "Santander recibirá $3,1 billones en 2027 por parte del Gobierno Nacional. El error en el trámite del Presupuesto General de la Nación implica menos recursos para el departamento.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/PR643GI3NVHUJA4LXIZ4A5VJNI.jpeg?auth=1ed8aadc6411a8b94c1259dca1c0296a93413417e143619fb3a045d66fb902d6&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/economia/2026/10/25/asi-quedara-el-presupuesto-regionalizado-de-santander-en-el-primer-ano-para-2027/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-25T20:49:20Z",
+   "id": "8d827dd4636a"
+  },
+  {
+   "titulo": "Alianza Vs. Internacional: Siga acá el minuto a minuto del juego por la fecha 16",
+   "resumen": "Alianza e Internacional de Bogotá se enfrentan en el Estadio Armando Maestre Pavajeau, en juego por la fecha 16 del fútbol colombiano. Ambos equipos se juegan sus últimas chances en su intento de llegar al grupo de los…",
+   "imagen": "https://caracol.com.co/resizer/v2/Z6KHOUUHIBFFPJWBSZXWGACPEU.jpg?auth=43046a10ff28dd387bd791fb910d2c75ea43d161ddd3a27ae962ef3fd9a736c2&smart=true&width=650&height=488",
+   "enlace": "https://caracol.com.co/2026/10/25/alianza-vs-internacional-siga-aca-el-minuto-a-minuto-del-juegopor-la-fecha-16/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-25T20:46:53Z",
+   "id": "f877f9a8c0f7"
+  },
+  {
+   "titulo": "Lula aventaja a Flávio Bolsonaro en Brasil, pero la votación se extiende por dos horas",
+   "resumen": "La Corte Suprema de Brasil ordenó ampliar dos horas la votación tras pedidos de Lula y Bolsonaro.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/SFU3P4N7BFCOLKHFLUV2KCKH64.jpg?auth=0c978f64d725b28c347dc1840cf26baf152223f0b07a5b1413628e893b122ca0&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/mundo/2026/10/25/lula-aventaja-a-flavio-bolsonaro-en-brasil-pero-la-votacion-se-extiende-por-dos-horas/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-25T20:43:32Z",
+   "id": "0fd2cc89fcc1"
+  },
+  {
+   "titulo": "Programa Amplía U: Jóvenes bogotanos podrán financiar hasta el 100 % de su carrera universitaria: Así puedes aplicar",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSWRTeXo0RkxRNUVVbUdSNUJwb29EX09XQ0o5VFY3R0sxOFVsWWNRRjhFN0lhc3Z3UXhTTDVhSWlkazFuQVNKRnVOcmlIdGRCQVo0dVB1MGxwQjFoenpVV0xQcl8xOE1oZ0l1aUFZcF95V0ZqM1hFV1I4d3VLdjFOU0Q1NDVjak1sZWNQOHJuU3ZNRnJwZjI4cHFSbnlNemZRaUtUc0lEOTFJNzFiSFVQeWVtVHp1bm4wanduS1JQWDZ5Q016eXhISUZSWXA1M3RiMDFrLUk3aEVTdnQtNXQwbjFtR2hEQQ?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-10-25T19:38:26Z",
+   "id": "04ccd36ffaac"
   },
   {
    "titulo": "Diez integrantes del Eln murieron en bombardeo en Cauca, entre ellos dos cabecillas",
@@ -143,50 +341,6 @@
    "id": "e7feb84ad92b"
   },
   {
-   "titulo": "Trump se pronuncia sobre la segunda vuelta en Brasil, pero evita apoyar a un candidato",
-   "resumen": "El presidente de EE. UU. afirmó que su Gobierno está observando los comicios brasileños, en los que Luiz Inácio Lula da Silva y el opositor Flávio Bolsonaro se disputan la jefatura de Estado.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/FZU2FFT6MFC6FDEI5FJXF7GEWA.jpg?auth=e3b427b204ad80c94f2e14ebbb9bca401e9d7637ee4873dc37d12381728f8d32&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/mundo/2026/10/25/trump-se-pronuncia-sobre-la-segunda-vuelta-en-brasil-pero-evita-apoyar-a-un-candidato/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-25T19:01:57Z",
-   "id": "9f8027f98eb7"
-  },
-  {
-   "titulo": "Alcaldía limpió nueve canales y atendió a familias afectadas por las lluvias",
-   "resumen": "La Alcaldía de Cartagena adelanta la limpieza simultánea de nueve canales en distintos sectores de la ciudad, tras las fuertes lluvias registradas el sábado 24 de octubre Ingresa al grupo de alerta de Caracol Radio…",
-   "imagen": "https://caracol.com.co/resizer/v2/T7ONL7BWPVG3NBKBP6SRRTGH3Q.jpeg?auth=82ba77709a828441ca8f23aed188849f7b5d7d3990abbc6833ed6c11928f0593&smart=true&width=1280&height=720",
-   "enlace": "https://caracol.com.co/2026/10/25/alcaldia-limpio-nueve-canales-y-atendio-a-familias-afectadas-por-las-lluvias/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-25T19:01:26Z",
-   "id": "d41090ceff40"
-  },
-  {
-   "titulo": "Paisita 1: número ganador del sorteo del domingo 25 de octubre de 2026",
-   "resumen": "¿Ganó el Paisita 1? Consulte el número ganador de hoy domingo 25 de octubre de 2026 y revise si la suerte lo acompañó en el primer sorteo de la jornada.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/6JDBFUAJPNHBDBA64LCNN7RDDA.png?auth=8d2acfc3a14e1ba2408b35bbf1e81996aef9ed84e07773519411e8defa27f5cb&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/25/paisita-1-numero-ganador-del-sorteo-del-domingo-25-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-25T18:51:00Z",
-   "id": "e0d2e50e8546"
-  },
-  {
-   "titulo": "Real Cartagena conoció sus rivales y debutará ante Tigres en los cuadrangulares",
-   "resumen": "Real Cartagena conoció a sus rivales en los cuadrangulares semifinales del Torneo BetPlay II-2026. El equipo dirigido por Álvaro Hernández quedó ubicado en el Grupo B junto a Real Cundinamarca, Tigres FC y Deportes…",
-   "imagen": "https://caracol.com.co/resizer/v2/T46Y27INQNHJNCH4FAO22QB2VA.jpg?auth=f772040115ee112aefa38fa5a92707efd94d028a367f0cd7cd0926446d881dac&smart=true&width=2048&height=1536",
-   "enlace": "https://caracol.com.co/2026/10/25/real-cartagena-conocio-sus-rivales-y-debutara-ante-tigres-en-los-cuadrangulares/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-25T18:50:07Z",
-   "id": "bfba05b5c694"
-  },
-  {
    "titulo": "Lluvias golpean al Caribe: más de 670 viviendas y familias afectadas en Cartagena y Santa Marta; inundaciones y emergencias en cinco departamentos",
    "resumen": "Cartagena reporta 376 viviendas afectadas y Santa Marta cerca de 300 familias damnificadas. Hay alertas por crecientes súbitas y precipitaciones.",
    "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/25/6ade4bb80317e.png",
@@ -196,28 +350,6 @@
    "region": "Colombia",
    "fecha": "2026-10-25T18:41:58Z",
    "id": "22a2df678ab5"
-  },
-  {
-   "titulo": "Alerta por la fuga de ocho sindicados de un CAI de la Policía en Palmira, Valle del Cauca: van tres fugas de detenidos de sedes policiales en un mes",
-   "resumen": "Se dispuso un despliegue institucional para adelantar las acciones de búsqueda.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/25/6ade488a69764.r_d.375-204-0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/alerta-por-la-fuga-de-ocho-detenidos-del-cai-las-delicias-en-palmira-valle-del-cauca-eran-sindicados-a-la-espera-de-la-sentencia-de-un-juez-3596179",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-25T18:38:33Z",
-   "id": "0b287ce48fb3"
-  },
-  {
-   "titulo": "Registrador Hernán Penagos: no es fácil traer el voto electrónico de Brasil a Colombia",
-   "resumen": "Los brasileños votan para decidir si dan otro mandato al veterano izquierdista Luiz Inácio Lula da Silva o apuestan por un regreso de la derecha de la mano del senador Flávio Bolsonaro, tras una campaña que expuso de…",
-   "imagen": "https://caracol.com.co/resizer/v2/QCLP262Q6BESTAO2OCSBPQ4QFE.jpg?auth=ad35cc344d3fdd1076796a995b2e7487ff3f2eed17b8788836446be7efb0940d&smart=true&width=1280&height=853",
-   "enlace": "https://caracol.com.co/2026/10/25/registrador-hernan-penagos-no-es-facil-traer-el-voto-electronico-de-brasil-a-colombia/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-25T18:31:25Z",
-   "id": "6a3912785920"
   },
   {
    "titulo": "Así fue el rescate del soldado que sobrevivió seis días en la selva tras un ataque con drones por las disidencias en Antioquia: '¡Mamá, estoy vivo!'",
@@ -231,70 +363,15 @@
    "id": "8ef087fc3732"
   },
   {
-   "titulo": "Cuatro periodistas han sido asesinados en Colombia en 2026, advierte la SIP",
-   "resumen": "La Sociedad Interamericana de Prensa alertó sobre un incremento de la violencia contra los comunicadores, especialmente en las regiones y contra quienes cubren corrupción, criminalidad y presencia de grupos armados.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/XVBJO7MAOND6FEOR22T2RVRDAA.jpg?auth=697cc5b945bd312783e7052597747ffeacc0343a668a509862a9ac020234cdcd&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/colombia/2026/10/25/cuatro-periodistas-han-sido-asesinados-en-colombia-en-2026-advierte-la-sip/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-25T18:28:35Z",
-   "id": "07eabef3c644"
-  },
-  {
-   "titulo": "La carretera más alta de Colombia está a casi 4.000 metros sobre el nivel del mar: ¿Cuál es?",
-   "resumen": "La particular geografía de Colombia permite que en el país se pueda disfrutar de un gran número de paisajes y ecosistemas variados. Su territorio, que se extiende por 1.141.748 km² en superficie continental , cuenta con…",
-   "imagen": "https://caracol.com.co/resizer/v2/MPOPYJGPBBH6TNEZPL2IR3BNCA.jpg?auth=d71f59510d5464937b693abe2f9d8630aed254f6d93907bcb938ad420a4dfaa0&smart=true&width=800&height=537",
-   "enlace": "https://caracol.com.co/2026/10/25/la-carretera-mas-alta-de-colombia-esta-a-casi-4000-metros-sobre-el-nivel-del-mar-cual-es/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-25T18:25:06Z",
-   "id": "e47246a8416b"
-  },
-  {
-   "titulo": "Se desplomó una edificación en el centro de Pereira: esto se sabe de la emergencia",
-   "resumen": "Las cámaras de seguridad llevaron a los organismos de socorro a verificar la posible presencia de dos personas en el inmueble, afectado por el terremoto del 10 de agosto.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/NZDJ2L342VHXTPX7EMB4XW6ENE.jpg?auth=da03cb12bbad8aae0d9778b829d92fb80e7d1d279e37282fe7442feb6451d0dd&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/colombia/2026/10/25/se-desplomo-una-edificacion-en-el-centro-de-pereira-esto-se-sabe-de-la-emergencia/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-25T18:16:58Z",
-   "id": "5fee6da2078d"
-  },
-  {
-   "titulo": "Reflexión espiritual: la ventana del alma también necesita sanar",
-   "resumen": "Repare la ventana y deje entrar la luz de Dios",
-   "imagen": "https://www.vanguardia.com/resizer/v2/D3CZZDHGU5HS5BKIJRHXL7LVWE.jpg?auth=f614da85305391648bbb6d02cea420fc16b95a419e7fd2085bee30cc745d0501&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/entretenimiento/espiritualidad/2026/10/25/reflexion-espiritual-la-ventana-del-alma-tambien-necesita-sanar/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-25T18:13:56Z",
-   "id": "b1bef425f9a0"
-  },
-  {
-   "titulo": "Dejaron en libertad a mujer capturada por la muerte de un docente de 64 años en Rionegro, Santander",
-   "resumen": "Los hechos se registraron durante la madrugada del miércoles 21 de octubre, en una vivienda del barrio Santa Cruz de la Colina, en el municipio de Rionegro, Santander.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/25Y7324NCZAN7PTZL7W7I5KWXQ.png?auth=58dcc4c08feb04c05e59c4ad45d63c636cbcc5b28f6564531706d0a09956e04f&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/judicial/2026/10/25/dejaron-en-libertad-a-mujer-capturada-por-la-muerte-de-un-docente-de-64-anos-en-rionegro-santander/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-25T18:05:25Z",
-   "id": "84d1e5bbd819"
-  },
-  {
-   "titulo": "🔴 EN VIVO Fortaleza vs Deportivo Cali por Liga Colombiana HOY: retransmisión y minuto a minuto",
-   "resumen": "A las 2:00 p.m. del 25 de octubre, el Deportivo Cali visitará a Fortaleza por la fecha 16 de la Liga Colombiana . El equipo de los ‘Amix’ actualmente se encuentra sin posibilidades de entrar a los ocho mejores del…",
-   "imagen": "https://caracol.com.co/resizer/v2/LLF5BH5MNBGFTEPQYEBV7FO32Y.png?auth=3dbe5a74dae8470cfddda4b07630530752b05321a5b522cd5bbd46836b27d17c&smart=true&width=768&height=576",
+   "titulo": "Cali empató en Bogotá y clasificó a los cuadrangulares: Resumen del partido",
+   "resumen": "Fortaleza y Deportivo Cali empataron 1-1 en el estadio Metropolitano de Techo de Bogotá , por la fecha 16 del fútbol colombiano. El equipo vallecaucano aseguró su presencia en los cuadrangulares finales de la Liga . Los…",
+   "imagen": "https://caracol.com.co/resizer/v2/24NIVGAC2RHWPGBLO3W5A6A2SY.jpeg?auth=ee30ae9d59d8e8a058db4995c27ccec4100270141349a4a11319486b201231ec&smart=true&width=1226&height=817",
    "enlace": "https://caracol.com.co/2026/10/25/en-vivo-fortaleza-vs-deportivo-cali-por-liga-colombiana-2026-ll-hoy-minuto-a-minuto/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
    "fecha": "2026-10-25T18:03:30Z",
-   "id": "f09086d97154"
+   "id": "e9f5a4467f98"
   },
   {
    "titulo": "Comparendos de convivencia en Bogotá: Así puedes saldar la deuda sin pagar dinero",
@@ -308,26 +385,15 @@
    "id": "24009d25de01"
   },
   {
-   "titulo": "Plutón sorprende a los científicos con montañas nevadas, volcanes de hielo y un cielo azul",
-   "resumen": "La misión New Horizons reveló en Plutón montañas de hasta 6.000 metros, glaciares y posibles volcanes de hielo que desafían las teorías científicas.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/QCBNDRHGWJG2RMP4I73NFOMGXI.jpg?auth=a27d0d0350e4af59fcc6c1dae1fb97656abdcaa21fc3c14a4029ef6d5744046e&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/mundo/ciencia/2026/10/25/pluton-sorprende-a-los-cientificos-con-montanas-nevadas-volcanes-de-hielo-y-un-cielo-azul/",
+   "titulo": "Caso Alejandro Villanueva: Un contrato de su socio por $54,9 millones en el Ministerio del Interior y una polémica sanción judicial",
+   "resumen": "Un contrato por $54,9 millones del Ministerio del Interior a un socio empresarial de Alejandro Villanueva, director de Desigual, coincide con una publicación crítica del medio en internet.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/AMNWNAVFFFG3DMWHHG43JQRBVI.png?auth=4c400958a7f8cb7ec789b977581b8b4850261bc5a4bcc392115173b980d34e4e&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/colombia/2026/10/25/caso-alejandro-villanueva-un-contrato-de-su-socio-por-549-millones-en-el-ministerio-del-interior-y-una-polemica-sancion-judicial/",
    "medio": "Vanguardia",
    "fuente": "vanguardia",
    "region": "Santander",
-   "fecha": "2026-10-25T17:55:25Z",
-   "id": "25861fe60bed"
-  },
-  {
-   "titulo": "Dolorosos momentos durante la velatón por la policía María José Recuero, quien murió tras un acto de heroísmo al enfrentarse a unos ladrones en Cali",
-   "resumen": "Comunidad y uniformados realizaron velatón en comando de la Policía Metropolitana de Cali, en las estaciones y los CAI por la patrullera de 20 años.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/25/6ade13feba9c1.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/dolorosos-momentos-durante-la-velaton-por-la-policia-maria-jose-recuerdo-quien-murio-tras-un-acto-de-heroismo-al-enfrentarse-a-unos-ladrones-en-cali-3596143",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-25T17:29:10Z",
-   "id": "4fcc049f30c4"
+   "fecha": "2026-10-25T18:00:20Z",
+   "id": "4118e3b8d5d0"
   },
   {
    "titulo": "ONU Derechos Humanos pide reconstruir y reabrir la Casa de las Memorias de Cali, cerrada tras el terremoto",
@@ -341,61 +407,6 @@
    "id": "1b2494f5d8b9"
   },
   {
-   "titulo": "Jéfferson Mena confesó que vivió con el “corazón arrugado” el partido de Chicó ante Bucaramanga",
-   "resumen": "Jéfferson Mena reveló sus sentimientos luego de enfrentar con el Boyacá Chicó a su exequipo, el Atlético Bucaramanga, en la fecha 16 de la Liga BetPlay II de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/L3KHMD23NZAGZJXXCWLXK2CGZY.png?auth=4b92d9f6bcd0e7b4019faf2859fad14eec9e2bf5ccbb7903411722480d9f0edc&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/deportes/futbol/2026/10/25/jefferson-mena-confeso-que-vivio-con-el-corazon-arrugado-el-partido-de-chico-ante-bucaramanga/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-25T17:09:33Z",
-   "id": "52fcc6ad858b"
-  },
-  {
-   "titulo": "Estados Unidos condenó a prisión a peruano-estadounidense por explotación sexual de menor: lo habían hallado con 16 adolescentes en Antioquia",
-   "resumen": "El alcalde Federico Gutiérrez informó que justo cuando fue allanada una finca en Copacabana, este hombre se encontraba con una menor de 15 años.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/25/6ade22d8b931c.r_d.507-662-0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/estados-unidos-condeno-a-prision-a-peruano-estadounidense-por-explotacion-sexual-de-menor-lo-habian-hallado-con-16-adolescentes-en-antioquia-3596153",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-25T16:40:57Z",
-   "id": "bf260fcd9171"
-  },
-  {
-   "titulo": "Barranquilla prohíbe caravanas y saca las motos del Gran Malecón durante dos fines de semana, incluido el de Halloween",
-   "resumen": "El decreto aplica del 31 de octubre al 2 de noviembre. La Alcaldía lo justifica con las cifras de delitos del Halloween pasado y muertes en vías.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2023/11/05/65481143546db.png",
-   "enlace": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-prohibe-caravanas-y-saca-las-motos-del-gran-malecon-durante-dos-fines-de-semana-incluido-el-de-halloween-3596158",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-25T15:55:31Z",
-   "id": "b3cbe48d4798"
-  },
-  {
-   "titulo": "Salario de intendentes y subintendentes de la Policía en 2026: Así es la escala salarial",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRHBuUjBYR2o1TFdvU0I2bzIxRTFzS2xpYXZjQ3g3dXZmRk0xeE52LVB6dmVyXzlLUjJYc3JrbkE1U3B5c2hqVEVtaWxGRFBYanVGU1plZXVKTnIxNzQ0dVhBWFQzUXdaQTdyOE1zZWFac1ZzY3daSkxraUJyUVowaXBLa1B0aGFORXMwdlRHSm1Bem9NQW9vN0hxdHQ1YWl3LTMyTVZWNmdHdjBPY3NBM2twMEFPN2pRWEJUbzRMakhPSW5p?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-10-25T15:33:32Z",
-   "id": "ba244f36e214"
-  },
-  {
-   "titulo": "Cartagena atiende emergencia por lluvias: intervienen canales con maquinaria pesada y realizan censo de familias afectadas",
-   "resumen": "La Alcaldía mantiene operativos en los sectores golpeados por los aguaceros del sábado. Equipos retiran residuos y evalúan los daños.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/25/6ade1ccacf0e5.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-atiende-emergencia-por-lluvias-intervienen-canales-con-maquinaria-pesada-y-realizan-censo-de-familias-afectadas-3596152",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-25T15:19:58Z",
-   "id": "f6cb8b58cf49"
-  },
-  {
    "titulo": "Oiba Santander, el pueblito pesebre de Colombia: a dos horas de Bucaramanga",
    "resumen": "",
    "imagen": "",
@@ -405,17 +416,6 @@
    "region": "Santander",
    "fecha": "2026-10-25T15:07:33Z",
    "id": "0022771e052e"
-  },
-  {
-   "titulo": "Atlético Bucaramanga y la nómina que maneja para enfrentar a Independiente Santa Fe",
-   "resumen": "Atlético Bucaramanga, con ajustes en su nómina, visita este lunes, 26 de octubre, a Independiente Santa Fe, por la fecha 14 de la Liga BetPlay II de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/VH3LFTKH3NHNLMUKD3VLWYCSTI.jpg?auth=eb069c66f691eb1dd25cdb4d6540bc928794a51bced3e31876d8fc4cc0ab1573&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/deportes/futbol/2026/10/25/atletico-bucaramanga-y-la-nomina-que-maneja-para-enfrentar-a-independiente-santa-fe/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-25T14:27:09Z",
-   "id": "b85070ee1663"
   },
   {
    "titulo": "Colombianos que vivan en el extranjero podrán adquirir casa en Colombia con la nueva política de Estado",
@@ -473,17 +473,6 @@
    "id": "c6596d98610f"
   },
   {
-   "titulo": "Estos son los mejores colegios de Cali según el ranking Col-Sapiens 2026-2027",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQllVR2RUMDFFbnM2emJLSHg0TGNtSUk0TGNCWWY2anZoNENuOHlSVFFxRTl4YTVUY1daeks2SThQUVNqTWUzU1lYZ3lQTnhIb1dlM2JqaEpkejBKYldySThHdk1MQmpJZDJvbDlhZzdfemJDZ3FTLUtzSElXbXg5T25IY0gwU1l1X2RLMFhWd0xVakQzMTdUeHBqVW9DZldxQlp1Tmo2NTBUVVRYZ1l3VExHSE12ZVE?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-10-24T21:02:23Z",
-   "id": "973f837c34a3"
-  },
-  {
    "titulo": "Desbordamiento de una quebrada deja incomunicadas a comunidades rurales en Santander",
    "resumen": "",
    "imagen": "",
@@ -495,17 +484,6 @@
    "id": "7ae97130a991"
   },
   {
-   "titulo": "EMCALI ofrece alivios económicos a damnificados por el terremoto: Así puedes acceder a la financiación",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU0JhQUxvaUt5THMyYmNnUzY1NHdTQzBiYU0teVhCUlU3VDM0c0JoRWVJN3VKOHJrd1lfMmJqYUZ6bHpLd01XVDRDSVdDa0VKandveVhTMjA5Y1ZhcmdzOTBXMW5Takwxc2xkemhkNURSd1NKZFV5T215RzdrTHRSS1NNZ0luTFc0RU5hcktRejlWdnIwQXVEbXBZVExRUmtwQ0NMc1hRVXZRMm9sbnQyY1BEZkZPSks0NDdkbkw2MTdDSGVZRUsxVHdxSWNjYXZxQnF2a1ZYOA?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-10-24T19:49:43Z",
-   "id": "1764db99eed9"
-  },
-  {
    "titulo": "Concejo de El Socorro estudia dos proyectos durante sesiones extraordinarias",
    "resumen": "",
    "imagen": "",
@@ -515,6 +493,17 @@
    "region": "Santander",
    "fecha": "2026-10-24T19:43:34Z",
    "id": "f7b0c1d81bda"
+  },
+  {
+   "titulo": "Tabla de posiciones de la Liga Colombiana: así quedó tras empate de Once Caldas y triunfo de América",
+   "resumen": "La jornada 16 de la Liga Colombiana 2026-2 comenzó el viernes 23 de octubre con el partido Boyacá Chicó vs Atlético Bucaramanga y se extenderá hasta el lunes 26 de octubre con el compromiso Jaguares vs Llaneros . Es…",
+   "imagen": "https://caracol.com.co/resizer/v2/MYIX2HSER5AXLHXY6UFEAIKKUI.jpeg?auth=e6a73cc9deadeb36dde84388a4a7b0419e749971c1fd52c4a8fa63a979386e9c&smart=true&width=1280&height=854",
+   "enlace": "https://caracol.com.co/2026/10/24/tabla-de-posiciones-de-la-liga-colombiana-asi-quedo-con-los-triunfos-de-chico-y-junior/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-24T03:06:41Z",
+   "id": "4512ac01dea7"
   },
   {
    "titulo": "Fiscalía acusa a exgobernador de Santander Mauricio Aguilar por contrato de colegio en Suaita",
@@ -559,6 +548,17 @@
    "region": "Santander",
    "fecha": "2026-10-23T17:57:59Z",
    "id": "b5c0c208d342"
+  },
+  {
+   "titulo": "Hip Hop al Parque 2026: Horarios, recomendaciones y restricciones para asistir en Bogotá",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMjhaWjBRMkdiUWlkUm5jaXBnSU9jRGNvQTVlQkJWNk5SVFZPT0hYMmtSaXRBaFMxV1FORmdJcUlCeUZvYk5GdlNLbS1Pa01oZ0liNm94dGJNZHVPUmU0LXdKaG9VWXRkeWJ0blo0ZzdEQmtoYVUxNXFsVkI1Qi1xS3NhQXZsMTAxVDZya1lGU1pmaXEtaV9FOV9FY1FOdUVRY0pvbDZEVzBOd01HQjBCX3V2Qnp0WXEyNElneEk2d29iVTg?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-10-23T14:41:26Z",
+   "id": "8c1543c62b38"
   },
   {
    "titulo": "Exgobernador de Santander, Mauricio Aguilar Hurtado, es acusado ante la Corte Suprema por presuntas irregularidades en contrato para colegio agrícola en Suaita",
