@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-25T01:14:18Z",
+ "actualizado": "2026-10-25T06:11:15Z",
  "fuentes": [
   {
    "id": "vanguardia",
@@ -44,6 +44,259 @@
  ],
  "noticias": [
   {
+   "titulo": "Condenados exalcaldes",
+   "resumen": "En Vanguardia, el pasado 10 de octubre, se publicó, con titular y foto, la noticia sobre las condenas proferidas contra los exalcaldes de San Gil Ariel Rojas Rodríguez y Urbano Ballesteros Rangel, y los exfuncionarios…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/NCS4CQURNRGI5NV5OHOQKYA7RM.jpg?auth=1c2e96310cf93faf78d80430b3fe57170238f54300d8190be1d4b1de47441c58&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/25/condenados-exalcaldes/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-25T06:00:00Z",
+   "id": "aa079257141e"
+  },
+  {
+   "titulo": "Reforma “antimermelada”",
+   "resumen": "El pasado 15 de octubre, el Gobierno Nacional presentó un proyecto de acto legislativo sobre las reglas de la gestión de los congresistas para promover inversiones en sus regiones y modificar el régimen de conflictos de…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/X3VUM57Z2VATRHCAEJO52HW33Y.jpg?auth=530ad8d7b92ed8a111fef65a30192dd62cd54aafbc3dbafbe82e9e38dcb41600&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/25/reforma-antimermelada/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-25T06:00:00Z",
+   "id": "280d0ee32cf0"
+  },
+  {
+   "titulo": "¿Subsidios o confianza?",
+   "resumen": "Cartagena acogió esta semana el Congreso Nacional de Camacol, con el Gobierno de Abelardo de la Espriella como invitado y una conclusión: CONFIANZA. Contrastó con los últimos tres congresos, cuando Camacol pedía…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/5P7KLRRUKBFXVGLITQ73K3GYPU.jpg?auth=6775a4da1a66a739fce7c1f42e958712eeddaca72599a30fd22866e646cc90fe&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/25/subsidios-o-confianza/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-25T06:00:00Z",
+   "id": "7ad0dcb82cd0"
+  },
+  {
+   "titulo": "Capitanejo, el pueblo de Santander que atrae turistas con cabro, carnavales y calor extremo",
+   "resumen": "A orillas del río Chicamocha, este rincón de Santander combina paisajes áridos, gastronomía tradicional y celebraciones que convocan a decenas turistas tanto nacionales como internacionales.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/JRTT5DWXVRGB7A6I4HSG37VFRM.jpeg?auth=28b6bb6ae23913bd1bc9b13474db10a3ca5f37cfb098b1f40cb831d5ca54ecfd&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/santander/2026/10/25/capitanejo-el-pueblo-de-santander-que-atrae-turistas-con-cabro-carnavales-y-calor-extremo/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-25T06:00:00Z",
+   "id": "fda78cf93181"
+  },
+  {
+   "titulo": "Alejandro Ordóñez, Mininterior",
+   "resumen": "Caricatura de Yeyo del XX de XXX de 2026",
+   "imagen": "https://www.vanguardia.com/resizer/v2/Y4PZNXBR6VDSJO7C7BUWANJYKU.jpg?auth=5dda6f3be56bfb24eac321e1045a406485e4a9e2478c1007bbebe5b7683f6d1f&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/caricaturas/2026/10/25/alejandro-ordonez-mininterior/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-25T06:00:00Z",
+   "id": "53747d0815ac"
+  },
+  {
+   "titulo": "Una avalancha de amabilidad",
+   "resumen": "La apuesta de avalanchas de amabilidad en internet merece extenderse porque cuestiona esa resignación con la que aceptamos que exponerse implica soportarlo todo.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/7QU2Z3A6QJGUPI4OG4IJWZ3RZQ.jpeg?auth=2b9db417805a7f880ab9e61d2cffc77d1143f4fd8df70ebd805d4446f4a9e19b&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/25/una-avalancha-de-amabilidad/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-25T06:00:00Z",
+   "id": "d3094cef0272"
+  },
+  {
+   "titulo": "La trampa del empate moral",
+   "resumen": "Sin embargo, observo con preocupación cómo se está haciendo política en nuestro país. Cuando se exhibe un escándalo de corrupción del gobierno saliente, los defensores de Petro salen a defenderlo con la falacia antes…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/RJMIAIAC55COZB5VZ23T4VTTJU.jpeg?auth=7fe3bc9023a9343126392d2248649c85649c331e7cf37961ee6b772454398cb3&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/25/la-trampa-del-empate-moral/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-25T06:00:00Z",
+   "id": "6a98ce25bd14"
+  },
+  {
+   "titulo": "En el presupuesto hay que recuperar lo perdido",
+   "resumen": "La reciente pérdida de al menos 173 mil millones de pesos para Santander, derivada de un error en el trámite del proyecto de Ley del Presupuesto General de la Nación, que obligó a expedirlo por decreto, constituye un…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/Y77HSAMVDRGCBAKRMUB7GJBV6Y.jpg?auth=9fda64626f20c1611bc18d55707d029290a765be2ce035a22502a229ab61e783&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/editorial/2026/10/25/en-el-presupuesto-hay-que-recuperar-lo-perdido/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-25T06:00:00Z",
+   "id": "d47c139e75fc"
+  },
+  {
+   "titulo": "El legado del amor incondicional",
+   "resumen": "Hay personas especiales que tienen el don de amar sin condiciones. Personas que con una mirada transmiten fortaleza y seguridad, y que con una palabra pueden hacer que vuelva la calma y desaparezca la tristeza. Estas…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/2KWPUVPOWNFZ5AJOYWTUOJGFGQ.jpg?auth=88e6c8a0690e61663577a25b15ac78b8f69abdcb9762ddce34782bdf79a8d169&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/25/el-legado-del-amor-incondicional/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-25T06:00:00Z",
+   "id": "c9f2ea973ce7"
+  },
+  {
+   "titulo": "¡Advertidos estamos!",
+   "resumen": "olombia conoce las consecuencias de 2021. El estallido social dejó bloqueos, violencia, destrucción y ataques a la Fuerza Pública. Aquella crisis terminó favoreciendo políticamente a Gustavo Petro y contribuyó a su…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/USHC7TS23NED7MTMJWHKFC532U.jpg?auth=b4ee955693e6f3edf4c5c97d737c28ddc209097136c7ee824aa049330c8927f0&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/25/advertidos-estamos/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-25T06:00:00Z",
+   "id": "134b43ff125f"
+  },
+  {
+   "titulo": "A nuestro amigo Mauricio ‘Chinche’ Ulloa",
+   "resumen": "Querido Chinche: recuerdo que te conocí en 1982, gracias a Tata, tu hermana, quien era la novia de mi vecino Javier Enrique García; lo acompañaba a marcar tarjeta en el hermoso barrio La Aurora, íbamos a algunos bailes…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/SZTFGRSGHNC6LIL5TTSQGEUUIA.jpg?auth=2517543f9ffd1912b3648a8d5a3d563829bf61d5d80585f51cfea8b8856a505e&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/25/a-nuestro-amigo-mauricio-chinche-ulloa/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-25T06:00:00Z",
+   "id": "e0a91b3938de"
+  },
+  {
+   "titulo": "Transporte y energía",
+   "resumen": "El pasado miércoles se llevó a cabo una sesión ordinaria de la Comisión Sexta del Senado de la República en Barrancabermeja, gracias a una proposición liderada por el senador santandereano Nelson López. Fue una…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/RO32U7E6XZHFTIOWA45JH4CCXU.jpg?auth=5aed626c5724e276a0e7710d7269edd3211c51fc979a413db6459a27e9293ca7&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/25/transporte-y-energia/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-25T06:00:00Z",
+   "id": "8d707909bf85"
+  },
+  {
+   "titulo": "El ‘nuevo’ de la oficina en la era de la IA",
+   "resumen": "La primera experiencia profesional es un momento importante. Para los jóvenes que dedicaron años de su vida a perfeccionar un saber, tener, por fin, la oportunidad de probar lo que saben es, a la vez, emocionante y un…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/Q6OGGSBBBBC6VGPZLJY7WSTEZQ.jpg?auth=4797338749bb784b3578653aa41f94971980bebd7324feb11feabfc189f582de&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/25/el-nuevo-de-la-oficina-en-la-era-de-la-ia/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-25T06:00:00Z",
+   "id": "16cffe44105e"
+  },
+  {
+   "titulo": "Policía del pensamiento",
+   "resumen": "Cuánta falta hacen las sabias afirmaciones de hombres ponderados como Carlos Gaviria, aquél exmagistrado de pensamiento liberal, que asomó por primera vez la opción real de que la izquierda en Colombia pudiera alcanzar…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/7XOE5ZIKB5B67NETFXSGOVCDN4.jpg?auth=37e51fe0a70636d6b0855fd9f60e86026e41cdd929361918d49fd902eabdd7e1&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/25/policia-del-pensamiento/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-25T06:00:00Z",
+   "id": "d15287b103ca"
+  },
+  {
+   "titulo": "Tucunaré en Topocoro: ¿qué se sabe sobre los parásitos en peces?",
+   "resumen": "¿Qué está ocurriendo con los peces del embalse de Topocoro? Las observaciones de pescadores sobre la presencia del tucunaré y de parásitos en los ojos de algunos ejemplares llevaron a investigadores de Bucaramanga a…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/V24R5TPEYFETTN4Z7HOEDTEKCM.jpg?auth=6b5a63f1485006e95b0dc332a93a5faed91e8009d353d5124b5180054d2cbe83&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/economia/agro/2026/10/25/tucunare-en-topocoro-que-se-sabe-sobre-los-parasitos-en-peces/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-25T06:00:00Z",
+   "id": "16994067a508"
+  },
+  {
+   "titulo": "Accidente de tránsito en el puente Helicoidal de Calarcá, Quindío, terminó con un vehículo de carga volcado e incendiado",
+   "resumen": "La emergencia se registró durante la noche de este sábado 24 de octubre, mientras el automotor transitaba por el corredor vial hacia La Línea.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/24/6add860c08b5d.png",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/accidente-de-transito-en-el-puente-helicoidal-de-calarca-quindio-termino-con-un-vehiculo-de-carga-volcado-e-incendiado-3596131",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-25T05:02:20Z",
+   "id": "e3a54c08d5ef"
+  },
+  {
+   "titulo": "Emergencias por lluvias en el Caribe: primeros balances de inundaciones y desbordamientos en varias ciudades; se esperan más precipitaciones",
+   "resumen": "La decisión se tomó con base en el más reciente reporte del Instituto de Hidrología, Meteorología y Estudios Ambientales.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/24/6add1c2fe9035.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/alcaldia-de-santa-marta-declara-alerta-roja-por-inundaciones-y-riesgo-de-crecientes-subitas-en-dos-rios-estas-son-las-recomendaciones-del-ideam-3596073",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-25T04:18:40Z",
+   "id": "ce4d65980cdf"
+  },
+  {
+   "titulo": "Pereira rescata el empate contra el Once Caldas en el clásico del Eje Cafetero: resumen del partido",
+   "resumen": "Once Caldas empato 1-1 con el Deportivo Pereira en el clásico del Eje Cafetero en la fecha 16 de la Liga Colombiana 2026-ll. El encuentro se llevó a cabo este sábado 24 de octubre a las 8:15 PM hora colombiana en el…",
+   "imagen": "https://caracol.com.co/resizer/v2/PVWYV5UX2ZA5RNB7BIAFTDSILA.jpeg?auth=e09f4de90f6ade3c9c56f303b15e354ef1ddda328acb41cb0f6af4ace6d2c134&smart=true&width=1280&height=854",
+   "enlace": "https://caracol.com.co/2026/10/25/en-vivo-once-caldas-vs-pereira-hoy-en-el-clasico-del-eje-cafetero-transmision-y-minuto-a-minuto/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-25T03:10:36Z",
+   "id": "7e10683f3bae"
+  },
+  {
+   "titulo": "Colapsó una edificación en Pereira pendiente de demolición este sábado: Bomberos confirman que no se hallaron personas entre los escombros",
+   "resumen": "El cuerpo de bomberos de Pereira culminó la búsqueda de afectados sobre las 8 de la noche, tras confirmar que no habían cuerpos en la escena.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/24/6add2c2400068.r_d.622-542-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/emergencia-en-pereira-colapso-una-edificacion-que-estaba-pendiente-de-demolicion-tras-el-terremoto-hallaron-dos-cuerpos-sin-vida-entre-los-escombros-3596082",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-25T02:39:40Z",
+   "id": "81ea7aa6d967"
+  },
+  {
+   "titulo": "Amplía U: requisitos para acceder a la nueva iniciativa de Atenea y las universidades disponibles",
+   "resumen": "La Agencia Distrital para la Educación Superior, la Ciencia y la Tecnología (ATENEA), en colaboración con la Asociación Colombiana de Universidades (ASCUN) y once universidades con el apoyo de la Corporación Fondo de…",
+   "imagen": "https://caracol.com.co/resizer/v2/23GOBICSYNDF3IY4ZUZV6D3MW4.jpg?auth=e8b8dd4c3613028654cc3d5e403a53660ae0b3b32e3297f48c39a119eaf91a48&smart=true&width=2048&height=1366",
+   "enlace": "https://caracol.com.co/2026/10/25/amplia-u-requisitos-para-acceder-a-la-nueva-iniciativa-de-atenea-y-las-universidades-disponibles/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-25T02:26:07Z",
+   "id": "36b18afd84ff"
+  },
+  {
+   "titulo": "Kimi Antonelli, cada vez más cerca del campeonato: así saldrá en el GP de Estados Unidos",
+   "resumen": "El piloto de Mercedes Benz Kimi Antonelli está cada vez más cerca de hacer historia en la Formula 1. El piloto italiano logró quedarse con la Pole Position en el Gran Premio de Austin, Estados Unidos. Con esta salida en…",
+   "imagen": "https://caracol.com.co/resizer/v2/UNYM3CNOLVDGZPVTHTF2E6F4QE.jpg?auth=909b03b5488340b9ab0371a6f129641e797378a44c0e09975fd141d79ab29974&smart=true&width=1024&height=695",
+   "enlace": "https://caracol.com.co/2026/10/25/kimi-antonelli-cada-vez-mas-cerca-del-campeonato-asi-saldra-en-el-gp-de-estados-unidos/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-25T02:08:12Z",
+   "id": "18fcd95b7fc7"
+  },
+  {
+   "titulo": "Entre el calor y el recibo de la luz: el dilema de las familias del Caribe que temen pagar más por consumir energía",
+   "resumen": "Las altas temperaturas obligan a las familias del Caribe a usar ventiladores y aires acondicionados, mientras afrontan medidas de ahorro energético.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/05/20/6a0e0db3a9c3d.r_d.657-597-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/barranquilla/entre-el-calor-y-el-recibo-de-la-luz-el-dilema-de-las-familias-del-caribe-que-temen-pagar-mas-por-consumir-energia-3596088",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-25T01:35:00Z",
+   "id": "2e8c861140af"
+  },
+  {
+   "titulo": "Alcaldía activa PMU y entrega primeras ayudas a familias afectadas por las lluvias en Santa Marta",
+   "resumen": "La Alcaldía de Santa Marta activó un Puesto de Mando Unificado (PMU) para coordinar la respuesta a las emergencias ocasionadas por las fuertes lluvias de este sábado 24 de octubre. A través de la Oficina para la Gestión…",
+   "imagen": "https://caracol.com.co/resizer/v2/I7GAOSR4XRCI3NP3AJYPWFP5FY.jpeg?auth=3f23ac2afcb58c75a18d4d1744d8f3b7b0015354dd1c72f484c57275b80d76c4&smart=true&width=1280&height=854",
+   "enlace": "https://caracol.com.co/2026/10/25/alcaldia-activa-pmu-y-entrega-primeras-ayudas-a-familias-afectadas-por-las-lluvias-en-santa-marta/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-25T01:30:00Z",
+   "id": "62988f33b32c"
+  },
+  {
    "titulo": "Meses de conflicto entre vecinos terminaron con la muerte de un hombre en Barranquilla: recibió un golpe en la cabeza",
    "resumen": "Un objeto de hierro causó la muerte de Breiner Zenith Ibáñez Villeros este viernes.",
    "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/24/6add53d4bcd81.r_d.115-89-0.jpeg",
@@ -55,114 +308,26 @@
    "id": "2ac6af79f158"
   },
   {
-   "titulo": "América de Cali goleó al Cúcuta y volvió a ser líder de la Liga Colombiana: resumen del partido",
-   "resumen": "América de Cali venció 3-1 al Cúcuta deportivo en la fecha 16 de la Liga Colombiana 2026-ll . El encuentro se llevó a cabo en el estadio Olímpico Pascual Guerrero de Cali a las 6:05 PM hora colombiana . Los dirigidos…",
-   "imagen": "https://caracol.com.co/resizer/v2/JRCD243ISVETPAWC76RKV5CE7A.jpeg?auth=2e8ea193ed4749b80993d48e3062e585d3211fcdb5d8b4dbbfcb8477751a489c&smart=true&width=1088&height=726",
-   "enlace": "https://caracol.com.co/2026/10/24/en-vivo-america-de-cali-vs-cucuta-hoy-por-liga-colombiana-transmision-y-minuto-a-minuto/",
+   "titulo": "Lotería de Boyacá, Cauca y Baloto HOY sábado 24 de octubre: resultados y números ganadores",
+   "resumen": "La Lotería de Boyacá, como lo indica su lema ‘Un sábado de pobre lo sacará’ , se juega todos los sábados a las 10:40 de la noche, y puede verla por medio del Canal Trece o en la transmisión en vivo en Facebook Live y…",
+   "imagen": "https://caracol.com.co/resizer/v2/TNQHC6R6LNH2JFKW6TKP6ZS4DM.png?auth=c25545c1edcf587d461653c88e17750ae8656bc5a77d4e56c03522c6667ba436&smart=true&width=650&height=488",
+   "enlace": "https://caracol.com.co/2026/10/25/loteria-de-boyaca-cauca-y-baloto-hoy-sabado-24-de-octubre-resultados-y-numeros-ganadores/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-10-25T01:06:26Z",
-   "id": "cc28d34f0be1"
+   "fecha": "2026-10-25T00:30:00Z",
+   "id": "3ed2020c1278"
   },
   {
-   "titulo": "Boyacá Chicó advierte que podría dejar Tunja por diferencias con autoridades locales",
-   "resumen": "La continuidad del Boyacá Chicó en Tunja quedó en entredicho luego de que Eduardo Pimentel, máximo accionista de la institución, expresara -por medio de su cuenta de X-, su inconformidad con las decisiones adoptadas por…",
-   "imagen": "https://caracol.com.co/resizer/v2/CYNKRJLA25PKBGO45R7PAZJUQM.jpg?auth=42b29044a3f31681104774dfd69d4deb66d49ccd97ea3aaf76b1b47ffdc14545&smart=true&width=1080&height=625",
-   "enlace": "https://caracol.com.co/2026/10/25/boyaca-chico-advierte-que-podria-dejar-tunja-por-diferencias-con-autoridades-locales/",
+   "titulo": "Resultados Lotería de Boyacá HOY 24 de octubre 2026: consulte los premios",
+   "resumen": "¡Atento! La Lotería de Boyacá es una de las loterías más populares de Colombia, conocida por su tradición y por ofrecer grandes premios. Se juega todos los Sábados a las 10:40 p.m. La suerte juega un papel fundamental…",
+   "imagen": "https://caracol.com.co/resizer/v2/YFV2PU5VQVHGXNRL4T2KFWUR2A.png?auth=ef90cc7a434624aac4c2e96ff8e9a1b005cb3ca3ed3a952aee402fbb0d81f588&smart=true&width=650&height=488",
+   "enlace": "https://caracol.com.co/2026/10/25/resultados-loteria-de-boyaca-hoy-24-de-octubre-2026-consulte-los-premios/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-10-25T01:05:51Z",
-   "id": "cce0b3eb1360"
-  },
-  {
-   "titulo": "Fuertes lluvias y desbordamientos de ríos y quebradas dejan familias afectadas en Santa Marta",
-   "resumen": "Las fuertes lluvias registradas este sábado 24 de octubre mantienen en alerta a Santa Marta. El aumento del caudal del río Gaira y quebradas provocó inundaciones en distintos puntos de la ciudad, afectando viviendas…",
-   "imagen": "https://caracol.com.co/resizer/v2/UDNHN536MJAXXMUZI6MTIXBZ2A.jpeg?auth=ce31bf7af4498fb37c1a483041f4c56f1e236bec1c902f560020530de7be2dab&smart=true&width=1600&height=1198",
-   "enlace": "https://caracol.com.co/2026/10/25/fuertes-lluvias-y-desbordamientos-de-rios-y-quebradas-dejan-familias-afectadas-en-santa-marta/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-25T01:05:37Z",
-   "id": "8a06c6ff14d6"
-  },
-  {
-   "titulo": "MinAgricultura elimina las APPA en 19 municipios en Antioquia y devuelve más de 100 mil hectáreas",
-   "resumen": "El Ministerio de Agricultura derogó las Áreas de Protección para la Producción de Alimentos (APPA) en 19 municipios del suroeste de Antioquia, una decisión que deja sin efecto las restricciones asociadas a esta figura…",
-   "imagen": "https://caracol.com.co/resizer/v2/BZHKK2J7OVH2TGPBKNG5ZME3XY.jpg?auth=dd2ad5dd1fb6597c34917746ef162aad1fefd425387ffe2e6e978ef368c005cb&smart=true&width=4248&height=2832",
-   "enlace": "https://caracol.com.co/2026/10/25/minagricultura-elimina-las-appa-en-19-municipios-en-antioquia-y-devuelve-mas-de-100-mil-hectareas/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-25T00:53:19Z",
-   "id": "0a9b189fada1"
-  },
-  {
-   "titulo": "Culona Noche: número ganador del sorteo del sábado 24 de octubre de 2026",
-   "resumen": "Conoce los resultados del último sorteo de La Culona Noche del sábado 24 de octubre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/24ODRQSKI5ENNFEKAR4W2OKXEI.png?auth=ed42fa8e12c4531c19908bb5f182a37548af68c79f7f4ba25f5c2d40ba3cc453&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/24/culona-noche-numero-ganador-del-sorteo-del-sabado-24-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-25T00:50:00Z",
-   "id": "883872a82f93"
-  },
-  {
-   "titulo": "Aguas de Cartagena inició el restablecimiento del servicio tras daños eléctricos por lluvias",
-   "resumen": "Acuacar inició el restablecimiento gradual del suministro de agua en la ciudad, luego de que las fuertes lluvias y la tormenta eléctrica ocasionaran daños en los equipos que abastecen de energía a las estaciones Dolores…",
-   "imagen": "https://caracol.com.co/resizer/v2/4UCXDB73CFH5XBT77DHBX6G24Y.jpeg?auth=20829ea9c7083ab46d22f84901c0aa15781229d3ef337bf14d137c2ace9ea017&smart=true&width=1200&height=1447",
-   "enlace": "https://caracol.com.co/2026/10/25/aguas-de-cartagena-inicio-el-restablecimiento-del-servicio-tras-danos-electricos-por-lluvias/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-25T00:43:44Z",
-   "id": "5a1bd60cdf3e"
-  },
-  {
-   "titulo": "🔴 EN VIVO Once Caldas vs Pereira HOY en el clásico del Eje Cafetero: transmisión y minuto a minuto",
-   "resumen": "Once Caldas se enfrenta con el Pereira en el clásico del Eje Cafetero en la fecha 16 de la Liga Colombiana 2026-ll. El encuentro se llevara a cabo este sábado 24 de octubre a las 8:15 PM hora colombiana en el estadio…",
-   "imagen": "https://caracol.com.co/resizer/v2/7YCDYU7NIRABJG25IMHULVMXP4.png?auth=15d1088538cd6bdce8dac26ad237b7be72943f178737110f402419fb89cc9941&smart=true&width=768&height=576",
-   "enlace": "https://caracol.com.co/2026/10/25/en-vivo-once-caldas-vs-pereira-hoy-en-el-clasico-del-eje-cafetero-transmision-y-minuto-a-minuto/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-25T00:40:34Z",
-   "id": "515365e80d5e"
-  },
-  {
-   "titulo": "Bucaramanga instalará 80 cámaras que leen placas y más de 20 con reconocimiento facial",
-   "resumen": "Bucaramanga comenzó las obras para instalar 80 cámaras que leen placas en tiempo real y más de 20 dispositivos con reconocimiento facial. La inversión anunciada ronda los $10.000 millones.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/363MCU6OS5FJ3JHAWTB62PBXWI.jpg?auth=081f0cb13233d9ba48567474978d25e36c7de6084d0698f25e01cd9c0a3a4724&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/10/24/bucaramanga-instalara-80-camaras-que-leen-placas-y-mas-de-20-con-reconocimiento-facial/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-25T00:20:40Z",
-   "id": "6c495ede82dc"
-  },
-  {
-   "titulo": "Emergencias por lluvias en el Caribe: primeros balances de inundaciones y desbordamientos en varias ciudades; se esperan más precipitaciones",
-   "resumen": "La decisión se tomó con base en el más reciente reporte del Instituto de Hidrología, Meteorología y Estudios Ambientales.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/24/6add1c2fe9035.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/alcaldia-de-santa-marta-declara-alerta-roja-por-inundaciones-y-riesgo-de-crecientes-subitas-en-dos-rios-estas-son-las-recomendaciones-del-ideam-3596073",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-24T23:56:26Z",
-   "id": "ce4d65980cdf"
-  },
-  {
-   "titulo": "Falleció Sergio Rangel Consuegra, escritor y columnista santandereano",
-   "resumen": "El abogado fue decano encargado de Derecho en la UNAB, miembro de número de la Academia de Historia de Santander y fundador del viñedo Sierra Morena, en Zapatoca.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/NQBAG2UB5FGWLN6VVLWVTLL7KM.png?auth=40ef0993ef5e3380892a3a60dbe46bd5cf55969434a2e71fa30feb7b30892a9e&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/entretenimiento/cultura/magazin-cultural/2026/10/24/fallecio-sergio-rangel-consuegra-escritor-y-columnista-santandereano/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-24T23:28:54Z",
-   "id": "75b8821f53a9"
+   "fecha": "2026-10-25T00:30:00Z",
+   "id": "cda5c501afde"
   },
   {
    "titulo": "'Obras por impuestos' viabilizan mejoras en colegios públicos para beneficiar a 1.101 estudiantes en el municipio de Florida, Valle",
@@ -176,158 +341,15 @@
    "id": "9b0e6ac73cec"
   },
   {
-   "titulo": "Colapsó una edificación en Pereira pendiente de demolición este sábado: hallaron dos cuerpos sin vida entre los escombros",
-   "resumen": "La Alcaldía reiteró el llamado a la ciudadanía para que no ingrese ni permanezca en edificaciones declaradas en riesgo o con orden de demolición.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/24/6add2c2400068.r_d.622-542-0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/emergencia-en-pereira-colapso-una-edificacion-que-estaba-pendiente-de-demolicion-tras-el-terremoto-hallaron-dos-cuerpos-sin-vida-entre-los-escombros-3596082",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
+   "titulo": "Colpensiones otorgara bonos de hasta $217 millones para vivienda: Así pueden participar sus afiliados",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWDd0Z2lEWHZXdzRaejVyT3dOc2JQbXpwTEdXOVRmbVZHUllvWHdGU0E2Yl9UcV9JVHJkWXRMVjNLRnBKRjkwY3NSUnJSbEd3eTU1T2tGYVZzaGxKR1cwUGVYeDVrOVhsWWFzdFR6cGdJSUFVTEpwV1R3M1VSbW9rLXd2ZkQ5QjZWWnNyTGN5OVY3Z0ltQjdfVEpGc3BoZDJzaTRJVjhyNDBhTGtiM3YwYWNhcmxQeHlycXBObU4yRFRnN2tqSGJGOVdQZnQ0YlUwa2lHOQ?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
    "region": "Colombia",
-   "fecha": "2026-10-24T23:16:08Z",
-   "id": "81ea7aa6d967"
-  },
-  {
-   "titulo": "Cuatro exdirectoras advierten riesgos para la lectura y el patrimonio documental del país",
-   "resumen": "Cuatro firmantes cuestionan la suspensión de encuentros y proyectos itinerantes, además de las quejas por demoras en los pagos al personal.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/CRPZARD2WNCO7F6AJRG4ZECCXU.jpg?auth=b2315fd4814ea52e53dd1b1aa533816b3f30fe8f20dbed1a17dd85a2a8305593&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/colombia/2026/10/24/cuatro-exdirectoras-advierten-riesgos-para-la-lectura-y-el-patrimonio-documental-del-pais/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-24T23:04:06Z",
-   "id": "c2f0dd045481"
-  },
-  {
-   "titulo": "Emergencia en Cartagena por aguacero: crecen los reportes de carros arrastrados por arroyos, calles inundadas y trancones en varios sectores",
-   "resumen": "Los ciudadanos muestran vías anegadas y dificultades para movilizarse. Aún no hay un balance oficial de las afectaciones causadas por el aguacero.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/24/6add1217dd01b.r_d.1779-460-0.png",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/emergencia-en-cartagena-por-aguacero-crecen-los-reportes-de-carros-arrastrados-por-arroyos-calles-inundadas-y-trancones-en-varios-sectores-3596064",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-24T22:51:16Z",
-   "id": "e0eb966f9673"
-  },
-  {
-   "titulo": "Paisita 2: resultado del sorteo de hoy sábado 24 de octubre de 2026",
-   "resumen": "¿Ganó el Paisita 2? Consulte el número ganador de hoy sábado 24 de octubre de 2026 y revise si la suerte lo acompañó en el segundo sorteo de la jornada.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/7JF4V67L6VDPRDRM4IMOYOHV4Q.png?auth=21aec4f84d909ab70d7a89315f9a53c9fb3ed03bc966b29002b16aedf3edaf20&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/24/paisita-2-resultado-del-sorteo-de-hoy-sabado-24-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-24T22:50:00Z",
-   "id": "d6bbd68c6064"
-  },
-  {
-   "titulo": "Real Santander quedó eliminado del Torneo BetPlay, tras empatar en Bogotá con un jugador más",
-   "resumen": "Real Santander no pudo aprovechar jugar buena parte con un jugador más, empató con Bogotá FC y quedó eliminado del Torneo BetPlay.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/H7HNUCARRJB7PN5FSEWWVJR3CE.jpg?auth=a51ff142298ff55dc2f7360ac3804ef077d6c318510b7ee7abbbc9d92effd78d&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/deportes/futbol/2026/10/24/real-santander-quedo-eliminado-del-torneo-betplay-tras-empatar-en-bogota-con-un-jugador-mas/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-24T22:45:35Z",
-   "id": "75b5663841a2"
-  },
-  {
-   "titulo": "Santander: así avanza el inventario de fauna, flora y ecosistemas claves",
-   "resumen": "Desde las planicies de Girón y hasta el área de páramo en Vetas, las autoridades iniciaron un inventario sobre la fauna y flora de Santander, uno de los territorios que alberga y ‘esconde’ mayor biodiversidad en…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/6FOLRTEY3VCOLDKWLVWPQZPMQQ.jpg?auth=6af1bb57fad26e9d2667566b8148231086a48c6c4e7db726a66d451898921135&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/10/24/santander-asi-avanza-el-inventario-de-fauna-flora-y-ecosistemas-claves/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-24T22:40:50Z",
-   "id": "316124de393b"
-  },
-  {
-   "titulo": "Auto atraviesa ventanal de concesionaria en Buenos Aires: video captó el insólito accidente",
-   "resumen": "Un cliente perdió el control de un auto eléctrico en Buenos Aires, atravesó el ventanal de una concesionaria y chocó contra un puesto de diarios.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/DXZ7SUTDKRAMBBIFO7INWHX2UU.jpg?auth=8f39f7a73cf94ce7c2046f726d86fbfba5ce340fd3fd77cf675c7ed2ea6fd48d&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/mundo/2026/10/24/auto-atraviesa-ventanal-de-concesionaria-en-buenos-aires-video-capto-el-insolito-accidente/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-24T22:31:48Z",
-   "id": "24918cc63695"
-  },
-  {
-   "titulo": "Hermanas Guerrero enfrentan denuncia por presuntas irregularidades en Ministerio de Igualdad",
-   "resumen": "La Fiscalía deberá establecer si hubo decisiones sin respaldo legal en el fondo estatal y quiénes tuvieron responsabilidades en su funcionamiento.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/6JOF7PF2LRHH7MXIMYF63LTV4A.jpeg?auth=1ecbed89e448639968f2af8c4dfcab2259c95af554245b1ffa59125154babb9a&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/colombia/2026/10/24/hermanas-guerrero-enfrentan-denuncia-por-presuntas-irregularidades-en-ministerio-de-igualdad/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-24T22:31:21Z",
-   "id": "03901a92acd9"
-  },
-  {
-   "titulo": "“Podríamos hacer los 10K”: la historia de Isabelita y su padre en la Media Maratón de Bucaramanga",
-   "resumen": "En la Media Maratón de Bucaramanga FCV, Isabelita, de ocho años, compartió con su papá un desafío de seis kilómetros lleno de juegos, lluvia y emociones. Una historia de amor, disciplina y aprendizajes.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/IXV5CHWIWVAUNA63JYYUYWL2JI.jpg?auth=9d8abe8755c55c3bbf230831f7b0c2746398e2c82947e5bb0f6a18f7ccabfc43&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/deportes/otros-deportes/2026/10/24/podriamos-hacer-los-10k-la-historia-de-isabelita-y-su-padre-en-la-media-maraton-de-bucaramanga/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-24T22:24:50Z",
-   "id": "2eccfddd28b8"
-  },
-  {
-   "titulo": "Fiscalía investiga a Matador por publicaciones contra la primera dama Ana Lucía Pineda",
-   "resumen": "El caricaturista defendió sus comentarios sobre los recursos para las víctimas, mientras el Gobierno rechazó las expresiones dirigidas a la funcionaria.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/THUN72WR7JEU7L7I2ZFHCETKDE.jpg?auth=f44592ea60d11b6a6abc6f50c476d84319ffa6f8d6684a415794af14da7ad674&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/colombia/2026/10/24/fiscalia-investiga-a-matador-por-publicaciones-contra-la-primera-dama-ana-lucia-pineda/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-24T22:24:11Z",
-   "id": "a350b54bdaf5"
-  },
-  {
-   "titulo": "Brasil se alista para una reñida segunda vuelta entre Lula y Flávio Bolsonaro",
-   "resumen": "Las últimas encuestas muestran un empate entre Luiz Inácio Lula da Silva y Flávio Bolsonaro, en una contienda marcada por las tensiones políticas, las acusaciones cruzadas y la incertidumbre sobre el resultado.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/YVRMMEM7FRDT3E6LJARXKTCFOA.jpg?auth=192f013901ce205553b9822a6b11285393ad13e36278b0f56493f3cd3099eef4&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/mundo/2026/10/24/brasil-se-prepara-para-una-renida-segunda-vuelta-entre-lula-da-silva-y-flavio-bolsonaro/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-24T21:59:17Z",
-   "id": "930dc8a10e86"
-  },
-  {
-   "titulo": "Feria Inmobiliaria Vanguardia: proyectos, financiación y oportunidades en un solo lugar",
-   "resumen": "Este 24 y 25 de octubre, Neomundo será el punto de encuentro para quienes buscan vivienda propia o una oportunidad de inversión. La 22. ª Feria Inmobiliaria Vanguardia reunirá constructoras, entidades financieras y…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/DSJPARZT3NFQVPWQSO65752R4I.jpg?auth=1197babb7f18dffb4c9e9bb29f06400e537af015e1b6351f5a47981fc35463f3&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/contenido-especial/2026/10/23/feria-inmobiliaria-vanguardia-proyectos-financiacion-y-oportunidades-en-un-solo-lugar/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-24T21:58:18Z",
-   "id": "53b3a598017a"
-  },
-  {
-   "titulo": "Tránsito de Floridablanca requiere a taxistas por largas filas en puntos críticos de Cañaveral",
-   "resumen": "Un porcentaje de los trancones que se registran sobre la Autopista Floridablanca - Piedecuesta es atribuido a taxistas que se estacionan sobre dicha arteria. La Dirección de Tránsito Local puso en marcha una serie de…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/U6THPRZDN5ELLMNITU4KO4AME4.jpeg?auth=01fc37d9a1cea6b31c3112ed61e93a48b311096e9edd7803d5e8cb730aea81af&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/10/24/transito-de-floridablanca-requiere-a-taxistas-por-largas-filas-en-puntos-criticos-de-canaveral/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-24T21:57:14Z",
-   "id": "c4826ddf175c"
-  },
-  {
-   "titulo": "Trabajador murió aplastado por estructura metálica en Turquía: video captó el accidente",
-   "resumen": "Un trabajador de 24 años murió en una fábrica de Turquía tras quedar atrapado bajo una estructura metálica. Las autoridades detuvieron a tres personas.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/YHPBMRIITJCFBGID647FLWXM6M.jpg?auth=0bc748ad7a1137404a8e0d91d74eae21ff86d615d522e2a48ae2efefbbc79e00&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/mundo/2026/10/24/trabajador-murio-aplastado-por-estructura-metalica-en-turquia-video-capto-el-accidente/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-24T21:52:52Z",
-   "id": "a938a15e9ce2"
+   "fecha": "2026-10-24T23:04:29Z",
+   "id": "ddd42cbc8cdb"
   },
   {
    "titulo": "¿Cómo Medellín y el Gobierno, con el respaldo de Estados Unidos, combatirán estructuras criminales, narcotráfico y minería que alimentan la guerra?",
@@ -341,15 +363,15 @@
    "id": "fa3e34b0a8dc"
   },
   {
-   "titulo": "Inédito: falso retén policial terminó en el robo de $260 millones en lingotes de plata en Girón, Santander",
-   "resumen": "Seis hombres con prendas parecidas a las de la Policía y chaquetas del CTI de la Fiscalía participaron en el hurto. Esto se sabe.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/24/6add07d33fd3a.png",
-   "enlace": "https://www.eltiempo.com/colombia/santander/inedito-falso-reten-policial-termino-en-robo-de-260-millones-en-lingotes-de-plata-en-giron-3596056",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
+   "titulo": "Estos son los mejores colegios de Cali según el ranking Col-Sapiens 2026-2027",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQllVR2RUMDFFbnM2emJLSHg0TGNtSUk0TGNCWWY2anZoNENuOHlSVFFxRTl4YTVUY1daeks2SThQUVNqTWUzU1lYZ3lQTnhIb1dlM2JqaEpkejBKYldySThHdk1MQmpJZDJvbDlhZzdfemJDZ3FTLUtzSElXbXg5T25IY0gwU1l1X2RLMFhWd0xVakQzMTdUeHBqVW9DZldxQlp1Tmo2NTBUVVRYZ1l3VExHSE12ZVE?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
    "region": "Colombia",
-   "fecha": "2026-10-24T20:35:09Z",
-   "id": "8e8e43d3e0d3"
+   "fecha": "2026-10-24T21:02:23Z",
+   "id": "973f837c34a3"
   },
   {
    "titulo": "Lluvias en Cartagena provocan inundaciones y afectan el servicio de agua al 15 % de los usuarios por daños eléctricos en el sistema de acueducto",
@@ -363,15 +385,26 @@
    "id": "5fc411e3a395"
   },
   {
-   "titulo": "Roban lingotes de plata avaluados en más de $260 millones en Santander",
-   "resumen": "Un millonario robo se registró en la vía que comunica a Girón con el aeropuerto internacional Palonegro, en Santander, donde varios delincuentes habrían utilizado prendas similares a las de la Policía Nacional y del…",
-   "imagen": "https://caracol.com.co/resizer/v2/BD3D36FJGZHCZNI3MUKDBND46A.jpeg?auth=3c7c34ae04d29e070587814ee0ce8b1409bebf4186b6a3654be2842d2418134f&smart=true&width=1024&height=576",
-   "enlace": "https://caracol.com.co/2026/10/24/falso-reten-policial-roban-lingotes-de-plata-avaluados-en-mas-de-260-millones-en-santander/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
+   "titulo": "Cortes de agua en Medellín y Bello este domingo 25 de octubre del 2026: Barrios afectados y horarios",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUnFqaTVSdFBadHhfc0pUeG4xdHVIQk1CWUk2UlJINmo3NzZRdEFzMWxqc1BrckxicjJWWUJfTHZKcHIwT2sxaDdEVWp0MTRGd0UwelFCSXBURlpQNHBpM0hJbkR5SXFlakRyOVRfV1VWekRzQXQ4WHNOS0xvVFY1YmtDV3NBRzhoVjZVbkxxZ2FDSlc2TTVYRXlINF9rZTVEcW9VR0lxUkxNenFsbERheHBCdTZzNnNic3c0MjBPTnhPZWF6akY3QzFsQjByUGN0aGRnNg?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
    "region": "Colombia",
-   "fecha": "2026-10-24T19:53:43Z",
-   "id": "f179222b6a0e"
+   "fecha": "2026-10-24T14:04:05Z",
+   "id": "9bf9ac7b9d81"
+  },
+  {
+   "titulo": "RCN Radio",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoQnBuYUR5WW5mQlNVVHdqYXY4TjdULU5TX3YzWHdqTmRRSXJXS0RzZHVzZnd1b1BsZG1lRkV6UFp0Yl9ZNXAybUJxRGtHdmdFLWx1VllKMmNIdw?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-10-24T14:03:32Z",
+   "id": "480277a57d6e"
   },
   {
    "titulo": "Player Page",
@@ -385,37 +418,48 @@
    "id": "e66bf6683d4a"
   },
   {
-   "titulo": "Tabla de posiciones de la Liga Colombiana: así quedó con la victoria del América de Cali",
+   "titulo": "Programación Hip Hop al Parque 2026 en Bogotá: Horarios y artistas",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZzRUa3FmdGJJSXNHWjZWbFM5RjQtd21ZcFFsZzkyR3JzcUVsdEJ2WjZOaHNLb1FzRjVZYW1aU0l4ZVI5MFJDNkVwbzd4WXNhRUd4NUdNR1RabmVFUVI3WXJMNWRrYnFKVXJKenluZ3pkaG9KNDlwaVNIUVZjbUw3SERqTnJ1MzlrcmNiV3poZ2s1UkRNMHp5bjRTOS12Tkx6eWdpVGw5VQ?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-10-24T12:05:54Z",
+   "id": "6e45865b57fb"
+  },
+  {
+   "titulo": "Tabla del descenso en Colombia: Chicó se toma un respiro con la caída del Cúcuta a manos del América",
+   "resumen": "Comenzó la jornada 16 de la Liga Colombiana 2026-2 . Además de la lucha que hoy por clasificarse a los cuadrangulares de fin de año, otros equipos pelean activamente por mantenerse en primera división de cara a la…",
+   "imagen": "https://caracol.com.co/resizer/v2/5BKLZ7JHJFGMDL4EAASOOOXA5U.jpg?auth=501a17138020d98e001b255c6f03b3750abb6ea2a374ed0c8f465886d795009b&smart=true&width=6000&height=4286",
+   "enlace": "https://caracol.com.co/2026/10/24/tabla-del-descenso-en-colombia-asi-quedo-el-chico-tras-su-sorpresiva-victoria-frente-al-bucaramanga/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-24T03:07:01Z",
+   "id": "aa52261e0a23"
+  },
+  {
+   "titulo": "Tabla de posiciones de la Liga Colombiana: así quedó tras empate de Once Caldas y triunfo de América",
    "resumen": "La jornada 16 de la Liga Colombiana 2026-2 comenzó el viernes 23 de octubre con el partido Boyacá Chicó vs Atlético Bucaramanga y se extenderá hasta el lunes 26 de octubre con el compromiso Jaguares vs Llaneros . Es…",
-   "imagen": "https://caracol.com.co/resizer/v2/TWH7IUZH75GRZDE7BZBAWH6DP4.jpeg?auth=4810a2a7168410d3d79ea7a2b9112f7d87012fb0bd013a76c3453e59db812b61&smart=true&width=1280&height=866",
+   "imagen": "https://caracol.com.co/resizer/v2/MYIX2HSER5AXLHXY6UFEAIKKUI.jpeg?auth=e6a73cc9deadeb36dde84388a4a7b0419e749971c1fd52c4a8fa63a979386e9c&smart=true&width=1280&height=854",
    "enlace": "https://caracol.com.co/2026/10/24/tabla-de-posiciones-de-la-liga-colombiana-asi-quedo-con-los-triunfos-de-chico-y-junior/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
    "fecha": "2026-10-24T03:06:41Z",
-   "id": "590bc5776a54"
+   "id": "4512ac01dea7"
   },
   {
-   "titulo": "Carlos Antonio Vélez y sus Palabras Mayores del 23 de octubre del 2026",
+   "titulo": "Cayó tras dos meses prófugo el señalado de matar a un agricultor con una guadañadora",
    "resumen": "",
    "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMG1LUUJOZ2wyQmtCdlRzNkt4UUV5UTA3TEVicS1xRW9OVVVUTjJ2U1JqaTA2U1NzQjZFLVUtSlQtQnl3ZlFzVWNrUW1abGZacGkybGo3S3VGZzFIc09qMnlWekNhR2dEbS1aWDVYMXdOdE03TkVZOWJqSm9yY1hIS0RBejNXZXpZaFFuNlpEVTN2MWgzNFIwTG9xVVdGLV9SOEpVQVEzQUVoeEVNc0t6LW53c0ttUUdkUG9FTGVGSlNHaU0?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-10-24T01:34:50Z",
-   "id": "f00bad0b5332"
-  },
-  {
-   "titulo": "Noticias Deportes RCN (23 de octubre de 2026)",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMXJwTmlFbmk5MGU1Y0JOWTd5ajFWTnk4LXVBOGd3cVFzTkxpNzNwb1JubDhTS2ZzNDNVdm13ZDF5UV85T1BPMjNfbWhYQlpBbEV6SnFWX2tHQWJZMmxqR2ZmS0RITnA5YkpsSDJ3VmtGbmNPenRKcW13Q01kUjNVQ2Y5MnRHSTVtSER1SHhVendDeVZ5TFQ5WFNheTRNcjcwaG5SZGpocUlXN0Jwek5j?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-10-24T01:25:51Z",
-   "id": "727626e62bc6"
+   "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM1Ntc2xqOWpaYl84Z21UU09KRVhzUFAySURLTGp2TUQ5blpwa1dXcHNzVVZocDZZbVg2MUVSQ0xfOW1uZ2FSZTZOaFkweDJiNUlvdXItdEcwbGx0SHB6d09pckVhZC1QdG9NOVFBNHkxNVF4Y2dVMncxOGRNcTFhajllREdQX0pUVXVlemF3dWZCVEFfOGEtU2dRX3VzMVN6cW4zcm5nWjRINUZiRlE?oc=5",
+   "medio": "El Frente",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-10-23T21:17:55Z",
+   "id": "b0ebb69d0a9f"
   },
   {
    "titulo": "Fiscalía acusa a exgobernador de Santander Mauricio Aguilar por contrato de colegio en Suaita",
@@ -493,17 +537,6 @@
    "region": "Santander",
    "fecha": "2026-10-23T02:05:47Z",
    "id": "9083e0ab4e91"
-  },
-  {
-   "titulo": "Acusan a exgobernador de Santander por contrato irregular en construcción de colegio",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaTYySW5yaXRMQ3RYVTNNUHlNRVdLdDQzTzJuUDVvOExjZkxmRW1EWWRuLUFiYmdnb3RiQWpfVFZJZHo5dmNNREJqelk4ZThKR0dPWkgtajBZWmVUZlNwcEpVYTFJSWh1bm1wSnR0Q0hrR1hWWGp4c185amFyUnd2REh5NUNoMEw3REhWX2tPRnQwcHVJRllhZ205QXB6M3JaN1JLbnZxbmp5dmV3QWh1ZUJPY1NCamVlSlVGbTJWSEtNSnJRaHVqa0RORmdzVHhHa3dxb9IB1AFBVV95cUxNaTYySW5yaXRMQ3RYVTNNUHlNRVdLdDQzTzJuUDVvOExjZkxmRW1EWWRuLUFiYmdnb3RiQWpfVFZJZHo5dmNNREJqelk4ZThKR0dPWkgtajBZWmVUZlNwcEpVYTFJSWh1bm1wSnR0Q0hrR1hWWGp4c185amFyUnd2REh5NUNoMEw3REhWX2tPRnQwcHVJRllhZ205QXB6M3JaN1JLbnZxbmp5dmV3QWh1ZUJPY1NCamVlSlVGbTJWSEtNSnJRaHVqa0RORmdzVHhHa3dxbw?oc=5",
-   "medio": "El Espectador",
-   "fuente": "provincia",
-   "region": "Santander",
-   "fecha": "2026-10-23T00:49:21Z",
-   "id": "6e8b60cc1f9a"
   },
   {
    "titulo": "Así es el ‘pueblito pesebre de Colombia’: colorido rincón de calles empedradas y una dulce ruta de la miel",
