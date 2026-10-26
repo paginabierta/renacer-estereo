@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-26T06:14:30Z",
+ "actualizado": "2026-10-26T13:10:19Z",
  "fuentes": [
   {
    "id": "vanguardia",
@@ -44,6 +44,237 @@
  ],
  "noticias": [
   {
+   "titulo": "Protestas por el alza del predial bloquean la vía entre Bucaramanga y Cúcuta: lo que debe saber",
+   "resumen": "Los manifestantes rechazan los incrementos del avalúo catastral y anunciaron que el paso permanecería restringido hasta las 6:00 p. m.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/Q7ZDWLLITRGMXPMUUGKZLCMWQU.png?auth=9c31c3b565b3bba04106cc93cf85234906f34a4264675ed62e520b4f231b284a&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/area-metropolitana/2026/10/26/protestas-por-el-alza-del-predial-bloquean-la-via-entre-bucaramanga-y-cucuta-lo-que-debe-saber/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-26T13:07:21Z",
+   "id": "468019b8d1dc"
+  },
+  {
+   "titulo": "Se hacían pasar por delincuentes para extorsionar a su vecino en Pereira: exigían $2 millones",
+   "resumen": "Dos hombres conocidos con los alias de ‘Cris’ y ‘Juanchis’ fueron capturados en Pereira cuando, presuntamente, se disponían a recibir dos millones de pesos producto de una extorsión. Lo que llama la atención del caso es…",
+   "imagen": "https://caracol.com.co/resizer/v2/SYBYW6PGXZDYXF26AE3OUDP2NI.jpeg?auth=5153322fc90c0c20d1f8679e7009ff756d5e932bc92d1899741024a5591a7e6d&smart=true&width=1137&height=768",
+   "enlace": "https://caracol.com.co/2026/10/26/se-hacian-pasar-por-delincuentes-para-extorsionar-a-su-vecino-en-pereira-exigian-2-millones/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-26T13:06:22Z",
+   "id": "f6a539c007fb"
+  },
+  {
+   "titulo": "Ofensiva contra el robo de carros en Bogotá: seis capturados y dos automotores recuperados",
+   "resumen": "Uniformados de la Policía Metropolitana Bogotá lograron la captura de seis personas en dos procedimientos adelantados en las localidades de Fontibón y Barrios Unidos. En Fontibón, cinco personas fueron capturadas por…",
+   "imagen": "https://caracol.com.co/resizer/v2/JPSC5K2CSZAYNJ6QVKK3MOL6RY.jpg?auth=8da26248c848281f38f6d39f1f5c808497d7460a4295fb90979c2a05b96f39e1&smart=true&width=1280&height=712",
+   "enlace": "https://caracol.com.co/2026/10/26/ofensiva-contra-el-robo-de-carros-en-bogota-seis-capturados-y-dos-automotores-recuperados/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-26T13:05:57Z",
+   "id": "6466a245b5a6"
+  },
+  {
+   "titulo": "Consternación al sur del Tolima por el asesinato de dos personas y la desaparición de otras cinco",
+   "resumen": "Hay consternación en el sur del departamento del Tolima por el asesinato de dos personas y la desaparición de cinco personas más. El caso se registró en el municipio de Ataco. La Alcaldía informó a través de un…",
+   "imagen": "https://caracol.com.co/resizer/v2/4VKACWWJ7JHVJO6Z5XL3LRCVYY.jpeg?auth=706de5b125d8b6a9b34e47f65e8048dccb8133acb8d03dd0584201d4600e58f8&smart=true&width=811&height=540",
+   "enlace": "https://caracol.com.co/2026/10/26/consternacion-al-sur-del-tolima-por-el-asesinato-de-dos-personas-y-la-desaparicion-de-otras-cinco/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-26T13:03:28Z",
+   "id": "7aa5c617df5f"
+  },
+  {
+   "titulo": "Radiografía de Jamundí con corredores estratégicos para la droga y las invasiones de tierra por parte de disidentes: medidas por alerta de Defensoría",
+   "resumen": "El Ministerio del Interior convocó de urgencia la sesión plenaria de comisión en respuesta a la alerta temprana N° 023 de la Defensoría del Pueblo.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/22/6ab2d201aab37.r_d.189-116-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/cali/radiografia-de-jamundi-con-corredores-estrategicos-para-la-droga-y-las-invasiones-de-tierra-por-parte-de-disidentes-medidas-por-alerta-de-defensoria-3596295",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-26T13:03:28Z",
+   "id": "7e19f9d8ffc2"
+  },
+  {
+   "titulo": "No aparecen $13 mil millones de anticipo de contrato para la planta Francisco Weisner en Bogotá",
+   "resumen": "La Contraloría de Bogotá imputó cargos de responsabilidad fiscal por más de $13.320 millones contra tres empresas contratistas, a título de culpa grave, por irregularidades relacionadas con los contratos para ampliar…",
+   "imagen": "https://caracol.com.co/resizer/v2/GKK5SFG5ZZGPLC7XTWOMFVDM3M.jpg?auth=ec1ad0ea57ec955321f10ed9fc644644f435438c27d5d3180466cae2a7523456&smart=true&width=2000&height=1500",
+   "enlace": "https://caracol.com.co/2026/10/26/no-aparecen-13-mil-millones-de-anticipo-de-contrato-para-la-planta-francisco-weisner-en-bogota/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-26T12:59:55Z",
+   "id": "c64b2c50c3c7"
+  },
+  {
+   "titulo": "Turista vino del Valle a pasar vacaciones en Santa Marta y murió embestido por una lancha mientras hacía careteo; esto es lo que se sabe",
+   "resumen": "El hombre de 58 años fue impactado por una embarcación que remolca inflables turísticos en Cabo Tortuga.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/26/6adf4b59a2f56.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/turista-vino-del-valle-a-pasar-vacaciones-en-santa-marta-y-murio-embestido-por-una-lancha-mientras-hacia-careteo-esto-es-lo-que-se-sabe-3596293",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-26T12:49:48Z",
+   "id": "d355fad83442"
+  },
+  {
+   "titulo": "Hijo de Poncho Zuleta, Kbeto Zuleta, sufrió grave accidente en Magdalena: dos de sus músicos murieron",
+   "resumen": "El siniestro ocurrió en la madrugada de este lunes, cuando el bus transitaba por la vía que comunica a El Difícil con Bosconia.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/26/6adf4be7a3bf9.png",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/hijo-de-poncho-zuleta-sufrio-grave-accidente-en-magdalena-dos-de-sus-musicos-murieron-3596288",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-26T12:49:05Z",
+   "id": "1b7efd04d1c0"
+  },
+  {
+   "titulo": "Gobierno revela hallazgos de presunta corrupción en contratación del SENA Córdoba",
+   "resumen": "Este domingo el presidente Abelardo de la Espriella denunció presuntas irregularidades en la contratación del Servicio Nacional de Aprendizaje , ( SENA ), en la regional Córdoba . De acuerdo con el informe preliminar de…",
+   "imagen": "https://caracol.com.co/resizer/v2/K5JYSIOCGBCZHIL32DGUPA5KLQ.jpg?auth=a0b6abca29d6aa4d5d1440a1bc76d9ff7ff033476ecca5acab013cd3dd79f41d&smart=true&width=1920&height=1080",
+   "enlace": "https://caracol.com.co/2026/10/26/gobierno-revela-hallazgos-de-presunta-corrupcion-en-contratacion-del-sena-cordoba/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-26T12:35:53Z",
+   "id": "dd895a6913ca"
+  },
+  {
+   "titulo": "De La Espriella reconoce triunfo de Lula y plantea trabajar con Brasil pese a diferencias",
+   "resumen": "El presidente reconoció la victoria de Lula, pese a haber apoyado a Flávio Bolsonaro, y destacó la importancia de mantener la cooperación entre ambos países.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/2M4TZLF2GRF7DO5LRZNBQOC6HU.png?auth=033011e6431508c95ee67ba82a43de83b4d5572b629333b085e37d7d86bcf30b&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/mundo/2026/10/26/de-la-espriella-reconoce-triunfo-de-lula-y-plantea-trabajar-con-brasil-pese-a-diferencias/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-26T12:29:11Z",
+   "id": "8da56713c66e"
+  },
+  {
+   "titulo": "A la cárcel coronel en retiro implicado en el horrendo crimen de dos hermanas en Antioquia en 2003",
+   "resumen": "La Fiscalía reveló que el exoficial es señalado de secuestro, tortura, abuso y desaparición de dos jóvenes en Granada hace dos décadas.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/26/6adf46a54df17.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/a-la-carcel-coronel-en-retiro-implicado-en-el-horrendo-crimen-de-dos-hermanas-en-antioquia-en-3596289",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-26T12:29:08Z",
+   "id": "ccba2566f090"
+  },
+  {
+   "titulo": "Desconcierto en Perú: Colombia cambia embajadora que ya había recibido beneplácito",
+   "resumen": "La diplomacia peruana es una de las más respetadas del continente. La inestabilidad política del vecino país no ha afectado ese reconocimiento al Ministerio de Relaciones Exteriores del Perú, que suele compararse en…",
+   "imagen": "https://caracol.com.co/resizer/v2/DP7V3HJSJZASTL27EHAH7CF7SA.jpeg?auth=4884e1c4b765e68c643fedb95b220dec0e7df110edbbea8588c49405e138287e&smart=true&width=768&height=576",
+   "enlace": "https://caracol.com.co/2026/10/26/desconcierto-en-peru-colombia-cambia-embajadora-que-ya-habia-recibido-beneplacito/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-26T12:25:03Z",
+   "id": "c37c6a03c823"
+  },
+  {
+   "titulo": "Tragedia en el vallenato: bus de Kbeto Zuleta, hijo de poncho Zuleta, cayó al río Ariguaní y dejó dos muertos",
+   "resumen": "Entre los lesionados está el sonidista Diomar Torrado; investigan las causas del siniestro.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/OG2XFBGNLJCF7C3QAZ5DYPI6DY.png?auth=e1aefe69e5fe38e398eae6321f1557dd673199c62355d59aedee5cdca7effac9&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/colombia/2026/10/26/tragedia-en-el-vallenato-bus-de-kbeto-zuleta-hijo-de-poncho-zuleta-cayo-al-rio-ariguani-y-dejo-dos-muertos/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-26T12:21:55Z",
+   "id": "61bae419fe32"
+  },
+  {
+   "titulo": "Mientras buscaban a dos niños desaparecidos, encontraron el cuerpo de su mamá en el patio de su casa en Arauca: su pareja fue capturada",
+   "resumen": "La víctima presentaba lesiones en la cabeza y signos de sujeción; la causa de muerte fue asfixia mecánica por estrangulamiento.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/26/6adf42c4dbb4c.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/mientras-buscaban-a-dos-ninos-desaparecidos-encontraron-el-cuerpo-de-su-mama-en-el-patio-de-su-casa-en-arauca-su-pareja-fue-capturada-3596267",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-26T12:17:01Z",
+   "id": "9022835b6cdf"
+  },
+  {
+   "titulo": "Tragedia en Cesar: bus de la agrupación de Kbeto Zuleta, hijo de Poncho Zuleta, cayó al río Ariguaní; reportan dos muertos y 21 heridos",
+   "resumen": "Los lesionados fueron trasladados a centros médicos de Bosconia, varios en estado crítico.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/26/6adf47b590f45.png",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/tragedia-en-cesar-bus-de-la-agrupacion-vallenata-de-kbeto-zuleta-cayo-de-un-puente-al-rio-ariguani-reportan-dos-muertos-y-21-heridos-3596279",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-26T12:15:18Z",
+   "id": "25cae4fb6364"
+  },
+  {
+   "titulo": "Lula da Silva: la historia del líder sindical que logró una remontada histórica y seguirá al frente de Brasil",
+   "resumen": "El líder del Partido de los Trabajadores venció a Flávio Bolsonaro en la segunda vuelta presidencial y se prepara para un cuarto mandato.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/A6BBM37RGNCUBFMG367PTSZV4U.jpg?auth=c1d8c5c58e37dfaa78496ce7797bd17e4d7e26686878dc24556b2aefc12c3258&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/mundo/2026/10/25/lula-da-silva-la-historia-del-lider-sindical-que-logro-una-remontada-historica-y-seguira-al-frente-de-brasil/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-26T12:05:38Z",
+   "id": "8b105967c8af"
+  },
+  {
+   "titulo": "“Jamás he entregado un contrato a cambio de relaciones sexuales”: Petro responde a señalamientos",
+   "resumen": "El expresidente Gustavo Petro publicó un comunicado en el que rechazó las acusaciones relacionadas con su vida privada y cuestionó los intentos de indagar sobre su intimidad.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/LQOCDBSLPRBKTOIFRTOUGPR25Q.png?auth=76450020c772d669ffd5cb592cea6d21a569ba34ee381e53d42244d7973f39d4&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/colombia/2026/10/26/jamas-he-entregado-un-contrato-a-cambio-de-obtener-relaciones-sexuales-petro-responde-a-senalamientos/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-26T11:50:03Z",
+   "id": "9731750e05d7"
+  },
+  {
+   "titulo": "Murió el cardenal Paolo Romeo, arzobispo emérito de Palermo",
+   "resumen": "Este lunes 25 de octubre, se confirmó el fallecimiento del cardenal Paolo Romeo, arzobispo emérito de Palermo, a los 88 años. Su muerte se produjo, según informa un comunicado de la archidiócesis de Palermo , en el…",
+   "imagen": "https://caracol.com.co/resizer/v2/FMZLWIF7ZJFOTOE7TNOVN6N2LU.jpeg?auth=5cd8573e0098aa9265f20697944695aa536d36837c354e2c0f793ba306477e22&smart=true&width=750&height=421",
+   "enlace": "https://caracol.com.co/2026/10/26/murio-el-cardenal-paolo-romeo-arzobispo-emerito-de-palermo/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-26T11:45:51Z",
+   "id": "f7bc5faa4b14"
+  },
+  {
+   "titulo": "Fenómeno de El Niño: Gobierno anuncia campaña para ahorrar agua, luz y gas",
+   "resumen": "El mandatario anunció una campaña de ahorro ante el fenómeno de El Niño y se refirió a las finanzas públicas, los pagos de Colombia Mayor y los recursos para la reconstrucción de viviendas afectadas por el terremoto.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/MJ67NRMKNZDTRBQHKNLQPMDUXI.jpg?auth=8226ea708f7f67985f2f3ee52bd8c9db7be433d9fe39f83cd3c85c86a86a2896&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/colombia/2026/10/26/fenomeno-de-el-nino-gobierno-anuncia-campana-para-ahorrar-agua-luz-y-gas/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-26T11:34:12Z",
+   "id": "31c72f5d9fe8"
+  },
+  {
+   "titulo": "Andrea Petro denuncia un plan para destruir a su padre: “da la impresión de que está orquestado”",
+   "resumen": "En entrevista con 6AM W de Caracol Radio, Andrea Petro, hija del expresidente Gustavo Petro , defendió a su padre frente a los recientes señalamientos que vinculan la vida íntima del exmandatario con la supuesta…",
+   "imagen": "https://caracol.com.co/resizer/v2/WROF75ARANC6TETECHGI72IBGI.jpeg?auth=4251943e089812a918ed81f1ca52b536760eb7229c400c625ebb8a79b3d24004&smart=true&width=1200&height=630",
+   "enlace": "https://caracol.com.co/2026/10/26/andrea-petro-pidio-investigar-contrataciones-de-su-padre-da-la-impresion-de-que-esta-orquestado/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-26T11:32:29Z",
+   "id": "38c835695d67"
+  },
+  {
+   "titulo": "¿Cómo las disidencias convirtieron el robo de motocicletas en su fuente de repuestos y reclutamiento en el suroccidente del país?",
+   "resumen": "Una alianza criminal en la vía Panamericana, entre Cauca y Nariño, deja el alarmante saldo de 538 motos nuevas hurtadas en camiones de carga.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/25/6ade9db4cbbde.r_d.631-152-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/cali/como-las-disidencias-convirtieron-el-robo-de-motocicletas-en-su-fuente-de-repuestos-y-reclutamiento-en-el-suroccidente-del-pais-3596228",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-26T11:01:00Z",
+   "id": "c3a5ac51e507"
+  },
+  {
    "titulo": "Urge recuperar el bosque y el agua de Lebrija",
    "resumen": "La destrucción del bosque en terrenos baldíos en el área metropolitana es un hecho grave que se ha presentado por años sin que las autoridades hayan logrado contenerlo. El caso más reciente, que denunció Vanguardia en…",
    "imagen": "https://www.vanguardia.com/resizer/v2/Y77HSAMVDRGCBAKRMUB7GJBV6Y.jpg?auth=9fda64626f20c1611bc18d55707d029290a765be2ce035a22502a229ab61e783&smart=true&width=900&height=600",
@@ -53,39 +284,6 @@
    "region": "Santander",
    "fecha": "2026-10-26T06:00:00Z",
    "id": "1378b37b0c04"
-  },
-  {
-   "titulo": "El ajedrez silencioso del crimen de Uribe",
-   "resumen": "Como Hércules Poirot, hay que preguntarse por la conveniencia del crimen de Miguel Uribe Turbay; pero la violencia en Colombia no acostumbra resolverse con deducciones de salón ni con la paciencia deductiva del sabueso…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/53H5VP6KVZC4NPKWGY7IQ6U35E.jpg?auth=45afcab67d63e50b995fd3b5c6043bf1a64a3e0f02ae27cdb36d63db959f575f&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/26/el-ajedrez-silencioso-del-crimen-de-uribe/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-26T06:00:00Z",
-   "id": "fe710d853826"
-  },
-  {
-   "titulo": "Casa sin cuota inicial",
-   "resumen": "Caricatura de Yeyo del XX de XXX de 2026",
-   "imagen": "https://www.vanguardia.com/resizer/v2/JPHCXUZKKZAXDP334II3H4PCBU.jpg?auth=2585fb4606db6e614b8881c8238e28104e053238f8506612cc82267a2124e65d&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/opinion/caricaturas/2026/10/26/casa-sin-cuota-inicial/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-26T06:00:00Z",
-   "id": "3dfd5ee88334"
-  },
-  {
-   "titulo": "Dudamel, orgullo latinoamericano",
-   "resumen": "En Barquisimeto, Venezuela, un niño que quería tocar el trombón, como su padre, recibió a cambio un violín que se adaptaba mejor a sus brazos. Era Gustavo Dudamel, el director venezolano que el 30 de septiembre asumió…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/B6SGQB2KCBH5JMWMJG45KXRXEI.jpg?auth=712f70d6c216c62309dfa160972fcb2093d25f36164abf856a5613c12f7a7959&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/26/dudamel-orgullo-latinoamericano/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-26T06:00:00Z",
-   "id": "0539d11acd0f"
   },
   {
    "titulo": "Brigadas de arborización y aseo",
@@ -121,9 +319,42 @@
    "id": "a2dc4239a50a"
   },
   {
+   "titulo": "Dudamel, orgullo latinoamericano",
+   "resumen": "En Barquisimeto, Venezuela, un niño que quería tocar el trombón, como su padre, recibió a cambio un violín que se adaptaba mejor a sus brazos. Era Gustavo Dudamel, el director venezolano que el 30 de septiembre asumió…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/B6SGQB2KCBH5JMWMJG45KXRXEI.jpg?auth=712f70d6c216c62309dfa160972fcb2093d25f36164abf856a5613c12f7a7959&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/26/dudamel-orgullo-latinoamericano/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-26T06:00:00Z",
+   "id": "0539d11acd0f"
+  },
+  {
+   "titulo": "El ajedrez silencioso del crimen de Uribe",
+   "resumen": "Como Hércules Poirot, hay que preguntarse por la conveniencia del crimen de Miguel Uribe Turbay; pero la violencia en Colombia no acostumbra resolverse con deducciones de salón ni con la paciencia deductiva del sabueso…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/53H5VP6KVZC4NPKWGY7IQ6U35E.jpg?auth=45afcab67d63e50b995fd3b5c6043bf1a64a3e0f02ae27cdb36d63db959f575f&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/26/el-ajedrez-silencioso-del-crimen-de-uribe/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-26T06:00:00Z",
+   "id": "fe710d853826"
+  },
+  {
+   "titulo": "Casa sin cuota inicial",
+   "resumen": "Caricatura de Yeyo del XX de XXX de 2026",
+   "imagen": "https://www.vanguardia.com/resizer/v2/JPHCXUZKKZAXDP334II3H4PCBU.jpg?auth=2585fb4606db6e614b8881c8238e28104e053238f8506612cc82267a2124e65d&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/caricaturas/2026/10/26/casa-sin-cuota-inicial/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-26T06:00:00Z",
+   "id": "3dfd5ee88334"
+  },
+  {
    "titulo": "Fuerte temblor en Colombia | SGC reportó nuevo sismo en Chocó en la noche de este domingo 25 de octubre: profundidad, epicentro y detalles",
    "resumen": "La entidad entregó información oficial sobre el movimiento registrado en el territorio nacional.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/26/6adee13f9e3af.png",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/26/6adee13f9e3af.r_d.136-130-0.png",
    "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/fuerte-temblor-en-colombia-reportan-nuevo-sismo-en-choco-en-la-noche-de-este-domingo-25-de-octubre-profundidad-epicentro-y-detalles-3596257",
    "medio": "El Tiempo",
    "fuente": "eltiempo",
@@ -143,103 +374,15 @@
    "id": "679aa202090b"
   },
   {
-   "titulo": "La Corte Electoral de Brasil critica la extensión del horario de votación",
-   "resumen": "El presidente del Tribunal Superior Electoral (TSE) de Brasil, Kassio Nunes Marques, criticó la decisión judicial de última hora que ordenó extender el horario de votación y advirtió que la medida generó «dificultades»…",
-   "imagen": "https://caracol.com.co/resizer/v2/EG5NMOTKUZCLLIRRGUHYWA6AU4.jpg?auth=4c067e186d4c5615c66fd7cdfc5e65472146533d3767f626d51a8bfcaf8c0f0b&smart=true&width=1024&height=682",
-   "enlace": "https://caracol.com.co/2026/10/26/la-corte-electoral-de-brasil-critica-la-extension-del-horario-de-votacion/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-26T04:49:42Z",
-   "id": "4f4052226798"
-  },
-  {
-   "titulo": "Una multitud recibe a María Corina Machado en su regreso a Venezuela",
-   "resumen": "Caracas, 25 oct (EFE).- La líder opositora y premio nobel de la paz de 2025, María Corina Machado, regresó este domingo a Venezuela tras varios intentos frustrados de ingresar a su país, donde fue recibida por miles de…",
-   "imagen": "https://caracol.com.co/resizer/v2/JV3LJKBLW5GABIJIJ6JOT5NZEE.jpg?auth=73c54232d945f6f13b6a173c67347ba8e89a22bb48d4eb0cc12bb2d30dc0c48c&smart=true&width=4934&height=3294",
-   "enlace": "https://caracol.com.co/2026/10/26/una-multitud-recibe-a-maria-corina-machado-en-su-regreso-a-venezuela/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-26T04:40:35Z",
-   "id": "ab585c7bd63a"
-  },
-  {
-   "titulo": "Lula: Brasil ‘no acepta ser el patio trasero de nadie’",
-   "resumen": "El presidente reelecto de Brasil, Luiz Inácio Lula da Silva, afirmó este domingo que Brasil no acepta ser el patio trasero de nadie en su discurso tras haber vencido al ultraderechista Flávio Bolsonaro en segunda vuelta…",
-   "imagen": "https://caracol.com.co/resizer/v2/BZXUP456QNHO3OGIARAJGSAE74.jpeg?auth=0c76a7ab4f3faa0f2bff7729415f7b28d31c4a80f31102a3686df448c49598b0&smart=true&width=1080&height=734",
-   "enlace": "https://caracol.com.co/2026/10/26/lula-brasil-no-acepta-ser-el-patio-trasero-de-nadie/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-26T04:29:30Z",
-   "id": "2b4264db1273"
-  },
-  {
-   "titulo": "¿Cómo las disidencias convirtieron el robo de motocicletas en su fuente de repuestos y reclutamiento en el suroccidente del país?",
-   "resumen": "Una alianza criminal en la vía Panamericana, entre Cauca y Nariño, deja el alarmante saldo de 538 motos nuevas hurtadas en camiones de carga.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/25/6ade9db4cbbde.r_d.631-152-0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/como-las-disidencias-convirtieron-el-robo-de-motocicletas-en-su-fuente-de-repuestos-y-reclutamiento-en-el-suroccidente-del-pais-3596228",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-26T04:23:10Z",
-   "id": "c3a5ac51e507"
-  },
-  {
-   "titulo": "Mineros tradicionales de Socha protestarán por temor al cierre de 50 minas de carbón",
-   "resumen": "Los mineros tradicionales de carbón de Socha anunciaron una manifestación pacífica para este lunes 26 de octubre en el parque principal del municipio, con el propósito de solicitar al Gobierno nacional y al Ministerio…",
-   "imagen": "https://caracol.com.co/resizer/v2/M7MXSB2TWBHMXP3OSGGPBQZ4PE.jpeg?auth=127f096ddbbc683a3dd4a73ec00cae222cddbd976df3729ca7bcd1095d639a79&smart=true&width=1600&height=1131",
-   "enlace": "https://caracol.com.co/2026/10/26/mineros-tradicionales-de-socha-protestaran-por-temor-al-cierre-de-50-minas-de-carbon/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-26T03:49:17Z",
-   "id": "5cf5295851a9"
-  },
-  {
-   "titulo": "Así protegerá Cartagena a sus corales de Varadero, el secreto mejor guardado de la ciencia en el Caribe",
-   "resumen": "Frente al fenómeno de El Niño, estos corales serán el termómetro para entender el impacto sobre la vida marina en el cinturón ecuatorial del planeta.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/16/6ad2b773a4992.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/asi-protegera-cartagena-a-sus-corales-de-varadero-el-secreto-mejor-guardado-de-la-ciencia-en-el-caribe-3594180",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-26T03:40:00Z",
-   "id": "336f0503732c"
-  },
-  {
-   "titulo": "Deportivo Pasto venció al Tolima y complicó más su clasificación a los ocho: resumen del partido",
-   "resumen": "Deportivo Pasto consiguió una importante victoria 0-1 frente al Deportes Tolima, en un partido por la fecha 16 de la Liga Colombiana 2026-ll Le puede interesar: Real Madrid se quedó con El Clásico ante el Barcelona con…",
-   "imagen": "https://caracol.com.co/resizer/v2/GELERYCTMFH5VA7UVUAVPH63BY.jpeg?auth=a9cba4958b587b1afeeb5a18cc45f957244beb42fbb688354017dc5ebeaa55a6&smart=true&width=1023&height=767",
-   "enlace": "https://caracol.com.co/2026/10/26/en-vivo-tolima-vs-pasto-por-liga-colombiana-2026-ll-hoy-transmision-y-minuto-a-minuto/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-26T03:37:57Z",
-   "id": "f756f09fa456"
-  },
-  {
-   "titulo": "Tabla de posiciones de la Liga Colombiana: así quedó tras victoria de Nacional en el clásico paisa",
-   "resumen": "La jornada 16 de la Liga Colombiana 2026-2 comenzó el viernes 23 de octubre con el partido Boyacá Chicó vs Atlético Bucaramanga y se extenderá hasta el lunes 26 de octubre con el compromiso Jaguares vs Llaneros . Es…",
-   "imagen": "https://caracol.com.co/resizer/v2/GT3RVIRTYVEGDFPAOZ56C5UC3U.jpeg?auth=5bff6c01f23a5183520d2bfda2561b3b4c3721b42026647f7004611edc3acb13&smart=true&width=1280&height=854",
-   "enlace": "https://caracol.com.co/2026/10/24/tabla-de-posiciones-de-la-liga-colombiana-asi-quedo-con-los-triunfos-de-chico-y-junior/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-26T03:22:40Z",
-   "id": "4512ac01dea7"
-  },
-  {
-   "titulo": "Santa Marta se vistió de rosa: más de 5.000 corrieron por la vida contra el cáncer de mama",
-   "resumen": "Más de 5.000 personas se tomaron las calles del Centro Histórico de Santa Marta para correr por las mujeres que enfrentan el cáncer de mama, honrar a quienes han superado la enfermedad y recordar a quienes han perdido…",
-   "imagen": "https://caracol.com.co/resizer/v2/QHVKQP2EWNERNCSHU5GEK37JQQ.jpeg?auth=09f6e8204838782840d777a3e61750fb3c815028d987fc851714741cf0b14db8&smart=true&width=1600&height=1067",
-   "enlace": "https://caracol.com.co/2026/10/26/santa-marta-se-vistio-de-rosa-mas-de-5000-corrieron-por-la-vida-contra-el-cancer-de-mama/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-26T02:47:40Z",
-   "id": "cf9d4ba1e496"
+   "titulo": "Adulto mayor cayó 60 metros por un abismo en Santander: un sombrero fue clave para rescatarlo con vida",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNQ3kzY05aX1lOV05Wb051OEdDMWNacVpwTVAzdnRaWjNLUUZJeVk4N0dXRUFWOFplb25QcjlhbW1EQVhuRnlQMDBXbWN4ZFllTERneEpYZHNxU050TGUtbFktU3R1aE1ET0c3Q2pVbnlMX0xzY204V253T3pCOXNHc3NQSDNMS1hJc3J3b0UwMGpMcy10dzBIbDJydTl2MGVyYkt1SXE3bWUyQkd0VmVyU0lIQlBjMTFpOUZGLVByVkRaT0sxMGRQcDhqZGxtZFFtNTQ0ZTFIdVJic3ZZZnZ1YUxkM1ktMnBfdXdvN0YtZ2JHUXFNSGEtSm5B0gH6AUFVX3lxTE1DeTNjTlpfWU5XTlZvTnU4R0MxY1pxWnBNUDN2dFpaM0tRRkl5WTg3R1dFQVY4WmVvblByOWFtbURBWG5GeVAwMFdtY3hkWWVMRGd4Slhkc3FTTnRMZS1sWS1TdHVoTURPRzdDalVueUxfTHNjbThXbndPekI5c0dzc1BIM0xLWElzcndvRTAwakxzLXR3MEhsMnJ1OXYwZXJiS3VJcTdtZTJCR3RWZXJTSUhCUGMxMWk5RkYtUHJWRFpPSzEwZFBwOGpkbG1kUW01NDRlMUh1UmJzdllmdnVhTGQzWS0ycF91d283Ri1nYkdRcU1IYS1KbkE?oc=5",
+   "medio": "Infobae",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-10-26T03:35:34Z",
+   "id": "d6757c5d8f2f"
   },
   {
    "titulo": "Dos épocas y una misma mirada: la carrera 12 que el tiempo transformó",
@@ -253,105 +396,6 @@
    "id": "d00821b2a883"
   },
   {
-   "titulo": "Así regirá el pico y placa entre el 26 y el 31 de octubre de 2026 en Bucaramanga y el área",
-   "resumen": "Esté atento al pico y placa en Bucaramanga y el área",
-   "imagen": "https://www.vanguardia.com/resizer/v2/HDJOFGESRZAKHFE65NEQTD7LCA.jpeg?auth=6bc993363dd587dd21351479ebfa831c0224cd2b33e41243feb7affea4e17d48&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/10/25/asi-regira-el-pico-y-placa-entre-el-26-y-el-31-de-octubre-en-bucaramanga-y-el-area/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-26T02:23:05Z",
-   "id": "8572f112fc42"
-  },
-  {
-   "titulo": "Reflexión espiritual: la ventana del alma también necesita sanar",
-   "resumen": "Repare la ventana y deje entrar la luz de Dios",
-   "imagen": "https://www.vanguardia.com/resizer/v2/D3CZZDHGU5HS5BKIJRHXL7LVWE.jpg?auth=f614da85305391648bbb6d02cea420fc16b95a419e7fd2085bee30cc745d0501&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/entretenimiento/espiritualidad/2026/10/25/reflexion-espiritual-la-ventana-del-alma-tambien-necesita-sanar/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-26T02:22:32Z",
-   "id": "b1bef425f9a0"
-  },
-  {
-   "titulo": "De La Espriella anuncia recorte de $267.000 millones en la Presidencia y otras entidades del Gobierno",
-   "resumen": "El presidente Abelardo De La Espriella aseguró que la reducción presupuestal incluye recursos de funcionamiento e inversión.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/FCJNWWQVIJEVHA3R55HE7EE5TI.jpg?auth=6376f22a35c59a0db9dc547f0adb56c01ac6136fab5739a543e46fbfea83892d&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/colombia/2026/10/25/de-la-espriella-anuncia-recorte-de-267000-millones-en-la-presidencia-y-otras-entidades-del-gobierno/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-26T02:20:14Z",
-   "id": "7fdb694d308b"
-  },
-  {
-   "titulo": "Quiso ingresar con una lavadora a TransMilenio y terminó reclamando: el video se viralizó",
-   "resumen": "Una mujer intentó ingresar con una lavadora a la estación Comuneros de TransMilenio, en Bogotá, pero los guardas de seguridad le impidieron el paso.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/H3APTZRYZVGMZEZ4MYPTDJOTDQ.jpg?auth=bee084d918721f53c0f01da2d42e60b866d7bca27019de91e9d52507df7e7f38&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/entretenimiento/tendencias/2026/10/25/insolito-quiso-ingresar-con-una-lavadora-a-transmilenio-y-termino-reclamando-el-video-se-viralizo/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-26T02:10:40Z",
-   "id": "3d1d605061cc"
-  },
-  {
-   "titulo": "Festival de Cine Enfocados UDES",
-   "resumen": "Festival de Cine en la UDES",
-   "imagen": "https://www.vanguardia.com/resizer/v2/TJDNFR6ZKJDG5JRBBFQWCIF2VI.jpg?auth=b5dffa1c9bd210e6aadcc7f5a6f8c041cc36ac0c8ba2b422c9153bdac16b4edd&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/entretenimiento/sociales/2026/10/25/festival-de-cine-enfocados-udes/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-26T02:09:46Z",
-   "id": "038fb27524d4"
-  },
-  {
-   "titulo": "Buscan descifrar el secreto que esconde la laguna de Ortices",
-   "resumen": "¿Cual es el pasado ambiental de la laguna de Ortices en Santander? Eso es lo que buscan descifrar unos investigadores de la UIS.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/P46CK3AMXZCJ7M6V7DYCOD25HY.jpeg?auth=5b343507d404c0aa9db597ce546298ac91d31fe6501a5ab39dbaeba0aa08f00e&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/santander/2026/10/25/buscan-descifrar-el-secreto-que-esconde-la-laguna-de-ortices/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-26T02:09:18Z",
-   "id": "74ed70915d9d"
-  },
-  {
-   "titulo": "Flávio Bolsonaro pedirá la anulación de las elecciones en Brasil tras su derrota frente a Lula",
-   "resumen": "El senador y candidato opositor Flávio Bolsonaro afirmó que “es imposible reconocer” la victoria del presidente Luiz Inácio Lula da Silva en la segunda vuelta de las elecciones presidenciales de este domingo en Brasil…",
-   "imagen": "https://caracol.com.co/resizer/v2/CTRUOTR2WRA33GQWQV3WBBYEQY.jpg?auth=293187b895bab9c22e7f05ebdf089efae502868ed9d5a372bf0d1ddecd09b8df&smart=true&width=3000&height=2000",
-   "enlace": "https://caracol.com.co/2026/10/26/flavio-bolsonaro-pedira-la-anulacion-de-las-elecciones-en-brasil-tras-su-derrota-frente-a-lula/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-26T02:05:08Z",
-   "id": "730ca9fb0c3d"
-  },
-  {
-   "titulo": "Adulto mayor cayó por un precipicio de 100 metros en Barichara, Santander: los arbustos evitaron que siguiera derecho",
-   "resumen": "Los rescatistas localizaron al hombre con múltiples laceraciones y heridas, pero sin fracturas.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/25/6ade976ed9182.r_d.1024-768-0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/santander/adulto-mayor-cayo-por-un-precipicio-de-100-metros-en-barichara-santander-los-arbustos-evitaron-que-siguiera-derecho-3596210",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-26T01:20:06Z",
-   "id": "fa47455a609d"
-  },
-  {
-   "titulo": "'Colombia pierde a una mujer valiente', dijo el director de la Policía por el asesinato de la patrullera María José Recuero en una balacera en Cali",
-   "resumen": "El personero de Cali, Gerardo Bedoya, señaló, por su parte: \"Rechazamos la violencia contra nuestros policías que arriesgan su vida por nosotros'.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/24/6add6d331bda0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/colombia-pierde-a-una-mujer-valiente-dijo-el-director-de-la-policia-por-asesinato-de-la-patrullera-maria-jose-recuero-en-balacera-en-cali-3596224",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-25T23:54:15Z",
-   "id": "779d9a8a831b"
-  },
-  {
    "titulo": "Sanción por no declarar renta: Así puedes reducir el valor que debes pagar",
    "resumen": "",
    "imagen": "",
@@ -361,39 +405,6 @@
    "region": "Colombia",
    "fecha": "2026-10-25T23:05:20Z",
    "id": "cd611ddcaa05"
-  },
-  {
-   "titulo": "¿Quién era la feligresa de Manrique que murió tras partir en un bus con 47 personas desde una parroquia, el cual terminó volcado en Medellín?",
-   "resumen": "Investigan si el automotor se habría quedado sin frenos, por lo que sufrió un aparatoso volcamiento lateral en la avenida Barranquilla.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/24/6add00a3871c9.r_d.44-445-0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/quien-era-la-feligresa-de-manrique-que-murio-tras-partir-en-un-bus-con-47-personas-desde-una-parroquia-el-cual-termino-volcado-en-medellin-3596207",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-25T22:54:15Z",
-   "id": "701119d62781"
-  },
-  {
-   "titulo": "Barranquilla proyecta invertir $1,7 billones en educación y $792.000 millones en vivienda en 2027: Concejo revisa presupuesto de $9,25 billones",
-   "resumen": "Mauricio Villafañez Jabba, presidente del Concejo, explica cómo se invertirían los recursos y los puntos pendientes antes de la aprobación definitiva.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/25/6ade81254051c.png",
-   "enlace": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-proyecta-invertir-1-7-billones-en-educacion-y-792-000-millones-en-vivienda-en-2027-concejo-revisa-presupuesto-de-9-25-billones-3596203",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-25T22:30:39Z",
-   "id": "75ba71e370b7"
-  },
-  {
-   "titulo": "Lo que se sabe del fatal accidente de tránsito entre un carro particular y una moto en Cali: ¿quiénes eran las víctimas de una empresa de transporte?",
-   "resumen": "El accidente ocurrió en la calle 70 con carrera 3, en el paso elevado (puente), en la vía de Cali al municipio de Yumbo.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/25/6ade71e250baa.r_d.389-227-2.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/lo-que-se-sabe-del-fatal-accidente-de-transito-entre-un-carro-particular-y-una-moto-en-cali-quienes-eran-las-victimas-de-una-empresa-de-transporte-3596199",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-25T21:47:16Z",
-   "id": "c25cfbeff897"
   },
   {
    "titulo": "Cortes de agua en Cali este domingo 25 de octubre del 2026: Barrios afectados y horarios",
@@ -440,6 +451,17 @@
    "id": "24009d25de01"
   },
   {
+   "titulo": "Nueva prima para militares y policías en Colombia: Estos son los rangos que podrían recibirla",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT0J5czlwR2ExRVk3dEpUcVNPalVjSTA0VXhlTGRxNWNoMkhHMjhwUmtKVUg1Vi00M0J5YVhKdGd1ZFZvdXBfWEszZ1kzdnR3VVFpWVFGVVpORGdteTFDVmQ2aE5CNHpaM0JIMTdWQ0cwejNRUVNCOU1wUXpSc1dRMElpdTY4RzcwQWJZSHNpc3VMSHBnWnVQZXRTNTJzUjlsaDVNSnV5dWNqaHQ3ZHM2QXdQaTZaQ1hUVmhLOS16WC1HdDJobWFSV0MxVQ?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-10-25T15:09:18Z",
+   "id": "760322f3ddfe"
+  },
+  {
    "titulo": "Oiba Santander, el pueblito pesebre de Colombia: a dos horas de Bucaramanga",
    "resumen": "",
    "imagen": "",
@@ -460,17 +482,6 @@
    "region": "Colombia",
    "fecha": "2026-10-25T14:01:45Z",
    "id": "92b53ee33ab9"
-  },
-  {
-   "titulo": "Ciclovía en Bogotá tendrá actividades de Halloween este domingo 25 de octubre del 2026: Estos son los puntos",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYjRzRjlaMVY0Y2MwS2hXNFVnNTBPdmU4OGZGMHNYaHR5eXFVUHpVNVZrS3NHOGN0bm83TXlVWkJKRWZPcU96R2c3Ti02aFBnOWxyN2tuNDUzQ0lxWVRvOVVXNG0tNnFMek83U0FyR2pTeUUwZUZCamhYUXdZX0lvYlhyUmFGVXRIalp4S2lYMTJ4Slh6SFlZakJxRENocHdvUXNoa3RDVGE2M21SbHpxZmdPWUhkLW9jd2VqVFV5TWpfdkR4MTlxT2FVc3UtX1k5ZUt5OXNiR2FwMWplVUR3?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-10-25T12:03:08Z",
-   "id": "3a07c1c1856f"
   },
   {
    "titulo": "Dos meses después de una riña mortal en Santander, capturan a señalado de asesinar a agricultor con una guadañadora",
@@ -513,7 +524,7 @@
    "medio": "Vanguardia",
    "fuente": "provincia",
    "region": "Santander",
-   "fecha": "2026-10-24T19:43:34Z",
+   "fecha": "2026-10-24T19:42:00Z",
    "id": "f7b0c1d81bda"
   },
   {
@@ -526,17 +537,6 @@
    "region": "Santander",
    "fecha": "2026-10-23T19:29:41Z",
    "id": "4b7622d5251e"
-  },
-  {
-   "titulo": "Imágenes de la impresionante avalancha que colapsó cuatro puentes en Santander: hay más de 100 familias afectadas y pérdidas millonarias",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOUk1uY3BCNldBRnU5X1RkODNmZHpQZTJJMEwzdFoyX3BtWlVqVVBIaUJsZGtUMnVOQ3I3TFFJY1RhbjN6WVFqM0VWZE9SUkFoVlpONTRSMWU5MHFWSjhQUWh0Nks0dlFaeG5xeWZzOFQ5MlA5QnlWaFhqSzRfYzhLeldhNGNrSlJXNzdlQ0xhdDBQQlBpMzN5dk9uMHp6Q256amlRZ2k0eHd6UFdSSkF3VVEzbWZnd3VQbTlxLUpNTU5OdlhnYzgxYzVKRUE3QnRVenFtNHYzZjVnanhZeHA5cnhpdTBueGdud0NWQU1lbE5EakFib1hWTGpsWHRGZTEyVi01YVFMX1BxeDdu0gGnAkFVX3lxTE5mQVZDZFVqdmtFUnQtcnFZaVZLM0lFTVFYZEZHRFZLNVFrc2RVRXhtNGtwODAtbWVQYV9pLWRsYzVFSTllbGQ5MXpHdDNtTXpFOVEyUG1RVnVhQTZWUC1wNFY4UjVtV0NrdjBmWk1IS2VWVHFwVTZLLWVQazVDMGFYTEppNGRhTjFQaDRyQVZfcWk1bEZ5b00zbFdqWldGeGEwRGM3dDZRQkhpU1VHZVNWd2dWa0pJVDJsb2hta2lEcVNOM2tTTEhKU2I4enN5bHd3YVplNnVWRVJHTzFoTGhMN1N1a1hmWHdqMGctQm5NU3FSOVEtSUxqVnZYRkhncUJac2cxT1M4R1MwTlc2bFZoUzg2TU0tbnVTNl9VR1N2YmVVREFjMHM?oc=5",
-   "medio": "Infobae",
-   "fuente": "provincia",
-   "region": "Santander",
-   "fecha": "2026-10-23T18:41:54Z",
-   "id": "64275b9c62b9"
   },
   {
    "titulo": "Emergencia en Guaca por avalancha que afectó puentes, cultivos y viviendas",
