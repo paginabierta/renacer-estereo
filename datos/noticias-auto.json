@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-27T05:05:54Z",
+ "actualizado": "2026-10-27T10:34:52Z",
  "fuentes": [
   {
    "id": "vanguardia",
@@ -44,6 +44,259 @@
  ],
  "noticias": [
   {
+   "titulo": "Mujer fue asesinada por su pareja sentimental en Suba",
+   "resumen": "Durante la madrugada de este martes 27 de octubre las autoridades fueron alertadas por la comunidad del barrio Villa María en la localidad de Suba, sobre una pelea que se estaría presentando al interior de un…",
+   "imagen": "https://caracol.com.co/resizer/v2/PJRSILY6VFD6TILKA2KNOTZ7WE.jpeg?auth=97fbfed8b7fd4400acee70769f631dd6a64916dfb340c93ec9798a627fc774e6&smart=true&width=1800&height=1199",
+   "enlace": "https://caracol.com.co/2026/10/27/mujer-fue-asesinada-por-su-pareja-sentimental-en-suba/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-27T10:21:16Z",
+   "id": "a04353b63e03"
+  },
+  {
+   "titulo": "¿Qué opina de la crisis de seguridad en Cúcuta tras el asesinato de Miguel Castellanos?",
+   "resumen": "Este martes, 27 de octubre, nuestro tema del día en 6AM W, con Julio Sánchez Cristo, es: ¿Qué opina de la crisis de seguridad que hay en Cúcuta? Comente y opine; lo leemos al aire.",
+   "imagen": "https://caracol.com.co/resizer/v2/MOEY7EZ2L5DQ3CQNW24ITMRNCQ.jpeg?auth=38b8d15042e857eefefabde5af7e7fee3e0ede12c26ec262380a50369ba1c2a5&smart=true&width=1280&height=960",
+   "enlace": "https://caracol.com.co/2026/10/27/que-opina-de-la-crisis-de-seguridad-en-cucuta-tras-el-asesinato-de-miguel-castellanos/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-27T10:04:09Z",
+   "id": "8de64a95f0dd"
+  },
+  {
+   "titulo": "Alza de la energía a $936 por kilovatio preocupa a gremios del Atlántico",
+   "resumen": "El incremento de las tarifas de energía representa una preocupación para los hogares y el sector productivo del Atlántico. Ante el precio del kilovatio que llegaría a $936 en noviembre , los gremios advierten sobre la…",
+   "imagen": "https://caracol.com.co/resizer/v2/REUUUPH77VCLNHRLHPDRGZHTPQ.png?auth=51927307895e5ced80a6b399f3773938235411b3481d473660d1357b81d71a37&smart=true&width=428&height=319",
+   "enlace": "https://caracol.com.co/2026/10/27/alza-de-la-energia-a-936-por-kilovatio-preocupa-a-gremios-del-atlantico/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-27T10:00:42Z",
+   "id": "5aa3cfc4c9d8"
+  },
+  {
+   "titulo": "Atlántico registra 19 casos de dengue grave, advierte la Secretaría de Salud",
+   "resumen": "El departamento del Atlántico registra 3.085 casos confirmados de dengue en lo corrido del año, de los cuales 19 corresponden a dengue grave , según informó el secretario de Salud departamental, Luis Carlos Fajardo …",
+   "imagen": "https://caracol.com.co/resizer/v2/T52NFPWQ2NPMJLNTFJAO4W3DNA.jpg?auth=b8b54ba76545935adc30771d75ebcbdf8c982031a050e64057a03c9210dbd5bb&smart=true&width=1080&height=624",
+   "enlace": "https://caracol.com.co/2026/10/27/atlantico-registra-19-casos-de-dengue-grave-advierte-la-secretaria-de-salud/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-27T09:48:04Z",
+   "id": "313cefbe8010"
+  },
+  {
+   "titulo": "Presidente De La Espriella lidera megaoperativo nocturno en Medellín",
+   "resumen": "Más de 100 allanamientos y 60 capturas reportaron las autoridades durante un operativo de seguridad desplegado en Medellín, el Valle de Aburrá y otras subregiones de Antioquia, entre la noche del lunes 26 de octubre y…",
+   "imagen": "https://caracol.com.co/resizer/v2/UOYTBUPW3VE2FO3RDOS2A3V5YI.jpeg?auth=ce54fedbf2804faa1c761208a481d0d12b5457bf5b2c27d0a429ae6b3a587fcb&smart=true&width=1280&height=854",
+   "enlace": "https://caracol.com.co/2026/10/27/presidente-de-la-espriella-lidera-megaoperativo-nocturno-en-medellin/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-27T09:30:43Z",
+   "id": "e2b469743da4"
+  },
+  {
+   "titulo": "En vivo | Asesinato de Miguel Castellanos, exsecretario de Gobierno de Cúcuta: Ministerio de Defensa rechaza el crimen y ofrece millonaria recompensa",
+   "resumen": "Siga el minuto a minuto de la actualización sobre el caso y entérese de todo en tiempo real.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/26/6adff68b2872c.r_d.1150-119-0.png",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/en-vivo-asesinato-de-miguel-castellanos-exsecretario-de-gobierno-de-cucuta-ultimas-noticias-reacciones-e-informacion-sobre-el-ataque-en-su-contra-3596547",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-27T09:08:32Z",
+   "id": "7c3c2e166f49"
+  },
+  {
+   "titulo": "La última publicación de Miguel Castellanos antes de ser asesinado en Cúcuta: un video sobre educación y empleo para los jóvenes de la ciudad",
+   "resumen": "El exsecretario de Gobierno, que aspiraba a la Alcaldía en 2027, habló de las barreras que enfrentan los jóvenes para estudiar y encontrar trabajo.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/27/6ae059ca9ebe4.r_d.1028-479-0.png",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/la-ultima-publicacion-de-miguel-castellanos-antes-de-ser-asesinado-en-cucuta-un-video-sobre-educacion-y-empleo-para-los-jovenes-de-la-ciudad-3596545",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-27T09:01:03Z",
+   "id": "ff2625ea1fa0"
+  },
+  {
+   "titulo": "Independiente Santa Fe lamenta el asesinato de Miguel Castellanos, hermano del exarquero y concejal Leandro Castellanos: 'Solidaridad a su familia'",
+   "resumen": "El club bogotano se pronunció en redes la noche del lunes, tras el ataque contra el exsecretario de Gobierno de Cúcuta en el Anillo Vial Occidental.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/27/6ae0446dbeec6.r_d.982-491-0.png",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/independiente-santa-fe-lamenta-el-asesinato-de-miguel-castellanos-hermano-del-exarquero-y-concejal-leandro-castellanos-solidaridad-a-su-familia-3596544",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-27T08:50:21Z",
+   "id": "e523d5e9ca50"
+  },
+  {
+   "titulo": "¡Ojo, conductor! Pico y placa en Bucaramanga para el martes 27 de octubre de 2026: estos son los vehículos que no pueden circular durante la jornada",
+   "resumen": "La medida estará vigente durante 14 horas. Consulte los números restringidos y la rotación semanal establecida para el último trimestre del año.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/11/6a7b4eef0af1c.png",
+   "enlace": "https://www.eltiempo.com/colombia/santander/ojo-conductor-pico-y-placa-en-bucaramanga-para-el-martes-27-de-octubre-de-2026-estos-son-los-vehiculos-que-no-pueden-circular-durante-la-jornada-3596435",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-27T07:30:00Z",
+   "id": "f7c4787ec615"
+  },
+  {
+   "titulo": "Pico y placa en Pereira para el martes 27 de octubre de 2026: estos carros y motos tendrán restricción",
+   "resumen": "La medida estará vigente durante 14 horas. Consulte los números de placa restringidos para carros y motocicletas este martes.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2023/08/31/64f11100256d0.r_d.600-360-0.png",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/pico-y-placa-en-pereira-para-el-martes-27-de-octubre-de-2026-estos-carros-y-motos-tendran-restriccion-3596429",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-27T07:30:00Z",
+   "id": "f4273eb166ac"
+  },
+  {
+   "titulo": "Pico y placa en Cali para el martes 27 de octubre de 2026: así opera la medida de movilidad",
+   "resumen": "La medida para vehículos particulares se aplicará durante 13 horas. Consulte los números restringidos y la rotación semanal vigente.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2024/11/27/674721e179539.r_d.662-61-0.png",
+   "enlace": "https://www.eltiempo.com/colombia/cali/pico-y-placa-en-cali-para-el-martes-27-de-octubre-de-2026-asi-opera-la-medida-de-movilidad-3596376",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-27T07:30:00Z",
+   "id": "4d42b6232878"
+  },
+  {
+   "titulo": "Pico y placa en Medellín para el martes 27 de octubre de 2026: carros, motos y taxis que tendrán restricción",
+   "resumen": "Los carros y las motos tendrán restricción desde las 5:00 a. m. Los taxis deberán cumplir una rotación diferente a partir de las 6:00 a. m.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2023/09/18/650898a9a935b.png",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/pico-y-placa-en-medellin-para-el-martes-27-de-octubre-de-2026-carros-motos-y-taxis-que-tendran-restriccion-3596329",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-27T07:30:00Z",
+   "id": "5198c8e37ecb"
+  },
+  {
+   "titulo": "Hombres armados asesinaron a un paciente dentro del hospital de Suárez, Cauca, minutos después de interceptar una ambulancia: Alcaldía exige respeto",
+   "resumen": "El hospital cerró temporalmente tras el ataque del lunes y la Secretaría de Salud del Cauca convocó a una mesa extraordinaria con la misión médica.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/27/6ae03c1349f12.r_d.899-592-0.png",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/hombres-armados-asesinaron-a-un-paciente-dentro-del-hospital-de-suarez-cauca-minutos-despues-de-interceptar-una-ambulancia-alcaldia-exige-respeto-3596541",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-27T06:31:22Z",
+   "id": "bb7accd2dfae"
+  },
+  {
+   "titulo": "El despertar",
+   "resumen": "En El sueño creador, libro retomado en varias ocasiones por la filósofa española María Zambrano, el tiempo, más que el sueño, es el verdadero protagonista. Allí nos invita a atisbar su dimensión, reconocerlo en su…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/EUX7IPVFSNCM5JECQNDKZ6HVLU.jpg?auth=cdc2cfb5a019e0b5af51ad36e964fab89a4563fb64419380007fcafe871a74c1&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/27/el-despertar/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-27T06:00:00Z",
+   "id": "55bb2067d060"
+  },
+  {
+   "titulo": "Otra denuncia pública",
+   "resumen": "Caricatura de Yeyo del 27 de octubre de 2026",
+   "imagen": "https://www.vanguardia.com/resizer/v2/VEYODCH7RFAVBASMDPDK2TJ5KQ.jpg?auth=c747f2de7a0da5e6acc7b6343d65bdaca0f968849594545e839df8f6d55fabba&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/caricaturas/2026/10/27/otra-denuncia-publica/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-27T06:00:00Z",
+   "id": "f5156cd72cdc"
+  },
+  {
+   "titulo": "Los zafiros",
+   "resumen": "No me refiero en esta ocasión al trio colombiano con aporte del músico onzagueño Pedro Martín Silva ni al cuarteto cubano famoso por fusionar el bolero con el bossa-nova. Hago alusión a esta gema, el zafiro, dado que…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/OBN2PONOPBFC3LOY6KVQMIPLAE.jpg?auth=bf3f18b12a6943fa869e267a841995cf205b12022eed2b8a97231567142794ed&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/27/los-zafiros/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-27T06:00:00Z",
+   "id": "7ee48e4582c4"
+  },
+  {
+   "titulo": "Austeridad o inanición: Los riesgos ocultos del DAPRE",
+   "resumen": "La Circular Interna No. 08 emitida por el Departamento Administrativo de la Presidencia de la República (DAPRE) representa un hito en la política de austeridad del Gobierno: impone un tope máximo del 60% para la…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/VE26MYEOW5GZLIE5X4L26L6DUI.jpg?auth=787e4727dadaa99df3a1509c583d23305139924cda695c5be930b4c29956efb6&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/27/austeridad-o-inanicion-los-riesgos-ocultos-del-dapre/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-27T06:00:00Z",
+   "id": "869739ed433f"
+  },
+  {
+   "titulo": "Emy y el soldado García, la dupla canina que terminó curso para detectar explosivos",
+   "resumen": "Emy y el soldado Alan Sebastián García Muñoz culminaron su curso de formación como binomio canino del Ejército. Juntos se preparan para detectar explosivos en escenarios donde la confianza puede marcar la diferencia.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/EAJIOI4IEFDD5DOOZDG7HEYTCM.JPG?auth=a44e412af6e1b3c38ccf18e61c4c08da0cbc576db4d9246447477ecc9096f9b2&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/area-metropolitana/2026/10/27/emy-y-el-soldado-garcia-la-dupla-canina-que-termino-curso-para-detectar-explosivos/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-27T06:00:00Z",
+   "id": "44d896458912"
+  },
+  {
+   "titulo": "Eduardo Parra Gómez",
+   "resumen": "Compendiaba las virtudes que debe tener un buen ciudadano. Honesto sin par, profesional sobresaliente, eficiente, ejemplar funcionario público, hombre cívico, alérgico a la grandilocuencia y ostentación, santandereano…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/NOEDLCMDQRAN7HF2UIYIECUGVI.jpg?auth=e96680df06b024d9af9b86c696e883b7da016d5613a203549f56a5190599313c&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/27/eduardo-parra-gomez/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-27T06:00:00Z",
+   "id": "3cb77f677987"
+  },
+  {
+   "titulo": "Cuando la Contraloría se corrige a sí misma",
+   "resumen": "El pasado 20 de octubre, la Subcontraloría de Bucaramanga anuló todo lo actuado en el proceso (de la chatarra) desde su apertura, en marzo de 2026. No lo pidió un tribunal ni lo impuso una presión externa. Fue la propia…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/ZP7OUDTHVFCPBMHKVHDYDIUSFY.jpg?auth=e83cf9178dd6a9e7f0afb2f0dbea45e335e36ef34b5a10bdf50bf20cef198063&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/27/cuando-la-contraloria-se-corrige-a-si-misma/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-27T06:00:00Z",
+   "id": "836d09b69543"
+  },
+  {
+   "titulo": "Santander, castigado en el presupuesto 2027",
+   "resumen": "No valieron las múltiples antesalas en Bogotá, los agasajos a funcionarios, las condecoraciones ni los anuncios sonoros de soluciones que Santander lleva décadas esperando. Por un error compartido entre el Legislativo y…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/B3E2PGEHOZDDBOKTOHMZTDLTUM.jpg?auth=901bee7df77c721653a9ff1d66a0718f468888e0c7dc72eda15d7a4ce1642fa6&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/27/santander-castigado-en-el-presupuesto-2027/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-27T06:00:00Z",
+   "id": "fa530630cdec"
+  },
+  {
+   "titulo": "Un asunto de respeto con el Diamante II",
+   "resumen": "El cumplimiento de lo prometido es, en este caso, además de una obligación técnica, un acto de respeto hacia quienes han padecido por años las consecuencias de una obra inconclusa.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/Y77HSAMVDRGCBAKRMUB7GJBV6Y.jpg?auth=9fda64626f20c1611bc18d55707d029290a765be2ce035a22502a229ab61e783&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/editorial/2026/10/27/un-asunto-de-respeto-con-el-diamante-ii/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-27T06:00:00Z",
+   "id": "0079de19a47e"
+  },
+  {
+   "titulo": "Catalina Serrano, la escritora santandereana detrás de historias para televisión y cine",
+   "resumen": "Desde Bucaramanga, Catalina Serrano convirtió su fascinación por las series y las telenovelas en una carrera como guionista, escritora y docente.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/6NELCLNK6RHPTLXITLKJH24Z4A.jpeg?auth=2a755e37f5ed9123ef5634ef1c586ffd2ba62dca5180f52e2dbe4f03d471f06a&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/entretenimiento/las-santandereanas/2026/10/27/catalina-serrano-la-escritora-santandereana-detras-de-historias-para-television-y-cine/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-27T05:33:00Z",
+   "id": "481d873b74f8"
+  },
+  {
    "titulo": "Las polémicas arbitrales en el duelo entre Santa Fe y Atlético Bucaramanga",
    "resumen": "El juego entre Santa Fe y Atlético Bucaramanga estuvo marcado por las polémicas arbitrales. Los especialistas analizaron las decisiones del juez Carlos Ortega.",
    "imagen": "https://www.vanguardia.com/resizer/v2/V3JJGUSMZBA6DFR4S6ANSB6HMI.jpeg?auth=783a76bc18e70ad091caf03a6de10bdab1ba0f30c036bbef6ebe47b13aebf582&smart=true&width=900&height=600",
@@ -66,17 +319,6 @@
    "id": "182d83ee60a2"
   },
   {
-   "titulo": "Cantante vallenato Poncho Zuleta llegó a Bosconia, Cesar, para acompañar a su hijo Kbeto Zuleta, quien se encuentra en UCI tras grave accidente de bus",
-   "resumen": "El juglar aterrizó en Barranquilla y siguió por carretera hasta el Cesar, donde su hijo se recupera tras la caída del bus de su agrupación a un río.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/26/6ae022c219e2b.r_d.1021-466-0.png",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/el-cantante-vallenato-poncho-zuleta-llego-a-bosconia-cesar-para-acompanar-a-su-hijo-kbeto-quien-se-encuentra-en-la-uci-tras-un-grave-accidente-3596536",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-27T04:10:41Z",
-   "id": "afe3b20db504"
-  },
-  {
    "titulo": "Lotería de Cundinamarca: resultado del sorteo del lunes 26 de octubre de 2026",
    "resumen": "Consulte el resultado del sorteo de la Lotería de Cundinamarca del lunes 26 de octubre de de 2026. Conozca el número ganador del premio mayor y los secos aquí.",
    "imagen": "https://www.vanguardia.com/resizer/v2/QK4SUXJNGRG2PE7T6LS7A2FRJ4.png?auth=3b890e9745683228a927a774946d54eadc51160fce256679ec7cd195fbea8a1d&smart=true&width=900&height=600",
@@ -86,28 +328,6 @@
    "region": "Santander",
    "fecha": "2026-10-27T04:05:00Z",
    "id": "93ce269885ed"
-  },
-  {
-   "titulo": "Chiquinquirá: 1.800 estudiantes siguen afectados por el colapso del techo de su colegio",
-   "resumen": "El colapso de una sección del techo de la sede principal del Colegio Sagrado Corazón de Jesús, en Chiquinquirá, mantiene dificultades en la prestación del servicio educativo para cerca de 1.800 estudiantes. La…",
-   "imagen": "https://caracol.com.co/resizer/v2/ZTTP3Q4WF5FNLPPI474T7V7BLA.png?auth=6d7fecdf3b70b8c3ac0342f74f9939db21691e87e66179b7effb48e05d9cc82c&smart=true&width=892&height=897",
-   "enlace": "https://caracol.com.co/2026/10/27/chiquinquira-1800-estudiantes-siguen-afectados-por-el-colapso-del-techo-de-su-colegio/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-27T04:02:30Z",
-   "id": "3dd8a40f0ce1"
-  },
-  {
-   "titulo": "Ataque sicarial en Piedecuesta dejó un hombre muerto",
-   "resumen": "Tras el ataque, la víctima fue auxiliada y remitida a un centro médico; sin embargo, los esfuerzos por salvarle la vida no fueron suficientes.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/5TW7UVHHZZELFCUI2RUIFGBUDQ.png?auth=ce10a2497f0de712ecae4c7a7b8a9e6a03fe9e276ce49e98e98decfd39f9534b&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/judicial/2026/10/26/ataque-sicarial-en-piedecuesta-dejo-un-hombre-muerto/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-27T03:51:07Z",
-   "id": "b4c6708828b2"
   },
   {
    "titulo": "Resultado de Baloto y Revancha: qué cayó hoy lunes 26 de octubre de 2026",
@@ -121,59 +341,15 @@
    "id": "54753cb06b3f"
   },
   {
-   "titulo": "Lula da el golpe electoral en Brasil y frena el avance de la derecha en la región",
-   "resumen": "Tras una remontada sin precedentes, Lula logró un cuarto mandato en Brasil con estrategia digital renovada y el respaldo de los jóvenes. Ahora deberá enfrentar oposición fuerte y desafíos que pondrán a prueba su…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/TQIT462UIRHJHGOGGVPRTUVXTA.jpg?auth=1bf906d39e1380ff4d1c49e859ad065b6fcd499a1623967307a5e9628b488668&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/mundo/2026/10/26/lula-da-el-golpe-electoral-en-brasil-y-frena-el-avance-de-la-derecha-en-la-region/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-27T03:50:29Z",
-   "id": "3b41ccd5b18b"
-  },
-  {
-   "titulo": "Revelan estado de salud de Kbeto Zuleta, hijo de Poncho Zuleta, tras grave accidente en el que murieron músicos: bus en el que viajaba tenía multas",
-   "resumen": "La secretaria de Salud del Cesar detalló que el cantante llegó con la pierna amputada al hospital y que tuvieron que hacerle una cirugía.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/26/6ae01e2809231.r_d.572-50-0.png",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/revelan-estado-de-salud-de-kbeto-zuleta-hijo-de-poncho-zuleta-tras-grave-accidente-en-el-que-murieron-musicos-bus-en-el-que-viajaba-tenia-multas-3596539",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
+   "titulo": "Salario de intendentes y subintendentes de la Policía en 2026: Así es la escala salarial",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRHBuUjBYR2o1TFdvU0I2bzIxRTFzS2xpYXZjQ3g3dXZmRk0xeE52LVB6dmVyXzlLUjJYc3JrbkE1U3B5c2hqVEVtaWxGRFBYanVGU1plZXVKTnIxNzQ0dVhBWFQzUXdaQTdyOE1zZWFac1ZzY3daSkxraUJyUVowaXBLa1B0aGFORXMwdlRHSm1Bem9NQW9vN0hxdHQ1YWl3LTMyTVZWNmdHdjBPY3NBM2twMEFPN2pRWEJUbzRMakhPSW5p?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
    "region": "Colombia",
-   "fecha": "2026-10-27T03:46:28Z",
-   "id": "285b60650b25"
-  },
-  {
-   "titulo": "Super Astro Luna: resultado del sorteo del lunes 26 de octubre de 2026",
-   "resumen": "¿Se volvió millonario hoy? Consulte el resultado del Super Astro Luna de este lunes 26 de octubre de 2026 y revise si su número y signo fueron los ganadores.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/6YE7VDNFPNHVNDWGEHQBXWYLYY.png?auth=d6ed94825dd9cbf0c0b8921d98da33f7b6d9df066719d4510a7d9043d973ba26&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/26/super-astro-luna-resultado-del-sorteo-del-lunes-26-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-27T03:45:00Z",
-   "id": "56801a51beba"
-  },
-  {
-   "titulo": "Nuevos detalles del asesinato de Miguel Castellanos, exsecretario de Gobierno y aspirante a la Alcaldía que fue asesinado en una vía de Cúcuta",
-   "resumen": "El exfuncionario sufrió una herida con arma de fuego tras bajarse de su camioneta blindada. Viajaba con su hijo.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/26/6ae011685801f.r_d.233-237-0.png",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/nuevos-detalles-del-asesinato-de-miguel-castellanos-exsecretario-de-gobierno-y-aspirante-a-la-alcaldia-que-fue-asesinado-en-una-via-de-cucuta-3596537",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-27T03:40:30Z",
-   "id": "3a787e7a8233"
-  },
-  {
-   "titulo": "Lotería del Tolima: resultado del sorteo del lunes 26 de octubre de 2026",
-   "resumen": "Consulte el resultado del último sorteo de la Lotería del Tolima del lunes 26 de octubre de 2026. Conozca el número ganador del premio mayor y los secos.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/HQ3NPSPOZNHLXHU2WADMRTGG3I.jpg?auth=b3915d423380d833425f5fe95ba2cbbe65eaf3edea4277938c7e9a1e9a5ed2ad&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/26/loteria-del-tolima-resultados-del-sorteo-del-lunes-26-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-27T03:28:51Z",
-   "id": "f42028d75e9a"
+   "fecha": "2026-10-27T03:30:06Z",
+   "id": "ba244f36e214"
   },
   {
    "titulo": "Caribeña Noche: resultado del sorteo de hoy lunes 26 de octubre de 2026",
@@ -187,125 +363,15 @@
    "id": "519b86283c26"
   },
   {
-   "titulo": "Sinuano Noche: resultado del sorteo del lunes 26 de octubre de 2026",
-   "resumen": "¿La suerte lo acompañó esta noche? Conozca el número ganador del Sinuano Noche de hoy lunes 26 de octubre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/JYQUIGCVJVAYRFXFNKKXWW2D2Q.png?auth=ee8a0ad130a1128c7cd112badcd89b6f538d19451d28bc2a9d5de299e29c6a17&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/26/sinuano-noche-resultado-del-sorteo-del-lunes-26-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-27T03:21:00Z",
-   "id": "efa2371ddcf7"
-  },
-  {
-   "titulo": "Jóvenes de Bicentenario participaron en producción de cortometraje El Remedio",
-   "resumen": "El sueño de hacer cine está cada vez más cerca para los jóvenes de Bicentenario. Ingresa al grupo de alertas de Caracol Radio Cartagena El estreno de El Remedio, un cortometraje de seis minutos realizado como parte de…",
-   "imagen": "https://caracol.com.co/resizer/v2/LH4IMF56OFCLHP3WOML5KKPUIU.jpg?auth=75fbb2cc35b53aca5962fddd6a9354ff14a35db9e1b80cb90d035a1e2727b61a&smart=true&width=1600&height=900",
-   "enlace": "https://caracol.com.co/2026/10/27/jovenes-de-bicentenario-participaron-en-produccion-de-cortometraje-el-remedio/",
+   "titulo": "MinAmbiente revoca resolución que protege el bioma amazónico colombiano",
+   "resumen": "Este jueves 26 de octubre e l Ministerio de Ambiente y Desarrollo Sostenible revocó la Resolución 0961 del 4 de agosto de 2026 , que declaró el bioma amazónico colombiano como reserva definitiva de los recursos…",
+   "imagen": "https://caracol.com.co/resizer/v2/7AS7K2GM2FHLRPG6TIBEVZW6DI.jpg?auth=e6c52cac536fca1ceadcf533a0eb3f337cceba9b5c0bea2f93d8cacfc35a91ed&smart=true&width=1024&height=681",
+   "enlace": "https://caracol.com.co/2026/10/27/minambiente-revoca-resolucion-que-protege-el-bioma-amazonico-colombiano/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-10-27T03:20:19Z",
-   "id": "76b183d1ad61"
-  },
-  {
-   "titulo": "MiLoto: qué cayó en el sorteo del lunes 26 de octubre de 2026",
-   "resumen": "Consulte los resultados del sorteo de MiLoto del viernes 23 de octubre de 2026. Revise los números ganadores y entérese si cayó el gran acumulado millonario.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/JXI3TWRDVFEQNPRKXYTAAKILDY.jpeg?auth=8e7f471edeea1e560b21c2cc56ec3e431dcbff4c7905a384dcd9bc8ab1762a74&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/26/miloto-que-cayo-en-el-sorteo-del-lunes-26-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-27T03:06:58Z",
-   "id": "aeb8ebdbe8dc"
-  },
-  {
-   "titulo": "Santa Fe vence a Bucaramanga y sella su clasificación a los cuadrangulares: resumen del partido",
-   "resumen": "Independiente Santa Fe recibió al Atlético Bucaramanga en el Estadio el Campin este lunes 26 de octubre. El partido quedó 2-1 a favor del ‘León’ y selló su clasificación a los ocho con cuatro partidos por jugarse…",
-   "imagen": "https://caracol.com.co/resizer/v2/MBHT4KJLMZBCFE3SMLISHMQL3M.jpeg?auth=7355e007c70cc2ead967e1728be0361e1e4f2519118e72db7d8cab1a722cf543&smart=true&width=1280&height=854",
-   "enlace": "https://caracol.com.co/2026/10/27/en-vivo-santa-fe-vs-bucaramanga-por-liga-colombiana-2026-ll-hoy-transmision-y-minuto-a-minuto/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-27T03:04:24Z",
-   "id": "66a659940b4d"
-  },
-  {
-   "titulo": "Nuevos detalles del asesinato de Miguel Castellanos revelan por qué viajaba sin escoltas",
-   "resumen": "La Gobernación de Norte de Santander ofreció hasta $50 millones por información que permita identificar a los responsables del crimen.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/CHFA6SC7HZDLDHTGJQGVS63FKI.jpg?auth=386afbdbdb37b6ecb9b349ba19e981cf68e1ad15442bef2f1964e60008757270&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/colombia/2026/10/26/nuevos-detalles-del-asesinato-de-miguel-castellanos-revelan-por-que-viajaba-sin-escoltas/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-27T03:04:05Z",
-   "id": "9542e63ab9e4"
-  },
-  {
-   "titulo": "Dorado Noche: resultado del sorteo de hoy lunes 26 de octubre de 2026",
-   "resumen": "La expectativa crece hoy lunes 26 de octubre de 2026 entre miles de apostadores en todo el país por el sorteo de El Dorado Noche.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/JEIBQOXTTNGLFFTZQKQBJQSXSM.png?auth=78608e5a0b04269fc5b8d2e0461cf2217af1f6f1ca36954534f55064effc27d9&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/26/dorado-noche-resultado-del-sorteo-de-hoy-lunes-26-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-27T02:55:00Z",
-   "id": "852fd7269b95"
-  },
-  {
-   "titulo": "Capturan a hombre de 54 años requerido por delito sexual contra una menor en Bucaramanga",
-   "resumen": "Un hombre fue capturado en el barrio García Rovira por orden judicial dentro de un proceso por acceso carnal abusivo con menor de 14 años.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/J32ZZHUN3RDF7GWLBZMKLDACKY.jpeg?auth=4cb00bac00215b8ccbf6dbf3d851ead4f7170b5867fd5840cbcdab42c5a90cb9&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/judicial/2026/10/26/capturan-a-hombre-de-54-anos-requerido-por-delito-sexual-contra-una-menor-en-bucaramanga/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-27T02:52:32Z",
-   "id": "1faf8bcb606d"
-  },
-  {
-   "titulo": "Reacciones tras el asesinato de Miguel Castellanos, exsecretario de Gobierno de Cúcuta",
-   "resumen": "Distintos pronunciamientos se conocieron tras el asesinato de Miguel Castellanos, exsecretario de Gobierno de Cúcuta, mientras se espera que avance la investigación para esclarecer los hechos.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/LTY75CJ74NHQDD6NB577JZEDU4.jpeg?auth=ca073e80785cb2de5bb6ca6e1a2193db780a160d0f75aed607fd5d60b018dd3a&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/colombia/2026/10/26/reacciones-tras-el-asesinato-de-miguel-castellanos-exsecretario-de-gobierno-de-cucuta/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-27T02:48:51Z",
-   "id": "d4006f429539"
-  },
-  {
-   "titulo": "Amenazas, velocidad y muerte: la peligrosa realidad de los piques ilegales en la salida al mar de Cali, donde reforzarán los controles de tránsito",
-   "resumen": "La Secretaría de Movilidad anunció que aumentará los controles de movilidad tras denuncias de agentes de movilidad.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/05/01/69f515c123796.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/amenazas-velocidad-y-muerte-la-peligrosa-realidad-de-los-piques-ilegales-en-la-salida-al-mar-de-cali-donde-reforzaran-los-controles-de-transito-3596532",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-27T02:45:37Z",
-   "id": "79f536cd17c3"
-  },
-  {
-   "titulo": "Anuncian recompensa tras asesinato de Miguel Castellanos, exsecretario de Gobierno y precandidato a Alcaldía de Cúcuta: políticos condenan crimen",
-   "resumen": "George Quintero, secretario de Seguridad de la Gobernación de Norte de Santander, dio a conocer que la recompensa es de hasta 50 millones de pesos.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/26/6adff68b2872c.r_d.184-164-0.png",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/anuncian-recompensa-tras-asesinato-de-miguel-castellanos-exsecretario-de-gobierno-y-precandidato-a-alcaldia-de-cucuta-politicos-condenan-crimen-3596515",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-27T02:35:00Z",
-   "id": "34ba6f29cead"
-  },
-  {
-   "titulo": "¿Quién es y cómo operaba la 'reina de las estafas' en Cali que ahora cumple aseguramiento en una cárcel y no en su casa? Investigación de Fiscalía",
-   "resumen": "Marly Tabares, con un historial de 28 condenas por hurto, perdió el beneficio de la detención domiciliaria. Un juez la envió a un centro carcelario.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/26/6adfe206e6189.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/quien-es-y-como-operaba-la-reina-de-las-estafas-en-cali-que-ahora-cumple-aseguramiento-en-una-carcel-y-no-en-su-casa-investigacion-de-fiscalia-3596474",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-27T01:44:10Z",
-   "id": "46b759eb8b0e"
+   "fecha": "2026-10-27T02:19:38Z",
+   "id": "caba140fce77"
   },
   {
    "titulo": "Comparendos de convivencia en Bogotá: Así puedes saldar la deuda sin pagar dinero",
@@ -319,73 +385,18 @@
    "id": "24009d25de01"
   },
   {
-   "titulo": "Ministro de Vivienda anuncia tres frentes para atender la crisis del agua en Santa Marta",
-   "resumen": "El ministro de Vivienda, Jaime Andrés Beltrán, anunció tres líneas de trabajo para atender la crisis de agua potable en Santa Marta, mientras persiste la incertidumbre sobre la solución que reemplazará el proyecto de…",
-   "imagen": "https://caracol.com.co/resizer/v2/FPX2YX6MDRBEFEY2NDVGH3UBIM.jpg?auth=4712fa3f9a86cdd338f90cbe32a1992d519b455416fbe7cba661bb4faa6a365f&smart=true&width=2000&height=1500",
-   "enlace": "https://caracol.com.co/2026/10/27/ministro-de-vivienda-anuncia-tres-frentes-para-atender-la-crisis-del-agua-en-santa-marta/",
+   "titulo": "Dragón y Caballero regresan a la música con su nuevo sencillo “te acuerdas”",
+   "resumen": "El reconocido dueto cartagenero formado por Armando Páez (Dragón) y Donny Caballero, reconocido como pionero en fusionar géneros como dancehall, champeta, reggae, soca, zouk, afrobeat latino y música urbana, dueños de…",
+   "imagen": "https://caracol.com.co/resizer/v2/KPFMX2CCPJEEHP4PE56POCW5HY.jpg?auth=9eacc1e96940419864a1e816cc7b4c4e932ba615e105958e6fe99bffab00c903&smart=true&width=1280&height=854",
+   "enlace": "https://caracol.com.co/2026/10/27/dragon-y-caballero-regresan-a-la-musica-con-su-nuevo-sencillo-te-acuerdas/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-10-27T01:22:00Z",
-   "id": "859a3b22037c"
+   "fecha": "2026-10-27T00:25:08Z",
+   "id": "66fc04521868"
   },
   {
-   "titulo": "Zozobra en Suaza, Huila: hombres armados masacran a seis personas e incineran el vehículo en el que viajaban",
-   "resumen": "A esta hora las autoridades realizan un consejo de seguridad para establecer las causas del hecho violento.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/03/10/69b070cec15b4.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/zozobra-en-suaza-huila-hombres-armados-masacran-a-seis-personas-e-incineran-el-vehiculo-en-el-que-viajaban-3596517",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-27T01:00:09Z",
-   "id": "89ceed109291"
-  },
-  {
-   "titulo": "Tunja restringirá el acompañante en moto solo el 31 de octubre, tras acuerdo con moteros",
-   "resumen": "La restricción a la circulación de motocicletas con acompañante en Tunja, que inicialmente estaba prevista para el 30 y 31 de octubre y el 1 de noviembre, se aplicará finalmente durante una sola jornada: el sábado 31 de…",
-   "imagen": "https://caracol.com.co/resizer/v2/G2JUNZUFTBC5VIFU3PEYGYPMUE.jpg?auth=05c9f1674f85cfbd9f8e07dd47cb1548f7677a37f46cd8545dd8e739880e8a54&smart=true&width=640&height=434",
-   "enlace": "https://caracol.com.co/2026/10/27/tunja-restringira-el-acompanante-en-moto-solo-el-31-de-octubre-tras-acuerdo-con-moteros/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-27T00:58:00Z",
-   "id": "a67bccc6edfd"
-  },
-  {
-   "titulo": "Familia denuncia demoras en traslado urgente de paciente con falla multiorgánica",
-   "resumen": "Una denuncia por presuntas barreras en la atención médica hizo pública Ximena Mazo, quien solicita el traslado urgente de su esposo, Juan Carlos Gamboa Piragua , a una institución hospitalaria de cuarto nivel, ante el…",
-   "imagen": "https://caracol.com.co/resizer/v2/B5RZOWXSMRCGBI3HHBMWSJSU3A.jpeg?auth=0e23baf9b39cdde98d214505ce10d36afabcaac74f110dda21686fe16cc0c977&smart=true&width=1600&height=1131",
-   "enlace": "https://caracol.com.co/2026/10/27/familia-denuncia-demoras-en-traslado-urgente-de-paciente-con-falla-multiorganica/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-27T00:12:57Z",
-   "id": "a473274d5f5a"
-  },
-  {
-   "titulo": "Player Page",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU1hrVFVNblVRd0Zxem1qS2hZazdlZWZNbGpFMlhOSGhRTTd0VUhkcDdMa2NtMmpoN1Y2U3h2emdHVjV4TWFlbHlMTUhMTjhRUEVkNUlBeVdsNng3MHpidVdsNFNyX3pHMlVZcTRQUW9weW9xNUZPdU1JaENTTDMtbnBTZTl1R0QyN0lVNkhxbC1BbWh6Mmd0QVlLUlhRSXpZZm9WaDlWbHI3SEdpUlcxT2lNOA?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-10-27T00:02:08Z",
-   "id": "e66bf6683d4a"
-  },
-  {
-   "titulo": "La radiografía en cifras de la explotación infantil en Medellín: 39 capturas, dos cadenas perpetuas y $40.000 millones extinguidos",
-   "resumen": "Autoridades locales y distritales endurecen las medidas de prevención y judicialización para proteger a la niñez frente al delito transnacional.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/09/17/68cb385691ec2.r_d.247-201-0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/la-radiografia-en-cifras-de-la-explotacion-infantil-en-medellin-39-capturas-dos-cadenas-perpetuas-y-40-000-millones-extinguidos-3596482",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-27T00:01:00Z",
-   "id": "33a43882a388"
-  },
-  {
-   "titulo": "Asesinan en Cúcuta al exsecretario de gobierno Miguel Castellanos",
+   "titulo": "Asesinan en Cúcuta al exsecretario de Gobierno Miguel Castellanos",
    "resumen": "Miguel Castellanos, quien se desempeñó como Secretario de Gobierno de Cúcuta hasta enero del 2026, fue asesinado la noche de este lunes 26 de octubre sobre el Anillo Vial Occidental. El hecho de sangre se presentó a…",
    "imagen": "https://caracol.com.co/resizer/v2/MOEY7EZ2L5DQ3CQNW24ITMRNCQ.jpeg?auth=38b8d15042e857eefefabde5af7e7fee3e0ede12c26ec262380a50369ba1c2a5&smart=true&width=1280&height=960",
    "enlace": "https://caracol.com.co/2026/10/26/asesinan-en-cucuta-al-exsecretario-de-gobierno-miguel-castellanos/",
@@ -418,17 +429,6 @@
    "id": "f016601937a9"
   },
   {
-   "titulo": "Gremio de la Vigilancia Privada presentará primeros escudos antidrones del país en Cartagena",
-   "resumen": "Los ataques con drones se han convertido en un desafío para la seguridad del país. La Fuerza Pública, las instalaciones militares y policiales, la infraestructura estratégica y la población civil están entre los…",
-   "imagen": "https://caracol.com.co/resizer/v2/4G5W5HM5NJEUNDY7JE7FNN7RS4.jpg?auth=4977167c5feb9131d029dfd019a68da819866aa6d8faf4d8c72a7951d977a28e&smart=true&width=4000&height=3000",
-   "enlace": "https://caracol.com.co/2026/10/26/ix-congreso-internacional-de-seguridad-en-cartagena-reunira-a-gremio-de-la-vigilancia-privada/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-26T20:28:28Z",
-   "id": "710c2d6c881b"
-  },
-  {
    "titulo": "Tarifa de energía de la región Caribe aumenta de nuevo: ¿Desde cuándo aplicará?",
    "resumen": "",
    "imagen": "",
@@ -449,6 +449,17 @@
    "region": "Santander",
    "fecha": "2026-10-26T19:13:14Z",
    "id": "0e744af5765c"
+  },
+  {
+   "titulo": "Player Page",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcDM3UllWSDlaWm9sS2N5bjR5R0RxUWpKZ2hYNWhGbzlSN1hRT3pLS3lDU3dtQTlWWDZ1cEFfNjhHb1B5QWdsSEJYRzZaYmFLeXhPNWJMa2htQS1sdjYzTXIyM0hYbktkYTR3bnZFbENWM3VGNWcxSVBoZ09VVmVBVUdjT19WZ21HdVNJbXRKb0tWTERmT2RYNmFuZFpPLVhEQkZSazllc2hqTmhLc21sa0p2NGctNnVBMUV1ZVVPRWdhYVVJTnlTNU9lTUExMzRVdFFkYjNfSWNpeXc5Y1R4X0ZIbmdrdDZwMnAyRHpST2JaTEY5eTc0VkU1M3ctQQ?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-10-26T18:58:05Z",
+   "id": "e66bf6683d4a"
   },
   {
    "titulo": "Bogotá ofrece cursos gratis de inglés, IA y tecnología para adultos mayores de 50 años: Así puedes aplicar",
@@ -506,17 +517,6 @@
    "id": "61da6409e8e9"
   },
   {
-   "titulo": "Salario de intendentes y subintendentes de la Policía en 2026: Así es la escala salarial",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRHBuUjBYR2o1TFdvU0I2bzIxRTFzS2xpYXZjQ3g3dXZmRk0xeE52LVB6dmVyXzlLUjJYc3JrbkE1U3B5c2hqVEVtaWxGRFBYanVGU1plZXVKTnIxNzQ0dVhBWFQzUXdaQTdyOE1zZWFac1ZzY3daSkxraUJyUVowaXBLa1B0aGFORXMwdlRHSm1Bem9NQW9vN0hxdHQ1YWl3LTMyTVZWNmdHdjBPY3NBM2twMEFPN2pRWEJUbzRMakhPSW5p?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-10-26T15:30:46Z",
-   "id": "ba244f36e214"
-  },
-  {
    "titulo": "Cortes de agua en Bogotá del 26 al 30 de octubre de 2026: barrios afectados y horarios",
    "resumen": "",
    "imagen": "",
@@ -542,23 +542,12 @@
    "titulo": "Adulto mayor cayó por un precipicio de 100 metros en Barichara, Santander: los arbustos evitaron que siguiera derecho",
    "resumen": "",
    "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNmp3UUUzZkRubGRNNkJ2YzhZcEcybzQwZ0ltOHpsY1FKRWpEY1lOU2VsLVN3WDNYRlN5aC1VaTZweGZRNHBVLXk1aVBoSDltTU1oVDlsTDV4RGdrcXhYYnBORXdGUjVLNVZ4QllyX0xBU1ZqckR2VzFxUGc4ZG13amlTZ0JjWWFyYlE4T1RqUkpnbEtJODFnY2tVdTRvcTJfd2lsUm5IZzUtVlUzRkM0cUJ5d1RmVzNjSTcyQmVmekZJbTlMTjRxbFRwUVczamF1SFp4Q1k2b2RQMjNxUXZUazJkVFBXemZ3clYxY0dGM2U4YWNMQ00wQm5YdXI3RGZa0gGAAkFVX3lxTE02andRRTNmRG5sZE02QnZjOFlwRzJvNDBnSW04emxjUUpFakRjWU5TZWwtU3dYM1hGU3loLVVpNnB4ZlE0cFUteTVpUGhIOW1NTWhUOWxMNXhEZ2txeFhicE5Fd0ZSNUs1VnhCWXJfTEFTVmpyRHZXMXFQZzhkbXdqaVNnQmNZYXJiUThPVGpSSmdsS0k4MWdja1V1NG9xMl93aWxSbkhnNS1WVTNGQzRxQnl3VGZXM2NJNzJCZWZ6RkltOUxONHFsVHBRVzNqYXVIWnhDWTZvZFAyM3FRdlRrMmRUUFd6ZndyVjFjR0YzZThhY0xDTTBCblh1cjdEZlo?oc=5",
+   "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQOGxHcFhacDJDcVd3OXg3ZUJpZ08wdndPU0JEVnRqV3RFU1Z4YS1aYnhFQ1E2UGI0U3RZQVBMUktZbkpRNGJBcFVUdlRJRVRfR0NOcFBySDRDOTNLeEVSbzIwUU5OZjdERTdyZmxZTmlIbllRaE9lbHlkMFg4QmxuWUswQWxQbXVXTGktLUVYYktja0VOXzNuV1h1c2xKa3hqLU1FbHNfOGhPTjRhdTlaTWsyVk11cFNRWHVZLTNqX2FqbG5WY3VJVlVBSHJzM0kzVnRjVFlSdjJZc3BRZGtFVkpwZE9oZEhkWmpKbDRWWmVXZVlWYXVtU0Uwb9IBgAJBVV95cUxNNmp3UUUzZkRubGRNNkJ2YzhZcEcybzQwZ0ltOHpsY1FKRWpEY1lOU2VsLVN3WDNYRlN5aC1VaTZweGZRNHBVLXk1aVBoSDltTU1oVDlsTDV4RGdrcXhYYnBORXdGUjVLNVZ4QllyX0xBU1ZqckR2VzFxUGc4ZG13amlTZ0JjWWFyYlE4T1RqUkpnbEtJODFnY2tVdTRvcTJfd2lsUm5IZzUtVlUzRkM0cUJ5d1RmVzNjSTcyQmVmekZJbTlMTjRxbFRwUVczamF1SFp4Q1k2b2RQMjNxUXZUazJkVFBXemZ3clYxY0dGM2U4YWNMQ00wQm5YdXI3RGZa?oc=5",
    "medio": "El Tiempo",
    "fuente": "provincia",
    "region": "Santander",
    "fecha": "2026-10-26T01:16:58Z",
    "id": "fa47455a609d"
-  },
-  {
-   "titulo": "Oiba Santander, el pueblito pesebre de Colombia: a dos horas de Bucaramanga",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUjN1TXhFWVBwblhmeGdtalQ2eUhfa3Y4ejBlaE0tV1JQQVBSNjBSWC1rWXVlcG5CaDRKTXZWaUJMeks2UTQ4ZjgwYWJxa1A1MzM0Tmk3MURSLTQzcU5uc013eks0T09MY3BDWE12bERqR3R0WDRfTWFCc0Z1cmVuUGNKOXNLS2kxS28tVl9pRFZTV0lHWE9HYlZ1c1kwNEdfbFJYWDhkOExlWE1IMEtKZUJVaUtxX1nSAbcBQVVfeXFMTlIzdU14RVlQcG5YZnhnbWpUNnlIX2t2OHowZWhNLVdSUEFQUjYwUlgta1l1ZXBuQmg0Sk12VmlCTHpLNlE0OGY4MGFicWtQNTMzNE5pNzFEUi00M3FObnNNd3pLNE9PTGNwQ1hNdmxEakd0dFg0X01hQnNGdXJlblBjSjlzS0tpMUtvLVZfaURWU1dJR1hPR2JWdXNZMDRHX2xSWFg4ZDhMZVhNSDBLSmVCVWlLcV9Z?oc=5",
-   "medio": "Besame.fm",
-   "fuente": "provincia",
-   "region": "Santander",
-   "fecha": "2026-10-25T15:07:33Z",
-   "id": "0022771e052e"
   },
   {
    "titulo": "Emergencia en Guaca por avalancha que afectó puentes, cultivos y viviendas",
@@ -570,6 +559,17 @@
    "region": "Santander",
    "fecha": "2026-10-25T07:00:00Z",
    "id": "89843d6cb811"
+  },
+  {
+   "titulo": "Dos meses después de una riña mortal en Santander, capturan a señalado de asesinar a agricultor con una guadañadora",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdXF3SUVwWVZuMFFzN1Nsd0ZoM3dsMkVBUVRNRkV2RHk0bXpsbjJBSEc3V01jUlZmVG9PWWYyTEUwRXdySms4cnJCSmZ3dEQ1Z0VSVlRGM0F4RVpEWDlOYjhRS1NrTExpRk1LRm9KMk1OSVhLQlFranFTaFhDUmFMaXh6dGRqZGpXT1V4eTAtdWRKanBUOExSOHd4c25YQzdlNF9sUXpvZVNDS2RoLWhTVzZKQXBIRjJtRzNKVDRET1hta3hCc3FyOUFOOVhYdDNKVllIc2U1bHFuQQ?oc=5",
+   "medio": "Análisis Urbano",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-10-24T22:03:34Z",
+   "id": "0d32a2b4bf07"
   },
   {
    "titulo": "Desbordamiento de una quebrada deja incomunicadas a comunidades rurales en Santander",
