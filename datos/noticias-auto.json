@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29T07:06:16Z",
+ "actualizado": "2026-10-29T14:20:26Z",
  "fuentes": [
   {
    "id": "vanguardia",
@@ -44,70 +44,345 @@
  ],
  "noticias": [
   {
-   "titulo": "De La Espriella anuncia el resurgir de RTVC en la conmemoración de 22 años de la entidad",
-   "resumen": "El Sistema de Medios Públicos de Colombia vuelve a llamarse RTVC, tras el anuncio del presidente Abelardo De La Espriella. El mandatario señaló que el nombre reemplaza a Inravisión, denominación adoptada durante el…",
-   "imagen": "https://caracol.com.co/resizer/v2/WJN3LXSO25HYXECJXNXLJ5KV3A.jpg?auth=2eee60fc0892580a3cbe988d51d2455dadcdbe25293a81d6fc4abfc9deca9b40&smart=true&width=6138&height=4092",
-   "enlace": "https://caracol.com.co/2026/10/29/de-la-espriella-anuncia-el-resurgir-de-rtvc-en-la-conmemoracion-de-22-anos-de-la-entidad/",
+   "titulo": "Atlético Bucaramanga define el equipo para enfrentar a Deportivo Pasto",
+   "resumen": "Atlético Bucaramanga proyecta la nómina para enfrentar a Deportivo Pasto este viernes, 30 de octubre, en juego pendiente de la fecha 5 de la Liga BetPlay II de 2026.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/P5WQU4E5XRFC7LUMH6W3X5DPQE.jpg?auth=01742ae39d6c56d1a24b7633f442564e49a4eff03ebb59bba9def5131e078cd5&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/deportes/futbol/2026/10/29/atletico-bucaramanga-define-el-equipo-para-enfrentar-a-deportivo-pasto/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-29T14:16:09Z",
+   "id": "1dc216777ce4"
+  },
+  {
+   "titulo": "Juez ordena devolver las piezas retiradas del Museo Nacional en un plazo de 48 horas",
+   "resumen": "La decisión protege derechos fundamentales y exige que cualquier cambio en las exposiciones tenga sustento técnico y curatorial.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/534MFYNF4VEALNP4RVC6D65VCM.jpg?auth=72bbc464b2890ccb17a44446e07c3efc1c429ac87af542c3be11e6b8360523e6&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/colombia/2026/10/29/juez-ordena-devolver-las-piezas-retiradas-del-museo-nacional-en-un-plazo-de-48-horas/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-29T14:15:23Z",
+   "id": "ee8ecc327b00"
+  },
+  {
+   "titulo": "Noah Wyle, actor de la serie “The Pitt”, fue nombrado como el hombre más sexy del mundo en 2026",
+   "resumen": "El actor, director, productor y escritor de televisión Noah Wyle ha sido nombrado oficialmente por la revista “People” como “el hombre vivo más sexy”. ¿Qué dijo al enterarse de la noticia? “Pensé que se trataba de una…",
+   "imagen": "https://caracol.com.co/resizer/v2/GP6PFJ5DSJFWFAJ5W76HBTNNSE.png?auth=137a3784ad089f51f99417dffc25b9d4301d7dd67efcfddb13b6306c1e7ff7ec&smart=true&width=606&height=406",
+   "enlace": "https://caracol.com.co/2026/10/29/noah-wyle-actor-de-la-serie-the-pitt-fue-nombrado-como-el-hombre-mas-sexy-del-mundo-en-2026/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-10-29T06:24:24Z",
-   "id": "d20fcfea1f14"
+   "fecha": "2026-10-29T14:15:10Z",
+   "id": "d8bd182c7b5e"
   },
   {
-   "titulo": "Este halloween, Hulk quiere volver a ser niño",
-   "resumen": "Este 31 de octubre voy a ser Hulk. Sí, ese gigante verde, musculoso, aparentemente invencible, que cuando se enfurece parece capaz de destruir el mundo. Y seguramente algunos se preguntarán por qué un psiquiatra, a…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/CYTR3B4MAFC5TJ7OQHBU3JS5UA.jpg?auth=a5173e88613a287795ee2c5e4c94c291186c5429e28ef9889b3cfca6a874677f&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/29/este-halloween-hulk-quiere-volver-a-ser-nino/",
+   "titulo": "Carolina Figueredo Carrillo será la directora de la Comisión de Regulación de Comunicaciones (CRC)",
+   "resumen": "Caracol Radio conoció que Carolina Figueredo Carrillo será la nueva directora de la Comisión de Regulación de Comunicaciones (CRC). Su hoja de vida fue publicada en consulta pública por la entidad el 28 de octubre de…",
+   "imagen": "https://caracol.com.co/resizer/v2/XOXVW7JJBJG5FMWOD7NUPB26TI.jpeg?auth=ac789cd0cf59efca7216e7a5e15f1a8eaf56df77dd59b85efe24f75808f67911&smart=true&width=768&height=576",
+   "enlace": "https://caracol.com.co/2026/10/29/carolina-figueredo-carrillo-sera-la-directora-de-la-comision-de-regulacion-de-comunicaciones-crc/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-29T14:14:11Z",
+   "id": "b422c7f12910"
+  },
+  {
+   "titulo": "Ryan Castro llegará a Bogotá este 31 de octubre con su espectáculo de Halloween Awooween",
+   "resumen": "Bogotá se prepara para una noche de música urbana con la presentación de Ryan Castro este sábado 31 de octubre de 2026 . El artista colombiano llegará al estadio Nemesio Camacho El Campín con Awooween , un espectáculo…",
+   "imagen": "https://caracol.com.co/resizer/v2/QFSJQFRSF5FTBGTSKYJJ4TCVKE.jpg?auth=227e8fa7e459fdf6f6d58d24b5cda8ed6064e6fc644326e5fe0403779946d79b&smart=true&width=5447&height=4085",
+   "enlace": "https://caracol.com.co/2026/10/29/ryan-castro-llegara-a-bogota-este-31-de-octubre-con-su-espectaculo-de-halloween-awooween/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-29T14:13:29Z",
+   "id": "1404ea1500e1"
+  },
+  {
+   "titulo": "¡Histórico! Milwaukee Brewers conquistaron su primera Serie Mundial de la MLB",
+   "resumen": "Los Milwaukee Brewers hicieron historia en las Grandes Ligas de Béisbol (MLB) al conquistar su primera Serie Mundial. El equipo derrotó 4-1 a los Tampa Bay Rays en el quinto juego de la final , disputado este miércoles…",
+   "imagen": "https://caracol.com.co/resizer/v2/GMPYVYGTKRD5REW4C7H4ABGXE4.jpeg?auth=3b6e798d803c1700f644695ea90fe461c27bb241e8cf310c225b74d7b5934d3b&smart=true&width=1600&height=1067",
+   "enlace": "https://caracol.com.co/2026/10/29/historico-milwaukee-brewers-conquistaron-su-primera-serie-mundial-de-la-mlb/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-29T14:13:05Z",
+   "id": "d8637eaec616"
+  },
+  {
+   "titulo": "Odontólogo fue asesinado en Tibú tras haber sido secuestrado, esto se sabe",
+   "resumen": "El profesional habría sido llevado del lugar donde trabajaba. En la zona operan estructuras del Eln y disidencias, sin responsables confirmados.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/OD3E2O4DSFEPXNGCZJHCII4EOE.jpg?auth=c49c1b446348fd78e9597cfc713c9b739fa67772b05bd5fca1c310187ce30083&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/colombia/2026/10/29/odontologo-fue-asesinado-en-tibu-tras-haber-sido-secuestrado-esto-se-sabe/",
    "medio": "Vanguardia",
    "fuente": "vanguardia",
    "region": "Santander",
-   "fecha": "2026-10-29T06:00:00Z",
-   "id": "cfc9fde7092b"
+   "fecha": "2026-10-29T14:11:22Z",
+   "id": "80c5f98dd3b5"
   },
   {
-   "titulo": "Muchas historias, un solo país",
-   "resumen": "El 15 de octubre el gobierno retiró decenas de piezas del Museo Nacional. Para entender la importancia de ese acto hablé con mi colega Alejandro Múnera, profesor de la Universidad Javeriana y miembro del equipo de…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/GSZBP3PCPFDGZN2GFIWSLQLPPA.jpg?auth=65f2e1aaf3d3441e47098ada9c7684217ea09e6647c229e84e38040d14aa865c&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/29/muchas-historias-un-solo-pais/",
+   "titulo": "Así está la tabla de posiciones en la Liga BetPlay II 2026: Once Caldas vuelve al grupo de los ocho y Medellín se complica",
+   "resumen": "Atlético Nacional se mantiene como líder de la Liga BetPlay con 32 puntos, seguido por América de Cali, con 31, y Deportivo Cali, con 30 unidades.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/TCBIP5GHHNB4LEGKFT6MQ5VJEY.jpg?auth=e99f2f40503e423da49bf7300a3870259847497b97ef53c056d513cb6eb6b96b&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/deportes/futbol/2026/10/29/asi-esta-la-tabla-de-posiciones-en-la-liga-betplay-ii-2026-once-caldas-vuelve-al-grupo-de-los-ocho-y-medellin-se-complica/",
    "medio": "Vanguardia",
    "fuente": "vanguardia",
    "region": "Santander",
-   "fecha": "2026-10-29T06:00:00Z",
-   "id": "df74200e84e1"
+   "fecha": "2026-10-29T14:10:52Z",
+   "id": "0a5dd5d20fa4"
   },
   {
-   "titulo": "Los verdaderos monstruos no necesitan disfraz",
-   "resumen": "Para un niño, el 31 de octubre es uno de los días más esperados del año. Desde semanas antes sueña con convertirse en su personaje favorito, escoge con ilusión su disfraz y cuenta los días para salir a pedir dulces…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/K6NCJLQDIRBMPOPUP73YLZXX3M.jpg?auth=a8b58cb7b4b2915e60e473fdd5976deb94187df0640e1f0ca594751da46c46c2&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/29/los-verdaderos-monstruos-no-necesitan-disfraz/",
+   "titulo": "Cayó ‘Dimax’ en Medellín: habría fingido ser indígena para evadir prisión por homicidios en Cali",
+   "resumen": "Juan Carlos Vacca Castillo, conocido con los alias de ‘Dimax’ o ‘Dmax’, fue capturado en Medellín luego de ser expulsado de Panamá, al ser señalado como uno de los principales articuladores de estructuras criminales en…",
+   "imagen": "https://caracol.com.co/resizer/v2/GU2QWOBKLNCSPHTGDLW3LCYPME.jpeg?auth=cbef4353416399b3e967672e30386f2d7f1546a833304a000e3b63621e83ed95&smart=true&width=1600&height=898",
+   "enlace": "https://caracol.com.co/2026/10/29/cayo-dimax-en-medellin-habria-fingido-ser-indigena-para-evadir-prision-por-homicidios-en-cali/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-29T14:10:32Z",
+   "id": "546df746deb3"
+  },
+  {
+   "titulo": "Deimer Mosquera renuncia a su cargo como gerente de ciudad: entre sus aspiraciones estaría la Alcaldía de Bucaramanga",
+   "resumen": "Deimer Mosquera estuvo al frente de la Gerencia de Ciudad en Bucaramanga durante ocho meses. Renunció para no quedar inhabilitado y participar en las elecciones regionales de 2027.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/7QR6IJQGUZCK7DJ7B2IKBIBEPQ.jpeg?auth=73cd7737c05f60b1c392c8a1740228def719e9aef0dd292bbca0b68c7b67e35e&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/politica/2026/10/29/deimer-mosquera-renuncia-a-su-cargo-como-gerente-de-ciudad-entre-sus-aspiraciones-estaria-la-alcaldia-de-bucaramanga/",
    "medio": "Vanguardia",
    "fuente": "vanguardia",
    "region": "Santander",
-   "fecha": "2026-10-29T06:00:00Z",
-   "id": "c68ddd45509e"
+   "fecha": "2026-10-29T14:09:59Z",
+   "id": "2d22374ef206"
   },
   {
-   "titulo": "Rionegro se ahoga en su propia basura",
-   "resumen": "Recorrer el municipio es encontrarse un río de basuras en cada esquina y un olor nauseabundo diferente en cada cuadra. Los alrededores de la plaza de mercado son una “reserva natural” de chulos y roedores a la vista de…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/ET3JPF7CKNBKXPZQQ4TEKYKMAA.jpeg?auth=aa9e830fee8056ec08bc7e046ded7dcb0dd9f0d5604f07016998a0a9d7620aa3&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/29/rionegro-se-ahoga-en-su-propia-basura-2/",
+   "titulo": "Las estrategias que usa el Colegio Divino Niño en Bucaramanga para ser el mejor en Colombia en las pruebas Saber: ya había estado en el primer puesto",
+   "resumen": "Con 400 puntos totales en este examen, el colegio bilingüe quedó en el podio de los mejores.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2023/12/07/6572026fe2cee.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/santander/las-estrategias-que-usa-el-colegio-divino-nino-en-bucaramanga-para-ser-el-mejor-en-colombia-en-las-pruebas-saber-ya-habia-estado-en-el-primer-puesto-3597154",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-29T14:07:07Z",
+   "id": "9b9635938b77"
+  },
+  {
+   "titulo": "Capturan a cinco presuntos disidentes del Valle en Tuluá: este fue el balance de De La Espriella",
+   "resumen": "Cinco presuntos integrantes del Frente 57 ‘Yair Bermúdez’, de las disidencias de las Farc, fueron capturados durante una operación militar en zona rural de Tuluá, Valle del Cauca. Entre los detenidos estarían dos…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/XL2MTOAEIVFBXEUU23YMSVQIUI.jpg?auth=48ea80382e2e1792ed974cf88926165578b704bfefee293311f0038c74e3f4eb&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/colombia/2026/10/29/capturan-a-cinco-presuntos-disidentes-del-valle-en-tulua-este-fue-el-balance-de-de-la-espriella/",
    "medio": "Vanguardia",
    "fuente": "vanguardia",
    "region": "Santander",
-   "fecha": "2026-10-29T06:00:00Z",
-   "id": "ebd630efd7f4"
+   "fecha": "2026-10-29T14:06:46Z",
+   "id": "2b08d6d6178e"
   },
   {
-   "titulo": "El gigante",
-   "resumen": "“Gigante pela própria Natureza”, dice una estrofa del himno brasileño, y la verdad es que nuestro vecino, que representa la mitad del PIB de Suramérica, es, de lejos, el país continente. Por eso, el general del Ejército…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/NHI6UXWY4BCT7HISEH2A5K6VBY.jpg?auth=1d99778bfcdcacbcedcc1604ac465aaa27db54cc6007df6dbdf9f6f630f24db5&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/29/el-gigante/",
+   "titulo": "¿Careos de De la Espriella afectan debido proceso de capturados? Abogado Francisco Bernate explica",
+   "resumen": "En desarrollo. Escuchar la entrevista completa: Escuchar Caracol Radio en vivo:",
+   "imagen": "https://caracol.com.co/resizer/v2/G5YLAMVM7BFIJDAAJVPGBIM34E.png?auth=c3ff4b6deebfb8a518ce2a93047789158b3eaf17100aa41954d8f1ebcf886786&smart=true&width=650&height=488",
+   "enlace": "https://caracol.com.co/2026/10/29/careos-de-de-la-espriella-afectan-debido-proceso-de-capturados-abogado-francisco-bernate-explica/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-29T14:05:55Z",
+   "id": "b365c8ac6cb1"
+  },
+  {
+   "titulo": "Pico y placa: así rige hoy, jueves 29 de octubre, en Bucaramanga y el área",
+   "resumen": "Aquí le contamos cómo rige hoy, 29 de octubre, el pico y placa en Bucaramanga",
+   "imagen": "https://www.vanguardia.com/resizer/v2/IZ73J7NTXFAYTJ3XRD3OLGDX4U.jpg?auth=1e227078ccacce18c43e5ba081e75e64ee53ddbcc9d92dfc042fbb5f0f8f480c&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/10/29/pico-y-placa-asi-rige-hoy-jueves-29-de-octubre-en-bucaramanga-y-el-area/",
    "medio": "Vanguardia",
    "fuente": "vanguardia",
    "region": "Santander",
-   "fecha": "2026-10-29T06:00:00Z",
-   "id": "e4b9b1b05045"
+   "fecha": "2026-10-29T14:04:52Z",
+   "id": "c169f241c4fb"
+  },
+  {
+   "titulo": "Dólar HOY 29 de octubre 2026 en Colombia: la divisa internacional inicia la jornada al alza",
+   "resumen": "El dólar estadounidense es la divisa con más movimiento en el mercado internacional y desempeña un papel clave en la importación y exportación de productos. Por tal motivo es que las variaciones en su cotización afectan…",
+   "imagen": "https://caracol.com.co/resizer/v2/G24YSH3YF5EWHACOJXTNIIWVF4.png?auth=7c465c2c715fa0e16c97c53ca5c9c942b2f74f27ecd8ac2f1ae176834f35f981&smart=true&width=2048&height=1365",
+   "enlace": "https://caracol.com.co/2026/10/29/dolar-hoy-29-de-octubre-2026-en-colombia-la-divisa-internacional-inicia-la-jornada-al-alza/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-29T14:04:17Z",
+   "id": "af7ad5cf9364"
+  },
+  {
+   "titulo": "Triqui, Triqui: así es la receta de coctel terrorífico para celebrar Halloween en casa",
+   "resumen": "Prepare el coctel Triqui, Triqui para Halloween: una bebida terrorífica, llamativa y perfecta para sorprender a tus invitados en la noche más espeluznante.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/UMSTY7ZA2BHGPDB6BFVLXPKWL4.jpg?auth=c8bb89ddd954907f21df620fed6a196803082d414222b3e729fd0a3e3f7c8df9&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/entretenimiento/gastronomia/2026/10/29/triqui-triqui-asi-es-la-receta-de-coctel-terrorifico-para-celebrar-halloween-en-casa/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-29T14:00:22Z",
+   "id": "42dcfba6e89a"
+  },
+  {
+   "titulo": "“Los usa como propaganda política”: abogado sobre confrontaciones de De la Espriella a detenidos",
+   "resumen": "En entrevista con Julio Sánchez Cristo en 6AM W de Caracol Radio, el abogado penalista Santiago Trespalacios abordó el debate en torno a los recientes operativos de captura liderados por el presidente Abelardo de la…",
+   "imagen": "https://caracol.com.co/resizer/v2/BJEQ75QDG5DD5D5ZORDNQI34EM.jpg?auth=ae0dd3683ddadf68f45c315e01c0adbf59758b98f44350be41ccf8d5551247fb&smart=true&width=1024&height=682",
+   "enlace": "https://caracol.com.co/2026/10/29/los-usa-como-propaganda-politica-abogado-sobre-confrontaciones-de-de-la-espriella-a-detenidos/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-29T13:32:33Z",
+   "id": "992510df4fae"
+  },
+  {
+   "titulo": "Comenzó la construcción del campus de la UIS en San Gil tras demolición de antiguo hotel",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNnpic2trWXQxRkt3RWRrQlFnRjAyczdxaEtLc3FxY0RzZ0FFT05PNGo3aVBCNGlvZldqOWtuRm1fNkVhYXRsbU00TEVBcThRVUhhSEVWb2k0MnVzYWVBc194dlhzaGV6ZnVveklsbm4zTEhudmJHbk5Yc3VxekV5VzdUd1RiRHNndUE5VXlONUhVbXpYLWRiMVkwbFAxa0hqaDA5ZmFWNl8zWTM1OGlLZkpfbGdKLXEzX1cwN0RuZGQ3T3VUYk1YVXpQcnpTa1E3M2MycmlR0gHjAUFVX3lxTE5aVUI3NXhrQlNZRXBxcGtLTFBORWpzbkZSRDVuQ2RWa24tQzNZZ25lNmJxWG1uNE9JbC15V3lfMDFsVmI0YVVCQmxlNGh5dml1cU1WU3cxOHJocUNndGpna2JIajdXRjZYWGFna3NuMVA2SF9WMWs0Nm8yVVFLUXBxQWh4akhnOG9NUi1KT3V1ZUxmNW83NkFhdTFtWEVEREVGQTltTEF3MkFveW14SWN4VnJtdm51Nmo1R1B5SEszZDVRaFM3TjRBNllSSTc2SEF1eEt5SVZtV3pYdVBiZnVtRWVN?oc=5",
+   "medio": "Blu Radio",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-10-29T13:15:19Z",
+   "id": "173fb241ec06"
+  },
+  {
+   "titulo": "Lotería del Meta: todos los resultados del sorteo del miércoles 28 de octubre de 2026",
+   "resumen": "Este miércoles 28 de octubre 2026 se realizó un nuevo sorteo de la Lotería del Meta. Conozca el número ganador del premio mayor y los premios secos.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/ZQW5ZXGXFBADPOHGDFXAYBELMY.png?auth=00743c068fcd4130b4bb42a452c3205194e17bda23db110ac6dd27b88438d761&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/loterias/2026/10/28/loteria-del-meta-resultado-del-sorteo-del-miercoles-28-de-octubre-de-2026/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-29T13:13:38Z",
+   "id": "9c27f3790fff"
+  },
+  {
+   "titulo": "Lotería de Manizales: todos los resultados del sorteo del miércoles 28 de octubre de 2026",
+   "resumen": "Aquí le contamos el número ganador de la Lotería de Manizales de hoy miércoles 28 de octubre de 2026, el plan de premios y más detalles.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/VEPEMSMPPJE4XMS2ACOVBWGIDQ.png?auth=b01652bf726faf9fcd340cb16f8329bbd562a2e97790491728043f92144d3cb9&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/loterias/2026/10/28/loteria-de-manizales-resultado-del-sorteo-del-miercoles-28-de-octubre-de-2026/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-29T13:11:26Z",
+   "id": "e2f5ef22823b"
+  },
+  {
+   "titulo": "Tras dos años de espera se da inicio al tramo final de la Troncal Oriental del MIO en Cali con 70 % de dineros del Gobierno: ¿quién es el contratista?",
+   "resumen": "El proyecto tendrá una inversión de 136.021 millones de pesos, de los cuales el Gobierno Nacional cofinancia más de la mitad de los recursos.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2024/12/06/675387f36b582.r_d.1073-141-0.png",
+   "enlace": "https://www.eltiempo.com/colombia/cali/tras-dos-anos-de-espera-se-da-inicio-al-tramo-final-de-la-troncal-oriental-del-mio-en-cali-con-70-de-dineros-del-gobierno-quien-es-el-contratista-3597131",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-29T13:10:50Z",
+   "id": "e21964023da4"
+  },
+  {
+   "titulo": "Lotería del Valle: todos los resultados del sorteo del miércoles 28 de octubre de 2026",
+   "resumen": "Consulte acá todos los números y series ganadores del último sorteo de la Lotería del Valle del miércoles 28 de otubre de 2026.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/BGXFTK5MA5FSDGHXMV2P5ZHM5E.png?auth=2e0b0ec1de4160b6ea0f59ae0137a466229e33f8d10369d34b5ec71a9b1b2869&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/loterias/2026/10/28/loteria-del-valle-resultado-del-sorteo-del-miercoles-28-de-octubre-de-2026/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-29T13:09:11Z",
+   "id": "6e2246d3f4b0"
+  },
+  {
+   "titulo": "Por poco otra tragedia en Tasajera, Magdalena: un camión cargado de guineo estalló mientras habitantes retiraban su carga; esto se sabe",
+   "resumen": "Una detonación hizo correr a las personas que extraían mercancía de un vehículo incendiado sobre la vía Barranquilla- Santa Marta.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/29/6ae343658e5bc.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/por-poco-otra-tragedia-en-tasajera-magdalena-un-camion-cargado-de-guineo-estallo-mientras-habitantes-retiraban-su-carga-esto-se-sabe-3597141",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-29T13:07:28Z",
+   "id": "d9c77da46a6d"
+  },
+  {
+   "titulo": "Sube a 69 la cifra de muertos en accidente ferroviario en España y crece la investigación",
+   "resumen": "Las autoridades reportan 50 personas hospitalizadas y mantienen las labores de emergencia mientras avanzan las investigaciones sobre el siniestro.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/WANRJSNLOVCA3D2TVQQEBYTT7M.jpg?auth=5eb1e04724871ad008d0684f17c4b883a250fc8e33f67627c397acf1f2ad902b&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/mundo/2026/10/29/sube-a-69-la-cifra-de-muertos-en-accidente-ferroviario-en-espana-y-crece-la-investigacion/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-29T13:06:13Z",
+   "id": "b15d795f8979"
+  },
+  {
+   "titulo": "Resultado de Baloto y Revancha: qué cayó hoy miércoles 28 de octubre de 2026",
+   "resumen": "¿Busca los resultados del Baloto? Consulte los números ganadores del sorteo más reciente y conozca el multimillonario acumulado para este miércoles 28 de octubre de 2026.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/RXY34LMJWZGMHI62CPLU4NSKBA.png?auth=9773cbb68f6b6b1cdf84bdf948eb8dfca813e341f701f473d7c89920e769cf4d&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/loterias/2026/10/28/resultado-de-baloto-y-revancha-que-cayo-hoy-miercoles-28-de-octubre-de-2026/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-29T13:04:57Z",
+   "id": "d7906d817a3b"
+  },
+  {
+   "titulo": "Los dos mexicanos capturados en Barranquilla que, según la Policía, coordinaban envíos de toneladas de cocaína a EE. UU. y Europa",
+   "resumen": "Los ciudadanos mexicanos, conocidos como ‘La Patrona’ y ‘Pau’, son pedidos en extradición.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/29/6ae33d5cf2d43.png",
+   "enlace": "https://www.eltiempo.com/colombia/barranquilla/los-dos-mexicanos-capturados-en-barranquilla-que-segun-la-policia-coordinaban-envios-de-toneladas-de-cocaina-a-ee-uu-y-europa-3597134",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-29T12:44:01Z",
+   "id": "1b85f14e4a97"
+  },
+  {
+   "titulo": "Adiós al hotel Bella Isla de San Gil, Santander. Demolieron uno de los íconos del turismo",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZXNrcUFkeGhmTElNdlVkX3JjYXR0ZlRJT1RoUlNVdnRTWHQ1ZmswVkxsVnRZODBWTXVTWTRxTUhRdmozMy1zWE0ycVFYV1VnVzFkdDdyZURvU0s4amdtRlFrcHVJLUVKWGlBcFJGUW8zQ3pTazhITk1Yb0V3NjZtWTZ0VGxNY0FOTXlHd3V0OG9oc3hZcG5fMUgzQzJuVXRjX1FfaXZZWXgwTkdZZzF1eDVOcEdoci1xdGstc2VjONIB0wFBVV95cUxPQ0dvRUJLQm1HN3o5aHF2bmRnWGc1M2RpUVM0SHBOM01RY01zN0tWUmZkOFlnOTdTN19QN1hCLVpBQVk0cVA3YTJQNjdXNU9vTkpGcFY3Y0xCZGxNSTJZR09SVFZud2paa1pfc2UzU1Vma05WOGlkVXJLb3pFVHd6aXJBWm5TQkFfZmtRYzdZN3lOV2F5VnZoQ2ZmYmc5MUhlTWNGelo4b19LVUIwNzd4MEZvOGlQV3JtSnRsb0FwbVo4Y0RSa0NfRFJWNEdZZXFkZ3pF?oc=5",
+   "medio": "Caracol Radio",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-10-29T12:07:01Z",
+   "id": "966058c2e711"
+  },
+  {
+   "titulo": "¡Evite multas, conductor! Pico y placa en Pereira para el jueves 29 de octubre de 2026: estos carros y motos tendrán restricción",
+   "resumen": "La medida estará vigente durante 14 horas. Consulte los números de placa restringidos para carros y motocicletas este jueves.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/01/21/678fa0e57d973.r_d.634-325-0.png",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/evite-multas-conductor-pico-y-placa-en-pereira-para-el-jueves-29-de-octubre-de-2026-estos-carros-y-motos-tendran-restriccion-3596977",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-29T07:30:00Z",
+   "id": "98c7ae8f433b"
+  },
+  {
+   "titulo": "Pico y placa en Bucaramanga para el jueves 29 de octubre de 2026: vehículos que no pueden circular",
+   "resumen": "La medida estará vigente durante 14 horas. Consulte los números restringidos y la rotación semanal del último trimestre del año.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2025/03/27/67e54afbb0f94.png",
+   "enlace": "https://www.eltiempo.com/colombia/santander/pico-y-placa-en-bucaramanga-para-el-jueves-29-de-octubre-de-2026-vehiculos-que-no-pueden-circular-3596976",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-29T07:30:00Z",
+   "id": "cdc5201db2d9"
+  },
+  {
+   "titulo": "¡Pilas, conductor! Pico y placa en Cali para el jueves 29 de octubre de 2026: así opera la medida de movilidad",
+   "resumen": "La medida para vehículos particulares se aplicará durante 13 horas. Consulte los números restringidos y la rotación semanal vigente.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2023/08/15/64dbb00a0cc3d.png",
+   "enlace": "https://www.eltiempo.com/colombia/cali/pilas-conductor-pico-y-placa-en-cali-para-el-jueves-29-de-octubre-de-2026-asi-opera-la-medida-de-movilidad-3596974",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-29T07:30:00Z",
+   "id": "c82ed8cc1537"
+  },
+  {
+   "titulo": "Pico y placa en Medellín para el jueves 29 de octubre de 2026: carros, motos y taxis que tendrán restricción",
+   "resumen": "Los carros y las motos tendrán restricción desde las 5:00 a. m. Los taxis deberán cumplir una rotación diferente desde las 6:00 a. m.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2023/10/09/652408049c3cd.png",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/pico-y-placa-en-medellin-para-el-jueves-29-de-octubre-de-2026-carros-motos-y-taxis-que-tendran-restriccion-3596924",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-29T07:30:00Z",
+   "id": "ba1aa3bda61f"
   },
   {
    "titulo": "Enemistades políticas",
@@ -121,91 +396,14 @@
    "id": "965990597df7"
   },
   {
-   "titulo": "Trump quiere anexar a Venezuela",
-   "resumen": "Caricatura de Yeyo del 29 de octubre de 2026",
-   "imagen": "https://www.vanguardia.com/resizer/v2/BVWEKQNALJFWJI5MESBWF2EM6E.jpg?auth=f4c0357364dc6163d66a6a6567b3d16228124f5b7a91c4bee95f9f2acd054d10&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/opinion/caricaturas/2026/10/29/trump-quiere-anexar-a-venezuela/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-29T06:00:00Z",
-   "id": "9e3e41dfa558"
-  },
-  {
-   "titulo": "Los salones sociales",
-   "resumen": "Empiezan a alistarse los salones sociales para celebrar el día de las brujas, la navidad con sus novenas, las despedidas de año; y surgen generalmente preguntas tales como: ¿hasta qué hora se puede usar?, ¿se puede…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/PQVFAVY2KRB75BTZ6REKZHR2SU.jpg?auth=e5b30c0cf703ea5f0478c8c698a9b835c70c1ecf61f2895cdd8c30579648ae2d&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/10/29/los-salones-sociales/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-29T06:00:00Z",
-   "id": "73c7cb1ac086"
-  },
-  {
-   "titulo": "Una oportunidad que no puede perderse",
-   "resumen": "Santander tiene hoy la oportunidad de consolidar su presencia en el turismo internacional, el cual está dándole una base real sobre la cual crecer, pero esto solo será posible si la infraestructura terrestre se repara y…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/Y77HSAMVDRGCBAKRMUB7GJBV6Y.jpg?auth=9fda64626f20c1611bc18d55707d029290a765be2ce035a22502a229ab61e783&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/opinion/editorial/2026/10/29/una-oportunidad-que-no-puede-perderse/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-29T06:00:00Z",
-   "id": "4d411ab1937e"
-  },
-  {
-   "titulo": "Polémica | ¿Por qué el monumento Las Trompetas de Niche está pintado de color rosado? La Alcaldía de Cali anunció investigación",
-   "resumen": "La intervención, que incluyó publicidad exterior de una marca de gaseosas, generó indignación entre los caleños. Horas más tarde, fue retirada.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/28/6ae2bf181bd42.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/polemica-por-que-el-monumento-las-trompetas-de-niche-esta-pintado-de-color-rosado-la-alcaldia-de-cali-anuncio-investigacion-3597104",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-29T05:09:38Z",
-   "id": "16ab2d962f53"
-  },
-  {
-   "titulo": "Ante escalada de violencia, Gobernadora del Tolima pide militarizar el sur del Departamento",
-   "resumen": "La gobernadora del Tolima, Adriana Magali Matiz le hizo un llamado al Gobierno Nacional, para una militarización inmediata del municipio de Ataco y de los corredores estratégicos del sur del departamento tras una grave…",
-   "imagen": "https://caracol.com.co/resizer/v2/QPGYKYSMCRD2JI5JAH2XG5BETA.jpeg?auth=55bb9aeddd903376a7c8033c599c1bd50de444c855824cb659e1eb6ff17fed58&smart=true&width=1141&height=853",
-   "enlace": "https://caracol.com.co/2026/10/29/ante-escalada-de-violencia-gobernadora-del-tolima-pide-militarizar-el-sur-del-departamento/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-29T04:43:35Z",
-   "id": "312fd167099c"
-  },
-  {
-   "titulo": "El Lago, el parque donde fuimos eternamente niños",
-   "resumen": "El Lago, el parque que hizo felices a generaciones de santandereanos",
-   "imagen": "https://www.vanguardia.com/resizer/v2/6M4UYBVICRGG5IIS7ZBGGVO73Q.jpeg?auth=96d640288352f2093fd73013547126811ad6cbf428bb4a3ea72ea5abf3da998b&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/area-metropolitana/floridablanca/2026/10/28/el-lago-el-parque-donde-fuimos-eternamente-ninos/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-29T04:17:05Z",
-   "id": "cb7595f21c9a"
-  },
-  {
-   "titulo": "En video: joven ciclista estuvo a punto de ser arrollada por un taxista en la vía Girón – Floridablanca",
-   "resumen": "Una ciclista estuvo a punto de sufrir un accidente con un taxi en el Anillo Vial, en el sector de Tierra Santa, sentido Girón–Floridablanca, durante la mañana del domingo 25 de octubre.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/IR5JEK76JBCDBOJC526M4KLW7M.png?auth=82625611da7b604e8a3f8459201c026214a9569e8c0682d835cc0797e6a997d9&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/area-metropolitana/2026/10/28/en-video-joven-ciclista-estuvo-a-punto-de-ser-arrollada-por-un-taxista-en-la-via-giron-floridablanca/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-29T04:16:31Z",
-   "id": "96a650d879dc"
-  },
-  {
    "titulo": "Histórico Hotel Bella Isla es demolido: UIS dio inicio a obras de la sede en San Gil",
-   "resumen": "Las viejas y deterioradas habitaciones del antiguo Hotel bella Isla fueron las primeras en ser demolidas en el inicio de las obras de la nueva sede de la UIS en San Gil.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/IZ3U2OPYX5DCLNYK6JGNT3F6TM.jpeg?auth=5592ecb1910e60d24542cef29a917ae2e66fa04dba18079f05a9acc3b33ab81f&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/santander/guanenta/2026/10/28/historico-hotel-bella-isla-fue-demolido-uis-sorprendio-con-inicio-de-obras-de-la-sede-en-san-gil/",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNM0lNUkxTNVVkN2puQTZRbmhnVEpfRGVPZlVsQmdTeC1reW1PRDItNHhOMTlLdktaengxc3BJRVpSd3lNcTNQczItcUpKMlZQSnp3RHhDNUlpdVJFTTM5ZFd4VVpTTFNrQVhtdHBVU3dyOVpJMHhKcXVvdHpPR2UtODFVUTl2bFhuLXpJUGdoNWtrMjFGRGFQSTY5c1lnSHhCRkNDNjY3cU1pTkxtVmNtRUJKZS1kVXR0SjJYUUlTazBuY1JQSDVkTFVqeU4tdzdZWVpyMjR5TzJxWnB6eVBES21rQy1aWHloQ3c?oc=5",
    "medio": "Vanguardia",
-   "fuente": "vanguardia",
+   "fuente": "provincia",
    "region": "Santander",
-   "fecha": "2026-10-29T04:15:32Z",
+   "fecha": "2026-10-29T04:15:00Z",
    "id": "07fe35694009"
   },
   {
@@ -220,202 +418,15 @@
    "id": "d5a3ec84fbba"
   },
   {
-   "titulo": "¿Cómo quedó definido el calendario para las elecciones regionales de 2027?",
-   "resumen": "La Registraduría Nacional del Estado Civil publicó el calendario electoral para el próximo año.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/C3E4FLQLTNCSLF76OJMBGNKINM.jpg?auth=b96e756a4366f1de37dc9fe808a99bc56018e9eb17c0958d2b35573022b0098c&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/politica/2026/10/28/como-quedo-definido-el-calendario-para-las-elecciones-regionales-de-2027/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-29T04:12:14Z",
-   "id": "787ca8e1312c"
-  },
-  {
-   "titulo": "¿Se desintegró el frente 36 que lideraba alias Chejo? El frente 4 habría acogido a los que quedaban",
-   "resumen": "El frente 36 de las disidencias de las Farc en Antioquia fue liderado por alias Óscar Javier Cuadros Zea, alias “ Chejo ”, luego de la ruptura de la relación con Néider Yesid Uñate López, alias “ Primo Gay ”, quien…",
-   "imagen": "https://caracol.com.co/resizer/v2/XNSLQ2HINVEEDDDKCDQK5Y6Y2I.jpg?auth=0faa5bf02ba0174232abeb47b856d4f69d1a2cc1d3846212b03fc5455635d5ce&smart=true&width=992&height=558",
-   "enlace": "https://caracol.com.co/2026/10/29/se-desintegro-el-frente-36-que-lideraba-alias-chejo-el-frente-4-habria-acogido-a-los-que-quedaban/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-29T04:06:38Z",
-   "id": "743a9ffdb495"
-  },
-  {
-   "titulo": "Lotería de Manizales: resultado del sorteo del miércoles 28 de octubre de 2026",
-   "resumen": "Aquí le contamos el número ganador de la Lotería de Manizales de hoy miércoles 28 de octubre de 2026, el plan de premios y más detalles.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/VEPEMSMPPJE4XMS2ACOVBWGIDQ.png?auth=b01652bf726faf9fcd340cb16f8329bbd562a2e97790491728043f92144d3cb9&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/28/loteria-de-manizales-resultado-del-sorteo-del-miercoles-28-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-29T03:55:00Z",
-   "id": "121cd2bcb367"
-  },
-  {
-   "titulo": "¿Por qué candente pleito por Área Metropolitana del Suroccidente? Gobernadora, CVC y 38 alcaldes piden freno, mientras concejales de Cali lo defienden",
-   "resumen": "Gobernadora Toro, presidenta de consejo de la CVC y en representación de 38 alcaldes, radicó carta al alcalde de Cali. Postura del Concejo distrital.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/28/6ae2844b6d938.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/por-que-candente-pleito-por-area-metropolitana-del-suroccidente-gobernadora-cvc-y-38-alcaldes-piden-freno-mientras-concejales-de-cali-lo-defienden-3597047",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-29T03:54:36Z",
-   "id": "5d7b65788f7f"
-  },
-  {
-   "titulo": "Pistas del secuestro de Lizeth Alejandra Castaño, joven de 19 años, en panadería de Guacarí, Valle del Cauca: cámaras de seguridad y ruta de camioneta",
-   "resumen": "Una camioneta Toyota Hilux gris fue registrada en Guabitas después del secuestro de la joven en el establecimiento.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/28/6ae2ae7196272.r_d.133-132-0.png",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/pistas-del-secuestro-de-lizeth-alejandra-castano-joven-de-19-anos-en-panaderia-de-guacari-valle-del-cauca-camaras-de-seguridad-y-ruta-de-camioneta-3597097",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-29T03:35:00Z",
-   "id": "34a9f3ac8e5e"
-  },
-  {
-   "titulo": "Alcalde Federico Gutiérrez reveló detalles de la captura del hijo del exfutbolista Iván René Valenciano en Medellín: este era su rol en la banda",
-   "resumen": "El mandatario paisa aseguró que es falso que no tuvieran oportunidades y los señaló de participar en diversos hurtos.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/28/6ae2b21e68861.png",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/alcalde-fico-gutierrez-revela-detalles-del-operativo-en-el-que-capturaron-al-hijo-del-exfutbolista-ivan-rene-valenciano-en-medellin-3597100",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-29T03:30:00Z",
-   "id": "9a7b2785b7b5"
-  },
-  {
-   "titulo": "Defensoría rechaza amenazas en contra del procurador y solicita medidas de protección urgentes",
-   "resumen": "El procurador general, Gregorio Eljach , denunció amenazas en su contra , así como de su familia y equipo de trabajo . Afirmó además que, sin tener conclusiones definitivas, las amenazas podrían estar vinculadas a…",
-   "imagen": "https://caracol.com.co/resizer/v2/YPUBDPB6OVC53CAWJXDXPQO4BQ.jpg?auth=ff67440cd4c2fae6ddd8063df7cf04ea8bf832ce9a8ec512d35d53a00f94f6b1&smart=true&width=1920&height=1080",
-   "enlace": "https://caracol.com.co/2026/10/29/defensoria-rechaza-amenazas-en-contra-del-procurador-y-solicita-medidas-de-proteccion-urgentes/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-29T03:22:17Z",
-   "id": "59cda8f0e9bf"
-  },
-  {
-   "titulo": "Tabla de posiciones de la Liga colombiana: así quedó tras victoria de Once Caldas y derrota del DIM",
-   "resumen": "La fecha 5 de la Liga colombiana, que no se pudo jugar de manera natural por el terremoto del 10 de agosto que afectó el país, apenas se está disputando. Comenzó este martes 27 de octubre e irá hasta el próximo viernes…",
-   "imagen": "https://caracol.com.co/resizer/v2/7BMNX7ZCF5E55KU4WYPPL2N36A.jpeg?auth=59601d6b8709a8d04f47db28349c8c0a9b1c4a331bca8dd741d538ac6a5d4bc5&smart=true&width=1600&height=1066",
-   "enlace": "https://caracol.com.co/2026/10/28/tabla-de-posiciones-de-la-liga-colombiana-asi-quedo-tras-eliminacion-del-junior-y-descenso-de-chico/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-29T03:01:43Z",
-   "id": "4512ac01dea7"
-  },
-  {
-   "titulo": "'Salud Sin Espera': proyecto de congresista caleño que plantea que las EPS tramiten directamente las autorizaciones médicas y no los pacientes",
-   "resumen": "El representante Juan Pablo Rojas Suárez radicó una iniciativa para eliminar las barreras administrativas en el acceso a la salud.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/28/6ae2a8a507cb5.r_d.800-533-0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/salud-sin-espera-proyecto-de-congresista-caleno-que-plantea-que-las-eps-tramiten-directamente-las-autorizaciones-medicas-y-no-los-pacientes-3597089",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-29T02:11:13Z",
-   "id": "4a54aa94fea2"
-  },
-  {
    "titulo": "Player Page",
    "resumen": "",
    "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYXVrNHpKY0lNT01HU1FaZ1JxZ1ozN25taWQ4bmo2WG1pTVExNDlpTENfTmNwaDhaRlFQWW1KR01sVE5Fb054UGRXWWZCWnlDcENLUGZSSnNnUkpGNmswal8yUlFURENyZzRlcldiT3FZQmR3VHFmTWM3VzdiOWVIb3d6VElHdUFiWFVSS3Q2NTVyaWxNQ3g0ZWFRVy1yZTRQTGo3eFozQTJUTGkyNXFZeEJHNA?oc=5",
+   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSTFFelV4SGJkUkRGN1QyQU5UVnAzMDYwTEpiTWdGQnhsLXhka2J4WExTUDJ3ZFdnNUhPNDNKWVZOZzhUenFpQWVRSUh4Y1NpYUZqWHJPVFBVWmxaOXJVSEpzcmhtNmhkczdLb3lrYWwxQ3ZHNU5kSXhpZlpuNEJXdnJINFRlaXZPYkNYTWQ4d18yaktGYjQyNzN3UWRwaV90?oc=5",
    "medio": "RCN Radio",
    "fuente": "rcn",
    "region": "Colombia",
-   "fecha": "2026-10-29T00:56:14Z",
+   "fecha": "2026-10-29T04:11:20Z",
    "id": "e66bf6683d4a"
-  },
-  {
-   "titulo": "En Campamento asesinaron a dos jóvenes luego de salir de una cancha; uno haría parte del frente 36",
-   "resumen": "Las autoridades están investigando un doble homicidio en el municipio de Campamento , en el Norte de Antioquia. Las víctimas son dos jóvenes que estaban en una cancha de la población ubicada en la periferia del área…",
-   "imagen": "https://caracol.com.co/resizer/v2/PSYGTU2R6JCZROKBQPZWE7J2AU.jpg?auth=19e5cf71bc4092f5d24c4454a156e5ccbb5566004a92b7b35731e1bd2b5aaa29&smart=true&width=650&height=488",
-   "enlace": "https://caracol.com.co/2026/10/29/en-campamento-asesinaron-a-dos-jovenes-luego-de-salir-de-una-cancha-uno-haria-parte-del-frente-36/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-29T00:44:06Z",
-   "id": "d30107008b0e"
-  },
-  {
-   "titulo": "Inter Bogotá gana y agudiza la crisis del Medellín: resumen del partido",
-   "resumen": "Internacional de Bogotá venció a Independiente Medellín por un duelo correspondiente a la fecha 5. El Poderoso de la montaña quedó octavo con 23 unidades, mientras que el conjunto capitalino llegó a los 20 y se mete…",
-   "imagen": "https://caracol.com.co/resizer/v2/UGBVLIBIEBGCXFAS55XSYOLV54.jpeg?auth=cfb6c2f17a9cf58aededc8e6c50c5ed40584007b524eeb9f56cbf6af5f29d37d&smart=true&width=1600&height=1066",
-   "enlace": "https://caracol.com.co/2026/10/29/en-vivo-inter-de-bogota-vs-medellin-por-liga-colombiana-2026-ll-transmision-y-minuto-a-minuto/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-29T00:34:51Z",
-   "id": "7a889a9079a9"
-  },
-  {
-   "titulo": "Valledupar despidió a Harold Santana, el guitarrista que apenas alcanzó a tocar dos veces antes de la tragedia de la agrupación de Kbeto Zuleta",
-   "resumen": "Harold Santana era un reconocido guitarrista y productor vallenato que fue sepultado este miércoles en Valledupar, tras fallecer en el siniestro vial.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/28/6ae286f94c55f.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/valledupar-despidio-a-harold-santana-el-guitarrista-que-apenas-alcanzo-a-tocar-dos-veces-antes-de-la-tragedia-de-la-agrupacion-de-kbeto-zuleta-3597066",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-28T23:30:00Z",
-   "id": "9ed4c4dc7fd3"
-  },
-  {
-   "titulo": "Norte de Santander descartó su participación en la Vuelta Juvenil y el Tour Femenino en Valle del Cauca",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSHFFd1FFdGYzeE9oaWF2N254d1hDc3V3UXlwcjcwbWZvUUp4NGNxN3BUOGU0VnRVX1otR1lNY1VtWDFHQ1Itd1lrQnAta3F0Q0ItakV6WllxX0NBaXcwRUJ5VDlNTWJxVU11TkNRQllPTWNfa3N2dm8xdmVqREdKdjZ4OFQwdmhqYzZQUHNmRnZfdGk5Q3ZPTmVmZjgxR0NuYmIzM0taUVBEVy10TWwxbHRtb2dVMzlO?oc=5",
-   "medio": "La Opinión Cúcuta",
-   "fuente": "provincia",
-   "region": "Santander",
-   "fecha": "2026-10-28T23:16:31Z",
-   "id": "aff876dc052c"
-  },
-  {
-   "titulo": "Responsabilizamos al Frente Gerónimo Galeano del secuestro de cinco personas: Gobernadora del Tolima",
-   "resumen": "La gobernadora del Tolima, Adriana Magali Matiz, responsabilizó al Frente Gerónimo Galeano de las disidencias de las Farc, del secuestro de cinco personas en zona rural del municipio de Ataco, al sur del departamento…",
-   "imagen": "https://caracol.com.co/resizer/v2/OYVBOX4CABAOFJLVNCKB3MZWME.jpg?auth=bf843a345970f91ad649add304270a896ef620d9882fd4298b637e640ecd907f&smart=true&width=1800&height=1260",
-   "enlace": "https://caracol.com.co/2026/10/28/responsabilizamos-al-frente-jeronimo-galeano-del-secuestro-de-cinco-personas-gobernadora-del-tolima/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-28T23:00:32Z",
-   "id": "3b59f8dca33a"
-  },
-  {
-   "titulo": "Nueve amenazas, una tutela y cero protección: el calvario de un concejal de Cali que denuncia el desacato de la Policía al no restituir su escolta",
-   "resumen": "Juan Felipe Murgueitio interpuso un incidente de desacato contra el comandante de la institución policial por incumplir el fallo.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2025/10/23/68fa90112df5f.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/nueve-amenazas-una-tutela-y-cero-proteccion-el-calvario-de-un-concejal-de-cali-que-denuncia-el-desacato-de-la-policia-al-no-restituir-su-escolta-3597056",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-28T22:53:19Z",
-   "id": "2dc933988e2c"
-  },
-  {
-   "titulo": "Santander mete dos colegios en el top 10 de las Saber 11 y Piedecuesta también brilla en el calendario B",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONldIcEVvdlpYNVJSck9yTWp3V1UteTVPSUl3VlM0ak5Kc2J2a2lpZ05NaWlmaG94ZzlPNlVPOTk4QUZDVDI2SUhDWUd2eGNUUWFCRmxtbjhVZmJWN1JMMGhua3BKVFJTb3oxNXFRcHZRaUdmWnNhb3lqdE9qRF9CdFdhNmRGYTVx?oc=5",
-   "medio": "Metropolitano",
-   "fuente": "provincia",
-   "region": "Santander",
-   "fecha": "2026-10-28T22:51:49Z",
-   "id": "f344ac3c2056"
-  },
-  {
-   "titulo": "En Gamarra, Cesar, cayó alias ‘Muco’, presunto asesino de líderes sociales y firmantes de paz",
-   "resumen": "El GAULA Militar del Magdalena Medio, efectivos del Cuerpo Élite de la Policía Nacional y agentes de la DEA ejecutaron la operación.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/28/6ae273636be29.r_d.926-313-0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/en-gamarra-cesar-cayo-alias-muco-presunto-asesino-de-lideres-sociales-y-firmantes-de-paz-3597050",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-28T22:24:14Z",
-   "id": "f86de035f3cd"
   },
   {
    "titulo": "Cortes de luz y agua en Cali y Yumbo este jueves 29 de octubre del 2026: Sectores afectados y horarios",
@@ -427,6 +438,17 @@
    "region": "Colombia",
    "fecha": "2026-10-28T20:57:58Z",
    "id": "d72cb9af24b2"
+  },
+  {
+   "titulo": "Desesperada búsqueda de Jeider Hernández en Santander: lleva ocho días desaparecido tras caer a un río",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZlFPZEtTVmI5SXBjMnV2UXo5Ync3WUhFSTBFNmpTLVdyRDdOcWVGZE1IWHRaa3FFQTdDT0l2TjBsT185UFFKLXBFejlIbmc0SUR0dEVMQzl2XzRRY2NDRE02cWpNb3JaVVlkUjdQX3FLd01GZHpZTjdjaERTTXA2TUpBV0xZWkdJMnZLRGx1MWpsa0ZNRnhrVmFBSlpmOVBZMjN6dlk3MXRnVDMyMUtHNXlJdkNtTUYyc1oxeHBmNDNueEVxOEJMNURpN21hOXg4VEZDNDRxX3NjN2dDNl9JRmdjRQ?oc=5",
+   "medio": "Vanguardia",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-10-28T20:18:00Z",
+   "id": "ce9577709675"
   },
   {
    "titulo": "Sigue la búsqueda de Jeider Johan Herández, joven desaparecido en Santander",
@@ -484,28 +506,6 @@
    "id": "7647888555cd"
   },
   {
-   "titulo": "Minambiente reconoce al Cañón de la Hondura, en Santander, como área de conservación",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUjZDdm1LNnN0cEdvQ2RnUzFjUmNMcUVHOXBudnVOemVfRlVnMC1fZzg3RmRIUFptSldqS2tCRWFKa0VIaHN4aE54OEI3bzdhRS1Tc0xqWEZsUVNMOGlLZzc3S0d4STkySEJTTkc4V0NWNFRQYkp3RjRzSWxBQ1lCRG5MM1RaQXdPaWhXRFNuZzhpZGNxVjY1NUxCWW1tWjRwNEdvbkRXTUdlVnJ3dGVoOFNUWEJUXzg4NHJQWmVWcnd4Q0xLSjRmTl9Rc2lJUQ?oc=5",
-   "medio": "Blu Radio",
-   "fuente": "provincia",
-   "region": "Santander",
-   "fecha": "2026-10-28T13:07:23Z",
-   "id": "39d668ac7677"
-  },
-  {
-   "titulo": "Cañón de la Hondura, en Gámbita, suma un nuevo reconocimiento para la conservación de su biodiversidad",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPN1RFU3lhdFVOMzVFYVNGTmdlSGtSdlFfSzc1V1FJNldOZXZudEdWTFhPWm1oaVptYlEweVZJcFRyWEZMMVlseEwzczhvY0hCUVdvZUF0RXRTeTllRUR4VTJBSzN3YVBxX1ljSmlIOEpRZ0RXU0ZwSVNiV0hya2VncGVfMlVkd1Jmd3RmTlFsR3lROERhOG5GcGVZVjRUcm43UXVUbFd5VFRWX0ZKaUhTYmpESUdLQVlGZEFreHMzTnBhZnpnT0tTaFJsRmxwczRFN2h2RlBaTWYtckdDWWVRVTlKYw?oc=5",
-   "medio": "Vanguardia",
-   "fuente": "provincia",
-   "region": "Santander",
-   "fecha": "2026-10-28T13:01:00Z",
-   "id": "8ea10cfc9edb"
-  },
-  {
    "titulo": "Continúan la búsqueda de joven de 23 años desaparecido en el río Suárez, Santander",
    "resumen": "",
    "imagen": "",
@@ -526,6 +526,17 @@
    "region": "Santander",
    "fecha": "2026-10-27T22:48:31Z",
    "id": "87fc3b73c27f"
+  },
+  {
+   "titulo": "Cañón de la Hondura, en Gámbita, Santander, recibe reconocimiento nacional como territorio de conservación",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZWFfbGdJTmhweWM5UjNzRWNSM2xyQmgyT1lHeUVUaVBuVW8wQm1JWTE0WTRwczRsVzRVb1NzQ04xV2ZqMkJ4YW00UzEyLVcyVkliVmpoN2R5RFB1NDlRdVFXOFpLOV91SENRZFktTnA3QWV0M0RYdGhLU24zbEVJZG5SdnFjc0tUYjc2Tmh6M2xoaENsWHROWlJZUXFkSC05b091V1p5Slk0LUZhSi1SaVdhNElEdE9UcDFoaU40TVRIcTdQeTVDUE55LXNQZlZTUHpObW9HcVFHdkRQTmtjSEFPZ0t3TmMwS3dHYnYzblRhUQ?oc=5",
+   "medio": "Vanguardia",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-10-27T15:20:00Z",
+   "id": "180a44c6332c"
   }
  ]
 }
