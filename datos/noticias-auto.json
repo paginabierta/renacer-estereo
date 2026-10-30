@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30T19:23:26Z",
+ "actualizado": "2026-10-30T23:47:48Z",
  "fuentes": [
   {
    "id": "vanguardia",
@@ -44,147 +44,356 @@
  ],
  "noticias": [
   {
-   "titulo": "El Pulso del Fútbol, 30 de octubre de 2026",
-   "resumen": "En este programa de El Pulso del Fútbol Steven Arce y Adrián Magnoli hablaron sobre la continuidad de Amaranto Perea en el Medellín, tras los últimos malos resultados. Adrián dijo: “A Amranto Perea le dieron el partido…",
-   "imagen": "https://caracol.com.co/resizer/v2/W6LG4WRZJZFSHGXFHU7O4OLPKE.jpeg?auth=9688a089c1aa4844ea3a21035dbfcafbe51a6c72de0eed39a2c0299ea4391a0b&smart=true&width=2048&height=1152",
-   "enlace": "https://caracol.com.co/2026/10/30/el-pulso-del-futbol-30-de-octubre-de-2026/",
+   "titulo": "Milei y Trump bajo presión para rendir cuentas por escape de Flávio Bolsonaro",
+   "resumen": "Los presidentes Donald Trump y Javier Milei están bajo presión para explicar la participación de Estados Unidos y Argentin a en la huida de Brasil del excandidato presidencial brasileño Flávio Bolsonaro. El hijo del…",
+   "imagen": "https://caracol.com.co/resizer/v2/YWADUF6V6NCPJBHGQUVLEP765I.png?auth=22e6713ef19425f19d31afa372f168e7f6ae9238524e79ac6b3dd4d98a6e7991&smart=true&width=2001&height=1600",
+   "enlace": "https://caracol.com.co/2026/10/30/milei-y-trump-bajo-presion-para-rendir-cuentas-por-escape-de-flavio-bolsonaro/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-10-30T19:15:58Z",
-   "id": "7a026ce16e07"
+   "fecha": "2026-10-30T23:45:48Z",
+   "id": "e31353d86b90"
   },
   {
-   "titulo": "Presidente De la Espriella confirma $100.000 millones para recuperación de tajamar occidental",
-   "resumen": "Desde Barranquilla, el presidente Abelardo De la Espriella confirmó $100.000 millones para obras complementarias del tajamar occidental en Bocas de Cenizal. Entérese de lo que pasa en Barranquilla y el Atlántico: quiero…",
-   "imagen": "https://caracol.com.co/resizer/v2/G5ZPVCR7AJBNXKRLSLMWNSQYLQ.jpeg?auth=fcdf91ecbf7e717f523c6c0ccb5b1b7aeece0aa98a456171e24de0bbc7fde163&smart=true&width=1170&height=578",
-   "enlace": "https://caracol.com.co/2026/10/30/presidente-de-la-espriella-confirma-100000-millones-para-recuperacion-de-tajamar-occidental/",
+   "titulo": "En Acandí, cinco ríos se desbordaron y afectó a 2500 personas por las inundaciones",
+   "resumen": "La población del municipio de Acandí en el departamento del Chocó está atravesando una situación bastante grave por la inundación de la cabecera municipal , debido a una crítica inundación que afectó las viviendas y el…",
+   "imagen": "https://caracol.com.co/resizer/v2/TWNCYQIYCVCLDHUGOTG7WVZWNY.png?auth=125d9e0071d24b8dacafa8332619cebfe45075f5affa780a93a6102cf822b358&smart=true&width=915&height=511",
+   "enlace": "https://caracol.com.co/2026/10/30/en-acandi-cinco-rios-se-desbordaron-y-afecto-a-2500-personas-por-las-inundaciones/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-10-30T19:13:57Z",
-   "id": "f2d32802c3ee"
+   "fecha": "2026-10-30T23:43:34Z",
+   "id": "022d6f2d2eb9"
   },
   {
-   "titulo": "Nueva Licorera de Boyacá advierte impacto de proyecto de rescate fiscal en los licores",
-   "resumen": "El proyecto de Ley de Rescate Fiscal presentado ante el Congreso de la República, que contempla cambios en los impuestos aplicados a licores, vinos y aperitivos, genera preocupación en la industria licorera. William…",
-   "imagen": "https://caracol.com.co/resizer/v2/CV6XF65N6RFBZM2W7B2BLYHDTU.jpg?auth=d7858aec9e762436dc22fd1789ac382f1ce2f5b070b8e0884a72803be7366af5&smart=true&width=1280&height=853",
-   "enlace": "https://caracol.com.co/2026/10/30/nueva-licorera-de-boyaca-advierte-impacto-de-proyecto-de-rescate-fiscal-en-los-licores/",
+   "titulo": "Presidente inauguró dos kilómetros del Gran Malecón del Mar en Cartagena: habrá millonario aporte",
+   "resumen": "El Presidente Abelardo De La Espriella inauguró este viernes la primera fase del Gran Malecón del Mar de Cartagena, que comprende un tramo de dos kilómetros entre Playa Azul y el Parque Lineal de Crespo, proyecto que…",
+   "imagen": "https://caracol.com.co/resizer/v2/QBMN6UUA7JBB5EO4UV2DEJBAJQ.jpg?auth=8e94178c847cae9ec1181544fbb1a1126f29380fa4c9efc49a27f7b9b6e65112&smart=true&width=1280&height=720",
+   "enlace": "https://caracol.com.co/2026/10/30/presidente-inauguro-dos-kilometros-del-gran-malecon-del-mar-en-cartagena-habra-millonario-aporte/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-10-30T19:13:50Z",
-   "id": "c77ca41bfbdf"
+   "fecha": "2026-10-30T23:42:14Z",
+   "id": "2cc4204dbe8b"
   },
   {
-   "titulo": "Los demócratas optimistas y Trump desafiante a una semana de las legislativas en EE.UU.",
-   "resumen": "Los demócratas afrontan con optimismo la recta final de la campaña de las elecciones legislativas estadounidenses de medio mandato, mientras que el presidente Donald Trump recorre el país a ritmo frenético para intentar…",
-   "imagen": "https://caracol.com.co/resizer/v2/Y3V3FUL4BZATJHBPINSVII4ABU.jpg?auth=4587867763ad28ec0d5064a5ed38fc795662d6150e668ac80ca6b7f0621c10a7&smart=true&width=8256&height=5504",
-   "enlace": "https://caracol.com.co/2026/10/30/los-democratas-optimistas-y-trump-desafiante-a-una-semana-de-las-legislativas-en-eeuu/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-30T19:11:51Z",
-   "id": "7958cdae4967"
-  },
-  {
-   "titulo": "El costo de vida enfurece a los estadounidenses en las legislativas",
-   "resumen": "Precios de la gasolina, alimentos o salud... los votantes estadounidenses han comenzado a dar su veredicto en las urnas sobre el gobierno de Donald Trump, molestos por el creciente aumento en el costo de vida en Estados…",
-   "imagen": "https://caracol.com.co/resizer/v2/YSGHKKN2R5FU5GIOHYSGBNXPNI.jpg?auth=df7424dc0b35495135cf086158d7051624630acd3029a3a86b5839aac773da21&smart=true&width=4518&height=3012",
-   "enlace": "https://caracol.com.co/2026/10/30/el-costo-de-vida-enfurece-a-los-estadounidenses-en-las-legislativas/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-30T19:05:00Z",
-   "id": "be8b7721be62"
-  },
-  {
-   "titulo": "Deudores de impuestos en Medellín podrían acceder a descuento del 80 % en intereses",
-   "resumen": "La Alcaldía de Medellín radicó ante el Concejo de Medellín el Proyecto de Acuerdo 114 de 2026 . La iniciativa busca ofrecer un descuento del 80 % en la tasa de interés de mora para contribuyentes con obligaciones…",
-   "imagen": "https://caracol.com.co/resizer/v2/VSTSYVTLVJEZBPLB3ZR2KTUOUU.jpeg?auth=ace111961e9f08c731a9218be899a833ee6e4f27602876591ffa6f2570230e64&smart=true&width=1600&height=900",
-   "enlace": "https://caracol.com.co/2026/10/30/deudores-de-impuestos-en-medellin-podrian-acceder-a-descuento-del-80-en-intereses/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-30T19:04:03Z",
-   "id": "d09fe351138d"
-  },
-  {
-   "titulo": "Gerente del BanRep sobre tributaria: “Ajuste fiscal ayuda a la política monetaria a bajar inflación”",
-   "resumen": "En desarrollo... #Economía | El gerente del Banco de la República ( @BancoRepublica ), Leonardo Villar, se pronunció sobre la reforma tributaria del Gobierno y afirmó que un “ajuste fiscal ayuda a la política monetaria…",
-   "imagen": "https://caracol.com.co/resizer/v2/NR5W23CL5RBBHKCGVW5P44UJ44.jpg?auth=660a9d339e47376f975e4d57e2bb355c277c693d754f75a477882cc0a4fbfe72&smart=true&width=900&height=601",
-   "enlace": "https://caracol.com.co/2026/10/30/gerente-del-banrep-sobre-tributaria-ajuste-fiscal-ayuda-a-la-politica-monetaria-a-bajar-inflacion/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-10-30T19:01:45Z",
-   "id": "e972778dea44"
-  },
-  {
-   "titulo": "Este era alias 'Orly', señalado jefe de zona de Los Costeños capturado en Soledad (Atlántico): hallan arma y 1.000 dosis de cocaína en allanamiento",
-   "resumen": "El sujeto tendría un rol de coordinación dentro de Los Costeños y estaría afectando zonas de Los Almendros, La Central y Ciudad Caribe.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/30/6ae4e1173cdcb.png",
-   "enlace": "https://www.eltiempo.com/colombia/barranquilla/este-era-alias-orly-senalado-jefe-de-zona-de-los-costenos-capturado-en-soledad-atlantico-hallan-arma-y-1-000-dosis-de-cocaina-en-allanamiento-3597525",
+   "titulo": "Condenan a otros dos implicados en crimen de Alessandro Coatti, biólogo italiano que fue desmembrado en Santa Marta: este era su rol en el homicidio",
+   "resumen": "Los señalados aceptaron su responsabilidad en el caso. Los asesinos lo contactaron a través de una red social para luego torturarlo.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/04/09/67f684236f7c9.r_d.391-271-0.png",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/condenan-a-otros-dos-implicados-en-crimen-de-alessandro-coatti-biologo-italiano-que-fue-desmembrado-en-santa-marta-este-era-su-rol-en-el-homicidio-3597612",
    "medio": "El Tiempo",
    "fuente": "eltiempo",
    "region": "Colombia",
-   "fecha": "2026-10-30T19:01:00Z",
-   "id": "71100f42ef6b"
+   "fecha": "2026-10-30T23:38:07Z",
+   "id": "7cfd1f50182a"
   },
   {
-   "titulo": "“Trump nos traicionó”: votantes latinos de Arizona se distancian del presidente",
-   "resumen": "Hace dos años, Fernando Núñez recorrió casa por casa con 40 °C en Arizona para ayudar a Donald Trump a regresar a la Casa Blanca. Pero en las elecciones de medio mandato de la próxima semana no votará por los candidatos…",
-   "imagen": "https://caracol.com.co/resizer/v2/IMWLIN5LGFDXTIIJMT4PIZ5XSM.jpg?auth=ad47ffc16e18e01fe8186665bfc7f00a12aab307585ce20133862a470203814a&smart=true&width=7378&height=4919",
-   "enlace": "https://caracol.com.co/2026/10/30/trump-nos-traiciono-votantes-latinos-de-arizona-se-distancian-del-presidente/",
+   "titulo": "Invento escolar contra el derroche de energía: así funciona el panel solar de un colegio de Bucaramanga",
+   "resumen": "Cuarenta estudiantes de los grados noveno a once crearon un panel solar con sistema de seguimiento y una aplicación que mide en tiempo real el consumo de energía en el colegio Villas de San Ignacio, en el norte de…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/5NINSFLTH5E2RDYKM4GK44TH3E.jpg?auth=29bbc5087163a01551ff1659267994fae16a67eccbafabd6ef96d040d4cca297&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/10/30/invento-escolar-contra-el-derroche-de-energia-asi-funciona-el-panel-solar-de-un-colegio-de-bucaramanga/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-30T23:33:30Z",
+   "id": "20a750ad25c9"
+  },
+  {
+   "titulo": "Así fue la llegada de los helicópteros Black Hawk y tropas de Estados Unidos a Colombia",
+   "resumen": "El entrenamiento incluye maniobras contra economías ilegales, amenazas con drones y un simulacro de evacuación aeromédica en Bogotá.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/276HJJRIFJFUVODEBSGIP45SB4.png?auth=1d97526d34ce0695421803e06daf28bdfeb3b183475ba26aa3f0d50c33f4e673&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/colombia/2026/10/30/asi-fue-la-llegada-de-los-helicopteros-black-hawk-y-tropas-de-estados-unidos-a-colombia/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-30T23:30:52Z",
+   "id": "c2d1acf01afd"
+  },
+  {
+   "titulo": "¿Es legal prohibir las mascotas en un edificio en Colombia? Ley de propiedad horizontal responde",
+   "resumen": "Los conjuntos residenciales, locales y oficinas o las denominadas propiedades horizontales pueden establecer normas para garantizar el buen ambiente entre las personas que transitan o habitan estos espacios. Sin…",
+   "imagen": "https://caracol.com.co/resizer/v2/ZIMJP2MUNNEKFOEZMCYKT2DY5Y.png?auth=fd0ebebde4041a8576c365bc7fdb6e303a774c8e141c6e40290967f50bd10375&smart=true&width=2048&height=1365",
+   "enlace": "https://caracol.com.co/2026/10/30/es-legal-prohibir-las-mascotas-en-un-edificio-en-colombia-ley-de-propiedad-horizontal-responde/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-10-30T18:53:49Z",
-   "id": "a209130b4eb5"
+   "fecha": "2026-10-30T23:25:17Z",
+   "id": "077fe8d08ca7"
   },
   {
-   "titulo": "Daniel Quintero sale en defensa de su hermano, enviado a prisión en caso de corrupción; alcalde Fico Gutiérrez pide que todos los implicados respondan",
-   "resumen": "Un juez de segunda instancia revocó la medida de aseguramiento domiciliaria contra el hermano del exalcalde de Medellín y decidió enviarlo a prisión.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/30/6ae4d3e3b79d0.r_d.1107-507-0.png",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/hay-pruebas-suficientes-de-como-se-manipularon-las-pruebas-y-testimonios-daniel-quintero-tras-decision-de-enviar-a-prision-a-su-hermano-miguel-3597514",
+   "titulo": "Restricciones en Cúcuta por Halloween: la Alcaldía expidió un nuevo decreto que prohíbe las caravanas y fija un horario especial para motocicletas",
+   "resumen": "Se restringió a los conductores de motos y acompañantes el uso de máscaras, caretas, capuchas o elementos de disfraz que oculten su rostro.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/29/6ae3a1159944a.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/restricciones-en-cucuta-por-halloween-la-alcaldia-expidio-un-nuevo-decreto-que-prohibe-las-caravanas-y-fija-un-horario-especial-para-motocicletas-3597523",
    "medio": "El Tiempo",
    "fuente": "eltiempo",
    "region": "Colombia",
-   "fecha": "2026-10-30T18:45:11Z",
-   "id": "bc1be61253de"
+   "fecha": "2026-10-30T23:22:18Z",
+   "id": "598a581dc9ee"
   },
   {
-   "titulo": "Atlético Bucaramanga lanzó el ‘Combo de la clasificación’: precios para partidos ante Pasto y Nacional",
-   "resumen": "El equipo ‘Leopardo’ tendrá dos compromisos en el estadio Américo Montanini, este viernes 30 de octubre y el lunes festivo 2 de noviembre. Los hinchas podrán comprar un paquete para ambos encuentros y ahorrar en la…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/DYZV2AWPLNBAJCNID6MRI336XM.jpeg?auth=5d38adb5268e6c06f679b89ff7a2d4e5143aee4d6b1f3f4a07d0b729ff5a15f4&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/deportes/futbol/2026/10/29/atletico-bucaramanga-lanzo-el-combo-de-la-clasificacion-estos-son-los-precios-para-los-partidos-ante-pasto-y-nacional/",
+   "titulo": "Superintendencia de Industria y Comercio autorizó venta de Presto a Nutresa, de Gilinski",
+   "resumen": "La Superintendencia de Industria y Comercio aprobó la venta de Presto a Nutresa, una empresa propiedad de la familia Gilinski. La entidad realizó un estudio en el que determinó que esta operación no representa un riesgo…",
+   "imagen": "https://caracol.com.co/resizer/v2/G2N5OT7UEJDXVGUTXV53NLH2CE.png?auth=9356b7782b6eb8cce6f0d1974ef4b2124e3dcae1213453244defe0fd60928cf0&smart=true&width=768&height=576",
+   "enlace": "https://caracol.com.co/2026/10/30/superintendencia-de-industria-y-comercio-autorizo-venta-de-presto-a-nutresa-de-gilinski/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-30T23:22:01Z",
+   "id": "3a95b43960be"
+  },
+  {
+   "titulo": "El drama de una mujer que lleva cinco años esperando noticias de su esposo secuestrado en Santander",
+   "resumen": "Víctor Julio Rodríguez Parra fue secuestrado por hombres armados en una finca de Matanza, Santander, el 21 de julio de 2021. Su esposa sigue esperando respuestas sobre su paradero y denuncia la falta de avances en la…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/FLQQFVFMMRBCPNWYNQ6D7F5FVE.jpg?auth=0b98cd8d99c10e847ba8c24e1ac2528dd27d89bbca6d6d067b97634611126443&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/judicial/2026/10/30/el-drama-de-una-mujer-que-lleva-cinco-anos-esperando-noticias-de-su-esposo-secuestrado-en-santander/",
    "medio": "Vanguardia",
    "fuente": "vanguardia",
    "region": "Santander",
-   "fecha": "2026-10-30T18:21:59Z",
-   "id": "92f223086f74"
+   "fecha": "2026-10-30T23:20:24Z",
+   "id": "9b325482371e"
   },
   {
-   "titulo": "Investigan muerte de un hombre que fue hallado sin vida en una vivienda de Bucaramanga",
-   "resumen": "Anderson Fabián García Romero fue hallado sin vida en una vivienda del barrio Campo Hermoso, en Bucaramanga. Las autoridades investigan las causas de su muerte.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/VQ3B57NVQJGLRP73YZOLKC2HPQ.png?auth=bb499110bb016bbe38a6ec7b83c59dc6ce28816e5121f59927da67d6188165c5&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/judicial/2026/10/30/investigan-muerte-de-un-hombre-que-fue-hallado-sin-vida-en-una-vivienda-de-bucaramanga/",
+   "titulo": "¿Cuándo son las elecciones de mitad de mandato del 2026 en EE.UU? Fecha y horarios de votación",
+   "resumen": "Las elecciones de mitad de mandato tendrán lugar el 3 de noviembre de 2026, fecha en la que se elegirá a los integrantes del Congreso para los próximos dos años y se renovarán otros cargos estatales y locales. Sin…",
+   "imagen": "https://caracol.com.co/resizer/v2/26MBGN66NJHY7N5JUAGRCNHLVY.png?auth=3bde9979b7216d78d9468abcdd5631564dd94cc34c218c18313ad50d87e26506&smart=true&width=2048&height=1365",
+   "enlace": "https://caracol.com.co/2026/10/30/cuando-son-las-elecciones-de-mitad-de-mandato-del-2026-en-eeuu-fecha-y-horarios-de-votacion/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-30T23:20:01Z",
+   "id": "dac29973bf18"
+  },
+  {
+   "titulo": "Asesinan en Cali a excabecilla de grupo aliado del Cartel del Norte del Valle y señalado sucesor de alias W: sicarios le dispararon cuando iba en taxi",
+   "resumen": "Como Fabio Obando González fue identificado el occiso. Había pagado condena en Estados Unidos.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/30/6ae50bbe4b104.r_d.1093-327-0.png",
+   "enlace": "https://www.eltiempo.com/colombia/cali/asesinan-en-cali-a-excabecilla-del-cartel-del-norte-los-culimochos-y-senalado-sucesor-de-alias-w-sicarios-le-dispararon-cuando-iba-en-un-taxi-3597586",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-30T23:19:45Z",
+   "id": "e15e443b27cf"
+  },
+  {
+   "titulo": "ABC de la ley de rescate económico: los impuestos, recortes y cambios que impactarán su bolsillo",
+   "resumen": "La iniciativa contempla medidas para aumentar el recaudo mediante nuevos impuestos y contribuciones, así como recortes al gasto público. El Gobierno buscaría reducir en 2,2% el gasto público.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/KJJS2RTA2BH3ZK7VHIRXJVA52U.png?auth=cedf3fa1b875bd85594361df8bfcdb59748e1026bf5b693cd64adbc80fb956a4&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/economia/nacional/2026/10/30/abc-de-la-ley-de-rescate-economico-que-cambiaria/",
    "medio": "Vanguardia",
    "fuente": "vanguardia",
    "region": "Santander",
-   "fecha": "2026-10-30T18:20:04Z",
-   "id": "f5d0b4f73b0a"
+   "fecha": "2026-10-30T23:19:32Z",
+   "id": "3b1a79826d52"
   },
   {
-   "titulo": "Video: una puerta de cristal estalla en las manos de una empleada de spa en Texas",
-   "resumen": "Una empleada de un spa en Texas, Estados Unidos, vivió momentos de angustia cuando una puerta corrediza de cristal estalló mientras intentaba cerrarla. El video del momento se viralizó en redes.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/VKFNMMGCP5GLNKSSSJUBQMLKVE.jpeg?auth=953de7f568cbcf500084b89434b1b505ff774602f5e0a835b24143a7e364cfda&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/entretenimiento/tendencias/2026/10/30/video-una-puerta-de-cristal-estalla-en-las-manos-de-una-empleada-de-spa-en-texas/",
+   "titulo": "Bucaramanga: restricción a motociclistas y toque de queda para menores desde este viernes",
+   "resumen": "El Alcalde de Bucaramanga informó que a partir de este viernes, 30 de octubre, se impone una restricción nocturna en la circulación de parrillero en moto, e igualmente se decretará toque de queda para menores de edad.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/ZCTFR3PYNRCUTOOKB32CZF5D3M.jpeg?auth=a04c94966873357e6b8f0b57fb973ffc0e1369c57e87978a0576058f4a5779e1&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/10/29/bucaramanga-imponen-restriccion-para-motociclistas-y-toque-de-queda-para-menores-desde-este-viernes-30-de-octubre/",
    "medio": "Vanguardia",
    "fuente": "vanguardia",
    "region": "Santander",
-   "fecha": "2026-10-30T18:19:47Z",
-   "id": "f51c3e202130"
+   "fecha": "2026-10-30T23:19:06Z",
+   "id": "43389bb25768"
+  },
+  {
+   "titulo": "Municipio de Paraguay prohíbe Halloween por segundo año y sancionará los disfraces “diabólicos”",
+   "resumen": "Paraguay vuelve a prohibir Halloween en un municipio: habrá controles y multas para quienes organicen fiestas o usen disfraces considerados \"diabólicos\".",
+   "imagen": "https://www.vanguardia.com/resizer/v2/YPKOF6HJQJA2ZNKW2ZXYVIQRNQ.png?auth=d703a5004a3b33bccc59a8a72a30546bc5d27dabff1078e723973cdf1a45f917&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/entretenimiento/tendencias/2026/10/30/municipio-de-paraguay-prohibe-halloween-por-segundo-ano-y-sancionara-los-disfraces-diabolicos/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-30T23:11:15Z",
+   "id": "012955634fae"
+  },
+  {
+   "titulo": "Popayán endurece controles para Halloween: habrá restricciones a motociclistas, combustible y pólvora",
+   "resumen": "La Alcaldía expidió un decreto que contempla limitaciones de movilidad, cierres viales y vigilancia sobre eventos públicos.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/06/12/6a2c9485b3c74.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/cali/popayan-endurece-controles-para-halloween-habra-restricciones-a-motociclistas-combustible-y-polvora-3597601",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-30T23:06:56Z",
+   "id": "c83d24477a20"
+  },
+  {
+   "titulo": "Banco de la República comprará 2.000 millones de dólares al Gobierno colombiano en 2026",
+   "resumen": "La operación se realizará antes de terminar el año y utilizará recursos disponibles en el Ministerio de Hacienda.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/ETZ3YUAJIFHF3FJXMDTORWBD4U.jpg?auth=a37810c5156036095916879a56745bd0fdc95dd20e7b27e9777da9701a732f07&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/economia/nacional/2026/10/30/banco-de-la-republica-comprara-2000-millones-de-dolares-al-gobierno-colombiano-en-2026/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-30T22:58:48Z",
+   "id": "5728999e12de"
+  },
+  {
+   "titulo": "Hallan cuerpo sin vida en avanzado estado de descomposición en Girón",
+   "resumen": "Los investigadores adelantan la inspección técnica al cadáver y las labores de levantamiento.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/J6OPSIM6CRBFTBYYVXNEKFP35I.png?auth=40d9e3a1926457819fcfc70936c1f57ce8a72dc7b250ba45063441c3c691a21b&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/judicial/2026/10/30/hallan-cuerpo-sin-vida-en-avanzado-estado-de-descomposicion-en-giron/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-30T22:55:37Z",
+   "id": "ed950b43811b"
+  },
+  {
+   "titulo": "Paisita 2: resultado del sorteo de hoy viernes 30 de octubre de 2026",
+   "resumen": "¿Ganó el Paisita 2? Consulte el número ganador de hoy viernes 30 de octubre de 2026 y revise si la suerte lo acompañó en el segundo sorteo de la jornada.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/BI42WTWEIJG4JHRAZNT2DEFG7I.png?auth=424198dd17f9deefdaed290885a7b7dec0efed02894aff16afd1f3b8456cb01f&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/loterias/2026/10/30/paisita-2-resultado-del-sorteo-de-hoy-viernes-30-de-octubre-de-2026/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-30T22:51:00Z",
+   "id": "d12995733bf4"
+  },
+  {
+   "titulo": "María Fernanda Suárez es la nueva presidenta del Banco de Bogotá: renunció Juan Carlos Echeverry",
+   "resumen": "La Junta Directiva del Banco de Bogotá aceptó la renuncia presentada por Juan Carlos Echeverry Garzón a la Presidencia de la entidad financiera, con efectividad a partir de la fecha. Durante la jornada, el órgano…",
+   "imagen": "https://caracol.com.co/resizer/v2/J3CEI4RTWZCTVAXLU5EBUNZBII.jpeg?auth=7b4083f617ebd7abeff0a62b926b7c429dde0939a69f52be15d908ebf6578879&smart=true&width=1600&height=1200",
+   "enlace": "https://caracol.com.co/2026/10/30/maria-fernanda-suarez-es-la-nueva-presidente-del-banco-de-bogota-renuncio-juan-carlos-echeverry/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-30T22:49:38Z",
+   "id": "1bacf48b7e45"
+  },
+  {
+   "titulo": "Amenazas, denuncia de extorsión y disputas en Playa Blanca encienden las alarmas en el sector turístico de Santa Marta",
+   "resumen": "Las denuncias por presuntas presiones y conflictos en este balneario generan preocupación entre quienes trabajan en la actividad turística.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/30/6ae5055d4c135.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/amenazas-denuncia-de-extorsion-y-disputas-en-playa-blanca-encienden-las-alarmas-en-el-sector-turistico-de-santa-marta-3597549",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-30T22:45:28Z",
+   "id": "96b521c3ecf3"
+  },
+  {
+   "titulo": "Denuncian a fiscal por presunta filtración de investigación que vinculó a funcionario de Riohacha con narcotráfico: San Ramón, en el centro del caso",
+   "resumen": "La Universidad de La Guajira y el fiscal Rafael Rojas figuran entre los propietarios del lote San Ramón, escenario de una disputa por su ocupación.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/30/6ae51c4d9df78.png",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/denuncian-a-fiscal-por-presunta-filtracion-de-investigacion-que-vinculo-a-funcionario-de-riohacha-con-narcotrafico-san-ramon-en-el-centro-del-caso-3597593",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-30T22:35:00Z",
+   "id": "c66b732f1265"
+  },
+  {
+   "titulo": "‘La vida no puede ser tan mala cuando uno puede pasear frente al mar’, De La Espriella en la inauguración del Gran Malecón del Mar en Cartagena",
+   "resumen": "El jefe de Estado prometió un espaldarazo de la Nación y comprometió $174.000 millones para finalizar todo el proyecto.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/30/6ae5153ece119.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/la-vida-no-puede-ser-tan-mala-cuando-uno-puede-pasear-frente-al-mar-de-la-espriella-en-la-inauguracion-del-gran-malecon-del-mar-en-cartagena-3597590",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-30T22:23:01Z",
+   "id": "fdad0e565af1"
+  },
+  {
+   "titulo": "Día de Muertos: la tradición mexicana que conquista al mundo con sus colores y ofrendas",
+   "resumen": "El Día de Muertos nació en México y hoy cautiva al mundo con sus altares, flores de cempasúchil, calaveras y homenajes a quienes ya partieron.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/KOPLKJXQMNE6ZPGTOQXWAX6P2E.jpg?auth=7b8f95e23e11e1ebf890448c771699ba7c459c50ee433b666687258e15401c87&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/entretenimiento/tendencias/2026/10/30/dia-de-muertos-la-tradicion-mexicana-que-conquista-al-mundo-con-sus-colores-y-ofrendas/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-30T22:12:55Z",
+   "id": "23f2d227b6e2"
+  },
+  {
+   "titulo": "Híbridos, motos, camiones, financiación y más: esto es todo lo que encontrará en Autofest 2026, la feria automotriz que llega a Barranquilla",
+   "resumen": "La principal novedad de esta edición será la incorporación de una vitrina especializada en camiones y vehículos utilitarios.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/30/6ae51404e9c06.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/barranquilla/hibridos-motos-camiones-financiacion-y-mas-esto-es-todo-lo-que-encontrara-en-autofest-2026-la-feria-automotriz-que-llega-a-barranquilla-3597589",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-10-30T22:05:51Z",
+   "id": "866844cf441d"
+  },
+  {
+   "titulo": "Alejandro Ordóñez a prueba de fuego: ¿Tiene votos la Ley de Ajuste Fiscal?",
+   "resumen": "En el Congreso no hay buen ambiente político para debatir la reforma tributaria que radicó el Gobierno Nacional. Desde la oposición hasta el mismo oficialismo de Salvación Nacional y el Centro Democrático están haciendo…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/JHZVSKMPG5GCNFZHXXS2AUTOLI.jpeg?auth=04ede8c287a41ac35857424a646413a3dda1d0f6c2392588455f0b123c1cefa7&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/politica/2026/10/30/alejandro-ordonez-a-prueba-de-fuego-tiene-votos-la-ley-de-ajuste-fiscal/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-30T22:05:18Z",
+   "id": "5cb069b69ce2"
+  },
+  {
+   "titulo": "Iván Cepeda cuestiona el proyecto de rescate fiscal y advierte efectos para los colombianos",
+   "resumen": "La iniciativa contempla cambios tributarios, ajustes al gasto público y medidas para fortalecer las finanzas estatales hasta 2030.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/JTST2HY2YZHU3HNI7JS27H7DUE.jpg?auth=d1444f09cd0eff0fd2febfd588912922a963715870e96bd3bd89d2fe9c9aa283&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/colombia/2026/10/30/ivan-cepeda-cuestiona-el-proyecto-de-rescate-fiscal-y-advierte-efectos-para-los-colombianos/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-30T21:53:29Z",
+   "id": "ac9d3d3678d0"
+  },
+  {
+   "titulo": "Con maleza y sin alumbrado: en Bucaramanga reportan mal estado del sendero peatonal",
+   "resumen": "La comunidad manifiesta que desde hace cerca de un mes se realizan llamados a la Alcaldía de Bucaramanga para que intervenga este sendero peatonal con labores de mantenimiento, tanto en las zonas verdes como en el…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/3NTEBCVU35EFPOOGGWIBF4J77Y.jpeg?auth=8a12caecb4d4fa8f5b2f3f41061176f880ab07377c760ffeda0d2bcc687b8a11&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/10/30/con-maleza-y-sin-alumbrado-en-bucaramanga-reportan-mal-estado-de-sendero-peatonal/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-30T21:50:15Z",
+   "id": "a4c192bf126d"
+  },
+  {
+   "titulo": "Catrina gigante en México rompe récord Guinness con 33.41 metros de altura",
+   "resumen": "La Catrina monumental del Zócalo de Ciudad de México alcanzó los 33,41 metros y recibió el reconocimiento oficial de Guinness World Records.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/BMGINRE2YVFL5LIECBA7QFFP3Q.jpg?auth=420b582ef796003e04ae9616a11f79e0ef4bd10fadc9bfe6cc015b7315737fa3&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/entretenimiento/tendencias/2026/10/30/catrina-gigante-en-mexico-rompe-record-guinness-con-3341-metros-de-altura/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-30T21:36:57Z",
+   "id": "8fe14907b170"
+  },
+  {
+   "titulo": "RCN Radio",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MQ1hMUTd4VWJSdzFDT0lXOWRRNV9Wd2c3YVBxZThOMzBLVldrQ2dId1dtbVNGemlQbmwzTFdrNW9nSE0ta205YUNwNnBBVHVVTDk3WllOQnQxQlpyTndnWFFGNmRsV2xDZTEzbnBiZno1Zw?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-10-30T21:10:40Z",
+   "id": "480277a57d6e"
+  },
+  {
+   "titulo": "Jaguares pierde con Pereira y queda al borde del descenso: resumen del partido",
+   "resumen": "Deportivo Pereira venció en condición de local a Jaguares de Córdoba en un duelo aplazado correspondiente a la fecha 5 de la Liga Colombiana . Con la derrota, el equipo ‘Felino’ queda último en el descenso pero aún con…",
+   "imagen": "https://caracol.com.co/resizer/v2/W7P5HIGKCNHEJGW4KHOBI6E3X4.jpeg?auth=f0eaca6a7f99dbcb267a459166d018f9a635c2c0979ea5f1e5351fa91917e5e3&smart=true&width=2560&height=1706",
+   "enlace": "https://caracol.com.co/2026/10/30/en-vivo-pereira-vs-jaguares-por-liga-colombiana-2026-ii-hoy-minuto-a-minuto/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-10-30T19:59:21Z",
+   "id": "d63998e40e5c"
+  },
+  {
+   "titulo": "Santander vive un puente de ferias y fiestas: Los Santos, San Gil, Charalá y Charta concentran la agenda del fin de semana",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQNzU4dmdRTDdTMmxfcGhEbmNQdTM1a1I5X3FvWEVLWjJFVnVDQms3SVZraXJUVV9QOVBiRWYwRmN5VENoYWNMemxDYTI0czJFeWNvQUdheFpiUEZZQnZhQ014ZVZUdDcway12cldtUHRZMTRpNktPOHh3UHRwYm9jQUdycmlWbHRtbDhSWmlBb0hYcEVsM1d1TUdNRDU1X19rWnFwbC1ZdVdJTnBzUGp1T3FCbGxnXzJxcmlPVHZVNGJNQWQ4SDkyRjVTaklncTV1ZVRMZ3VyQzhfWTNrV2RtY045bkFscGEyWTRjOERDRVQwck5VektFZWY2NFRocEN4TmxzazB5V1FRTVFlbG5F?oc=5",
+   "medio": "Vanguardia",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-10-30T19:35:00Z",
+   "id": "c15d68848a57"
   },
   {
    "titulo": "Reforma tributaria de Abelardo de la Espriella: productos de la canasta familiar y servicios que podrían tener IVA",
@@ -198,105 +407,6 @@
    "id": "43d9aad3fff3"
   },
   {
-   "titulo": "El ascenso de la Institución Educativa Kilómetro 12: el colegio rural de Montería que hace historia en las Pruebas Saber 11",
-   "resumen": "Montería alcanzó un promedio de 281 puntos y es la primera capital en la región Caribe y la cuarta entre las 32 capitales del territorio nacional.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/30/6ae4d8cb80095.r_d.623-374-0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/el-ascenso-de-la-institucion-educativa-kilometro-12-el-colegio-rural-de-monteria-que-hace-historia-en-las-pruebas-saber-3597516",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-30T18:12:09Z",
-   "id": "e8882b47d111"
-  },
-  {
-   "titulo": "Usuarios reportan fallas de Tigo en Santander, Norte de Santander y Cesar",
-   "resumen": "La entidad confirmó afectaciones en Santander y Norte de Santander, mientras usuarios reportan problemas en otras localidades.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/JXRENIWVZBFRVDP2JTTAZDXD2E.jpg?auth=9384ea9bcb94e7d652cf99a37d6ac1dc17a572abecbef46028ef02870ae729fa&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/colombia/2026/10/30/usuarios-reportan-fallas-de-tigo-en-santander-norte-de-santander-y-cesar/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-30T18:05:23Z",
-   "id": "2bd709b42ea2"
-  },
-  {
-   "titulo": "Paisita 1: número ganador del sorteo del viernes 30 de octubre de 2026",
-   "resumen": "¿Ganó el Paisita 1? Consulte el número ganador de hoy viernes 30 de octubre de 2026 y revise si la suerte lo acompañó en el primer sorteo de la jornada.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/6L5ETB326VE5TH7LSZVAS4L6U4.png?auth=5f5740bb2774f535dedde2e8de3cbaea6523277f572252f3b336721cbf1bdcf1&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/30/paisita-1-numero-ganador-del-sorteo-del-viernes-30-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-30T17:51:00Z",
-   "id": "22bd79b46f90"
-  },
-  {
-   "titulo": "Chontico Día: resultado del sorteo de hoy viernes 30 de octubre de 2026",
-   "resumen": "Le presentamos el resultado del último sorteo de Chontico Día de este viernes 30 de octubre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/WEMPTATCBNBUDKBM5OGQW4VBUA.jpeg?auth=c13dd56feac14fdd985679fcb020075f6a2787398c96f5dbe5ee79a456ed84ca&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/30/chontico-dia-resultado-del-sorteo-de-hoy-viernes-30-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-30T17:51:00Z",
-   "id": "1857f87999c1"
-  },
-  {
-   "titulo": "Megatoma con 32 capturas en Palmira, Valle: así se desmantelaron clanes familiares de 'Morocho' y 'Salchi' con bandas de sicarios, drogas y extorsión",
-   "resumen": "Capturan al hermano de 'Morocho' de 'los 300' y a la hermana de 'Salchi', aliado de las bandas 'los Esparta', 'los Leyenda' y 'los Chacha'.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/30/6ae4d3c760261.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/megatoma-con-32-capturas-en-palmira-valle-asi-se-desmantelaron-clanes-familiares-de-morocho-y-salchi-con-bandas-de-sicarios-drogas-y-extorsion-3597486",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-30T17:45:53Z",
-   "id": "a7e33158f34b"
-  },
-  {
-   "titulo": "Halloween en la Casa Blanca: Trump y Melania reparten dulces a niños disfrazados",
-   "resumen": "Donald y Melania Trump celebraron Halloween en la Casa Blanca con miles de invitados, disfraces, calabazas gigantes y entrega de dulces. La Casa Blanca recibió este jueves a cientos de niños en tradicional festejo anual.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/GUGCPN4AHNF4DJX74V7HBBHATI.jpg?auth=4e44ae28927e4e4942502a642293380c211f25b2a88fbb9007cd3f81a04c297c&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/entretenimiento/tendencias/2026/10/30/halloween-en-la-casa-blanca-trump-reparte-dulces-entre-ninos-disfrazados-e-invitados/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-30T17:43:51Z",
-   "id": "e8184d3b05da"
-  },
-  {
-   "titulo": "Cadena iraní HispanTV negó vínculos laborales con Deicy Jiménez y desconoció un certificado de experiencia atribuido a la institución en Colombia",
-   "resumen": "Desde Teherán, la dirección también anunció posibles medidas para proteger la identidad y la reputación de la organización.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/30/6ae4d1719eb75.png",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/cadena-irani-hispantv-nego-vinculos-laborales-con-deicy-jimenez-y-desconocio-un-certificado-de-experiencia-atribuido-a-la-institucion-en-colombia-3597504",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-30T17:34:23Z",
-   "id": "8a5081f43c27"
-  },
-  {
-   "titulo": "Devolución del IVA de hasta $300.000 en Colombia: este sería el requisito para recibir el dinero",
-   "resumen": "El Gobierno propone devolver hasta cerca de $300.000 mensuales por IVA. Conozca quiénes podrían recibir el dinero, el requisito y las fechas de pago.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/6ONE36PXE5GJNJ3VYIRIY5FLP4.jpg?auth=53f516916116bb3f2c9c5cf5c804260faa027523dda1bd92521e0e2558184444&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/economia/2026/10/30/devolucion-del-iva-de-hasta-300000-en-colombia-este-seria-el-requisito-para-recibir-el-dinero/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-30T17:26:55Z",
-   "id": "908a7274b655"
-  },
-  {
-   "titulo": "¿Lo pueden multar por tener el kit de carretera y el botiquín del carro vencido? Esto deben saber los conductores, según la ley vigente",
-   "resumen": "Si quieren evitar multas, deben tener en cuenta los elementos del kit de carretera y las disposiciones legales vigentes.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/30/6ae4ccf96e3d4.png",
-   "enlace": "https://www.eltiempo.com/colombia/lo-pueden-multar-por-tener-el-kit-de-carretera-y-el-botiquin-del-carro-vencido-esto-deben-saber-los-conductores-segun-la-ley-vigente-3597496",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-30T17:25:03Z",
-   "id": "09a2aeb74f63"
-  },
-  {
    "titulo": "Cortes de agua en Medellín y Bello este sábado 31 de octubre del 2026: Barrios afectados y horarios",
    "resumen": "",
    "imagen": "",
@@ -308,50 +418,6 @@
    "id": "da3c3a737eb9"
   },
   {
-   "titulo": "Quiénes son los aspirantes que ya se mueven para suceder a Eduardo Verano en el Atlántico: Pedro Lemus, Isabella Pulgar, Juan Carlos Díaz Tarud",
-   "resumen": "La exdiputada Pulgar es hasta ahora la única con candidatura oficial. Los demás dejaron cargos o curules para no quedar inhabilitados.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/30/6ae4d18a02ad5.png",
-   "enlace": "https://www.eltiempo.com/colombia/barranquilla/quienes-son-los-aspirantes-que-ya-se-mueven-para-suceder-a-eduardo-verano-en-el-atlantico-pedro-lemus-isabella-pulgar-juan-carlos-diaz-tarud-3597481",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-30T17:22:42Z",
-   "id": "7002f2868994"
-  },
-  {
-   "titulo": "Ojo al comprar galletas Oreo: estas son las tres presentaciones señaladas por el Invima",
-   "resumen": "Las referencias tienen diferencias en sus empaques y etiquetado, y no cuentan con el reconocimiento de Mondelez Colombia, empresa encargada de su importación.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/LWUS6MSDYZGV7AJOVXYQVJ7K5U.jpg?auth=4da0c63dc1cf8f871e2c89fd28301bc299400e470707da6c52b2af45a5acef60&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/entretenimiento/salud/2026/10/30/ojo-al-comprar-galletas-oreo-estas-son-las-tres-presentaciones-senaladas-por-el-invima/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-30T17:20:13Z",
-   "id": "74ffa2b246c2"
-  },
-  {
-   "titulo": "Terror en Medellín: asalto de ocho delincuentes a una vivienda en La Iguaná dejó a un joven de 19 años muerto y a otro herido",
-   "resumen": "De acuerdo con la Policía, los sujetos ingresaron a una vivienda a las 2 a. m. y amordazaron a una familia para robarla. El hecho terminó en tragedia.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/30/6ae4ce3b93fcf.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/terror-en-medellin-asalto-de-ocho-delincuentes-a-una-vivienda-en-la-iguana-dejo-a-un-joven-de-19-anos-muerto-y-a-otro-herido-3597499",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-10-30T17:18:33Z",
-   "id": "2e2075f4f5ae"
-  },
-  {
-   "titulo": "Video: Mafe Walker y Belinda sorprendieron al hablar en “idioma extraterrestre” durante el Beliween",
-   "resumen": "La conversación entre Belinda y Mafe Walker fue uno de los episodios que despertó curiosidad en la fiesta de Halloween de la cantante.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/A7L4OHSIZVD5JGJBR67ZWGPCRE.png?auth=d7c3c60152ec908f4be864ee579a0ca2b0be1afb59a2b507416de4ae62f8933f&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/entretenimiento/tendencias/2026/10/30/video-mafe-walker-y-belinda-sorprendieron-al-hablar-en-idioma-extraterrestre-durante-el-beliween/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-30T17:15:25Z",
-   "id": "a4b986dcf0aa"
-  },
-  {
    "titulo": "Restricciones, cierres viales y horarios extendidos por las Ferias de San Gil",
    "resumen": "",
    "imagen": "",
@@ -361,39 +427,6 @@
    "region": "Santander",
    "fecha": "2026-10-30T17:07:57Z",
    "id": "d89f11e37a49"
-  },
-  {
-   "titulo": "Alertas y brotes en más de 20 municipios de Santander por incidencia del dengue: van 6.743 casos",
-   "resumen": "Una muerte confirmada y otro fallecimiento más bajo estudio, así como un total de 6.743 contagios forman parte de los casos de dengue que reportan las autoridades de salud en Santander durante 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/VHORIDG7HZGFRPKAHB3JX6355I.jpeg?auth=1f5c626c6eb904c3128cace0375a7c6aefd9d90ce6efb8d5068039ad5a1994e8&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/10/30/alertas-y-brotes-en-mas-de-20-municipios-de-santander-por-incidencia-del-dengue-van-6743-casos/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-30T17:05:21Z",
-   "id": "8d62436d6e45"
-  },
-  {
-   "titulo": "“No sé cómo sobreviví”: Christa Pike habla por primera vez tras su ejecución fallida en Tennessee",
-   "resumen": "En su comunicado, la mujer relató las secuelas que enfrenta tras sobrevivir al intento de ejecución.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/T55VSGH3XNC5VP55KTECHW77TU.jpg?auth=515f8b3e48786b73d7f98f976c24930ebc8fcd53588f915a3ff835d1074c6eb9&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/mundo/2026/10/30/no-se-como-sobrevivi-christa-pike-habla-por-primera-vez-tras-su-ejecucion-fallida-en-tennessee/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-30T17:01:57Z",
-   "id": "b4cc1d2c095c"
-  },
-  {
-   "titulo": "Más de 100 loros llegan todos los días a la casa de un odontólogo: esta es su conmovedora historia",
-   "resumen": "Un odontólogo de Envigado recibe cada mañana la visita de más de 100 loros. Conozca la historia detrás de esta particular relación con las aves.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/HBWJTDOCW5GJFBXXR2L2BEDU3U.jpeg?auth=c5484d006989728c5457f6acb012b8a997e3a9a4b371d540082ad535dd4f4927&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/entretenimiento/mascotas/2026/10/30/mas-de-100-loros-llegan-todos-los-dias-a-la-casa-de-un-odontologo-esta-es-su-conmovedora-historia/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-30T17:00:37Z",
-   "id": "544ae3f3599c"
   },
   {
    "titulo": "Reforma tributaria de Abelardo de la Espriella: Esto propone la ley ante el comercio electrónico internacional",
@@ -418,17 +451,6 @@
    "id": "15379c6cbb6a"
   },
   {
-   "titulo": "Asesinaron a Pablo Castañeda en Girón: otro hombre resultó herido en el ataque a bala",
-   "resumen": "Un hombre murió y otro resultó herido en un ataque a bala en Girón. La Policía persiguió a dos sospechosos que abandonaron una motocicleta y escaparon por una zona boscosa.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/CA5AMGBCCFBG5ITW5Z352D4GZE.png?auth=f83a3c3e90aa54a0d8ff265668b4786629625e2a5e042907d65c9687a851f21f&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/judicial/2026/10/30/asesinaron-a-pablo-alexis-castaneda-en-giron-otro-hombre-resulto-herido-en-el-ataque-a-bala/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-10-30T16:15:15Z",
-   "id": "26849f9974c1"
-  },
-  {
    "titulo": "Protección y Bienestar Animal en Bogotá: Así puedes ser parte del equipo de la localidad de Los Mártires",
    "resumen": "",
    "imagen": "",
@@ -440,15 +462,15 @@
    "id": "899700b4ac98"
   },
   {
-   "titulo": "Estos productos pagarían más IVA con la nueva propuesta del Gobierno De La Espriella",
-   "resumen": "La iniciativa del Gobierno plantea retirar beneficios tributarios a varios bienes y servicios, mientras conservaría tarifas diferenciales para productos de consumo básico y sectores como salud y educación.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/UTOOANWL7FEZ7HVENMFD6AQNHM.jpg?auth=1e43f20fd33d10b0519cd87d1293a53a9956217135f0941698d476ecd5d6d01a&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/colombia/2026/10/30/reforma-fiscal-cambiaria-el-iva-de-alimentos-tecnologia-y-compras-por-internet-estos-son-los-productos/",
+   "titulo": "Aldair Quintana, exarquero del Atlético Bucaramanga busca su primer título de Liga en Ecuador",
+   "resumen": "Independiente del Valle podría proclamarse campeón anticipadamente este domingo, cuando reciba a Liga Deportiva Universitaria de Quito.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/2ROI33GGTJFB5NMARJPDWCIYMU.jpg?auth=783b5a9b923413c08977d96053cc9aad73f457051da0407108772b5b7dd5d7f7&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/deportes/futbol/2026/10/30/aldair-quintana-exarquero-del-atletico-bucaramanga-busca-su-primer-titulo-de-liga-en-ecuador/",
    "medio": "Vanguardia",
    "fuente": "vanguardia",
    "region": "Santander",
-   "fecha": "2026-10-30T15:07:07Z",
-   "id": "01dafb41a623"
+   "fecha": "2026-10-30T14:48:32Z",
+   "id": "128f79252464"
   },
   {
    "titulo": "Restricciones de movilidad en Cúcuta por Halloween: prohíben caravanas y modifican horarios de tránsito para motos",
@@ -528,26 +550,26 @@
    "id": "966058c2e711"
   },
   {
-   "titulo": "Norte de Santander descartó su participación en la Vuelta Juvenil y el Tour Femenino en Valle del Cauca",
+   "titulo": "Santander entra al mapa mundial de la conservación: el Cañón de la Hondura es reconocido como nueva OMEC",
    "resumen": "",
    "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSHFFd1FFdGYzeE9oaWF2N254d1hDc3V3UXlwcjcwbWZvUUp4NGNxN3BUOGU0VnRVX1otR1lNY1VtWDFHQ1Itd1lrQnAta3F0Q0ItakV6WllxX0NBaXcwRUJ5VDlNTWJxVU11TkNRQllPTWNfa3N2dm8xdmVqREdKdjZ4OFQwdmhqYzZQUHNmRnZfdGk5Q3ZPTmVmZjgxR0NuYmIzM0taUVBEVy10TWwxbHRtb2dVMzlO?oc=5",
-   "medio": "La Opinión Cúcuta",
+   "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ1NoNXBhZXl6OFNUZkVxek5SWFp3d1V0WElncmdTUmRRUDhGaXlhRVhKUmxKWFlzWkZPN2k5Y0VaUXNiUEZfbzIweHZsU2w0cnVmQ2hjYkE4bnMzY2ViUUxJTFNabVJPQ3cybXhvVW1uS2w2ZkFVZl9tT2VXaUdBU1ZFaXdaeG5HdnJ6M2ZpdWRYSHN3eXlCVU5xQlk1ME43bTBsZGpqVHDSAawBQVVfeXFMUGJGaGhXUFlSYnp2MWZxNmdhTmNidWhMYVNuZkdSei1NbU5TSXFabElnNHpSa2hiT2ZpMmJ6a1VjdGtaajlhVmVwMDV4V3RLdVBVRGxBRi0wcnd4aHJOcjlsVndkOWNiQ2ZCa3o2WmxkVWRVNWxUTE5yOXdZZGZndDVFWkVHWWlYd1JZbHVKVnFEUUhlbjhRWF9reFBFT3I1djd0SDFmSlhYV0dJLQ?oc=5",
+   "medio": "Alerta",
    "fuente": "provincia",
    "region": "Santander",
-   "fecha": "2026-10-28T23:16:31Z",
-   "id": "aff876dc052c"
+   "fecha": "2026-10-28T17:01:11Z",
+   "id": "1be22c274378"
   },
   {
-   "titulo": "Cañón de la Hondura, en Gámbita, suma un nuevo reconocimiento para la conservación de su biodiversidad",
+   "titulo": "Inundaciones y casas averiadas por lluvias en varios municipios de Santander",
    "resumen": "",
    "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPN1RFU3lhdFVOMzVFYVNGTmdlSGtSdlFfSzc1V1FJNldOZXZudEdWTFhPWm1oaVptYlEweVZJcFRyWEZMMVlseEwzczhvY0hCUVdvZUF0RXRTeTllRUR4VTJBSzN3YVBxX1ljSmlIOEpRZ0RXU0ZwSVNiV0hya2VncGVfMlVkd1Jmd3RmTlFsR3lROERhOG5GcGVZVjRUcm43UXVUbFd5VFRWX0ZKaUhTYmpESUdLQVlGZEFreHMzTnBhZnpnT0tTaFJsRmxwczRFN2h2RlBaTWYtckdDWWVRVTlKYw?oc=5",
-   "medio": "Vanguardia",
+   "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcUVlWl9yX1RCdnUtb19SQjhDVXVESy1yUE5aa08zWVF1VEY2T2U4NHZvZDRobnhVSjF3UmhZOUdTTF9KcnM2TEN1dWZ4SUJpejRic2FiYU45aV9yd3JfRGt0MUk1dG1lVzRHeGU4Sy1GTmVGeXZoV2djUmFlX3FhZmJQRld3UlU4VU5ONS1UQmV6dC1uMkZtZjRCSFFoUjhwZkV3?oc=5",
+   "medio": "El Frente",
    "fuente": "provincia",
    "region": "Santander",
-   "fecha": "2026-10-28T13:01:00Z",
-   "id": "8ea10cfc9edb"
+   "fecha": "2026-10-28T13:34:56Z",
+   "id": "7647888555cd"
   },
   {
    "titulo": "Continúan la búsqueda de joven de 23 años desaparecido en el río Suárez, Santander",
@@ -559,17 +581,6 @@
    "region": "Santander",
    "fecha": "2026-10-28T11:50:22Z",
    "id": "ab8ef2176eab"
-  },
-  {
-   "titulo": "Ferias y Fiestas 2026 en San Gil, Santander",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFRSOW0wU1VoSUpWNDdwOHFXekU3OG0wTm9QMF9QcHp0djRQOVNWbVJoTkEzeThUUDRWS2ZlY0hOc2IybHhQOGNwUHdCV2xDWU1JN0lsbEozQmY1ZVBLMHpCNTZGeEUtZFFPdllaaUl2RHVRalB1SmJBalp2eTEwLVZlTVp6RERjR01CdTVBTTg?oc=5",
-   "medio": "Viaja por Colombia",
-   "fuente": "provincia",
-   "region": "Santander",
-   "fecha": "2026-10-27T22:48:31Z",
-   "id": "87fc3b73c27f"
   }
  ]
 }
