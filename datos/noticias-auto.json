@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01T15:09:51Z",
+ "actualizado": "2026-11-01T19:40:42Z",
  "fuentes": [
   {
    "id": "vanguardia",
@@ -37,66 +37,297 @@
    "id": "rcn",
    "nombre": "RCN Radio",
    "ok": true,
-   "cantidad": 7,
+   "cantidad": 8,
    "enlace": "https://news.google.com/rss/search?q=site:rcnradio.com+when:1d&hl=es-419&gl=CO&ceid=CO:es-419",
    "error": ""
   }
  ],
  "noticias": [
   {
-   "titulo": "Lotería del Cauca: todos los resultados del sorteo del sábado 31 de octubre de 2026",
-   "resumen": "Acá le contamos el número ganador de la Lotería del Cauca y sus premios secos del sábado 31 de octubre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/T7XMSRSDNZFWPO4S53HWOWV4QM.png?auth=8c0c8579e8af15154c7cdc8703ac0c6a2f85b0dbb03bba2f9bd65cb24eb5eb73&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/31/loteria-del-cauca-todos-los-resultados-del-sorteo-del-sabado-31-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-01T15:06:03Z",
-   "id": "14662f5ae108"
-  },
-  {
-   "titulo": "Lotería de Boyacá: todos los resultados del sorteo del sábado 31 de octubre de 2026",
-   "resumen": "¿Qué número cayó en la Lotería de Boyacá? Sorteo del sábado 31 de octubre de 2026. Felicitaciones a los ganadores.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/GKYVMOAADVEXFPZJ7QBZZO5F7Y.png?auth=c6ce219a211fe0d8c25f8716580b9c570f62a4bd3263eacfb505bc4c1ab90241&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/31/loteria-de-boyaca-resultado-del-sorteo-del-sabado-31-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-01T15:02:52Z",
-   "id": "2305a6027f2e"
-  },
-  {
-   "titulo": "Con el 37,35% de avance, la Troncal del Magdalena 1 continúa consolidando su Fase de Construcción",
-   "resumen": "Con un avance del 37,35%, Autopista Magdalena Medio consolida la Fase de Construcción de la Troncal del Magdalena 1, el proyecto vial de Quinta Generación que conecta a Puerto Salgar con Barrancabermeja.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/CKJUEZCPVRAE5DUJZE6HWPUNII.jpg?auth=afc62b506879501095abebf0aabde4ce94b3bcc83d688abf3609c2216ac77906&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/informes-comerciales/2026/11/01/con-el-3735-de-avance-la-troncal-del-magdalena-1-continua-consolidando-su-fase-de-construccion/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-01T15:00:00Z",
-   "id": "486382ebc8d1"
-  },
-  {
-   "titulo": "Extra de Colombia: número ganador y premios secos del sábado 31 de octubre de 2026",
-   "resumen": "La Lotería Extra de Navidad sorteó este sábado 31 de octubre de 2026 su premio mayor de $15.000 millones. Conozca el número y la serie ganadora.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/JS54JM2VOND37N6WG5ODA6TSB4.jpg?auth=e1963715cb520064ef3b6c39d3e4cad502bbbb3333e5acdbfacd2eecc5b7832a&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/11/01/extra-de-colombia-numero-ganador-y-premios-secos-del-sabado-31-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-01T14:59:05Z",
-   "id": "c3bc0d4b51f8"
-  },
-  {
-   "titulo": "Condenadas a 25 años dos personas involucradas en el asesinato de Alessandro Coatti en Santa Marta",
-   "resumen": "La utilización de espacios digitales de encuentro de la comunidad LGBTIQ+ para captar víctimas y someterlas a hechos de violencia fue uno de los elementos identificados por la Fiscalía General de la Nación en la…",
-   "imagen": "https://caracol.com.co/resizer/v2/SFXWOT4WEJCZZIFIDOIKQTLKUE.jpeg?auth=3d5e3922b096177d2018b6ab516a530fa33aa1cc5b7b4a90d710e5c696c7e168&smart=true&width=682&height=418",
-   "enlace": "https://caracol.com.co/2026/11/01/condenadas-a-25-anos-dos-personas-involucradas-en-el-asesinato-de-alessandro-coatti-en-santa-marta/",
+   "titulo": "Consejo de Participación Ciudadana de Bolívar inició la planificación de su agenda 2027",
+   "resumen": "La Gobernación de Bolívar, a través de la Secretaría del Interior y la Dirección de Participación Ciudadana y Acción Comunal, en su calidad de Secretaría Técnica del Consejo Departamental de Participación Ciudadana, dio…",
+   "imagen": "https://caracol.com.co/resizer/v2/ZQEEGCJEUZAAFB3PLZLOSPXNFQ.jpeg?auth=849c89066cac9c6e4774f8441d3c12f317339fdf8add86698300742bc4c04efd&smart=true&width=1280&height=750",
+   "enlace": "https://caracol.com.co/2026/11/01/consejo-de-participacion-ciudadana-de-bolivar-inicio-la-planificacion-de-su-agenda-2027/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-11-01T14:48:09Z",
-   "id": "329371500c7c"
+   "fecha": "2026-11-01T19:33:16Z",
+   "id": "d3b69ddbe3a7"
+  },
+  {
+   "titulo": "Un amor para toda la vida: 46 parejas renovaron sus promesas frente al altar",
+   "resumen": "No fue el primer \"sí acepto\", pero sí uno de los más emotivos: 46 parejas renovaron su amor",
+   "imagen": "https://www.vanguardia.com/resizer/v2/N3T3RVUJPVHLJIKDRAW6OUVL2M.jpeg?auth=838fe8379e008a1fee069bd2c15ee17513c8c7683788cc7cbaa1b8db870f4310&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/area-metropolitana/floridablanca/2026/11/01/un-amor-para-toda-la-vida-46-parejas-renovaron-sus-promesas-frente-al-altar/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-01T19:26:34Z",
+   "id": "aac59ce0cf45"
+  },
+  {
+   "titulo": "Caribeña Día: resultado del sorteo de hoy domingo 1 de noviembre de 2026",
+   "resumen": "Conozca el resultado del sorteo del chance La Caribeña Día de hoy domingo 1 de noviembre de 2026.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/ZRAXETCTARBMBG7GN4C3N26XCA.png?auth=021c5b5a81c05f265e66259dfe3b448b95ff5dffe941ec2eb13f1fb7bf2cd4d7&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/loterias/2026/11/01/caribena-dia-resultado-del-sorteo-de-hoy-domingo-1-de-noviembre-de-2026/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-01T19:21:00Z",
+   "id": "ba4a3ae81a25"
+  },
+  {
+   "titulo": "Culona Día: resultado del sorteo del domingo 1 de noviembre de 2026",
+   "resumen": "Conozca los resultados del último sorteo de Culona Día del domingo 1 de noviembre de 2026.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/RYO4MI2LAFBGRLKZ254EIJH3LU.png?auth=17d60d6f740777c275921837228224cc26c9eabb4d321498bab03577746f967c&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/loterias/2026/11/01/culona-dia-resultado-del-sorteo-del-domingo-1-de-noviembre-de-2026/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-01T19:21:00Z",
+   "id": "6f637f787b6e"
+  },
+  {
+   "titulo": "Sinuano Día: resultado del sorteo de hoy domingo 1 de noviembre de 2026",
+   "resumen": "Este juego, que goza de una gran popularidad en varias zonas del país, se juega dos veces al día durante toda la semana. Este es el resultado del sorteo de hoy domingo 1 de noviembre de 2026.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/JET4MC22UFD6DG5KVPCUWA3QSU.png?auth=d86b7fdf92a1376278e99e2523f5b9c2401a4c5dab31016621655c14d28f0391&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/loterias/2026/11/01/sinuano-dia-resultado-del-sorteo-de-hoy-domingo-1-de-noviembre-de-2026/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-01T19:21:00Z",
+   "id": "e41b3ddb0dfc"
+  },
+  {
+   "titulo": "Iván Cepeda denunció supuesta campaña de desprestigio en su contra: anunció nuevo debate en Senado",
+   "resumen": "El senador del Pacto Histórico Iván Cepeda denunció que, después de su más reciente debate en el Senado y del anuncio de una segunda sesión de control político, tendría conocimiento de la preparación de una serie de…",
+   "imagen": "https://caracol.com.co/resizer/v2/JQNYAESFNVGEXNNUDBET6ASDNI.jpg?auth=eefc83050e179d7e5d3cb6d54b4e9ce7e2e6ade9615207574368aa946312a7d7&smart=true&width=4500&height=2995",
+   "enlace": "https://caracol.com.co/2026/11/01/ivan-cepeda-denuncio-supuesta-campana-de-desprestigio-en-su-contra-anuncio-nuevo-debate-en-senado/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-01T19:14:17Z",
+   "id": "c1918d526ebf"
+  },
+  {
+   "titulo": "Gobierno autoriza circulación de vehículos de carga con combustibles durante fines de semana",
+   "resumen": "El Gobierno nacional autorizó una excepción a las restricciones de movilidad que se aplican durante fines de semana y días festivos para los vehículos de carga que transportan combustibles destinados a las plantas de…",
+   "imagen": "https://caracol.com.co/resizer/v2/5VP7ZP3VERG3NCQ2N2RJSQ6EZQ.jpeg?auth=b9e6e945cf5258b17da233e6472897e8fb1528b126e9645fc2fdf634dd8a8a07&smart=true&width=1800&height=1260",
+   "enlace": "https://caracol.com.co/2026/11/01/gobierno-autoriza-circulacion-de-vehiculos-de-carga-con-combustibles-durante-fines-de-semana/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-01T19:12:40Z",
+   "id": "009b81ee5086"
+  },
+  {
+   "titulo": "CRC propone 40 cambios en telecomunicaciones para 2027 y 2028: ¿qué busca modificar?",
+   "resumen": "La Comisión de Regulación de Comunicaciones (CRC) presentó el borrador de su Agenda Regulatoria 2027-2028, una propuesta que reúne 40 iniciativas para transformar las condiciones del sector de las telecomunicaciones y…",
+   "imagen": "https://caracol.com.co/resizer/v2/6QL2IVXEUFATZCAIFEA2NTVK2E.png?auth=51a0f00911fbd8047414acec20276a57aba308f1df49374bbda7917227b49d04&smart=true&width=2048&height=1536",
+   "enlace": "https://caracol.com.co/2026/11/01/crc-propone-40-cambios-en-telecomunicaciones-para-2027-y-2028-que-busca-modificar/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-01T19:12:26Z",
+   "id": "46d5549be60f"
+  },
+  {
+   "titulo": "Awooween: la noche en que Ryan Castro conquistó El Campín",
+   "resumen": "Ryan Castro convirtió la noche del sábado 31 de octubre en una celebración musical con Awooween , el espectáculo con el que llegó por primera vez en solitario al estadio El Campín de Bogotá . El artista paisa reunió a…",
+   "imagen": "https://caracol.com.co/resizer/v2/LJ5RPXDRVJCQJC7YPWZPZJPHQE.jpg?auth=4c9633749c0fec511968ac8614d16531c7cad618f188e1c1fc2efbb13d36f589&smart=true&width=1024&height=683",
+   "enlace": "https://caracol.com.co/2026/11/01/awooween-la-noche-en-que-ryan-castro-conquisto-el-campin/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-01T19:11:08Z",
+   "id": "7b064a1073f2"
+  },
+  {
+   "titulo": "Protestas en India exigen la dimisión del jefe electoral por reforma del censo",
+   "resumen": "Miles de personas participaron el domingo en una protesta de la oposición india para pedir la dimisión del jefe electoral a raíz de una controvertida reforma del registro de votantes que, según ellos, beneficia al…",
+   "imagen": "https://caracol.com.co/resizer/v2/N2ITC66EFFCNLG2Z2XWWEHAJA4.jpg?auth=9ae50a26549f94b922fad56b754e9deaa564a294467ece23d9148e6f15323f34&smart=true&width=4076&height=2718",
+   "enlace": "https://caracol.com.co/2026/11/01/protestas-en-india-exigen-la-dimision-del-jefe-electoral-por-reforma-del-censo/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-01T19:03:05Z",
+   "id": "53d1777d47d6"
+  },
+  {
+   "titulo": "Paisita 1: número ganador del sorteo del domingo 1 de noviembre de 2026",
+   "resumen": "¿Ganó el Paisita 1? Consulte el número ganador de hoy domingo 1 de noviembre de 2026 y revise si la suerte lo acompañó en el primer sorteo de la jornada.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/6L5ETB326VE5TH7LSZVAS4L6U4.png?auth=5f5740bb2774f535dedde2e8de3cbaea6523277f572252f3b336721cbf1bdcf1&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/loterias/2026/11/01/paisita-1-numero-ganador-del-sorteo-del-domingo-1-de-noviembre-de-2026/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-01T18:50:00Z",
+   "id": "9842851a4581"
+  },
+  {
+   "titulo": "¿Hasta cuándo lloverá en Colombia? Max Henríquez explica qué pasará con el clima durante noviembre: 'Va a cambiar poco a poco'",
+   "resumen": "Las precipitaciones podrían presentarse con menor frecuencia o intensidad de lo habitual en algunas zonas, según el Ideam.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/01/6ae7855116211.r_d.1101-152-0.png",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/hasta-cuando-llovera-en-colombia-max-henriquez-explica-que-pasara-con-el-clima-durante-noviembre-va-a-cambiar-poco-a-poco-3597834",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-01T18:47:55Z",
+   "id": "d4ceea3dfd6e"
+  },
+  {
+   "titulo": "Giro de Rigo en Valle del Cauca cambia su ruta: Secretaría de Movilidad de Cali explica lo sucedido en Dagua que obligó a desviar a miles de ciclistas",
+   "resumen": "Un deslizamiento en La Yolomba modificó la competencia en el Valle del Cauca. Los deportistas fueron desviados por la ruta del Reto Caña.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/01/6ae7824cc36b8.r_d.351-170-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/cali/atencion-giro-de-rigo-cambia-su-ruta-derrumbe-en-dagua-obliga-a-desviar-a-miles-de-ciclistas-en-cali-3597832",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-01T18:29:02Z",
+   "id": "94c4e0515f05"
+  },
+  {
+   "titulo": "Atlético Bucaramanga se enfoca en doblegar a Atlético Nacional en el Montanini",
+   "resumen": "Atlético Bucaramanga ultima detalles para el atractivo partido ante Atlético Nacional, de la fecha 17 de la Liga BetPlay II de 2026.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/OYXLJY5KAZBPRIUKCHK3BLWU2U.jpg?auth=a548114af19967ae6e5d4212c1ed4488aa7af8299c8d574ee27712c49b1a4936&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/deportes/futbol/2026/11/01/atletico-bucaramanga-se-enfoca-en-doblegar-a-atletico-nacional-en-el-montanini/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-01T18:27:38Z",
+   "id": "e64755fd753a"
+  },
+  {
+   "titulo": "Algunos motociclistas volvieron a desafiar las normas: este fue el balance de Halloween",
+   "resumen": "210 motocicletas inmovilizadas y 205 'comparendos': saldo preliminar de Halloween en el área metropolitana",
+   "imagen": "https://www.vanguardia.com/resizer/v2/5OIWNQX56BBAFNPR4DMLSJF3OM.jpeg?auth=99de5b4edd8ed75df93b8131d1666ab0772c6851da50f8bcc7890a0e665a1e14&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/11/01/algunos-motociclistas-volvieron-a-desafiar-las-normas-este-fue-el-balance-de-halloween/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-01T18:19:35Z",
+   "id": "ed76af856d16"
+  },
+  {
+   "titulo": "Tragedia en Santo Domingo, Antioquia: un muerto y dos heridos al caer un árbol en el parque principal",
+   "resumen": "Un árbol colapsó en pleno parque principal durante las festividades locales. La comunidad exige respuestas tras alertar previamente sobre el riesgo.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/01/6ae77d8994f04.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/tragedia-en-santo-domingo-antioquia-un-muerto-y-dos-heridos-al-caer-un-arbol-en-el-parque-principal-3597829",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-01T18:04:45Z",
+   "id": "1e66e570362f"
+  },
+  {
+   "titulo": "Chontico Día: resultado del sorteo de domingo 1 de noviembre de 2026",
+   "resumen": "Le presentamos el resultado del último sorteo de Chontico Día de este domingo 1 de noviembre de 2026.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/WEMPTATCBNBUDKBM5OGQW4VBUA.jpeg?auth=c13dd56feac14fdd985679fcb020075f6a2787398c96f5dbe5ee79a456ed84ca&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/loterias/2026/11/01/chontico-dia-resultado-del-sorteo-de-domingo-1-de-noviembre-de-2026/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-01T18:02:09Z",
+   "id": "a4279140e9ce"
+  },
+  {
+   "titulo": "El atletismo de Santander se destaca en el Campeonato Nacional de Mayores 2026 en Bucaramanga",
+   "resumen": "Santander, el dueño de casa, cuenta con una importante cosecha de medallas en el Campeonato Nacional de Mayores.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/FZH4OSNMEBB7TF37I6IQFPEGT4.jpg?auth=ca8ef9211c99e2bd88acd5444f4075c8ff85d97324338c3cb3f42b23a1e630bd&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/deportes/otros-deportes/2026/11/01/el-atletismo-de-santander-se-destaca-en-el-campeonato-nacional-de-mayores-2026-en-bucaramanga/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-01T18:01:52Z",
+   "id": "bf2381da0ad8"
+  },
+  {
+   "titulo": "Francia se prepara para otra semana de tensión social pese a la caída de la movilización",
+   "resumen": "Las principales organizaciones de estudiantes llaman a retomar los bloqueos desde el martes y a sumarse el jueves a la convocatoria de huelga general que los sindicatos franceses han lanzado.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/D2XKATM2EFE5TKY7C4QVH4X2CQ.jpg?auth=7573720e5fc4d7b06dfd66aaf76fd8ca71e48d01bd3cefbf7d35e8f423b75f45&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/mundo/2026/11/01/francia-se-prepara-para-otra-semana-de-tension-social-pese-a-la-caida-de-la-movilizacion/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-01T17:58:19Z",
+   "id": "940dc92075bf"
+  },
+  {
+   "titulo": "Accidente entre automóvil y motocicleta dejó un joven herido en la vía Bucaramanga - Barrancabermeja",
+   "resumen": "En el siniestro vial estuvieron involucrados un automóvil particular y una motocicleta.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/PF2T645RAZCH7I3LKT4K2WQIOM.jpeg?auth=898cc81fb6d46cac87947f1166bcd2b40dbb22bd269b6c1e2c90cdf405b7d0f0&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/judicial/2026/11/01/accidente-entre-automovil-y-motocicleta-dejo-un-joven-herido-en-la-via-bucaramanga-barrancabermeja/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-01T17:49:24Z",
+   "id": "af8539d56b8a"
+  },
+  {
+   "titulo": "Santander busca rescatar sus dulces tradicionales: abren convocatoria para recopilar recetas",
+   "resumen": "La iniciativa ‘Santander, el dulce olvido’ invita a nonas y nonos, cocineros y portadores de saberes a compartir esas preparaciones que han pasado de generación en generación y que hoy están en riesgo de desaparecer.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/ZMO3BI4WJZCATPGNJ5MH2ZRFFY.jpg?auth=3fbed121952f7ad7e5cdad77f6f876dda601491e22b70ca0b7b2fe68f3884670&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/santander/2026/11/01/santander-busca-rescatar-sus-dulces-tradicionales-abren-convocatoria-para-recopilar-recetas/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-01T17:32:04Z",
+   "id": "ef386fb5cb95"
+  },
+  {
+   "titulo": "Audios y un “2 %”: las acusaciones de corrupción de un fallido empréstito de $2.726 millones en Santander",
+   "resumen": "Un presunto caso de corrupción tiene contra las cuerdas al alcalde de Villanueva, José Luis Gómez Mancilla, y al concejal Fredy Albeiro Pineda Vesga. Esta es la cronología del caso y algunas de las pruebas contra los…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/DVZVXHHZURH4DNX5YEITZJQI64.png?auth=15f3329c99ce161959d18389247850619d805a130c67776b6c239fcf5366914b&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/santander/2026/11/01/audios-y-un-2-las-acusaciones-de-corrupcion-de-un-emprestito-de-2726-millones-en-santander/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-01T16:55:50Z",
+   "id": "912e18f385f0"
+  },
+  {
+   "titulo": "El drama de los campesinos de Guaca, Santander, tras la avalancha que arrasó sus cultivos",
+   "resumen": "Una avalancha en la vereda Sisota, en Guaca, dejó a 120 familias sin cultivos ni puentes, con pérdidas cercanas a $1.000 millones. El Ideam advierte que la temporada es atípica: hay nueve municipios en alerta roja por…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/24MGFTB62NEALKKHX3FUGRG5SM.png?auth=ff1d7c9f09eebd1a67bee76d3f822a01de51d2b8243ac0e63a95d1d2a58cd11b&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/santander/2026/11/01/el-drama-de-los-campesinos-de-guaca-santander-tras-la-avalancha-que-arraso-sus-cultivos/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-01T16:55:15Z",
+   "id": "aacd23d38274"
+  },
+  {
+   "titulo": "Más de 3.000 comparendos y 350 vehículos inmovilizados deja el balance de Halloween en Cali tras masivas caravanas",
+   "resumen": "Autoridades desplegaron más de 2.100 uniformados para controlar caravanas de Halloween. A pesar de las quejas ciudadanas, el balance fue positivo.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/01/6ae75b5f5874d.r_d.900-962-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/cali/mas-de-3-000-comparendos-y-350-vehiculos-inmovilizados-deja-el-balance-de-halloween-en-cali-tras-masivas-caravanas-3597816",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-01T15:37:39Z",
+   "id": "f1ae75c731d1"
+  },
+  {
+   "titulo": "Video | Conductora en aparente estado de embriaguez arrolló a policías en Bucaramanga al evadir un retén durante Halloween: estas multas enfrentaría",
+   "resumen": "El alcalde de la ciudad, Cristian Portilla Pérez, compartió un video en sus redes sociales en el que deja ver el intento de fuga de la mujer.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/01/6ae74db61912b.r_d.235-290-0.png",
+   "enlace": "https://www.eltiempo.com/colombia/santander/video-conductora-en-aparente-estado-de-embriaguez-arrollo-a-policias-en-bucaramanga-al-evadir-un-reten-durante-halloween-estas-multas-enfrentaria-3597810",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-01T15:23:58Z",
+   "id": "695971adcdd3"
+  },
+  {
+   "titulo": "Halloween en Medellín deja más de 2.100 comparendos y 536 vehículos inmovilizados tras operativos de control",
+   "resumen": "Autoridades reportaron una captura, 16 traslados por protección y el cierre temporal de un establecimiento durante la jornada de vigilancia nocturna.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/01/6ae7568841f38.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/halloween-en-medellin-deja-mas-de-2-100-comparendos-y-536-vehiculos-inmovilizados-tras-operativos-de-control-3597812",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-01T15:19:15Z",
+   "id": "f4be8bf3ce07"
   },
   {
    "titulo": "Esperanzador parte médico de 'Kbeto' Zuleta: se conocen detalles sobre el estado de salud del cantante vallenato desde Barranquilla",
@@ -110,94 +341,6 @@
    "id": "530a8204713e"
   },
   {
-   "titulo": "Capturan a cuatro integrantes de ‘La Terraza’, ‘Caicedo’ y ‘El Mesa’ en Medellín y Bello",
-   "resumen": "Cuatro personas señaladas de tener vínculos con las estructuras delincuenciales ‘La Terraza’, ‘Caicedo’ y ‘El Mesa’ fueron capturadas durante una serie de operativos realizados por la Policía Nacional en Medellín y…",
-   "imagen": "https://caracol.com.co/resizer/v2/TOZWE52U4RDX5BTO2AIT7W5XCA.jpeg?auth=90c9f57548421e5fc5ac72a6072ccaeffe6c010f9a1b2660f1cf43d4c476510d&smart=true&width=1600&height=900",
-   "enlace": "https://caracol.com.co/2026/11/01/capturan-a-cuatro-integrantes-de-la-terraza-caicedo-y-el-mesa-en-medellin-y-bello/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-01T14:45:41Z",
-   "id": "defc88f56231"
-  },
-  {
-   "titulo": "Pico y placa en Bucaramanga y el área: así regirá durante la primera semana de noviembre",
-   "resumen": "Este será el pico y placa en Bucaramanga durante la primera semana de noviembre",
-   "imagen": "https://www.vanguardia.com/resizer/v2/QBONNODK75F4XERWQRFQWNZRJM.jpeg?auth=aff7dad3c0fd0ee29914c86e6e2855a2ba7ed56e22789a4b0c1b84eafce74877&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/11/01/pico-y-placa-en-bucaramanga-y-el-area-asi-regira-durante-la-primera-semana-de-noviembre/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-01T14:45:29Z",
-   "id": "a2e375d08d13"
-  },
-  {
-   "titulo": "Riña en una discoteca de Bucaramanga terminó en tragedia: hombre murió tras ser apuñalado en el cuello",
-   "resumen": "Jerson Fabián Villalba Murillo registraba una anotación judicial por el delito de hurto calificado y agravado.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/SJQ7SQBW5JGU3HUFV3XDKOYMYY.jpg?auth=3d037bab28a69b131b9e99c292a27037a7a519d5509244f64c9d6143a38304c9&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/judicial/2026/11/01/rina-en-una-discoteca-termino-en-tragedia-hombre-murio-tras-ser-apunalado-en-el-cuello-en-bucaramanga/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-01T14:37:25Z",
-   "id": "916d5cc7f754"
-  },
-  {
-   "titulo": "Fecode llama al magisterio a mantenerse en máxima alerta por cambios en el FOMAG",
-   "resumen": "A través de un comunicado, Fecode reiteró su defensa de la Ley 91 de 1989, que creó el Fondo Nacional de Prestaciones Sociales del Magisterio (FOMAG), y del modelo de salud establecido mediante el Acuerdo 003 de 2024…",
-   "imagen": "https://caracol.com.co/resizer/v2/OU7PCALKYJAT5PAX2LEDV4UVKI.png?auth=762ac55332d19efa962870a8ba1661787850c616970206074006f27b4817cc04&smart=true&width=650&height=488",
-   "enlace": "https://caracol.com.co/2026/11/01/fecode-llama-al-magisterio-a-mantenerse-en-maxima-alerta-por-cambios-en-el-fomag/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-01T14:34:24Z",
-   "id": "dd66404b60bd"
-  },
-  {
-   "titulo": "Revelan detalles del ataque terrorista con motobomba en el municipio de Algeciras (Huila) en la noche de Halloween: un policía muerto y varios heridos",
-   "resumen": "La explosión sembró el terror frente al establecimiento comercial Las Palmitas donde varias personas celebraban las fiestas del 31 de octubre.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/01/6ae6fb5aa8068.r_d.280-329-0.png",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/un-policia-muerto-y-varios-heridos-deja-ataque-terrorista-con-motobomba-en-el-municipio-de-algeciras-huila-3597803",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-01T14:26:36Z",
-   "id": "ae5548ee9539"
-  },
-  {
-   "titulo": "Reflexión espiritual: Que su luz interior se refleje en sus acciones",
-   "resumen": "Brille por lo que es, no por lo que dice creer",
-   "imagen": "https://www.vanguardia.com/resizer/v2/DU75CNVVDJCUFKNE3N2E2NYZRE.png?auth=7ca1df590753318888d1ba7db84ede28471028c48b87cfafc1c44971621ab5c7&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/entretenimiento/espiritualidad/2026/11/01/reflexion-espiritual-que-su-luz-interior-se-refleje-en-sus-acciones/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-01T14:25:13Z",
-   "id": "ca6e32ff8b20"
-  },
-  {
-   "titulo": "Sin novedades se realizó la caravana de moteros en Armenia por la celebración de Halloween",
-   "resumen": "En la noche del 31 de octubre se tenía prevista la caravana de moteros por la celebración de Halloween la ciudad, las autoridades entregaron un balance positivo en materia de seguridad vial. En la madrugada de este…",
-   "imagen": "https://caracol.com.co/resizer/v2/VIJKKG6CARHGZKU22POVZR3D7I.jpg?auth=06c11e1b961be1533b74f19b7c5a96cc135739883070dd1fae76e4fd7503765b&smart=true&width=1179&height=997",
-   "enlace": "https://caracol.com.co/2026/11/01/sin-novedades-se-realizo-la-caravana-de-moteros-en-armenia-por-la-celebracion-de-halloween/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-01T14:18:46Z",
-   "id": "01274c18ee56"
-  },
-  {
-   "titulo": "KBeto fue extubado y presenta mejoría neurológica: ya está consciente y habla",
-   "resumen": "La información fue divulgada en un comunicado a la opinión pública publicado el sábado 31 de octubre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/IE5QBJUZVVBVLMQD3DLAEFZUDA.jpg?auth=9dbc48bbc636254dbd7f90f6ba001c02273fb2df2fb137f28a140374c0c612f2&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/entretenimiento/tendencias/2026/11/01/kbeto-fue-extubado-y-presenta-mejoria-neurologica-ya-esta-consciente-y-habla/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-01T14:16:51Z",
-   "id": "a0ae509f1bb2"
-  },
-  {
    "titulo": "El testimonio de los pobladores que se lanzaron al río para salvar a 23 integrantes de la agrupación de Kbeto Zuleta tras el accidente en Ariguaní",
    "resumen": "Por su valiente acción, el juglar vallenato Poncho Zuleta, padre de Kbeto, se ha desbocado en agradecimientos e incluso les prometió una iglesia.",
    "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/28/6ae25bba80c2f.r_d.57-233-0.png",
@@ -209,136 +352,26 @@
    "id": "1d78f4404f7c"
   },
   {
-   "titulo": "Autoridades de salud en Caldas invierten más de $ 2.000 millones en hospital afectado por terremoto",
-   "resumen": "La inversión que hizo la DTSC se distribuyó en dos componentes: $ 1.304.383.370 destinados a la adquisición de un autoclave y 66 camas hospitalarias eléctricas, y $ 1.200 millones para atender las afectaciones…",
-   "imagen": "https://caracol.com.co/resizer/v2/YVM7FEBCNBBD7GJPJYRGHXUVHQ.jpeg?auth=e62b107b3105cafde0d689362539b61d9cd47f7e00d56418612df5bd86d29de1&smart=true&width=1536&height=1024",
-   "enlace": "https://caracol.com.co/2026/11/01/autoridades-de-salud-en-caldas-invierten-mas-de-2000-millones-en-hospital-afectado-por-terremoto/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-01T14:14:29Z",
-   "id": "5aca1152ce28"
-  },
-  {
-   "titulo": "El piloto colombiano David Alonso sacó la casta en el Gran Premio de Malasia en Moto2",
-   "resumen": "El piloto colombiano David Alonso se impuso en el Gran Premio de Malasia de Moto2, consiguió su segundo triunfo de 2026 y ascendió al cuarto puesto del campeonato mundial.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/J6E4UMEU3JHBPC745VAAJCRWXA.jpg?auth=3cd268906058303c5f67471341b906371429fc14f3650cdd6cc85e61ad8ba175&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/deportes/futbol/2026/11/01/david-alonso-saco-la-casta-en-el-gran-premio-de-malasia-en-moto2/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-01T14:05:20Z",
-   "id": "830c9a7e9339"
-  },
-  {
-   "titulo": "Aumentó a 85 el número de edificaciones que serán demolidas en Cali tras el terremoto",
-   "resumen": "El número de edificaciones que deberán ser demolidas en Cali, tras los daños ocasionados por el terremoto del pasado 10 de octubre, continúa aumentando. La Secretaría de Gestión del Riesgo confirmó que, tras las últimas…",
-   "imagen": "https://caracol.com.co/resizer/v2/5Z3KNHX4WRG65OBLEXJ7XJELFE.jpeg?auth=75e6ffd5b6de9b868c2aa9575a4f7d48a2f19816abf6504bf4970b84bf8bb453&smart=true&width=1280&height=960",
-   "enlace": "https://caracol.com.co/2026/11/01/aumento-a-85-el-numero-de-edificaciones-que-seran-demolidas-en-cali-tras-el-terremoto/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-01T14:05:04Z",
-   "id": "0ba7f84b36e5"
-  },
-  {
-   "titulo": "Gobierno francés confirmó que se produjeron 779 arrestos en las protestas del 31 de octubre",
-   "resumen": "El Gobierno francés cifró este domingo en 779 el balance final de detenciones en la jornada del 31 de octubre, sumados los arrestos en el marco de las manifestaciones nacionales y los de la noche de Halloween, en la que…",
-   "imagen": "https://caracol.com.co/resizer/v2/GK57UI6BBZF2TIWPITQG44FTMY.jpg?auth=1d4edd2abe3710f580c1354e9d115a68e35038a7bb200441efe3a2668fca0daa&smart=true&width=1920&height=1280",
-   "enlace": "https://caracol.com.co/2026/11/01/gobierno-frances-confirmo-que-se-produjeron-779-arrestos-en-las-protestas-del-31-de-octubre/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-01T13:59:18Z",
-   "id": "36d55c663f06"
-  },
-  {
-   "titulo": "Kbeto Zuleta despertó y reconoció a varias personas: “fue extubado exitosamente”",
-   "resumen": "El artista vallenato Kabeto Zuleta despertó espontáneamente y fue extubado exitosamente. Además, ha comenzado a hablar y a reconocer a las personas a su alrededor, así lo indicaron, a través de un comunicado, la…",
-   "imagen": "https://caracol.com.co/resizer/v2/7QJ35HHNUFCNZG7TQVYYLIPMUI.jpg?auth=c50eee8de045be11d599e763ced25aad673a2cfe0844915c4f7957ce1f90135e&smart=true&width=1080&height=919",
-   "enlace": "https://caracol.com.co/2026/11/01/kbeto-zuleta-desperto-y-reconocio-a-varias-personas-desperto-espontaneamente-y-fue-extubado/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-01T13:57:58Z",
-   "id": "caaa8d8e67ac"
-  },
-  {
-   "titulo": "Video: Conductora de camioneta de alta gama intentó escapar de un puesto de control en Bucaramanga",
-   "resumen": "La conductora fue capturada ante la sospecha de que se encontraba bajo los efectos del alcohol.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/DPAJOMSCEJDQPBVUBP22IO64YA.png?auth=28b998276bc0b1242e7eee6a1c7bd2bb040334fe486a64e93fdbe4c003600ea5&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/judicial/2026/11/01/mujer-habria-intentado-escapar-de-un-puesto-de-control-en-bucaramanga-y-termino-arrollando-a-policias/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-01T13:53:32Z",
-   "id": "5c59cd9d5e74"
-  },
-  {
-   "titulo": "Al menos nueve muertos habría dejado bombardeo en Venezuela contra el Eln",
-   "resumen": "La operación militar se habría producido en medio de disputas por territorios utilizados para la explotación ilegal de bauxita y coltán, además de actividades relacionadas con el narcotráfico.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/HLW2WPGJXVHHPODYKP4MMKZYHM.jpg?auth=e402c93cb854a3d3b68b74d62f986cfb83f9000eeff54beb6f62845fe2da182e&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/mundo/2026/11/01/al-menos-nueve-muertos-habria-dejado-bombardeo-en-venezuela-contra-el-eln/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-01T13:45:06Z",
-   "id": "5ef132c9df45"
-  },
-  {
    "titulo": "Santander vive un puente de ferias y fiestas: Los Santos, San Gil, Charalá y Charta concentran la agenda del fin de semana",
-   "resumen": "Entre el 29 de octubre y el 2 de noviembre, Santander tendrá uno de sus fines de semana más activos en turismo y cultura, con ferias, conciertos, gastronomía, tradición campesina y música andina.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/OTUTDB5PKNERZNIH53AWKHTTOU.jpg?auth=9ef2d615e391b23e08e2d9d62f7b6241d76de67476fc06421c1ee079b9b83c59&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/entretenimiento/cultura/2026/10/30/santander-vive-un-puente-de-ferias-y-fiestas-los-santos-san-gil-charala-y-charta-concentran-la-agenda-del-fin-de-semana/",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQNzU4dmdRTDdTMmxfcGhEbmNQdTM1a1I5X3FvWEVLWjJFVnVDQms3SVZraXJUVV9QOVBiRWYwRmN5VENoYWNMemxDYTI0czJFeWNvQUdheFpiUEZZQnZhQ014ZVZUdDcway12cldtUHRZMTRpNktPOHh3UHRwYm9jQUdycmlWbHRtbDhSWmlBb0hYcEVsM1d1TUdNRDU1X19rWnFwbC1ZdVdJTnBzUGp1T3FCbGxnXzJxcmlPVHZVNGJNQWQ4SDkyRjVTaklncTV1ZVRMZ3VyQzhfWTNrV2RtY045bkFscGEyWTRjOERDRVQwck5VektFZWY2NFRocEN4TmxzazB5V1FRTVFlbG5F?oc=5",
    "medio": "Vanguardia",
-   "fuente": "vanguardia",
+   "fuente": "provincia",
    "region": "Santander",
-   "fecha": "2026-11-01T13:43:23Z",
+   "fecha": "2026-11-01T13:43:00Z",
    "id": "c15d68848a57"
   },
   {
-   "titulo": "Los Santos celebra su cultura guane, su gastronomía y sus tradiciones en el tercer Festival Turístico",
-   "resumen": "Del 29 de octubre al 2 de noviembre, el municipio santandereano tendrá una programación que combina desfiles, música, muestras artesanales, productos del campo y actividades deportivas.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/FWH47GILLZD7NAFYAN6Q6X6M5Q.jpeg?auth=25e01d972ac71860c18539291cf4759c76454f3f98b8f5ff00d9393a860fab18&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/entretenimiento/cultura/magazin-cultural/2026/10/24/los-santos-celebra-su-cultura-guane-su-gastronomia-y-sus-tradiciones-en-el-tercer-festival-turistico/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-01T13:41:55Z",
-   "id": "5e4e1e69cbf0"
-  },
-  {
-   "titulo": "Gobernador de Antioquia propone reducir de 18 a siete los ministerios",
-   "resumen": "La estructura planteada contempla un Ministerio de Seguridad, que integraría Interior y Justicia; uno de Desarrollo Social, que reuniría Salud, Educación, Deporte, Cultura, el Departamento de Prosperidad Social y…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/CK2Q6BS3WFGZXMCSZSQW5GN2B4.jpeg?auth=d90b794b053873176b6f117513c91780a5b399fc0fc0e52e871a8026b29efdc1&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/colombia/2026/11/01/gobernador-de-antioquia-propone-reducir-de-18-a-siete-los-ministerios/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-01T13:35:28Z",
-   "id": "44e507a7acb5"
-  },
-  {
-   "titulo": "El drama de los campesinos de Guaca, Santander, tras la avalancha que arrasó sus cultivos",
-   "resumen": "Una avalancha en la vereda Sisota, en Guaca, dejó a 120 familias sin cultivos ni puentes, con pérdidas cercanas a $1.000 millones. El Ideam advierte que la temporada es atípica: hay nueve municipios en alerta roja por…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/24MGFTB62NEALKKHX3FUGRG5SM.png?auth=ff1d7c9f09eebd1a67bee76d3f822a01de51d2b8243ac0e63a95d1d2a58cd11b&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/santander/2026/11/01/el-drama-de-los-campesinos-de-guaca-santander-tras-la-avalancha-que-arraso-sus-cultivos/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-01T13:30:38Z",
-   "id": "aacd23d38274"
-  },
-  {
-   "titulo": "Temblor hoy en Colombia | Reportan sismo de magnitud 3,1 en el océano Pacífico este domingo 1 de noviembre de 2026: ¿se sintió en el Eje Cafetero?",
-   "resumen": "El Servicio Geológico Colombiano informó que el movimiento telúrico se registró este a las 6:24 a. m.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/01/6ae7277d09a2a.r_d.189-74-0.png",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-sismo-de-magnitud-3-1-en-el-oceano-pacifico-este-domingo-1-de-noviembre-de-2026-se-sintio-en-el-eje-cafetero-3597797",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
+   "titulo": "Player Page",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcWxoQnJJX1FnZ2VzQ1pJVGpPaFgzTDY3aFJpRjhSVE04cE8yT3hmLVdXbGdJVnEyZDlRWWZqRmhmMjJUd3Q1V3VKd0hIWkFxb19ldnRyYWhOTWJ6OHR5WjI4empvUHg1ZnpoRFJjRm1kWGJHZXdSU1FVUTFHZnJCbG1WcVpEaWhMTmVxR19sdXBnV2ZYNzdvNEVYWU9ESGRGamFuTmhiZ1hmR29vQjZNci1ESXhJcHpmVzdNMEFuN3ItWW41Nng5QnlBQ2hhVnRIQ2c?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
    "region": "Colombia",
-   "fecha": "2026-11-01T12:08:47Z",
-   "id": "959fca2fab30"
+   "fecha": "2026-11-01T12:36:05Z",
+   "id": "e66bf6683d4a"
   },
   {
    "titulo": "Estos son los mejores colegios de Barranquilla según el ranking Col-Sapiens 2026-2027",
@@ -352,39 +385,6 @@
    "id": "32556e5d844d"
   },
   {
-   "titulo": "Explosión en la zona rosa de Algeciras, Huila, habría dejado tres policías heridos y varios civiles afectados; autoridades investigan el hecho",
-   "resumen": "Las primeras versiones indican que el artefacto explosivo fue colocado en una motocicleta estacionada frente a un establecimiento comercial.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/01/6ae6f7e317e5e.r_d.181-57-0.png",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/explosion-en-la-zona-rosa-de-algeciras-huila-habria-dejado-tres-policias-heridos-y-varios-civiles-afectados-autoridades-investigan-el-hecho-3597793",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-01T08:51:52Z",
-   "id": "6bf2dcc6d5ae"
-  },
-  {
-   "titulo": "Cierre total en la vía La Línea por volcamiento de camión cisterna en túnel Las Mariposas, en Calarcá, Quindío: autoridades recomiendan rutas alternas",
-   "resumen": "La restricción se mantendrá hasta retirar el vehículo y finalizar la intervención de los organismos de emergencia en el lugar.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/01/6ae6d8a4679ce.r_d.1090-255-0.png",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/cierre-total-en-la-via-la-linea-por-volcamiento-de-camion-cisterna-en-tunel-las-mariposas-en-calarca-quindio-autoridades-recomiendan-rutas-alternas-3597792",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-01T06:25:25Z",
-   "id": "91502b65929f"
-  },
-  {
-   "titulo": "El vallenato, una música que también ha llorado a sus artistas en las carreteras",
-   "resumen": "Desde 1979, viajes por compromisos musicales han cobrado vidas en el vallenato. Patricia Teherán, Kaleth Morales y Martín Elías, entre otros.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/30/6ae532fb5b64a.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/el-vallenato-una-musica-que-tambien-ha-llorado-a-sus-artistas-en-las-carreteras-3597623",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-01T03:00:05Z",
-   "id": "e6e1cdd9bb6a"
-  },
-  {
    "titulo": "Prohíben caravanas durante el puente festivo de Halloween en Barranquilla: Estas son las medidas de tránsito",
    "resumen": "",
    "imagen": "",
@@ -396,37 +396,59 @@
    "id": "5a43553f930b"
   },
   {
-   "titulo": "TransMilenio extiende su servicio en Bogotá para el concierto de Ryan Castro: Estas son las rutas",
+   "titulo": "Noticias Deportes RCN (31 de octubre de 2026)",
    "resumen": "",
    "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS3plbTlyX0IxSWFxVGhoYUxJUFYxQUd0RkxoV1ROSnREV0dhYS1RdVdwYlVMb1BUWmR4eHZYaHh1SW1VbjA2TzUySk1jUWZNWnZlbklLLXFZbDRrWTFGei04TzFjeHF3enpvQk1iUDY3NllOY2lsMXFWOTN5UmRaMExXak5CZTYwZWllMW1MTkx2dVhWUGIyQU5Oa0JFaVZZOW81T21uV0Npanl0SktaZzhXUnpraFFCaVlZV0lSaGtRNFpUQko2ckZmTHhDR1Jt?oc=5",
+   "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM2Z0NmtLT0UzTUVONEtGNGtWX1VubGpCSEhJaEFUeDQ2dVJxbURUV19fLVlFUG9ZTXpSVWV5anZnQWlfUkhLS25HNEVreWd3RDJ2Mm5sZUdXWWlydHVLM0NVejVQbEpXVkd0MnQ3WkFQdHlGeG5jRmRjeDJTamRMNTN0X1R0VlpOeXBONjlULXZ3TEpSOWRRNEVZQkpvejdtNUhFN3BsMXE0NmR1T3Bn?oc=5",
    "medio": "RCN Radio",
    "fuente": "rcn",
    "region": "Colombia",
-   "fecha": "2026-11-01T02:50:22Z",
-   "id": "8f8083bdb164"
+   "fecha": "2026-11-01T02:41:04Z",
+   "id": "cf5114d54a0a"
   },
   {
-   "titulo": "LAS CUENTAS DE LOS EQUIPOS",
+   "titulo": "Noticias Deportes RCN (2 de noviembre de 2026)",
    "resumen": "",
    "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU2NnSW1MM1hjME1sOS1NVk1NbHZQb3UwZ25XeTZXQ0U1RVVKZ1pLbnphaVFncDExWjBmNWpEdjRfbHVlYWdLeXo3MUxJazYzRHhJNndBczZDNHhGYjR1QzZBT3BnUms3YzJvNzBlZUcwZVhIcldvLVBpMnpLbV9MM1MxaUs5MU9f?oc=5",
+   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSGpZUzRja1RmaEd4U1pud2lCTjBEVFY3WlduUGY0Z2dUaXJmSGM4TWdpYXU3WE92Y1dLYWMzNnRSQTFtWnlGM295MWdkbEpWOW1RVFlfQkphQnpPYkJUZ3R5d1h3R0Fid2Jid2NRcEJzN0NPS3RyWERZRTl6MkdXX1JNa3FrZy1pRkY1a1BZUnhwMy10QmY5VEJBb1Q3eWxzY0JyMUU0NEtTNUkyS0RHMg?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-11-01T02:29:42Z",
+   "id": "9d1f3e6a2fc0"
+  },
+  {
+   "titulo": "Noticias Deportes RCN (1 de noviembre de 2026)",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU0xrYkNyekllNm1KRVdIUnNWNmdJV1FPcko4cGxldnUzYkxIVndwWGt3Y3dCOGhFczgyVUNIVXJwLTNIcVk0MzBmUzltc1JIWEpLRk9tcTlaRVQzMjVJRi1IWDlYTlNvQjZyZzRUY08tQUZxZGtsYV9QRmVXQlAyMlR6S0FBS2hHUXhzd2gzRjdVTHd2TzlFVjBWdWpmUzVIRW5hVEZ0WGRHLU00Y1RqWA?oc=5",
    "medio": "RCN Radio",
    "fuente": "rcn",
    "region": "Colombia",
    "fecha": "2026-11-01T02:05:14Z",
-   "id": "7174534f4403"
+   "id": "6e3959b88ca7"
   },
   {
-   "titulo": "Distrito de Cartagena presentó el cronograma para la siguiente fase del Gran Malecón del Mar: en marzo de 2027 entregarán el Mirador del Sol",
-   "resumen": "El mirador será una plataforma de 5.000 metros cuadrados sobre las aguas del mar Caribe, que promete ser la mayor atracción recreativa de la ciudad.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/10/6a515de451d68.r_d.647-469-0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/distrito-de-cartagena-presento-el-cronograma-para-la-siguiente-fase-del-gran-malecon-del-mar-en-marzo-de-2027-entregaran-el-mirador-del-sol-3597748",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
+   "titulo": "Vea EN VIVO el sorteo de la Lotería de Boyacá de HOY 31 de octubre 2026: premio mayor y ganadores",
+   "resumen": "La Lotería de Boyacá es una de las más reconocidas en Colombia , destacada por su trayectoria y por entregar premios atractivos a sus jugadores. El sorteo de HOY se realiza a las 10:40 de la noche . En este tipo de…",
+   "imagen": "https://caracol.com.co/resizer/v2/BG4H5D66BVHBZDGU7X6E45FZTQ.jpg?auth=fe57c12a98877fed2a86ef4bcfcf7ed57581b164ddac0ffb7bc53f7ee7daf05a&smart=true&width=2000&height=1400",
+   "enlace": "https://caracol.com.co/2026/11/01/vea-en-vivo-el-sorteo-de-la-loteria-de-boyaca-de-hoy-31-de-octubre-2026-premio-mayor-y-ganadores/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-11-01T01:34:01Z",
-   "id": "13107286ff41"
+   "fecha": "2026-11-01T01:14:34Z",
+   "id": "8bdc048c0810"
+  },
+  {
+   "titulo": "Lotería de Boyacá, Cauca y Baloto HOY sábado 31 de octubre: resultados y números ganadores",
+   "resumen": "La Lotería de Boyacá, como lo indica su lema ‘Un sábado de pobre lo sacará’ , se juega todos los sábados a las 10:40 de la noche, y puede verla por medio del Canal Trece o en la transmisión en vivo en Facebook Live y…",
+   "imagen": "https://caracol.com.co/resizer/v2/7ZQLNJMWBRDMLBSX2A3LRH5NSI.jpg?auth=a2fc7b899df810f833473152051cb010f977ddfde8f642dec8a6717a6bf523fc&smart=true&width=2000&height=1500",
+   "enlace": "https://caracol.com.co/2026/11/01/loteria-de-boyaca-cauca-y-baloto-hoy-sabado-31-de-octubre-resultados-y-numeros-ganadores/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-01T01:12:33Z",
+   "id": "66e2b23ecc31"
   },
   {
    "titulo": "Calendario electoral territorial 2027: Estas son las fechas clave de las próximas elecciones en Colombia",
@@ -451,17 +473,6 @@
    "id": "687d98180ad0"
   },
   {
-   "titulo": "Cortes de luz en Antioquia este 1 de noviembre de 2026: sectores y horarios",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdjVLTlp2MHJqWi1CQ21OWFAtWktrUUxvM01HN2wzamdrR0Vtb2ZSRXl4UlVYTDRnaDJnTVRKdUozWTRWTWtFNk0zamRhSlM0Q3NPbG84VVBaQ0VrTjI1V2RsSl9iRklvalFHOFFYUWltQ1NUOGNjQWxocXlSNVNoSDlRQzc3Z2l5U1pqbzdqR0ZTZVF5Z2ZIb2ZiV0tuT3NqV05Dcm9hNnNQSjdteGdFOGppZw?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-10-31T17:12:43Z",
-   "id": "78563442d48c"
-  },
-  {
    "titulo": "En Santander, 18 ganaderos siembran embriones para cosechar vacas lecheras",
    "resumen": "",
    "imagen": "",
@@ -473,6 +484,28 @@
    "id": "ca5474e6c288"
   },
   {
+   "titulo": "Liga BetPlay: tabla actualizada y equipos clasificados tras la victoria del Bucaramanga",
+   "resumen": "Tabla de posiciones de la Liga BetPlay II de 2026, luego de que el campeonato se pusiera al día con 16 juegos para cada equipo. Nacional, América, Cali, Bucaramanga y Santa Fe certifican su clasificación.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/QPUGKA2OHBEMLICXU7FMO4U72I.jpeg?auth=b10365fb6cb52b7950b160983e30a077f56ac387e25f630c45ff8eb8f55c3933&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/deportes/futbol/2026/10/31/liga-betplay-tabla-actualizada-y-equipos-clasificados-tras-la-victoria-del-bucaramanga/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-10-31T14:04:08Z",
+   "id": "64cad4eea518"
+  },
+  {
+   "titulo": "Las carreteras de SANTANDER están abandonadas por el gobierno nacional",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeFpmdmpGaUtmWm5yV1BKVXVxTGNERF9VMkd4WTB2aHBaSU0zS0lySm5aTllQdFpnUG1WNHFKTU9wOGx4R04zbFJDQi1wQXpnbWZtXzdLNy1qOTdFaWFGWlNfaFRRZllNMFhhaWdGZTVfSk9vLXF1TV8zeWZJNXJ5VDY2amhveFVkbXpqbjlocEM5ZHBYUXVUMzQxNA?oc=5",
+   "medio": "El Frente",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-10-31T00:01:18Z",
+   "id": "1a1971402a11"
+  },
+  {
    "titulo": "Restricciones, cierres viales y horarios extendidos por las Ferias de San Gil",
    "resumen": "",
    "imagen": "",
@@ -482,6 +515,17 @@
    "region": "Santander",
    "fecha": "2026-10-30T17:07:57Z",
    "id": "d89f11e37a49"
+  },
+  {
+   "titulo": "Santander vivirá un fin de semana de ferias y fiestas en distintos municipios: conozca cuales son",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb3ZrT0ZaRm9GTGNLOUcxc093VzlnU2luRkQ0R01ESkRGc0ItbnpId0t5Wmc3emNVRmtwNnZpZ2JKUTM0YUl2TjQ5MTBuTjhRM1dXaWpjVHNzdWRwOEFiYl94czFIR3daTlNQZGNETVBSMWtqSjZRSEJpZmR5MFNXbWk5VXAydjRWbTc3ZTZlZnBsZmhTNWM4M2NNbWxIei03SUlQeVNrX0Fqa2tRdW13cXFIQnAxV0VfV0wyd3VfOExIVDJlcmfSAdoBQVVfeXFMTUVpajVnTmtkZkNMT0lpSUhiZUNtcGNTQk9VMFhZcThEYzJKWkRLWmx4LUlfV0NXWmt1OEJzakRURXVDM3ZkQk5ZUC1NRld0T01YUHdjSEpuSHdNeGV5SGE5OC1mRVNmYlotb0x1RnhYbUd4eE55eUpXdnA1ZmtTOW1melNsbWpMeHdwdWZyemhJSXZyTXFOaGFSaVVBcUVpRExoRUx3d0J6UFUxV08tQTM2NHZTQXQyeHBRbHprYVFHWmdncTBNNEM2ajJIamllVGZNM08zUlJqd3c?oc=5",
+   "medio": "Caracol Radio",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-10-30T16:52:54Z",
+   "id": "c88b6390834a"
   },
   {
    "titulo": "Inundaciones en Zapatoca: 11 familias afectadas por las fuertes lluvias en Santander",
@@ -506,17 +550,6 @@
    "id": "53907c361577"
   },
   {
-   "titulo": "Fuertes lluvias provocan inundaciones, deslizamientos y congestión vehicular en Ocaña",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUVdOTW92S0VpOUJDRnlOUlNpUmFaQnBqV3FfdEZYbFgxdHg2VXBiYzFYZU9ZUmdxdUduSXFOZEI0dmM5OWZwS3ZzNHNPRG5kRy1qeDdhajhEUzIwN0NOMzNTNFNXcFdEZnQtMndUWVdfc1VlcHVOU2dLT0FuT2NsVWdvaHo1VmRTWEtNbjE5VlV1a2hwR2RHRXktOHBKWDVCa21tQ3NUSkVKRjhBZVU2ODctc2tVdE94b29V0gHPAUFVX3lxTE1MYmllSXB6VFFEaFh3VEtaa0JQWmhhR1hPakkyZG5JUE1rWjU2MEJ6ZzdNNlUxVEFYOVFIb3BqSWFKMmRYZVZtTS1FQ19WSXE1cHZnamtEdElpTHNfdHNKdlhHQVRNQjMyRDhRMGZaZy1fLXFEQTd4MWJQY21jd1ZoX1Jxc0Q2aDhpTEFOdklVcUYzRkppSldqM2tKcy1XM3VRVGdPcXZzNEZGcVBNcXRRb3Qzbk5MVExnSHd2S1dFWjA2LVJuZWhQX2MzV195cw?oc=5",
-   "medio": "Caracol Radio",
-   "fuente": "provincia",
-   "region": "Santander",
-   "fecha": "2026-10-30T11:07:33Z",
-   "id": "7800e109af79"
-  },
-  {
    "titulo": "Cañón de la Hondura pone a Santander en el mapa internacional de la conservación ambiental",
    "resumen": "",
    "imagen": "",
@@ -528,26 +561,15 @@
    "id": "3692185c6640"
   },
   {
-   "titulo": "Homicidio en El Socorro, Santander: capturan a dos hombres tras una riña",
+   "titulo": "Lo que no se puede perder de las Ferias y Fiestas de San Gil: la capital turística de Santander está de celebración",
    "resumen": "",
    "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc3FoakdienRVV1hzXzJDYmtPTFI4NzItU2lrU3A3d2FSZ3pFcjYtRngxSlJQWWRBX0xXUERBeDNiMVFFN1FKSnBVclJvR2RwWEsxRGx0TnV1WWxCUV82bFBKdExHaEljemE5ZVowUGVoUWlSSDBvbzFXWWFRbXVUdnZRX09SN3l6U3JDTXZuZEd3bk5VSGFxaXc4YWo0RU0?oc=5",
-   "medio": "Canal TRO",
-   "fuente": "provincia",
-   "region": "Santander",
-   "fecha": "2026-10-29T18:49:33Z",
-   "id": "b4effa981ade"
-  },
-  {
-   "titulo": "La capital turística de Santander se llena de color: programación de las XLVIII Ferias y Fiestas de San Gil",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM3M3UXVJeXlMSExrdWFsT3VVZFRoaURPSExRQ2VRYUZLTG9OTXZXbzBIQzNrYmU2OC1fZVlQaFNHVkZkQ0IydDh0MjlJYXVJUnZQSHpvOWxpZThPQkZrQ1hqbkowMWVFRHcyem9xOXNjY0ljQ1RDeE01LVFMdU1xbm9kUzNVTWVqZ3pRekhBbXBVVzNkQzZoVTRadXZ3RGtOWGg5VS1TVdIBqwFBVV95cUxPSUpMV0t2SGtOMEo4WG9uZVNhbkpIQlhCNkU3XzVrdmRaYlQxandFWV80QzM5Q0xveExFelJ2dGI4bW41aVA1M19uZ3YxUnhMdDhmb2JJcTZManBESVpaS1hkS0tmSG9lWHNTdF9fZTlVRHBOWVRpblZveWJKSk5QYkNqeGczcnpZcF9hTjRyYVJyZlFLdmRrcllfU3lBNHMzcG9QYl9lYWhka0E?oc=5",
+   "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVlNLVXlKMGg0M0JrdDdFM0kxSGo4V1RGNnl6LXVYbnkwSUlzV01CVnJxcjlKUzZUUVhRVFpTN2paSFI4bmdKWk9KOXdxWDQ5OFpWTVc4ZFB5bWo1ZDRycmZnbjFnaUFGWFZIYmlBY00xTEZrOFJTdHRNMklSMzJldlJIelJRdHJtSXJkLWJvTjhVYzlKUVZjYzdZUF9jUkpIdXhTbkZSMNIBqwFBVV95cUxNSDNFMVc1ek5pcFVwa2Fra2lsdXBwajBMcXZxeUtGOWl2aHJvWkU1R3lLd21wdnJRWUZqZXZlb2xVSkdVZHM5b3BVWk1WSEtCVHVtRUw5RG9rN2pBZ2FYenpHZ2lJX24xSmRJRTYtUEtac3BnUHZIczRrQWhNcVRqVHdxQUtaLWZjc2ZBRHZOLVBqbUw1d082UVozZ1NVOGRVSkRWNnJ3Mk5xY0k?oc=5",
    "medio": "Alerta",
    "fuente": "provincia",
    "region": "Santander",
-   "fecha": "2026-10-29T18:00:00Z",
-   "id": "b5c0c208d342"
+   "fecha": "2026-10-29T21:02:30Z",
+   "id": "2bd18dbe3d98"
   }
  ]
 }
