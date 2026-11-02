@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02T06:04:02Z",
+ "actualizado": "2026-11-02T15:54:04Z",
  "fuentes": [
   {
    "id": "vanguardia",
@@ -37,55 +37,363 @@
    "id": "rcn",
    "nombre": "RCN Radio",
    "ok": true,
-   "cantidad": 7,
+   "cantidad": 5,
    "enlace": "https://news.google.com/rss/search?q=site:rcnradio.com+when:1d&hl=es-419&gl=CO&ceid=CO:es-419",
    "error": ""
   }
  ],
  "noticias": [
   {
-   "titulo": "Todos debemos cuidar cada gota de agua",
-   "resumen": "No podemos confiarnos y quedarnos esperando a que, como lo advierten todas las proyecciones, la situación se agrave para comenzar a actuar sobre la disminución de los aportes hídricos, que ya es una realidad que debe…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/Y77HSAMVDRGCBAKRMUB7GJBV6Y.jpg?auth=9fda64626f20c1611bc18d55707d029290a765be2ce035a22502a229ab61e783&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/opinion/editorial/2026/11/02/todos-debemos-cuidar-cada-gota-de-agua/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-02T06:00:00Z",
-   "id": "a03ea3101501"
+   "titulo": "Proyección de más de 46 mil vehículos movilizándose por carreteras de Bolívar",
+   "resumen": "La Policía Nacional, a través de la Seccional de Tránsito y Transporte Bolívar, continúa desplegando sus capacidades operativas y preventivas en las principales vías del departamento, con el propósito de garantizar la…",
+   "imagen": "https://caracol.com.co/resizer/v2/U52PX7W3HNBC7D66EOX2JOHBTI.jpeg?auth=a32148a892067022b1a91cbaebaf287e426208912a31ee65f2523490f5deec67&smart=true&width=1280&height=597",
+   "enlace": "https://caracol.com.co/2026/11/02/proyeccion-de-mas-de-46-mil-vehiculos-movilizandose-por-carreteras-de-bolivar/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-02T15:47:18Z",
+   "id": "734735703950"
   },
   {
-   "titulo": "Atentado en Planadas, Tolima, habría sido perpetrado con drones bomba y una volqueta cargada de explosivos en inmediaciones de una base militar",
-   "resumen": "La gobernadora del Tolima rechazó los hechos y anunció acciones coordinadas con la Administración municipal y la Fuerza Pública.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/01/6ae813f8ad12c.r_d.273-271-0.png",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/atentado-en-planadas-tolima-habria-sido-perpetrado-con-drones-bomba-y-una-volqueta-cargada-de-explosivos-en-inmediaciones-de-una-base-militar-3597894",
+   "titulo": "Fallo ratifica la legalidad y la logística del festival naútico en Cartagena, en el marco de las Fiestas de la Independencia del 11 de noviembre",
+   "resumen": "Tutela buscaba frenar o modificar el modelo de acceso presencial del Festival Náutico de las Fiestas de Independencia 2026.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/02/6ae8ad21d14b0.r_d.632-414-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/fallo-ratifica-la-legalidad-y-la-logistica-del-festival-nautico-en-cartagena-en-el-marco-de-las-fiestas-de-la-independencia-del-11-de-noviembre-3597921",
    "medio": "El Tiempo",
    "fuente": "eltiempo",
    "region": "Colombia",
-   "fecha": "2026-11-02T05:18:49Z",
-   "id": "31b7992930fb"
+   "fecha": "2026-11-02T15:46:09Z",
+   "id": "2a061c4da39e"
   },
   {
-   "titulo": "Motocicleta bomba activada contra la fuerza pública en Bilbao, Cauca",
-   "resumen": "En la noche de este domingo 1 de noviembre se reportó un atentado terrorista en el municipio de Bilbao, Cauca. Una motocicleta cargada con explosivos fue activada en la zona, muy cerca al hospital local. Según la…",
-   "imagen": "https://caracol.com.co/resizer/v2/2I4SF5IUBNEUZOWIMF45DMX6EI.png?auth=a95acd71c03d2444dfa0472d6a5a0b619add8db7209841820f1934dc8de37af4&smart=true&width=650&height=488",
-   "enlace": "https://caracol.com.co/2026/11/02/motocicleta-bomba-activada-contra-la-fuerza-publica-en-bilbao-cauca/",
+   "titulo": "“Vamos a estrellarnos”: el dramático audio antes del accidente aéreo en la Florida",
+   "resumen": "Los audios del Learjet 60 registraron el llamado de emergencia y el vertiginoso descenso que terminó con la vida de nueve personas en Florida, Estados Unidos.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/N34YUPLS6JGSVNBE2R5BBQVH5Y.png?auth=7509c157d4fd3a05b0d68c4cba3684e78ade36c26a0534a6c1cf1f72bcd15d34&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/mundo/2026/11/02/vamos-a-estrellarnos-el-dramatico-audio-antes-del-accidente-aereo-en-la-florida/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-02T15:45:30Z",
+   "id": "c34962835a69"
+  },
+  {
+   "titulo": "Cero afectaciones por lluvias y 2.239 toneladas de residuos extraídos en 24 frentes en Cartagena",
+   "resumen": "Más de 2.239 toneladas de material residual, entre basuras, sedimentos y escombros, han sido extraídas de los canales de Cartagena en el marco de las intervenciones que se ejecutan simultáneamente en varios sectores de…",
+   "imagen": "https://caracol.com.co/resizer/v2/GN5LHJJIQVHOTAKBP4VJTHCDCQ.jpeg?auth=d9b2e4e7e7a0701d4f2de7a17cc6aff9eac883ccffbbd27221f9b9683a2f0cc1&smart=true&width=1280&height=854",
+   "enlace": "https://caracol.com.co/2026/11/02/cero-afectaciones-por-lluvias-y-2239-toneladas-de-residuos-extraidos-en-24-frentes-en-cartagena/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-11-02T04:59:57Z",
-   "id": "c510862d3200"
+   "fecha": "2026-11-02T15:43:43Z",
+   "id": "fa0d3fbe9ee7"
   },
   {
-   "titulo": "Atentado con explosivos en Planadas, Tolima cerca a una base militar",
-   "resumen": "Un atentado con explosivos se reportó en Planadas, Tolima, la noche de este domingo 1 de noviembre. Según la información preliminar, una volqueta con explosivos fue detonada cerca a la base militar del municipio. El…",
-   "imagen": "https://caracol.com.co/resizer/v2/MFIE3XQQONEVDGED7JY6WC356E.png?auth=98dbb7f9c826cd7ef30aac2ae591b9d4c72acc8033866aac3a3375633bde747a&smart=true&width=650&height=488",
-   "enlace": "https://caracol.com.co/2026/11/02/atentado-con-explosivos-en-planadas-tolima-cerca-a-una-base-militar/",
+   "titulo": "¡Cinco años consecutivos en la cima! El Bicentenario, mejor colegio público de Santander",
+   "resumen": "El Bicentenario no cede el primer lugar: por quinta vez consecutiva es el mejor colegio público de Santander",
+   "imagen": "https://www.vanguardia.com/resizer/v2/OHXYNKBLAFFW5NGTPBFHC7CY6Q.jpeg?auth=552564dae9f4f3e3f804f2cebd20a0cb6d1415d8a082d1e0445a9f044beca04d&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/santander/region/2026/11/02/cinco-anos-consecutivos-en-la-cima-el-bicentenario-mejor-colegio-publico-de-santander/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-02T15:43:04Z",
+   "id": "26dfad1f047d"
+  },
+  {
+   "titulo": "Desarticulan red que desviaba insumos químicos para producir cocaína en Norte de Santander y Cesar",
+   "resumen": "De acuerdo con la información entregada por la Fiscalía General de la Nación, “la organización afectada habría utilizado dos empresas legalmente constituidas para importar desde China y países de Suramérica productos…",
+   "imagen": "https://caracol.com.co/resizer/v2/ZMMTPA5A2NEZ5CGVHQMIFCACYY.jpg?auth=b3b6809225ab170c2e781bfe7f0ed912b6ee50725f42aa87c59e7abd14f6e378&smart=true&width=4248&height=2832",
+   "enlace": "https://caracol.com.co/2026/11/02/desarticulan-red-que-desviaba-insumos-quimicos-para-producir-cocaina-en-norte-de-santander-y-cesar/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-11-02T04:45:51Z",
-   "id": "37712fccecb4"
+   "fecha": "2026-11-02T15:41:17Z",
+   "id": "7f890bb80dea"
+  },
+  {
+   "titulo": "“Deja un legado de paz”: Líder sindical santandereano recordó su lucha junto a Antonio Navarro Wolff",
+   "resumen": "El fallecimiento de Antonio Navarro Wolff , ocurrido este domingo 1 de noviembre, generó reacciones entre quienes compartieron con él diferentes momentos de la historia política y social de Colombia . Una de ellas fue…",
+   "imagen": "https://caracol.com.co/resizer/v2/FMEDKE22IRHH7JT4F3SVNZF5OU.jpg?auth=4668ee5eaab9c5aabb1c6d690f83832fdf16eef358d42e4d1090aedeaa275af5&smart=true&width=889&height=500",
+   "enlace": "https://caracol.com.co/2026/11/02/deja-un-legado-de-paz-lider-sindical-santandereano-recordo-su-lucha-junto-a-antonio-navarro-wolff/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-02T15:40:53Z",
+   "id": "fd47cff4de88"
+  },
+  {
+   "titulo": "Gobernación de Santander respalda al Inpec tras el cambio de director de la cárcel de Palogordo",
+   "resumen": "Luego de conocerse la salida del capitán Eleasid Durán Sánchez de la dirección de la cárcel de Palogordo, en Girón , la Gobernación de Santander ratificó su respaldo al Instituto Nacional Penitenciario y Carcelario -…",
+   "imagen": "https://caracol.com.co/resizer/v2/IJVOL4NWUFBC3PLDV4UPXULC2A.jpeg?auth=4f146b2c54bb0514c5c9eaeb6abe1ab19c47eeb211b013ba6b875b34dc2ded3c&smart=true&width=1600&height=971",
+   "enlace": "https://caracol.com.co/2026/11/02/gobernacion-de-santander-respalda-al-inpec-tras-el-cambio-de-director-de-la-carcel-de-palogordo/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-02T15:37:15Z",
+   "id": "5b3b73a635ee"
+  },
+  {
+   "titulo": "Sicarios asesinaron un hombre en el suroriente de Cartagena",
+   "resumen": "Un homicidio con arma de fuego se presentó en el barrio Olaya Herrera, sector Zarabanda. Ingresa al grupo de alertas de Caracol Radio Cartagena En el lugar se registró el homicidio de Rodolfo Matos Muñoz, de 35 años de…",
+   "imagen": "https://caracol.com.co/resizer/v2/7CZD7ZMQJ5DVRIH5ZU2JK5G6II.jpg?auth=2c62a135ada381437782f9f41ab3c49782772c13e5d5dd1ccd2ee4c8275ab6ce&smart=true&width=1200&height=787",
+   "enlace": "https://caracol.com.co/2026/11/02/sicarios-asesinaron-un-hombre-en-el-suroriente-de-cartagena/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-02T15:36:41Z",
+   "id": "b65132f6eb03"
+  },
+  {
+   "titulo": "Estos fueron los mejores futbolistas colombianos de octubre, según las estadísticas",
+   "resumen": "El fútbol colombiano tuvo presencia en diferentes campeonatos durante octubre , con futbolistas que consiguieron destacarse por sus actuaciones individuales. El listado reúne los colombianos con las mejores…",
+   "imagen": "https://caracol.com.co/resizer/v2/7CQGOUF6BVDTNDZRODDEZ422MU.png?auth=99eaf3ebffe8a5bd6419138b394d7e49782bd3a2085b0b8f644d063a6c826b7b&smart=true&width=768&height=576",
+   "enlace": "https://caracol.com.co/2026/11/02/estos-fueron-los-mejores-futbolistas-colombianos-de-octubre-segun-las-estadisticas/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-02T15:35:28Z",
+   "id": "dcf59d62852c"
+  },
+  {
+   "titulo": "Videos revelan la magnitud del atentado en Planadas, Tolima, que dejó cuatro muertos, incluida una bebé de dos meses, según balance preliminar",
+   "resumen": "Las primeras versiones indican que los responsables habrían utilizado drones bomba y una volqueta acondicionada para transportar una carga explosiva.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/02/6ae846667366d.r_d.538-268-0.png",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/videos-revelan-la-magnitud-del-atentado-en-planadas-tolima-que-dejo-cuatro-muertos-incluida-una-bebe-de-dos-meses-segun-balance-preliminar-3597898",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-02T15:34:07Z",
+   "id": "5ec3b8c09879"
+  },
+  {
+   "titulo": "Un menor de edad muerto y una mujer herida en el suroccidente de Cartagena",
+   "resumen": "Un homicidio y una persona lesionada por arma de fuego se presentó en el barrio Vista Hermosa, sector Cinco Esquinas en el suroccidente de Cartagena. Ingresa al grupo de alertas de Caracol Radio Cartagena En el lugar…",
+   "imagen": "https://caracol.com.co/resizer/v2/BRRFMQUGARHSZAFTAMHRNIZLQE.jpg?auth=3dd05b26f535b1e700c70ed4cc0696d30dbfe1d0bdea5b46e85a2bc8bd322a0f&smart=true&width=1200&height=903",
+   "enlace": "https://caracol.com.co/2026/11/02/un-menor-de-edad-muerto-y-una-mujer-herida-en-el-suroccidente-de-cartagena/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-02T15:29:35Z",
+   "id": "d70c7860fc84"
+  },
+  {
+   "titulo": "Bicicletas y patinetas eléctricas en Colombia tendrán nuevo requisito obligatorio desde enero de 2027: esto deben hacer sus propietarios",
+   "resumen": "La medida también aplicará a vehículos que ya están en circulación y establece responsabilidades para propietarios, fabricantes y comercializadores.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/02/6ae87aeb424c3.r_d.146-299-0.png",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/bicicletas-y-patinetas-electricas-en-colombia-tendran-nuevo-requisito-obligatorio-desde-enero-de-2027-esto-deben-hacer-sus-propietarios-3597901",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-02T15:25:46Z",
+   "id": "68ac2df9084a"
+  },
+  {
+   "titulo": "¡Histórico! Yeison López conquistó el oro y estableció récord mundial en China",
+   "resumen": "Yeison López conquistó la medalla de oro en el arranque de la categoría de los 85 kilogramos del Campeonato Mundial de Levantamiento de Pesas, que se disputa en Ningbo, China.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/Q6XUFW2VOBD3TFOFDWGLRAS6AE.jpg?auth=73bbf454e79f641b23cd6cac526b292cdb83ba3a95b533e84594d81c089cb5a5&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/deportes/futbol/2026/11/02/historico-yeison-lopez-conquisto-el-oro-y-establecio-record-mundial-en-china/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-02T15:22:05Z",
+   "id": "805253978477"
+  },
+  {
+   "titulo": "Medellín: ciudadano británico con una pistola, silenciador y cartuchos en el Parque Lleras",
+   "resumen": "Un hombre de 38 años fue detenido por la Policía en El Poblado tras hallarle material bélico y verificar su permanencia irregular.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/02/6ae8a8341bc0d.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/medellin-ciudadano-britanico-con-una-pistola-silenciador-y-cartuchos-en-el-parque-lleras-3597918",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-02T15:15:28Z",
+   "id": "f27be021c997"
+  },
+  {
+   "titulo": "Salto de la educación pública en Cartagena: cuatro colegios logran la categoría A+ y la zona rural rompe paradigmas",
+   "resumen": "Hasta 2025, la Institución Educativa Soledad Acosta de Samper ondeaba como el único colegio oficial del Distrito en alcanzar el nivel A+.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/02/6ae8a3a9476f9.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/salto-de-la-educacion-publica-en-cartagena-cuatro-colegios-logran-la-categoria-a-y-la-zona-rural-rompe-paradigmas-3597916",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-02T15:00:15Z",
+   "id": "13c127a47fbf"
+  },
+  {
+   "titulo": "Once Caldas dio el golpe en Bogotá y ahora va por Atlético Nacional en la Copa BetPlay",
+   "resumen": "Once Caldas eliminó a Santa Fe y ya piensa en Nacional. Esto dijeron sus protagonistas tras la clasificación en la Copa BetPlay.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/4UZU7KNYXRA3TBNYS73IWFZB7E.jpg?auth=2f9e0a28d30ab8bf081125c5a6e94a812e0fc02157863925ff91877efa67236a&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/deportes/futbol/2026/11/02/once-caldas-dio-el-golpe-en-bogota-y-ahora-va-por-atletico-nacional-en-la-copa-betplay/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-02T14:57:06Z",
+   "id": "a89910c9a430"
+  },
+  {
+   "titulo": "Pico y placa en Bucaramanga y el área: así regirá durante la primera semana de noviembre",
+   "resumen": "Este será el pico y placa en Bucaramanga durante la primera semana de noviembre",
+   "imagen": "https://www.vanguardia.com/resizer/v2/QBONNODK75F4XERWQRFQWNZRJM.jpeg?auth=aff7dad3c0fd0ee29914c86e6e2855a2ba7ed56e22789a4b0c1b84eafce74877&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/11/01/pico-y-placa-en-bucaramanga-y-el-area-asi-regira-durante-la-primera-semana-de-noviembre/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-02T14:55:57Z",
+   "id": "a2e375d08d13"
+  },
+  {
+   "titulo": "Reforma tributaria de Abelardo de la Espriella: productos de la canasta familiar y servicios que podrían tener IVA",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYmJYRFkzV0tndl9QR3RfTnBlcGM4RzUtcmdVSF9ra25jQnJtRUd0WURta19wLUhTcnBxSzRjcmhqN3FlTWtJYW5tSHB6bHhXWVNta0d0aVcybDlfS19pTkxFcDJQYlVjYTRKdHZkTVVYcms0TXE3b0NRMkdZUzNPbEsxeTBhWFdYd1R0aW5ETUFzbzdtLW1ab29sc3NsRWxPZEt6WjF0M0dLbVEyeE9wRUhwOS0xM1I2ZTJUeGNVYzNNck1GRWhUWFFBTlY5M0NsZWF5S3k2NG42SG9HTVpmYzV4TWhHSFU?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-11-02T14:39:31Z",
+   "id": "43d9aad3fff3"
+  },
+  {
+   "titulo": "De Mickey Mouse a detenido: extrabajador de Disney cae en operativo encubierto en la Florida",
+   "resumen": "Un exintérprete de Mickey Mouse figura entre los 281 detenidos en Florida durante un operativo contra la explotación sexual de menores y la trata de personas.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/NWTNWHHN4NBDBDSHMN3MXLRRPQ.jpg?auth=3e1960ba1ae846bb2398a54b29c77e39c9c3526f93c70a95300709a0270565ad&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/mundo/2026/11/02/de-mickey-mouse-a-detenido-extrabajador-de-disney-cae-en-operativo-encubierto-en-la-florida/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-02T14:29:16Z",
+   "id": "0721b187cf88"
+  },
+  {
+   "titulo": "Tragedia en Santander: padre, madre e hija murieron en accidente de tránsito",
+   "resumen": "Por causas que son materia de investigación, los tres vehículos terminaron involucrados en el accidente, que dejó a los integrantes de la familia gravemente heridos.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/RTPTF5TFCRHM5NIGD6YAFAP5S4.png?auth=337d63697cb39ebc390200127619784267eab01d58ae04252d7a41040251cf6c&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/judicial/2026/11/02/tragedia-en-santander-padre-madre-e-hija-murieron-en-accidente-de-transito/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-02T14:26:54Z",
+   "id": "84573fea73cd"
+  },
+  {
+   "titulo": "Atentado en Planadas, Tolima: Cuatro muertos, entre ellos una bebé tras detonar una volqueta con explosivos",
+   "resumen": "Además de la explosión de la volqueta, drones sobrevolaron el casco urbano. Las autoridades investigan quiénes estarían detrás del ataque.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/IZQD2EILBRH45ADL5ML2G4XZRQ.jpg?auth=8a6ae3bbbf6bf6fe152cc648e22f89a95e5364fd65f9957109d21d32508e28d2&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/colombia/2026/11/02/atentado-en-planadas-tolima-cuatro-muertos-entre-ellos-una-bebe-tras-detonar-una-volqueta-con-explosivos/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-02T14:24:45Z",
+   "id": "28aba0a8ab9c"
+  },
+  {
+   "titulo": "Jackson Martínez rompió el silencio tras su gol con Medellín y reveló quién lo impulsó a regresar",
+   "resumen": "Jackson Martínez, de 40 años, regresó a la competencia después de 2.288 días de ausencia y lo hizo con un gol que le dio la victoria 2-1 al Independiente Medellín frente a Alianza Valledupar.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/FKEBDMXL6NF6ZPA5K3OAVAMUFI.jpg?auth=c4aad70dc6bc249adfaaced2b1d44052a74e4b960c2d2d290e904ad6b6889c86&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/deportes/futbol/2026/11/02/jackson-martinez-rompio-el-silencio-tras-su-gol-con-medellin-y-revelo-quien-lo-impulso-a-regresar/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-02T14:14:29Z",
+   "id": "9ad42153b063"
+  },
+  {
+   "titulo": "Video muestra el momento exacto del atentado en Planadas, Tolima: volqueta con explosivos estalló y dejó cuatro muertos, entre ellos una bebé",
+   "resumen": "Las cámaras de seguridad registraron la detonación de la volqueta durante la noche del 1 de noviembre.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/02/6ae8951522191.r_d.576-202-0.png",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/video-muestra-el-momento-exacto-del-atentado-en-planadas-tolima-volqueta-con-explosivos-estallo-y-dejo-cuatro-muertos-entre-ellos-una-bebe-3597908",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-02T14:12:19Z",
+   "id": "b891eff20e1d"
+  },
+  {
+   "titulo": "Soldado de 19 años murió en accidente en Cúcuta: Ejército investiga qué hacía en la ciudad",
+   "resumen": "El joven se movilizaba en una motocicleta cuando sufrió el accidente en el Anillo Vial Occidental.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/2XJJ55A5XZG7FGPWV6GHIGFQUQ.png?auth=bcc38f7ed95a9fcc3da1ad67fe544d57c444d477470c8475926f0530cb3b9636&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/judicial/2026/11/02/soldado-de-19-anos-murio-en-accidente-en-cucuta-ejercito-investiga-que-hacia-en-la-ciudad/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-02T14:09:28Z",
+   "id": "8a6c6b7477d4"
+  },
+  {
+   "titulo": "Deportivo Cali y Medellín ganaron y movieron la tabla: así quedó la Liga BetPlay tras la fecha 17",
+   "resumen": "Atlético Bucaramanga recibirá este lunes 2 de noviembre a Atlético Nacional, desde las 8:15 p.m., en el estadio Américo Montanini.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/FAT2YLSBWFDDVDXIMPZNLFJF3E.jpg?auth=f174986c877b44569744c18f9d341e84d7bdd408660fd0d71b9a51e53f8c5ebc&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/deportes/futbol/2026/11/02/deportivo-cali-y-medellin-ganaron-y-movieron-la-tabla-asi-quedo-la-liga-betplay-tras-la-fecha-17/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-02T13:57:11Z",
+   "id": "148c0e747664"
+  },
+  {
+   "titulo": "Defensor de la comunidad: cables sueltos siguen poniendo en riesgo a ciudadanos",
+   "resumen": "Sigue el peligro por cables que cuelgan sobre las vías",
+   "imagen": "https://www.vanguardia.com/resizer/v2/N2O6YC2FL5EYZCHLV2522RTZF4.jpeg?auth=ce07f8c0f7c3931f99b012d187f18378484cf848e8983646602bb7e8f9f48f13&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/11/02/defensor-de-la-comunidad-cables-sueltos-siguen-poniendo-en-riesgo-a-ciudadanos/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-02T13:53:47Z",
+   "id": "4174cec735ff"
+  },
+  {
+   "titulo": "¿Qué hay detrás de la cadena de ataques con drones y explosivos en el Huila? Algeciras ha soportado este año 7 atentados a manos de las disidencias",
+   "resumen": "El gobierno departamental anunció la llegada al Huila de 530 militares para reforzar la seguridad y proteger los municipios",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/01/6ae6f7e317e5e.r_d.181-57-0.png",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/que-hay-detras-de-la-cadena-de-ataques-con-drones-y-explosivos-en-el-huila-algeciras-ha-soportado-este-ano-7-atentados-a-manos-de-las-disidencias-3597907",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-02T13:49:57Z",
+   "id": "3eac1316dd24"
+  },
+  {
+   "titulo": "Una motocicleta bomba explotó cerca de un hospital en Cauca: esto se sabe",
+   "resumen": "La detonación en Balboa se sumó a los ataques registrados en La Sierra, Corinto, Toribío y Totoró. Las acciones violentas mantienen en alerta a las comunidades y a la fuerza pública.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/OYGQEVFY4RG4NDDESCIELMXWMA.png?auth=7893707344a7b39095596f1dd7b7eb1a7470a9febe1e5518ffa7c4bdc1c82fd4&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/colombia/2026/11/02/una-motocicleta-bomba-exploto-cerca-de-un-hospital-en-cauca-esto-se-sabe/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-02T13:31:58Z",
+   "id": "8a30a2a8de10"
+  },
+  {
+   "titulo": "Un muerto y tres capturados dejó operativo contra las disidencias de alias ‘Iván Mordisco’",
+   "resumen": "Un menor de edad y el presunto jefe de la estructura armada están entre los tres capturados durante la operación adelantada en zona rural de El Cerrito.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/ZEVDFSLZ55A7DAEIYDJG6EAWMA.jpg?auth=8238d958daa62be633adb97e3775711a8ebf341bc619387f7c56592c6fd061e0&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/colombia/2026/11/02/un-muerto-y-tres-capturados-dejo-operativo-contra-las-disidencias-de-ivan-mordisco/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-02T13:29:26Z",
+   "id": "8eaabc5fdd55"
+  },
+  {
+   "titulo": "Cerca de 500 indígenas abandonaron sus territorios en Nuquí, Chocó, por temor a enfrentamientos entre grupos armados",
+   "resumen": "La Defensoría del Pueblo informó que las familias permanecen en Jurubirá y no han podido llegar a la cabecera municipal.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/02/6ae85643efdac.r_d.600-267-0.png",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/cerca-de-500-indigenas-abandonaron-sus-territorios-en-nuqui-choco-por-temor-a-enfrentamientos-entre-grupos-armados-3597899",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-02T09:33:04Z",
+   "id": "9477a55d4800"
+  },
+  {
+   "titulo": "Terremoto leve mag. 3.3 - 21 km al sur de Piedecuesta, Santander, Colombia, Monday 2 Nov 2026 a las 02:57 (Hora Caracas)",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYlJGYzZ4Z3dvM0VEYW9Jd1hldTduYzJkNWN1X29yNkstSTZKaGEtMWdWT2h4MnBWWVJYRHVzZEpzRmI0dnRBX3RWeEdwQjcyUm51Zmg5OF9CRHozVWlxRHZVMS13U1NkdEJ6Y01YbEk1Q3VUQ3pBaEtIWHVQQWpCQzRUdnYxTTNuRnJDQnJYU2NoZ1R2cUVZc0tYVVZvM1EwbGVsN1puVGNrQlFOTlItaGtwZk0yLXJTWUpIYklrTU5pTTRBQi0w?oc=5",
+   "medio": "Volcano Discovery",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-11-02T08:18:00Z",
+   "id": "13c2796bd31f"
   },
   {
    "titulo": "Cortes de luz en Bogotá este lunes 2 de noviembre de 2026: sectores afectados y horarios",
@@ -99,17 +407,6 @@
    "id": "51acbaa2b109"
   },
   {
-   "titulo": "Decretan ley seca en Totoró tras ataque de las disidencias a la estación de Policía",
-   "resumen": "Totoró, Cauca- La Alcaldía de Totoró adoptó medidas especiales de seguridad luego del hostigamiento perpetrado por las disidencias de las Farc contra la estación de Policía y los enfrentamientos registrados con la…",
-   "imagen": "https://caracol.com.co/resizer/v2/OQ7IL7UE4ZGNPKKBYSVHWNVLGU.jpeg?auth=98babac8be3096c08ca1d281c5f88ec9e197d800109fa590713ddfe93144f75b&smart=true&width=1116&height=773",
-   "enlace": "https://caracol.com.co/2026/11/02/decretan-ley-seca-en-totoro-tras-ataque-de-las-disidencias-a-la-estacion-de-policia/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-02T03:12:21Z",
-   "id": "2a593bd6fd0d"
-  },
-  {
    "titulo": "¿Cuál fue la causa de la muerte de Antonio Navarro Wolff?: Esto se sabe",
    "resumen": "",
    "imagen": "",
@@ -119,17 +416,6 @@
    "region": "Colombia",
    "fecha": "2026-11-02T02:58:49Z",
    "id": "99c02e25eb83"
-  },
-  {
-   "titulo": "Pico y placa en Bucaramanga y el área: así regirá durante la primera semana de noviembre",
-   "resumen": "Este será el pico y placa en Bucaramanga durante la primera semana de noviembre",
-   "imagen": "https://www.vanguardia.com/resizer/v2/QBONNODK75F4XERWQRFQWNZRJM.jpeg?auth=aff7dad3c0fd0ee29914c86e6e2855a2ba7ed56e22789a4b0c1b84eafce74877&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/11/01/pico-y-placa-en-bucaramanga-y-el-area-asi-regira-durante-la-primera-semana-de-noviembre/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-02T02:54:00Z",
-   "id": "a2e375d08d13"
   },
   {
    "titulo": "Puente de la calle 112 con Novena en Bogotá: ¿Cuándo estará listo?",
@@ -143,72 +429,6 @@
    "id": "88be26c8af51"
   },
   {
-   "titulo": "Reacciones desde el Valle del Cauca por la muerte de Antonio Navarro Wolff",
-   "resumen": "La muerte del exsenador y dirigente político Antonio Navarro Wolff generó múltiples reacciones desde el Valle del Cauca. Representantes políticos, actuales y exmandatarios de Cali y el departamento expresaron sus…",
-   "imagen": "https://caracol.com.co/resizer/v2/QPXETBZKU5FSRISQ5RGGY2LNYI.jpg?auth=50e57b826baf58deb03a177163ebc20127bfef709ce75daba54155e941a104b2&smart=true&width=889&height=500",
-   "enlace": "https://caracol.com.co/2026/11/02/reacciones-desde-el-valle-del-cauca-por-la-muerte-de-antonio-navarro-wolff/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-02T02:04:10Z",
-   "id": "d31525243184"
-  },
-  {
-   "titulo": "Motilón Noche: número ganador del sorteo del domingo 1 de noviembre de 2026",
-   "resumen": "¿Ganó El Motilón Noche? Consulte el número ganador del sorteo de hoy domingo 1 de noviembre de 2026 y revise si es el nuevo afortunado del chance.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/Z65YGVLBYRDYHIKRBSZYVLTIM4.jpg?auth=c447de5517fc5874bfdede3d7cde76ae93562b93934e8739e07378ae1a4195ca&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/11/01/motilon-noche-numero-ganador-del-sorteo-del-domingo-1-de-noviembre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-02T01:51:00Z",
-   "id": "3109063730c3"
-  },
-  {
-   "titulo": "Líderes de Boyacá lamentan la muerte de Antonio Navarro Wolff y destacan su legado de paz",
-   "resumen": "La noticia del fallecimiento de Antonio Navarro Wolff , exgobernador de Nariño, excongresista y exconstituyente, generó mensajes de condolencia por parte de dirigentes políticos de Boyacá , quienes destacaron su…",
-   "imagen": "https://caracol.com.co/resizer/v2/LG34BQLGABF7TLQSTQW5QEGTVU.jpeg?auth=b8af5c07b448f8994d0cdc9109dcfa1a21ad20d24268ecb7c4cebcf7806beec3&smart=true&width=1600&height=1131",
-   "enlace": "https://caracol.com.co/2026/11/02/lideres-de-boyaca-lamentan-la-muerte-de-antonio-navarro-wolff-y-destacan-su-legado-de-paz/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-02T01:50:56Z",
-   "id": "f4008a11772a"
-  },
-  {
-   "titulo": "Super Astro Luna: resultado del sorteo del domingo 1 de noviembre de 2026",
-   "resumen": "¿Se volvió millonario hoy? Consulte el resultado del Super Astro Luna de este domingo 1 de noviembre de 2026 y revise si su número y signo fueron los ganadores.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/CLUSVDUXRRDCJBFM4WG33OA2SM.png?auth=e5e66fd0a8393ceefc4cf9b240494063f5bc7b607d407ad57da3484bbaf81533&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/11/01/super-astro-luna-resultado-del-sorteo-del-domingo-1-de-noviembre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-02T01:21:00Z",
-   "id": "4a4ff41975f2"
-  },
-  {
-   "titulo": "Sinuano Noche: resultado del sorteo del domingo 1 de noviembre de 2026",
-   "resumen": "¿La suerte lo acompañó esta noche? Conozca el número ganador del Sinuano Noche de hoy domingo 1 de noviembre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/GVXUD73J7BGGLLUST5GXDDXAUU.jpeg?auth=fd67ec454b35e01ae372443ea3bcdddbcb442bef94ea4d08c305185de469fbbc&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/11/01/sinuano-noche-resultado-del-sorteo-del-domingo-1-de-noviembre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-02T01:21:00Z",
-   "id": "ec2483db4735"
-  },
-  {
-   "titulo": "Caribeña Noche: resultado del sorteo de hoy domingo 1 de noviembre de 2026",
-   "resumen": "Resultado del último sorteo de La Caribeña Noche del domingo 1 de noviembre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/MDGALMPPFRACBFUCIKLM5EHT2A.png?auth=5c297167a464a48e6ae5974099698165ec14db898326a324222bf78d1b660f91&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/11/01/caribena-noche-resultado-del-sorteo-de-hoy-domingo-1-de-noviembre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-02T01:21:00Z",
-   "id": "c61a6f62579f"
-  },
-  {
    "titulo": "Estación temporal Calle 57 de TransMilenio dejará de operar por obras del Metro de Bogotá",
    "resumen": "",
    "imagen": "",
@@ -218,105 +438,6 @@
    "region": "Colombia",
    "fecha": "2026-11-02T01:13:55Z",
    "id": "66aca19aea96"
-  },
-  {
-   "titulo": "Once Caldas elimina a Santa Fe en Bogotá y avanza a semifinales: resumen del partido",
-   "resumen": "Independiente Santa Fe recibió a Once Caldas en el estadio Metropolitano de Techo , en Bogotá, por los cuartos de final de la Copa Colombia. Debido a los ajustes en el calendario ocasionados por el terremoto del 10 de…",
-   "imagen": "https://caracol.com.co/resizer/v2/E654QAUOLVAKBLDUJGT5R53YPM.jpg?auth=b5a0447f00497ee18ff2112d502a610fafd09b9978aa7eacf40c6290fb484c9c&smart=true&width=1639&height=1229",
-   "enlace": "https://caracol.com.co/2026/11/02/en-vivo-santa-fe-vs-once-caldas-por-copa-colombia-transmision-y-minuto-a-minuto-del-partido/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-02T01:05:40Z",
-   "id": "2fa097180dac"
-  },
-  {
-   "titulo": "Paisita 2: resultado del sorteo de hoy domingo 1 de noviembre de 2026",
-   "resumen": "¿Ganó el Paisita 2? Consulte el número ganador de hoy domingo 1 de noviembre de 2026 y revise si la suerte lo acompañó en el segundo sorteo de la jornada.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/BI42WTWEIJG4JHRAZNT2DEFG7I.png?auth=424198dd17f9deefdaed290885a7b7dec0efed02894aff16afd1f3b8456cb01f&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/11/01/paisita-2-resultado-del-sorteo-de-hoy-domingo-1-de-noviembre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-02T00:52:00Z",
-   "id": "85a51098ad00"
-  },
-  {
-   "titulo": "Culona Noche: número ganador del sorteo del domingo 1 de noviembre de 2026",
-   "resumen": "Conoce los resultados del último sorteo de La Culona Noche del domingo 1 de noviembre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/MBBDG7JXOFDT5NGJ23FM2F2CAA.png?auth=a042be4c81d257b726cb437ca95cc31ebd48561a3f82673c19f3d2de27a4d97a&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/31/culona-noche-numero-ganador-del-sorteo-del-domingo-1-de-noviembre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-02T00:50:00Z",
-   "id": "ed7616e3db83"
-  },
-  {
-   "titulo": "Chontico Noche: resultado del sorteo de hoy domingo 1 de noviembre de 2026",
-   "resumen": "Resultado del último sorteo del Chontico Noche del noviembre de 2021 de 2026 ¡Felicitaciones al ganador!",
-   "imagen": "https://www.vanguardia.com/resizer/v2/R7U3HIUGQRGKRPIVYQT2LBM374.png?auth=0248094eecfe818bbed51311c60afa6b3f02352a383cd94344a349cdb60cb6bf&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/31/chontico-noche-resultado-del-sorteo-de-hoy-domingo-1-de-noviembre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-02T00:50:00Z",
-   "id": "fc2b32a99cb1"
-  },
-  {
-   "titulo": "Cali se blindó por aire y tierra: así fue el impresionante operativo para proteger a 10.000 ciclistas en el Giro de Rigo",
-   "resumen": "35.000 visitantes de 40 países colmaron las calles de la capital del Valle en una jornada deportiva que culminó con total tranquilidad y control.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/01/6ae7d24cca2c9.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/cali-se-blindo-por-aire-y-tierra-asi-fue-el-impresionante-operativo-para-proteger-a-10-000-ciclistas-en-el-giro-de-rigo-3597869",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-02T00:47:22Z",
-   "id": "627eeb79789c"
-  },
-  {
-   "titulo": "Reforma tributaria de Abelardo de la Espriella: productos de la canasta familiar y servicios que podrían tener IVA",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYmJYRFkzV0tndl9QR3RfTnBlcGM4RzUtcmdVSF9ra25jQnJtRUd0WURta19wLUhTcnBxSzRjcmhqN3FlTWtJYW5tSHB6bHhXWVNta0d0aVcybDlfS19pTkxFcDJQYlVjYTRKdHZkTVVYcms0TXE3b0NRMkdZUzNPbEsxeTBhWFdYd1R0aW5ETUFzbzdtLW1ab29sc3NsRWxPZEt6WjF0M0dLbVEyeE9wRUhwOS0xM1I2ZTJUeGNVYzNNck1GRWhUWFFBTlY5M0NsZWF5S3k2NG42SG9HTVpmYzV4TWhHSFU?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-11-02T00:42:52Z",
-   "id": "43d9aad3fff3"
-  },
-  {
-   "titulo": "¿Hasta cuándo lloverá en Colombia? Max Henríquez explica qué pasará con el clima durante noviembre: 'Va a cambiar poco a poco'",
-   "resumen": "Las precipitaciones podrían presentarse con menor frecuencia o intensidad de lo habitual en algunas zonas, según el Ideam.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/01/6ae7855116211.r_d.1101-152-0.png",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/hasta-cuando-llovera-en-colombia-max-henriquez-explica-que-pasara-con-el-clima-durante-noviembre-va-a-cambiar-poco-a-poco-3597834",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-02T00:33:43Z",
-   "id": "d4ceea3dfd6e"
-  },
-  {
-   "titulo": "Dorado Noche: resultado del sorteo de hoy domingo 1 de noviembre de 2026",
-   "resumen": "La expectativa crece hoy domingo 1 de noviembre de 2026 entre miles de apostadores en todo el país por el sorteo de El Dorado Noche.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/GQN6S5FDSZCXJBRWUNOAASIY2A.png?auth=6413824002bdd2a6723d5cc80fdd8d1321e05ba4a7fdd65b0ca66c0cd3c9d20f&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/11/01/dorado-noche-resultado-del-sorteo-de-hoy-domingo-1-de-noviembre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-02T00:21:00Z",
-   "id": "c4265dfb01f7"
-  },
-  {
-   "titulo": "Audios y un “2 %”: las acusaciones de corrupción de un fallido empréstito de $2.726 millones en Santander",
-   "resumen": "Un presunto caso de corrupción tiene contra las cuerdas al alcalde de Villanueva, José Luis Gómez Mancilla, y al concejal Fredy Albeiro Pineda Vesga. Esta es la cronología del caso y algunas de las pruebas contra los…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/DVZVXHHZURH4DNX5YEITZJQI64.png?auth=15f3329c99ce161959d18389247850619d805a130c67776b6c239fcf5366914b&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/santander/2026/11/01/audios-y-un-2-las-acusaciones-de-corrupcion-de-un-emprestito-de-2726-millones-en-santander/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-02T00:08:44Z",
-   "id": "912e18f385f0"
   },
   {
    "titulo": "Análisis: solo dos colegios públicos entre los 30 mejores de Santander",
@@ -330,17 +451,6 @@
    "id": "2c24be1c2c1e"
   },
   {
-   "titulo": "Músico vallenato 'Kbeto' Zuleta despertó tras grave accidente de bus y fue extubado: esto se sabe",
-   "resumen": "El parte médico del cantante vallenato también señala que se encuentra consciente y ha comenzado a hablar y a reconocer a las personas a su alrededor.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/27/6ae103fa22678.r_d.357-198-0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/el-musico-vallenato-kbeto-zuleta-desperto-tras-el-accidente-y-fue-extubado-3597859",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-02T00:01:50Z",
-   "id": "05aedad33916"
-  },
-  {
    "titulo": "Mujer de 23 años fue asesinada en su lugar de trabajo en Pinchote, Santander",
    "resumen": "",
    "imagen": "",
@@ -352,81 +462,15 @@
    "id": "dc804df62d27"
   },
   {
-   "titulo": "MinSalud descarta casos de ébola en Colombia tras alerta por viajeros que regresaron del Congo: uno murió por malaria",
-   "resumen": "El Ministerio de Salud y el Instituto Nacional de Salud investigan cuatro casos de personas que regresaron de la República Democrática del Congo. Dos tienen diagnóstico confirmado de malaria por Plasmodium falciparum…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/BCXL3XWLTNCWDF6THYYHZKFQQE.jpg?auth=f7c497ce04a7511b0ae963fe33c1162373d8e582b0b9be57a87d737bf6b78277&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/colombia/2026/11/01/minsalud-descarta-casos-de-ebola-en-colombia-tras-alerta-por-viajeros-que-regresaron-del-congo-uno-murio-por-malaria/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
+   "titulo": "«Queremos conocer la verdad»: madre pide justicia por la muerte de su hijo en Simacota",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU3RNU01uR1RRSmxGQ1JaamlreEtTM1FSVEtJYkltelU0Tk5wWFc4WXJrQTUydmZ4QnQ1Znd3V2E5Z2NGUlRkbEhlS2lGbl84anRJd19ZR1M2UHhqb0JPRnlSMEJZN0szQVpqblVaWVItTzNRclJ1cm9feVF6NFJoVWFfekpER0dwRkN0aVZ5cHhIRU8yUTg5OE14NzZCMlo3dXpZTWc1d01FeUtGMS10UGlGSWpSdmM?oc=5",
+   "medio": "Oro Noticias TV",
+   "fuente": "provincia",
    "region": "Santander",
-   "fecha": "2026-11-01T23:28:48Z",
-   "id": "c13db7cdb8cf"
-  },
-  {
-   "titulo": "¿Quién era Antonio Navarro Wolff? Perfil, edad y últimos días del político",
-   "resumen": "Antonio Navarro Wolff falleció a los 78 años este domingo 1 de noviembre. La familia confirmó la noticia en un comunicado en el que informó que murió a las 2:42 de la tarde . Allí lo despidieron como “el Hombre de la…",
-   "imagen": "https://caracol.com.co/resizer/v2/YQZL64LOWVEQPJZEZPXGFWFFI4.jpg?auth=c62fca586606d4933e8810d2c68cee2d9198fd9a7e616b82dd37af280237e84d&smart=true&width=3374&height=2249",
-   "enlace": "https://caracol.com.co/2026/11/01/quien-era-antonio-navarro-wolff-excombatiente-del-m-19-y-copresidente-de-la-constituyente-de-1991/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-01T22:46:59Z",
-   "id": "e9da3bf022f2"
-  },
-  {
-   "titulo": "Giro de Rigo en Valle del Cauca cambia su ruta: Secretaría de Movilidad de Cali explica lo sucedido en Dagua que obligó a desviar a miles de ciclistas",
-   "resumen": "Un deslizamiento en La Yolomba modificó la competencia en el Valle del Cauca. Los deportistas fueron desviados por la ruta del Reto Caña.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/01/6ae7824cc36b8.r_d.351-170-0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/atencion-giro-de-rigo-cambia-su-ruta-derrumbe-en-dagua-obliga-a-desviar-a-miles-de-ciclistas-en-cali-3597832",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-01T18:29:02Z",
-   "id": "94c4e0515f05"
-  },
-  {
-   "titulo": "Tragedia en Santo Domingo, Antioquia: un muerto y dos heridos al caer un árbol en el parque principal",
-   "resumen": "Un árbol colapsó en pleno parque principal durante las festividades locales. La comunidad exige respuestas tras alertar previamente sobre el riesgo.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/01/6ae77d8994f04.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/tragedia-en-santo-domingo-antioquia-un-muerto-y-dos-heridos-al-caer-un-arbol-en-el-parque-principal-3597829",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-01T18:04:45Z",
-   "id": "1e66e570362f"
-  },
-  {
-   "titulo": "Más de 3.000 comparendos y 350 vehículos inmovilizados deja el balance de Halloween en Cali tras masivas caravanas",
-   "resumen": "Autoridades desplegaron más de 2.100 uniformados para controlar caravanas de Halloween. A pesar de las quejas ciudadanas, el balance fue positivo.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/01/6ae75b5f5874d.r_d.900-962-0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/mas-de-3-000-comparendos-y-350-vehiculos-inmovilizados-deja-el-balance-de-halloween-en-cali-tras-masivas-caravanas-3597816",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-01T15:37:39Z",
-   "id": "f1ae75c731d1"
-  },
-  {
-   "titulo": "Video | Conductora en aparente estado de embriaguez arrolló a policías en Bucaramanga al evadir un retén durante Halloween: estas multas enfrentaría",
-   "resumen": "El alcalde de la ciudad, Cristian Portilla Pérez, compartió un video en sus redes sociales en el que deja ver el intento de fuga de la mujer.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/01/6ae74db61912b.r_d.235-290-0.png",
-   "enlace": "https://www.eltiempo.com/colombia/santander/video-conductora-en-aparente-estado-de-embriaguez-arrollo-a-policias-en-bucaramanga-al-evadir-un-reten-durante-halloween-estas-multas-enfrentaria-3597810",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-01T15:23:58Z",
-   "id": "695971adcdd3"
-  },
-  {
-   "titulo": "Resultado de Baloto y Revancha: qué cayó hoy sábado 31 de octubre de 2026",
-   "resumen": "¿Busca los resultados del Baloto? Consulte los números ganadores del sorteo más reciente y conozca el multimillonario acumulado para este sábado 31 de octubre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/EVJQI6TZ2JFT3HTR3D27TNEL44.png?auth=022d5b11bf47a813b634b511cb6226751ee9be0bf6be0b1d6bcba92e15e8fc04&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/10/31/resultado-de-baloto-y-revancha-que-cayo-hoy-sabado-31-de-octubre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-01T15:09:17Z",
-   "id": "481d43c6d146"
+   "fecha": "2026-11-01T17:04:31Z",
+   "id": "eb1cb67f550b"
   },
   {
    "titulo": "Santander vive un puente de ferias y fiestas: Los Santos, San Gil, Charalá y Charta concentran la agenda del fin de semana",
@@ -440,28 +484,6 @@
    "id": "c15d68848a57"
   },
   {
-   "titulo": "Player Page",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcWxoQnJJX1FnZ2VzQ1pJVGpPaFgzTDY3aFJpRjhSVE04cE8yT3hmLVdXbGdJVnEyZDlRWWZqRmhmMjJUd3Q1V3VKd0hIWkFxb19ldnRyYWhOTWJ6OHR5WjI4empvUHg1ZnpoRFJjRm1kWGJHZXdSU1FVUTFHZnJCbG1WcVpEaWhMTmVxR19sdXBnV2ZYNzdvNEVYWU9ESGRGamFuTmhiZ1hmR29vQjZNci1ESXhJcHpmVzdNMEFuN3ItWW41Nng5QnlBQ2hhVnRIQ2c?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-11-01T12:36:05Z",
-   "id": "e66bf6683d4a"
-  },
-  {
-   "titulo": "Estos son los mejores colegios de Barranquilla según el ranking Col-Sapiens 2026-2027",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ3VmX2diOGZDczRiclUxTVVuQlRiWXIyV29vVDBRdlB1TEN5MVZKWWo0UEh5NDNyT3ZtZjNxT2NNcHptM2xMTFptRHRhZk9SVFRtVFFzSDIzNEl6UkE3VWhNcWpyMmk2cXBfNFN6OUVsRUtya1BCWWZWeVdMS2dDc19lZEpweW9JeFgtZVhsTEtwY0cyRmxNMG5FMWFnbGNmeXphRTVyb0JKZVRMbmhhZm5fV1hfVnhENGdKYk1ua080UQ?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-11-01T12:02:24Z",
-   "id": "32556e5d844d"
-  },
-  {
    "titulo": "Alianza por Santander",
    "resumen": "",
    "imagen": "",
@@ -471,17 +493,6 @@
    "region": "Santander",
    "fecha": "2026-11-01T06:00:00Z",
    "id": "182b1f9c1456"
-  },
-  {
-   "titulo": "Tabla de posiciones de la Liga colombiana: así quedó tras la victoria del Cali y el Medellín",
-   "resumen": "Continúa la fecha 17 de la Liga colombiana, que se extenderá hasta el próximo miércoles 4 de noviembre. Los resultados empiezan a definir el panorama de los equipos que buscan asegurar su clasificación a los…",
-   "imagen": "https://caracol.com.co/resizer/v2/N37BIESDAJD4XL4LI5UFEDOKLQ.jpg?auth=d15e0558a293c02211c72c20ed657b993d799a17a33677ce4e282961e9b23fae&smart=true&width=1670&height=1253",
-   "enlace": "https://caracol.com.co/2026/11/01/tabla-de-posiciones-de-la-liga-colombiana-asi-quedo-tras-nueva-derrota-de-junior-ante-llaneros/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-01T01:06:56Z",
-   "id": "4512ac01dea7"
   },
   {
    "titulo": "En Santander, 18 ganaderos siembran embriones para cosechar vacas lecheras",
@@ -495,15 +506,15 @@
    "id": "ca5474e6c288"
   },
   {
-   "titulo": "Una escuela rural de San Gil convierte el café en aprendizaje y emprendimiento",
+   "titulo": "Tembló en Colombia HOY 30 de octubre: este es el reporte",
    "resumen": "",
    "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSk5ob3RoZDRWYVhlRy10TmoyelQ4ZVE3ZElwT19qV0dQVzNEWk5HdHVIdzYyZDh3SzlRMGh2RjlOa0ZKV0ZUQWl3dS0xdEoyYmxGYklhNXpiNU5fZHlxT0FoV0VQbFdaSGdjbDlVR3VNaDNCX0tQRWNBczExVHkxa3BNZzRWOVdSeEx6TjFFNTBFWjdhTW1UNGJLMllJRnF4Nzdjd3JIbnNzS1luYXJDdU1KMGI0UU11c0h2b2FJZDg3TjY1NlJlUE5GMjNrZE9lalE?oc=5",
-   "medio": "Vanguardia",
+   "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMENTRFkyVTdrMWtubFpmU1hSNHdQYVRfNHF1dFpMTkJHSG9zazFUX0JvQTZuc2MzRE16VkhSSlBnSzljMzRSQ0FpY1ZFYW5rZ3FaR2t4b1hhM3NVbTBWMlVNWWVpaVR2RThxWmFaeWRKem9oWG03SlZ3NjFxOTFqNGtnbGh2eVRLdjhMRlFrU0JPVVRlQkJXOHdsZ0VMVDZIWXQyb3pBTy1aT3cwd0dVM294YlMzSm9TRWhoUThtRDU2TVJ10gHEAUFVX3lxTFA5NlpOUml2bnpTeXBxNHFmZ1ZJUC16WmhuR0V1aHl5dVdRUzU2MjEzZGhrbXlTcjJxR19ESzQ1blZnbkFJaHREUENzSG5Jem12NDl1dzVfZzRRUm9rVHd3NjA5NW5XNnFROGx4UllNdGgzWTcwN3NzTk5INHlXZmZwRUtVaGJaclU2ZFY3dFAtazByV2lSVkd5V05RYjJXMUFEeFdrVjdKdlpBdXUwVUxoMG1WUTVEVmNYd0ZHcDhhX3g3TXI?oc=5",
+   "medio": "Noticias RCN",
    "fuente": "provincia",
    "region": "Santander",
-   "fecha": "2026-10-30T20:28:59Z",
-   "id": "4c39b8d235be"
+   "fecha": "2026-10-31T00:41:57Z",
+   "id": "6bde883fea88"
   },
   {
    "titulo": "Emergencia en Zapatoca: Fuertes lluvias dejan 11 familias afectadas e inundaciones en las vías",
@@ -537,28 +548,6 @@
    "region": "Santander",
    "fecha": "2026-10-30T16:17:52Z",
    "id": "15379c6cbb6a"
-  },
-  {
-   "titulo": "El Socorro reunirá mil bovinos y premiará en su feria ganadera al que llegue desde más lejos",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ1hWVFl4emZaS3BJNmVlcU5mVVNtZFBUeFBzWlhBVU9xMk1zQVI0MDNaZktPNFFRLWtZcUZIR3kwb282MG8wN0MwU3k2bnlYbWo3NHRtUndxSXgzSlNQd1NCRm9oLV82NWh5WjFVUEhQMEhEdFBEbFljR1BpOTJ3b0dtZEhJSko0RnU2NFlqRDhvQy1sbi1vTVVlaDNual9DRkdNNmtnNGFlbXl1X2Z1VFN6RVdWSVJTR2RPbVlEa1JkbWRGbkRkdENweVhVYkJqU19SdA?oc=5",
-   "medio": "CONtexto Ganadero",
-   "fuente": "provincia",
-   "region": "Santander",
-   "fecha": "2026-10-30T15:17:56Z",
-   "id": "53907c361577"
-  },
-  {
-   "titulo": "Fuertes lluvias provocan inundaciones, deslizamientos y congestión vehicular en Ocaña",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUVdOTW92S0VpOUJDRnlOUlNpUmFaQnBqV3FfdEZYbFgxdHg2VXBiYzFYZU9ZUmdxdUduSXFOZEI0dmM5OWZwS3ZzNHNPRG5kRy1qeDdhajhEUzIwN0NOMzNTNFNXcFdEZnQtMndUWVdfc1VlcHVOU2dLT0FuT2NsVWdvaHo1VmRTWEtNbjE5VlV1a2hwR2RHRXktOHBKWDVCa21tQ3NUSkVKRjhBZVU2ODctc2tVdE94b29V0gHPAUFVX3lxTE1MYmllSXB6VFFEaFh3VEtaa0JQWmhhR1hPakkyZG5JUE1rWjU2MEJ6ZzdNNlUxVEFYOVFIb3BqSWFKMmRYZVZtTS1FQ19WSXE1cHZnamtEdElpTHNfdHNKdlhHQVRNQjMyRDhRMGZaZy1fLXFEQTd4MWJQY21jd1ZoX1Jxc0Q2aDhpTEFOdklVcUYzRkppSldqM2tKcy1XM3VRVGdPcXZzNEZGcVBNcXRRb3Qzbk5MVExnSHd2S1dFWjA2LVJuZWhQX2MzV195cw?oc=5",
-   "medio": "Caracol Radio",
-   "fuente": "provincia",
-   "region": "Santander",
-   "fecha": "2026-10-30T11:07:33Z",
-   "id": "7800e109af79"
   }
  ]
 }
