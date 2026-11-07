@@ -1,1 +1,575 @@
-{"actualizado": null, "fuentes": [], "noticias": []}
+{
+ "actualizado": "2026-11-07T20:53:03Z",
+ "fuentes": [
+  {
+   "id": "vanguardia",
+   "nombre": "Vanguardia",
+   "ok": true,
+   "cantidad": 15,
+   "enlace": "https://www.vanguardia.com/arc/outboundfeeds/rss/?outputType=xml",
+   "error": ""
+  },
+  {
+   "id": "provincia",
+   "nombre": "Noticias de la provincia",
+   "ok": true,
+   "cantidad": 10,
+   "enlace": "https://news.google.com/rss/search?q=(Suaita+OR+%22Vado+Real%22+OR+Socorro+OR+%22San+Gil%22+OR+G%C3%A1mbita+OR+Oiba)+Santander+when:3d&hl=es-419&gl=CO&ceid=CO:es-419",
+   "error": ""
+  },
+  {
+   "id": "caracol",
+   "nombre": "Caracol Radio",
+   "ok": true,
+   "cantidad": 8,
+   "enlace": "https://caracol.com.co/arc/outboundfeeds/rss/?outputType=xml",
+   "error": ""
+  },
+  {
+   "id": "eltiempo",
+   "nombre": "El Tiempo",
+   "ok": true,
+   "cantidad": 8,
+   "enlace": "https://www.eltiempo.com/rss/colombia.xml",
+   "error": ""
+  },
+  {
+   "id": "rcn",
+   "nombre": "RCN Radio",
+   "ok": true,
+   "cantidad": 8,
+   "enlace": "https://news.google.com/rss/search?q=site:rcnradio.com+when:1d&hl=es-419&gl=CO&ceid=CO:es-419",
+   "error": ""
+  }
+ ],
+ "noticias": [
+  {
+   "titulo": "🔴 EN VIVO Once Caldas Vs. Águilas Doradas por un lugar en los 8: Siga la transmisión del partido",
+   "resumen": "Este sábado el Once Caldas recibe en el Estadio Palogrande a Águilas Doradas, en uno de los duelos clave de la jornada. El duelo corresponde a la fecha 18 y quien gane tiene un pie dentro de los cuadrangulares…",
+   "imagen": "https://caracol.com.co/resizer/v2/POXRIPOXVNG4RG3K7P65HR2B5A.png?auth=69ec0a69fdd07df46198f48cae7bcdeefea6bcfed75458fa63e39524346475e4&smart=true&width=768&height=576",
+   "enlace": "https://caracol.com.co/2026/11/07/en-vivo-once-caldas-vs-aguilas-doradas-por-un-lugar-en-los-8-siga-la-transmision-del-partido/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-07T20:47:24Z",
+   "id": "ae43863ef4c9"
+  },
+  {
+   "titulo": "Seis municipios de Santander buscan fortalecer la ganadería con una agenda regional",
+   "resumen": "La primera cumbre ganadera del circuito ‘La Magia de la Hoya del Río Suárez’ es el inicio de una estrategia que busca convertir la cooperación entre localidades en una herramienta para fortalecer el campo y la ganadería…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/X7LWVHZWFJDZDFFGRKBCJFLKUY.jpg?auth=72b613d158c7fb7d8195ba72031e63fa34a3a4e244414c309b0fd9726afe0e29&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/santander/2026/11/07/seis-municipios-de-santander-buscan-fortalecer-la-ganaderia-con-una-agenda-regional/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-07T20:46:57Z",
+   "id": "94166c3702bd"
+  },
+  {
+   "titulo": "Alcalde sorprende a médicos en supuesto encuentro íntimo mientras pacientes esperaban atención en urgencias",
+   "resumen": "El episodio quedó registrado en video, provocó cambios en la administración del centro asistencial y generó el rechazo de organizaciones médicas.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/GPRDEOD75ZC2LLAT3SHYARUTIA.png?auth=05cc9ec985bf61ddb59c562cf1d3aabbf3b85256e6f7ea78c3743a7fc5250103&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/mundo/2026/11/07/alcalde-sorprende-a-medicos-en-supuesto-encuentro-intimo-mientras-pacientes-esperaban-atencion-en-urgencias/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-07T20:46:29Z",
+   "id": "3ebb111ddb32"
+  },
+  {
+   "titulo": "Ejército confirma tres muertos y ocho heridos de gravedad por ataque en Santa Rosa, sur de Bolívar",
+   "resumen": "Uniformados del Ejército de Colombia fueron víctimas de un ataque terrorista perpetrado mediante el empleo de aeronaves no tripuladas acondicionadas con explosivos, en el Cantón Militar de Santa Rosa, sur de Bolívar…",
+   "imagen": "https://caracol.com.co/resizer/v2/5ZA6WOCVGFCFXGORHCGSHDCCYA.jpg?auth=c1a4bf20eb8d9c13d6d66da316700473be6e8abc082b1fde14b6743979f237c8&smart=true&width=1600&height=1066",
+   "enlace": "https://caracol.com.co/2026/11/07/ejercito-confirma-tres-muertos-y-ocho-heridos-de-gravedad-por-ataque-en-santa-rosa-sur-de-bolivar/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-07T20:33:50Z",
+   "id": "271b947e7965"
+  },
+  {
+   "titulo": "Donald Trump ofreció al presidente de la UFC ser el secretario de prensa de la Casa Blanca",
+   "resumen": "El presidente estadounidense, Donald Trump, ofreció el cargo de secretario de prensa al magnate Dana White, presidente de la UFC, la principal organización mundial de artes marciales mixtas. El puesto de secretario de…",
+   "imagen": "https://caracol.com.co/resizer/v2/TJ5MFDQBEBH6NCW4FZRQJOTFTY.jpg?auth=c9b9474ffabf2e230fd2d5470941bee85d4069a24b3be7c8c04d595dedad814f&smart=true&width=4800&height=3264",
+   "enlace": "https://caracol.com.co/2026/11/07/donald-trump-ofrecio-al-presidente-de-la-ufc-ser-el-secretario-de-prensa-de-la-casa-blanca/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-07T20:32:32Z",
+   "id": "9da6fde3821d"
+  },
+  {
+   "titulo": "Ataque a balazos contra un periodista en México enciende alertas por la prensa",
+   "resumen": "Primero fueron las llamadas intimidantes. Después llegaron los disparos. Un periodista mexicano denunció el ataque contra su restaurante y pidió ayuda ante una amenaza que, asegura, no ha logrado silenciarlo.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/WGX7USSMNBDV3L353PL7MVKKAY.jpg?auth=e889f06ff5dc52c9e49f9523e2860bfe32d9757f5fec73102017d23472c92cc8&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/mundo/2026/11/07/ataque-a-balazos-contra-un-periodista-en-mexico-enciende-alertas-por-la-prensa/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-07T20:28:05Z",
+   "id": "a58ce17bbdd2"
+  },
+  {
+   "titulo": "‘Ahí Están Pintadas’: el arte de las mujeres se toma el Museo de Arte Moderno de Bucaramanga",
+   "resumen": "Fue inaugurada la XII edición de este encuentro artístico, que reúne creadoras de diferentes regiones de Colombia. Durante la apertura, el MAMB recibió la Condecoración Orden Ciudad de Bucaramanga.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/WCJKFNI2IFDNVK5W2H3FU5RM5Q.jpeg?auth=63004e56d812d2df08b7f75418b875ba281f97652d397bfe78671abd4c5da858&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/entretenimiento/cultura/magazin-cultural/2026/11/07/ahi-estan-pintadas-el-arte-de-las-mujeres-se-toma-el-museo-de-arte-moderno-de-bucaramanga/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-07T20:22:01Z",
+   "id": "08ca5adf5b00"
+  },
+  {
+   "titulo": "Crisis de salud en Santander: Gobernador pidió al Gobierno nacional intervenir por deudas de las EPS",
+   "resumen": "Juvenal Díaz Mateus solicitó a la ministra de Salud y a la Superintendencia Nacional de Salud visitar el departamento para buscar soluciones a las millonarias deudas de las EPS con hospitales y clínicas.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/6QXAJP3HY5FRPPZDT6FEO73RUY.jpg?auth=9b2b4fd149028292554fe297deda258eb4d089dabd12b3937edb990b5bd7b3d7&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/11/07/crisis-de-salud-en-santander-gobernador-pidio-al-gobierno-nacional-intervenir-por-deudas-de-las-eps/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-07T20:19:43Z",
+   "id": "cdcbc7c58ffe"
+  },
+  {
+   "titulo": "Casas para volver a soñar: la gran labor de la Fundación Mujer y Hogar",
+   "resumen": "Casas nuevas, vidas renovadas: el compromiso social de la Fundación Mujer y Hogar",
+   "imagen": "https://www.vanguardia.com/resizer/v2/UPSEHM7JHVDPVI2ZYOBPI5CRYI.jpeg?auth=c0c317e022e4cb74e4f5b13b0c1cc97ff10bf227dc22969e67b361e00199636d&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/11/07/casas-para-volver-a-sonar-la-gran-labor-de-la-fundacion-mujer-y-hogar/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-07T20:19:36Z",
+   "id": "f29dbccff935"
+  },
+  {
+   "titulo": "“El terrorismo no nos va a doblegar”: De la Espriella reaccionó a atentado con drones en Bolívar",
+   "resumen": "A través de su cuenta de X, el presidente Abelardo de la Espriella reaccionó este sábado al ataque terrorista, con drones cargados con explosivos, que dejó varios militares heridos y muertos en un cantón militar de…",
+   "imagen": "https://caracol.com.co/resizer/v2/YC5UUDIU4ZFYJB554FMXKNVZ3Y.jpg?auth=7a88fca1d2be1df1672baaf97ec530a6b3e8044bd70fee21c5dd62070c76a769&smart=true&width=4500&height=2995",
+   "enlace": "https://caracol.com.co/2026/11/07/el-terrorismo-no-nos-va-a-doblegar-de-la-espriella-reacciono-a-atentado-con-drones-en-bolivar/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-07T20:19:17Z",
+   "id": "a8a57328218d"
+  },
+  {
+   "titulo": "Dorado Tarde: resultado del sorteo de hoy sábado 7 de noviembre de 2026",
+   "resumen": "Conozca el resultado del Dorado Tarde y La Quinta del sábado 7 de noviembre de 2026.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/F3QTVS4GT5CL3A4T4TE3RADDCA.jpg?auth=92a8d506903a5b385c09bd2f21cfae017aa4626b07242d05afb89b8cb799137f&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/loterias/2026/11/07/dorado-tarde-resultado-del-sorteo-de-hoy-sabado-7-de-noviembre-de-2026/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-07T20:18:00Z",
+   "id": "fd0f2b5aada9"
+  },
+  {
+   "titulo": "Lilia Mery Rodríguez: la mujer que ha dedicado más de 60 años a mantener viva la tradición del circo en Santander",
+   "resumen": "Desde que comenzó su recorrido artístico a los 16 años, Lilia Mery Rodríguez ha dedicado su vida al circo tradicional. Recibió un reconocimiento por su trayectoria y el legado de la dinastía de los Tongorines en…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/DXQDQNNC7VHXHP4AJNYGU5ZFD4.jpeg?auth=d0f65ace0d40c0480dffff1891b0a269eb6c36c54ebee02df05a700418b0d0f6&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/entretenimiento/cultura/magazin-cultural/2026/11/07/lilia-mery-rodriguez-la-mujer-que-ha-dedicado-mas-de-60-anos-a-mantener-viva-la-tradicion-del-circo-en-santander/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-07T19:58:33Z",
+   "id": "2a3c19bc4a17"
+  },
+  {
+   "titulo": "Atención: este domingo cerrarán la vía al aeropuerto Palonegro por carrera atlética",
+   "resumen": "El cierre de la vía nacional es por la séptima edición del Reto Aeropuerto, una carrera atlética de 10 kilómetros.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/DOZM55ERIREF7IWDVEODDEA54E.jpg?auth=ad15add8a2d7d3fe67c8230cfb324104693df825ab48089005367d793ccad385&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/deportes/otros-deportes/2026/11/07/atencion-este-domingo-cerraran-durante-cinco-horas-la-via-al-aeropuerto-palonegro-por-carrera-atletica/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-07T19:55:33Z",
+   "id": "4ab74d7c18ad"
+  },
+  {
+   "titulo": "Crisis en Deportivo Pasto: profesionales se niegan a jugar y juveniles asumirán el partido ante Santa Fe",
+   "resumen": "Los jugadores del plantel profesional del Deportivo Pasto suspendieron sus actividades por incumplimientos en el pago de sus salarios.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/7AW2O4NNONHJJMVJPJVPSOO2UI.jpg?auth=c782cb508303394bcd4e28cbb587ff11f522e215277fa5b748755e3ee5b72d45&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/deportes/futbol/2026/11/07/crisis-en-deportivo-pasto-profesionales-se-niegan-a-jugar-y-juveniles-asumiran-el-partido-ante-santa-fe/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-07T19:55:05Z",
+   "id": "095a05a6f77f"
+  },
+  {
+   "titulo": "Gabriela Muñoz cuestionó el “espectáculo mediático” por el video de Deicy Jiménez y Gustavo Petro",
+   "resumen": "La joven, cuyo nombre se ha vinculado en las controversias relacionadas con la administración del exmandatario, se pronunció sobre la grabación y cuestionó la atención mediática que ha recibido el caso.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/V7EFMKYQZJDORCCHNOGOBAPP4A.jpg?auth=09c63ca477dd084894fff4f78c2d82ce5277e1e4acaf4b81bf5b4a6f509df001&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/colombia/2026/11/06/espectaculo-mediatico-gabriela-munoz-se-pronuncio-sobre-el-video-de-deicy-jimenez-y-gustavo-petro/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-07T19:53:37Z",
+   "id": "2bd9cee03d65"
+  },
+  {
+   "titulo": "Motilón Tarde: resultado del sorteo del sábado 7 de noviembre de 2026",
+   "resumen": "¿Ganó el Motilón Tarde? Consulte el número ganador del sorteo del sábado 7 de noviembre de 2026 y revise si es el nuevo afortunado del chance en la región.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/NP35RG2V45ETXFRXGESH6MEJDY.png?auth=9b5dfbe77fb342e7674e331afe86b625e382551d5a5a026464dd97536a094a9a&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/loterias/2026/11/07/motilon-tarde-resultado-del-sorteo-del-sabado-7-de-noviembre-de-2026/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-07T19:51:00Z",
+   "id": "6723c938f608"
+  },
+  {
+   "titulo": "Tres militares muertos y 35 heridos deja ataque con drones contra batallón en Santa Rosa del Sur",
+   "resumen": "Ataque con drones contra el Batallón de Selva N.º 48 en Santa Rosa del Sur deja tres personas muertas y 35 heridas, según el balance entregado por el alcalde Milton Olaya.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/LWUT4TMJQVHW7NWVYJLU3U5R2Q.jpeg?auth=6f6ab4b547ff020b6c9fd33fc945a737d6620c5c1edc8aa3a118186bbd20fee1&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/santander/barrancabermeja/2026/11/07/tres-militares-muertos-y-35-heridos-deja-ataque-con-drones-contra-batallon-en-santa-rosa-del-sur/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-07T19:50:41Z",
+   "id": "828c387450ac"
+  },
+  {
+   "titulo": "En Suaita piden ayuda para atender las emergencias que dejan las lluvias",
+   "resumen": "Voluntarios de la Defensa Civil y del Cuerpo de Bomberos, junto con la Policía Nacional y el Comité Municipal de Gestión del Riesgo de Suaita, recorren el territorio para dimensionar los daños y las necesidades de las…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/WZ5J757VTRHUXDJON6HI7IZYBU.jpg?auth=0c0d6e7276a054085ddec4103c42ba99a509b453275ac1ffd0b514d27181d11a&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/santander/comunera/2026/11/07/en-suaita-piden-ayuda-para-atender-las-emergencias-que-dejan-las-lluvias/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-07T19:48:52Z",
+   "id": "f689e02f578c"
+  },
+  {
+   "titulo": "Con drones atacaron un cantón militar en el sur de Bolívar: reportan tres muertos y 35 heridos; esto se sabe del atentado terrorista",
+   "resumen": "Autoridades no se han pronunciado sobre el atentado. En videos se mostró cómo quedó destruido el lugar.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/07/6aef75be6954a.r_d.326-182-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/con-drones-atacaron-un-canton-militar-en-el-sur-de-bolivar-reportan-varios-heridos-esto-se-sabe-del-atentado-terrorista-3599270",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-07T19:44:57Z",
+   "id": "199a4874006e"
+  },
+  {
+   "titulo": "¿Cuál es el verdadero valor estratégico del Valle del Cauca? Retos y oportunidades",
+   "resumen": "El análisis inicial de los puntos fuertes de la región vino de parte de Alejandro Santos, director de Contenidos de Prisa Media, quien destacó el alto valor del capital humano que existe dentro del departamento. “ Los…",
+   "imagen": "https://caracol.com.co/resizer/v2/VYX46FZI2RHK3FQZNMY4ORB7AE.jpeg?auth=65c004c44898cbeee2444ad662e0c32b88dd70b896f33e5a2034922cfe9e472f&smart=true&width=1600&height=901",
+   "enlace": "https://caracol.com.co/2026/11/07/cual-es-el-verdadero-valor-estrategico-del-valle-del-cauca-retos-y-oportunidades/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-07T19:44:44Z",
+   "id": "8d913a815959"
+  },
+  {
+   "titulo": "Tabla de posiciones de la Premier League, tras triunfo del Arsenal y derrota del Manchester City",
+   "resumen": "Se disputa la décima fecha de la Premier League , jornada que comenzó este viernes y que se extenderá hasta el domingo. Será la úlima fecha previo al parón por fecha FIFA . Arsenal 1-0 Hull City En el Emirates Stadium …",
+   "imagen": "https://caracol.com.co/resizer/v2/PH4EHVJBAJBJ7P73HJE73UDPUY.jpg?auth=5ce0bec6db97a50f3a67eb0011b6eb8c19527431ad18b04dbedbcfa8a4ed04e7&smart=true&width=6906&height=4583",
+   "enlace": "https://caracol.com.co/2026/11/07/tabla-de-posiciones-de-la-premier-league-tras-triunfo-del-arsenal-y-derrota-del-manchest-city/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-07T19:43:38Z",
+   "id": "a5d77bbb8528"
+  },
+  {
+   "titulo": "La Fiscalía de Paraguay pide prisión preventiva contra Santiago Peña por el caso Ueno bank",
+   "resumen": "La Fiscalía de Paraguay imputó este sábado al expresidente Santiago Peña y solicitó su prisión preventiva por presunta responsabilidad en el escándalo del Ueno Bank, que llevó a su destitución el viernes tras masivas…",
+   "imagen": "https://caracol.com.co/resizer/v2/V4EZIEEJOBBNFPAEAN3SZJ3X4Y.jpg?auth=05a0e8ca8e5268ff5633b2ce5d6bebaf3a0aead767a4645c1633a5dfd2caa43d&smart=true&width=1793&height=1225",
+   "enlace": "https://caracol.com.co/2026/11/07/la-fiscalia-de-paraguay-pide-prision-preventiva-contra-santiago-pena-por-el-caso-ueno-bank/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-07T19:37:26Z",
+   "id": "ce7456cb69f2"
+  },
+  {
+   "titulo": "'Si se le ocurre seguir delinquiendo le va a ir muy mal, estamos preparados': Federico Gutiérrez, alcalde de Medellín, sobre liberación de alias Tom",
+   "resumen": "El mandatario de la capital de Antioquia reaccionó a la noticia de la salida de la cárcel, bajo el beneficio de libertad condicional, de 'Tom'.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/07/6aef69d85ab98.r_d.491-539-0.png",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/si-se-le-ocurre-seguir-delinquiendo-le-va-a-ir-muy-mal-estamos-preparados-federico-gutierrez-alcalde-de-medellin-sobre-liberacion-de-alias-tom-3599267",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-07T19:30:34Z",
+   "id": "48b36d86e590"
+  },
+  {
+   "titulo": "Con drones cargados de explosivos atacaron cantón militar en el sur de Bolívar",
+   "resumen": "Un ataque terrorista perpetrado mediante aeronaves no tripuladas, acondicionadas con dispositivos explosivos, fue dirigido contra las instalaciones del Cantón Militar ubicado en Santa Rosa, Sur de Bolívar, en lo que fue…",
+   "imagen": "https://caracol.com.co/resizer/v2/ZHP3RYW5HRDUDLYIZJHUKTDIJM.jpeg?auth=2d0829f92f76158b86ebf20fb5756558d2f67a722083ed5251b1bab62a83cf9f&smart=true&width=1600&height=900",
+   "enlace": "https://caracol.com.co/2026/11/07/drones-cargados-con-explosivos-atacaron-canton-militar-en-el-sur-de-bolivar/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-07T19:09:59Z",
+   "id": "77102bb94a3f"
+  },
+  {
+   "titulo": "Rocas de gran tamaño atraparon a una familia dentro de su vivienda en Girón, Santander",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd3pZdEl1c181cWZfYzFxRTl1dW4yQUROd1lJSE5BYTRoaHpqc18zemZZUlI5d0JFZnZpSVF5REJqSmVheU5TV3RRYTl3MWpfWjlGd09kQVdWQnFKeUpWM18wSEF4ZTZ6TUhoa25NVmYzMm9kY3BZczRtelFZRldzWUhHZERLQXVUSlNsLVlGTmxMUl9Sc2FxQ1dVQ0xYNzFtaUhKWWw2UjNUU2hNUmRNWVdXZi04RDZhbXVVZnRTSVh5OWJ5WUJXamlXREdUYWlFMVHSAd8BQVVfeXFMTlNtZXhUU0FiRUl3UTBKMzMybllFeHFKMGxmYzJ5aUxlQjI4ZjVOcHFFb0FVRTZCT2tPNGJneEVEcUphWE5UUkZyYkprd2J4c0FIZ1pUeW01ZDJ5RlBCd0pHMXBETTBBSmdWamROMjcxVHNvZUtnMkFxdGtZREs0VEdPczRiNzhFTzZldGNheWRmblAtNksyUFpLMDc3ejBhZ3pFRmk1dUx4dW9QQ2gtbjFJZDVSUmRCUlVSOUpQNUszeDBSNEloZzFyeGZoSEdENTk0N3dTNkpVVTlRaVltcw?oc=5",
+   "medio": "Blu Radio",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-11-07T18:18:16Z",
+   "id": "c9e1d746f542"
+  },
+  {
+   "titulo": "Los 'enclaves dobles' de los grupos armados organizados en Antioquia: los 22 municipios donde se concentra la operación detrás de las rentas ilegales",
+   "resumen": "El Bajo Cauca, el Norte y el Nordeste concentran la mayoría de municipios afectados por el narcotráfico y la minería ilegal en el departamento.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/07/6aef464a5f9fd.png",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/los-enclaves-dobles-de-los-grupos-armados-organizados-en-antioquia-los-22-municipios-donde-se-concentra-la-operacion-detras-de-las-rentas-ilegales-3599194",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-07T18:08:18Z",
+   "id": "48b9abddb42d"
+  },
+  {
+   "titulo": "Cierres viales en Bogotá por la Carrera por la Policía 2026: Vías afectadas y desvíos",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdFBqd1dCLWNJUktKekR5X2Z3NkxWVjZBT1ZZRk0wcnhBNFRiQktQbVYzLUZmS0dnUGlIUmlTcG11U3B4aFNqQXhSdm1wM3k0UVBCS09keC1XVG9sN3pkQ19ZekYzdEpLcndCcjl4STVSaGxKTE5hVHNhLTlhdkxhRzdySWRaeElGcDY1LUdPUWhQdlY5M05pekdFZkQ5b0ZGM2wwaFdNQ3A4YmlmVHdRdlZfdHBpRmJFYzdHa1cxNGY?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-11-07T18:04:01Z",
+   "id": "6e44100a1c31"
+  },
+  {
+   "titulo": "El aeropuerto José María Córdova de Rionegro tendrá 88 horas de cierres en noviembre por mantenimiento de la pista: conozca la programación",
+   "resumen": "Airplan, concesionario de la terminal aérea internacional de Antioquia, informó los horarios. El aeropuerto permanecerá abierto 24 horas.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/09/24/68d46daba0bb5.r_d.619-248-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/el-aeropuerto-jose-maria-cordova-de-rionegro-tendra-88-horas-de-cierres-en-noviembre-por-mantenimiento-de-la-pista-conozca-la-programacion-3599242",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-07T17:05:17Z",
+   "id": "57120d7e9b68"
+  },
+  {
+   "titulo": "Investigan posible secuestro de dos mujeres desaparecidas en el norte de Barranquilla: una camioneta, nueva pista del caso",
+   "resumen": "Sonia Sanjuan y Kelly Acosta fueron reportadas como desaparecidas el viernes 6 de noviembre. El Gaula estaría al frente de las investigaciones.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/07/6aef5299dbf6c.png",
+   "enlace": "https://www.eltiempo.com/colombia/barranquilla/investigan-posible-secuestro-de-dos-mujeres-desaparecidas-en-el-norte-de-barranquilla-una-camioneta-nueva-pista-del-caso-3599247",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-07T16:42:49Z",
+   "id": "d9ee7c84c7ce"
+  },
+  {
+   "titulo": "Floridablanca dio inicio a sus Ferias y Fiestas Dulces con nueve días de cultura, música y tradición: esta es su programación",
+   "resumen": "La programación se extenderá hasta el 15 de noviembre e incluirá eventos para todos los públicos.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2023/05/25/646ff2246e7c2.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/santander/floridablanca-dio-inicio-a-sus-ferias-y-fiestas-dulces-con-nueve-dias-de-cultura-musica-y-tradicion-esta-es-su-programacion-3599245",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-07T16:30:54Z",
+   "id": "3583b565dfa7"
+  },
+  {
+   "titulo": "Foscal | Preocupante crisis de salud en importante clínica de Santander: SOS al presidente Abelardo De La Espriella por deudas de 600 mil millones",
+   "resumen": "La Nueva EPS y Fomag son las entidades que más le adeudan a esta institución ubicada en Floridablanca.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/08/30/68b32a32d48b7.r_d.419-208-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/santander/foscal-preocupante-crisis-de-salud-en-importante-clinica-de-santander-sos-al-presidente-abelardo-de-la-espriella-por-deudas-de-600-mil-millones-3599233",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-07T15:37:04Z",
+   "id": "316f72ff38df"
+  },
+  {
+   "titulo": "La búsqueda de Zoé llega al río Magdalena: más de 50 rescatistas intentan encontrar a la niña de seis años arrastrada por un arroyo en Soledad",
+   "resumen": "La menor de seis años completa tres días desaparecida. Su abuelo murió en la tragedia y su hermana de 12 años logró sobrevivir.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/07/6aef5640eb53e.png",
+   "enlace": "https://www.eltiempo.com/colombia/barranquilla/la-busqueda-de-zoe-llega-al-rio-magdalena-mas-de-50-rescatistas-intentan-encontrar-a-la-nina-de-seis-anos-arrastrada-por-un-arroyo-en-soledad-3599229",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-07T15:20:22Z",
+   "id": "f53fdbd111f0"
+  },
+  {
+   "titulo": "RCN Radio",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSUtHazRqUGZxT2dobUJzbm1hT2c3SFlSdjlCYVFkUG1VUmxxN2RJX2sxdE0tRlBxWk9nczR2LWxXSExwclRiUDRGSGlmLXpUOFNFdFBOS2xIRDU4cU1rV3NCeE14TXAwZXNQRzJrdFN5QXhMdGNOYnJ1LUx5d2pwd1J5YkIyVDdxeGZpZVFjTEJqODRsejF4NHNoQ2lKaktuaXFNTmxUNUpTTzBadUpwbkNGem1pN0FwZ1E?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-11-07T14:12:25Z",
+   "id": "480277a57d6e"
+  },
+  {
+   "titulo": "Primer Festival Carranguero de Bogotá: Esta es la programación y los escenarios de este encuentro musical",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbUEtWEVFRm1rN01jekRVSUpURXpBZGp5b1NEbGhrQUlIQkZQMVlzMTM3WDZ6ekcwVENZaDZzMmpmNllSMjZDOURKM2hUcnZOeDdETUIyTkRNTmtnVm0wZHpENDRHLXVGYUZ4dEkxYng3aGFRd0ZWWEpaTlB6b1BFMlIxdXlBQXdnVW5fSE0wMFRWSGhZQ1ozT2N2VFhJSkQ3ZGZKNWxvUmhxVUkwZjFvdHlYOW9rbkhOXzNkaS13V0JwYjg1Y3V2WDB4V2FvN3VycGJYN3BkamxDcVk?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-11-07T14:03:01Z",
+   "id": "063b59bb01a8"
+  },
+  {
+   "titulo": "MinHacienda aclaró desde qué monto se pagaría renta con la Ley de Rescate Económico",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSnB5Y29JNFA2LWhrVmx4OWNLWF9HeGdfMktUc0VqaEVaNU9Hcnh5VDJTRnh0YW5vOE1uZDBScTQyZnZyV283U19TOVNwanlIOUlZc2lJOHlEWWdybTNnU0Z0ZlVwRUUyZU1ZZk1scWFFQXE2QU9CMjJ3WDMwWkQwaHZPNWlvblNmS0Z6d1pPamh4bUpVYkhhVnJrcFpFVmtYZDlPWjd5THpxVkl6QUNuRzNlSDhkTm5KQzhaS0dyc1A?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-11-07T12:04:24Z",
+   "id": "47b17e0fa819"
+  },
+  {
+   "titulo": "El ‘pueblito pesebre’ para visitar en diciembre: calles empedradas y una tradición de miel",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVm5aN3F4MzN6N1dkR0dXaG9yeVhzWjRJVmFKRXNrRk5wemZHZWMtczlZSFNnbnVaNklhLVpfUVVXa2Z3VVBueG51aUx4Vk9JVnUwUGhCRWlxRW5uT041eko0RE11UDg1UlVDOS1ybU54WG0teUt3NFFrSG16OXhwcERQUWdDaGxOZGtNR2pfQXNCRUxCOXRyS1ZFbWU0b0I1M1JkX0JsUFN5dWloU3QtbXdzeTF1d05OZWFrWWRMZU5tR1U?oc=5",
+   "medio": "Blu Radio",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-11-07T11:21:51Z",
+   "id": "14a9be6ed1c5"
+  },
+  {
+   "titulo": "Player Page",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNFI4cnJ5emE0QU9PRkRjSW9tY0RNeTN5RHVQUWJ6eVh3OGV2WHhVT2NPTDUxUUFlMkQ2TXVYa1dfU3Y2VEZZTnRVM3ZUMnZ3b0dzN2YyenJkZ0ViRmxLaml4VkV4YVVqYkZKMkozRWg1aGFiQVphbk9ON1pTZVhUOThvOUozU2phRGl0czBDcUpwN3ZHMHQwd1YwcTV3WXNVSFFSRw?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-11-07T07:08:16Z",
+   "id": "e66bf6683d4a"
+  },
+  {
+   "titulo": "Tras la reapertura de la vía Suaita - Gámbita, las fuertes lluvias generaron nuevos deslizamientos",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc1Brcy11bjFKWmJqZjdHVWRiUUoya3pxNUNjZkdVVk92UDJ1LWt1WDBfWURCbWxQWnNaWkRUbGo0TU9RbVVYaThLUTlBV0x5bXpGQXZMakdKSzlBY3hEbmZzZkVqdFNDZWpFeUlYQVhaRDZucmtma2tMc2RsMmlnTnVzVm54ZUduWXJjQVljOXNzTXoxakJEUkdsc3VKRFl6cXhHNmxDNmFSRU9DYUlHcndxc1RmMHBGbWNR0gG7AUFVX3lxTE1zUGtzLXVuMUpaYmpmN0dVZGJRSjJrenE1Q2NmR1VWT3ZQMnUta3VYMF9ZREJtbFBac1paRFRsajRNT1FtVVhpOEtROUFXTHltekZBdkxqR0pLOUFjeERuZnNmRWp0U0NlakV5SVhBWFpENm5ya2Zra0xzZGwyaWdOdXNWbnhlR25ZcmNBWWM5c3NNejFqQkRSR2xzdUpEWXpxeEc2bEM2YVJFT0NhSUdyd3FzVGYwcEZtY1E?oc=5",
+   "medio": "Alerta",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-11-07T04:12:41Z",
+   "id": "6129e6ee9a6a"
+  },
+  {
+   "titulo": "Gremio de funerarias en San Gil pide ser priorizado para recibir vacunas contra el COVID-19",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdXRUZlhOd0pDcGY1LWh6cTBrZFBwbFJGY3B4bkFsWlVyamNtR0tOSWtwRERsNkNQNHA5Y1FfNHBLZWtVODhGeXBhMHJDOTZkclJpcjhjWVBnNHItVENZMjI5aTlOMUNTWGN0THNER0dYNDRjS0FsTnEzekQ3M09wQnU1R3JZNEhQYjlGbHVOYVVGV1JKV19aa0lkaWlIRlRhNXV5SUk1amxfNV8zb3hQNncyQXNXQdIBtgFBVV95cUxNdXRUZlhOd0pDcGY1LWh6cTBrZFBwbFJGY3B4bkFsWlVyamNtR0tOSWtwRERsNkNQNHA5Y1FfNHBLZWtVODhGeXBhMHJDOTZkclJpcjhjWVBnNHItVENZMjI5aTlOMUNTWGN0THNER0dYNDRjS0FsTnEzekQ3M09wQnU1R3JZNEhQYjlGbHVOYVVGV1JKV19aa0lkaWlIRlRhNXV5SUk1amxfNV8zb3hQNncyQXNXQQ?oc=5",
+   "medio": "Alerta",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-11-07T04:12:29Z",
+   "id": "48658e50a859"
+  },
+  {
+   "titulo": "Murió de un aneurisma en la aorta el alcalde de Suaita",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM0NfcDMtT1cyQ2FuYkhFbTZLaF9JUEctdmwyMFNEN0x3VEdybm91cjV6eVIwdVJCQ3NweGdsVG1tQlplQmJ2U1E3YnNRczZCS0prMlNlMGZnNldSa0tNdDBSMWR0SkN1TGNIVzNsYktWTTRSLVA4OFlJSXh0eFRIdkdXamx5cDJWODI1dFV6STUtY2VyV1E4dEQxSUZOYWVmUHfSAaIBQVVfeXFMTjNDX3AzLU9XMkNhbmJIRW02S2hfSVBHLXZsMjBTRDdMd1RHcm5vdXI1enlSMHVSQkNzcHhnbFRtbUJaZUJidlNRN2JzUXM2QktKazJTZTBmZzZXUmtLTXQwUjFkdEpDdUxjSFczbGJLVk00Ui1QODhZSUl4dHhUSHZHV2pseXAyVjgyNXRVekk1LWNlcldROHREMUlGTmFlZlB3?oc=5",
+   "medio": "Alerta",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-11-07T03:37:50Z",
+   "id": "8fc99f0f5328"
+  },
+  {
+   "titulo": "El Hospital Regional de San Gil se está cayendo a pedazos",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR2dBWlF0UEtrRjR3YlppcGF2dGdmS3RvM1J3NERqZVlLcGh6aTFEdVB3YW9PT3M1Z1NhMm5BWVR5T2dINEdfZVR0aWJPR3VPVVQtN2FSZ2xiLTI5WWNJa1lyZVc1cU1ITFpnYVpvek9veGlHLWlWdVgzSVNraHBObU9kUjFqV3FwRmxiSUJPUTU4aGRuZDBMaUI3QkdnTTJXaDQxeWwxcm5uYzjSAasBQVVfeXFMT0dnQVpRdFBLa0Y0d2JaaXBhdnRnZkt0bzNSdzREamVZS3BoemkxRHVQd2FvT09zNWdTYTJuQVlUeU9nSDRHX2VUdGliT0d1T1VULTdhUmdsYi0yOVljSWtZcmVXNXFNSExaZ2Fab3pPb3hpRy1pVnVYM0lTa2hwTm1PZFIxaldxcEZsYklCT1E1OGhkbmQwTGlCN0JHZ00yV2g0MXlsMXJubmM4?oc=5",
+   "medio": "Alerta",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-11-07T03:22:01Z",
+   "id": "97440cab5760"
+  },
+  {
+   "titulo": "Alcalde de Suaita, Santander alerta por daños en puente La Vega y advierte riesgo de quedar incomunicados",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcFN5ei1VbmtJZEwtZ01Hdk1aNGxsMFJCU1NiRWp4U0tWOTd1MFU1aVJNU1V5YWF0UmcwNlFfdUp0dVF3aDI0bjNMUnE3cTFFd1c1TFZ3REN5QkJJeEQ5YWpYOThhcHM0cnZsdmUtbEdxUGd6aHRfZEF0QURPd1VSNW9WaTlPbXZMeGVUZllPUDNfMFlwUko3SUZIaE5mQTJSM3dKZWR3YWhuRDhGR0ZiNk92WUJndnFBUFHSAboBQVVfeXFMUEJwWEJFMTlVOFVPaDlkYkQ1TXpONUw1ZWVZZ2pscmRJU19xSWEyU0YzNndmUU5sUzYxRXB3MVVRVWJvUV9GNWRyX2FxRWhCM2FMTHdSTDFKdUlfN0JjMVNURlBhWEgxQmltNTBpaVBZcjVlOVFFZ3huR0pPaWx2OUVPa0JWSjI4MGZOSVhPQ2VQRWxiRG9jNlhXMGJMcVJuVmlaajFhQWE0b2M3MnRJdnlUc1JpSEw1d1lB?oc=5",
+   "medio": "Alerta",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-11-06T23:19:11Z",
+   "id": "932d1624e7a3"
+  },
+  {
+   "titulo": "Noticias Deportes RCN (6 de noviembre de 2026)",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM2FmLS1vZW9ieDNNWm04U1RRSUxOZnJtdTItX2lyM3hucF96NjFBbnRUQzJtWXhESldHcGF6MEc2QzFVNlN6WFEzSGlTR09oQmVPZ3JvX0NuUWJPaXN1RTZZOHVuMWxnT1ZjNFVtRDhQa1ZwSzN6ZE9SVHFYMW5EOHhVOVhoS01U?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-11-06T21:55:47Z",
+   "id": "9ba278a006bb"
+  },
+  {
+   "titulo": "Millonaria multa al Concejo de Barrancabermeja por presuntamente violar derechos sindicales",
+   "resumen": "El Ministerio del Trabajo sancionó al Concejo de Barrancabermeja con una multa de $84,7 millones por dos incumplimientos en la negociación colectiva con el sindicato ASTDEMP. La decisión puede ser apelada.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/TNFYVQERPBHKVEPO6IFJF24FNA.jpg?auth=f8362058424bdd8ad8343a243440cb9df8ef4d024476191e0354b77a25622590&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/santander/barrancabermeja/2026/11/07/millonaria-multa-al-concejo-de-barrancabermeja-por-presuntamente-violar-derechos-sindicales/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-06T21:18:19Z",
+   "id": "3efdee12e3d6"
+  },
+  {
+   "titulo": "Netflix revive la toma del Palacio de Justicia y Stallone revela la historia detrás de Rocky",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaXN1Y3B1UUF0cTI1MFBLWVBBRXRGc3VHY0paS256TmRmcUNJM2s1ZFBfMDdvamlIUldPX04tOXNLcGUtR2xlMzA5ei1VQlhtN3pyV2prd05zOUtJUDEyWVdCbUxQamtxNFN5OVV5VXdDUlZUWEEtZXpxVDVqcnBZN1h6OC1fekhfdGJENnd5VUstdV9Va1lqdjNENWxvWFJ4dDZseE1sRjZoaUNrZzhPWkNTaDdScTdXN3BudThOZmZkenI5a3dta19XN1ZUQlZpcm1CUVNUa2NlaDg?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-11-06T20:55:39Z",
+   "id": "0d4746d34a79"
+  },
+  {
+   "titulo": "Lluvias en Suaita, Santander, dejan múltiples emergencias, alcalde pide ayuda al Gobierno Nacional",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdTdxYlZhOHVyYU9yTGd6TlhGZ1Q3ZndIbDkxTmhhcDhOYm1LVFdkeFREZkFzZWhUT1FMWVJXM1JoeFZINnZCU0UzTmJDUmw2Sm5ITHoteGNEUFFPVTdkbnlxSjJVOXEtcXJ6MTV4Umg2d01xYmFmU0lON3dES0JPTW10M3h2aGlseXZENWJaSkZYSU1VWDZlWVhzeV8xTXo5bU5ZZEg4eDgwWWZRMVItaGhEM042TXVoWUdIa1lIZzc4NzdPdlA2Ym130gHeAUFVX3lxTE11Vnp4MGFuVGl5REFaeTNiOGtwUm84Nlllb05sa0Vqb2gyZkxCazdXc3hldVFEOEc1MXJUS015a2oxa1gxSVBJSVVKLXJ6Z2s2VVpETUxfZlkxN2NEaTNSZWVNa3RyOGNFWVVBQjVlenl2cjA3ZEprOVFSeURvT0RMUHhPcWxjSm1HYm80QldZcjRvQXcyRVZmM0ZMWUZVSlBxd0JYdUJ3amFGTDVWMEdfNlEwbU1pdHJBdWtNcXF2bEJnUG1HWjE2WEJDQ0paN1R2SG1EemFxMHF4eFc0dw?oc=5",
+   "medio": "Caracol Radio",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-11-05T22:07:47Z",
+   "id": "e6528fcfaafc"
+  },
+  {
+   "titulo": "Fuertes lluvias provocan deslizamientos y emergencias en Suaita, Santander",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTEw2R0FjOWRaTkZ1SEItRDFKMjkyTUE1Rl83MXk1bGhod0RvQVFsRURmTnNfV3pCc1pHYUN6N2s4bmZ2TzlvbGRLekVrVUdDUmxFdW13RUNkYWFleHZ6UnhFTXp2Wk9odXRjYlY4NEUtSEFpdGdyS0JOR2JoektyUUxqdlFvX2xJRjh1MjlQV1VNSlQ3dWNrZFU1QVJOaXVnd3NCcHZJSDdIUXppSmptUzlZbWdCbHFDQlU2VmxnWlpHUdIBzwFBVV95cUxNbm1md21QUklScmtWalJXLTczQVpnQnZyS1prYW0wRm16YWo1MHVxZ1hZQWF4ZUJyRU1FVXBCVWlINHpQZElCdUg1bW4zRDFxZldjRzBhNU84QWQ5WjE2aHZmN3dtbmxQR1dCWklTUF9lV1ZoVW1QYWg1MUdsbmFoS1ZjdEVWRWcwdGthSXB6QnA0RWhfbU5ldTJ1djlUdk9HWVBmb2U2SWZSa2FpWWE1UGFMRlhabnVwYW5tVjgyVG9zMFJNX1poU3NJcEg0NzQ?oc=5",
+   "medio": "Blu Radio",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-11-05T21:05:16Z",
+   "id": "6cc4efa4a9df"
+  },
+  {
+   "titulo": "Esta mujer dirige a 75 vacunadores para mantener blindados 295 mil bovinos",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQjFEb0N1R05QWWxRQVRiM1RDeXMzS21sSTFyQXloUzFnZC01R0k5R211OGx4S0pjbUFhTzg5M2ExNVVwbnVNZzFCTjBJckx6c0pCTm5HbjRsWDd3S1BPcllscGt1QzVtbEVkZG11NkJ6cEdqNTJiNnV3UHd3LVdoa003NkFsWVI5T3h0U1pwemVpeEUxaXBNcmszNUh3U01iOUhKWU1ZX2dIc2hiVGlEVHRHSmw5NGxUZ2hnNDJ3?oc=5",
+   "medio": "CONtexto Ganadero",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-11-05T07:34:47Z",
+   "id": "653eb48de406"
+  }
+ ]
+}
