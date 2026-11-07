@@ -6,6 +6,10 @@
 <title>Renacer Estéreo 107.7 FM — Vado Real, Suaita</title>
 <meta name="description" content="Renacer Estéreo 107.7 FM. Escucha en vivo, noticias, clasificados y programación de la radio comunitaria de Vado Real, Suaita, Santander.">
 <meta name="theme-color" content="#0E3A7A">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Renacer">
 <link rel="manifest" href="manifest.json">
 <link rel="icon" href="img/icon-192.png">
 <link rel="apple-touch-icon" href="img/icon-192.png">
@@ -205,6 +209,54 @@ section.bloque.alterno{background:var(--blanco)}
 .pie .eslogan{font-style:italic;opacity:.9}
 .pie .admin{opacity:.5;font-size:.85rem;margin-top:20px;display:inline-block}
 
+/* Botones bajo el sol */
+.acciones-vivo{display:flex;flex-wrap:wrap;justify-content:center;gap:8px;margin-top:6px}
+.btn-claro{background:rgba(255,255,255,.1);color:#fff;border:1.5px solid rgba(255,255,255,.4);border-radius:999px;padding:9px 16px;font-weight:700;font-size:.93rem}
+.btn-claro:hover{background:rgba(255,255,255,.18)}
+.btn-claro.activo{background:var(--c-sol);color:#2a1a00;border-color:var(--c-sol)}
+
+/* Instalar */
+.tarjeta-instalar{display:flex;gap:18px;align-items:flex-start;background:var(--blanco);border:2px solid var(--c-primario);border-radius:var(--radio-g);padding:20px 22px;max-width:640px}
+.tarjeta-instalar img{border-radius:14px;flex:0 0 auto}
+.tarjeta-instalar h3{margin:0 0 4px;color:var(--c-oscuro);font-size:1.4rem}
+.tarjeta-instalar p{margin:0 0 6px;color:var(--c-suave)}
+.pasos-ios{margin:8px 0 0;padding-left:20px;color:var(--c-texto)}
+.pasos-ios li{margin-bottom:4px}
+.btn-azul{background:var(--c-primario)!important;color:#fff!important}
+.banner-instalar{position:fixed;left:12px;right:12px;bottom:calc(76px + env(safe-area-inset-bottom,0));z-index:70;display:flex;align-items:center;gap:12px;background:var(--blanco);border-radius:16px;padding:10px 12px;box-shadow:0 10px 30px rgba(14,58,122,.3);max-width:520px;margin:0 auto}
+.banner-instalar img{border-radius:10px}
+.banner-instalar div{flex:1;min-width:0}
+.banner-instalar b{display:block;color:var(--c-oscuro)}
+.banner-instalar span{font-size:.85rem;color:var(--c-suave)}
+.banner-instalar .btn-wa{margin:0;padding:8px 16px}
+.cerrar-banner{background:none;border:0;font-size:1.5rem;color:var(--c-suave);padding:4px 6px}
+body.instalada #instalar-sec{display:none}
+
+/* Temporizador */
+.dlg-peq{max-width:360px}
+.dlg-peq form{padding:22px}
+.dlg-peq h3{color:var(--c-oscuro);font-size:1.4rem}
+.opciones-temp{display:grid;gap:8px;margin:10px 0 14px}
+.opciones-temp button{border:1.5px solid var(--c-linea);background:var(--c-fondo);border-radius:10px;padding:12px;font-weight:700;color:var(--c-texto);text-align:left}
+.opciones-temp button:hover{border-color:var(--c-primario)}
+.btn-texto{background:none;border:0;color:var(--c-primario);font-weight:700;padding:6px 0}
+
+/* Pestañas (modo app: celular o app instalada) */
+.tabs-app{display:none}
+body.modo-app .tabs-app{display:grid;grid-template-columns:repeat(4,1fr);position:fixed;left:0;right:0;bottom:0;z-index:65;background:var(--blanco);border-top:1px solid var(--c-linea);padding-bottom:env(safe-area-inset-bottom,0);box-shadow:0 -4px 16px rgba(14,58,122,.08)}
+.tabs-app button{background:none;border:0;display:flex;flex-direction:column;align-items:center;gap:2px;padding:8px 4px 9px;font-size:.78rem;font-weight:700;color:var(--c-suave)}
+.tabs-app svg{width:24px;height:24px;padding:2px 14px;box-sizing:content-box;border-radius:999px}
+.tabs-app button[aria-current="page"]{color:var(--c-oscuro)}
+.tabs-app button[aria-current="page"] svg{background:#FDE3D5;color:var(--c-acento)}
+body.modo-app .menu, body.modo-app .btn-menu{display:none!important}
+body.modo-app .fuera{display:none!important}
+body.modo-app main{padding-bottom:calc(74px + env(safe-area-inset-bottom,0))}
+body.modo-app .pie{padding-bottom:calc(150px + env(safe-area-inset-bottom,0))}
+body.modo-app .portada .envoltura{min-height:calc(100dvh - 70px - 74px - env(safe-area-inset-bottom,0) - env(safe-area-inset-top,0));align-content:center}
+body.modo-app .mini-reproductor{bottom:calc(64px + env(safe-area-inset-bottom,0));padding-bottom:10px}
+body.modo-app section.bloque{padding:28px 0}
+body.modo-app.instalada .cabecera{padding-top:env(safe-area-inset-top,0)}
+
 /* Mini reproductor fijo */
 .mini-reproductor{position:fixed;left:0;right:0;bottom:0;z-index:60;background:var(--blanco);border-top:3px solid var(--c-acento);box-shadow:0 -8px 24px rgba(14,58,122,.15);padding:10px 16px calc(10px + env(safe-area-inset-bottom,0));transform:translateY(110%);transition:transform .3s}
 .mini-reproductor:not(.visible){visibility:hidden}
@@ -297,6 +349,11 @@ dialog::backdrop{background:rgba(10,25,55,.65)}
         </button>
       </div>
       <p class="estado-señal" id="estado-señal"></p>
+      <div class="acciones-vivo">
+        <button class="btn-claro" id="btn-pedir-vivo">Pide tu canción</button>
+        <button class="btn-claro" id="btn-temporizador">Temporizador</button>
+        <button class="btn-claro" id="btn-compartir">Compartir</button>
+      </div>
     </div>
   </div>
 </section>
@@ -381,6 +438,27 @@ dialog::backdrop{background:rgba(10,25,55,.65)}
     </div>
   </div>
 </section>
+<section class="bloque" id="instalar-sec">
+  <div class="envoltura">
+    <div class="tarjeta-instalar" id="tarjeta-instalar">
+      <img src="img/icon-192.png" alt="" width="64" height="64">
+      <div>
+        <h3>Lleva Renacer en tu celular</h3>
+        <p id="texto-instalar">Instálala como una aplicación: queda con su ícono en la pantalla de inicio y abre directo en la emisora.</p>
+        <button class="btn-wa btn-azul oculto" id="btn-instalar-2">Instalar la app</button>
+        <ol class="pasos-ios oculto" id="pasos-ios">
+          <li>Toca el botón <b>Compartir</b> (el cuadrito con la flecha hacia arriba).</li>
+          <li>Elige <b>Agregar a pantalla de inicio</b>.</li>
+          <li>Toca <b>Agregar</b>.</li>
+        </ol>
+        <ol class="pasos-ios oculto" id="pasos-android">
+          <li>Toca los <b>tres puntos</b> arriba a la derecha de Chrome.</li>
+          <li>Elige <b>Instalar aplicación</b> o <b>Agregar a pantalla principal</b>.</li>
+        </ol>
+      </div>
+    </div>
+  </div>
+</section>
 </main>
 
 <footer class="pie" id="contacto">
@@ -409,6 +487,31 @@ dialog::backdrop{background:rgba(10,25,55,.65)}
     <button class="btn-redondo activo" id="mini-btn" aria-label="Pausar"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 5h4v14H6zM14 5h4v14h-4z"/></svg></button>
   </div>
 </div>
+
+<nav class="tabs-app" id="tabs-app" aria-label="Secciones">
+  <button data-tab="vivo" aria-current="page"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M3.2 6.2C2.5 6.4 2 7.2 2 8v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2H8.3l8.3-3.3L15.9 1 3.2 6.2zM7 20a3 3 0 1 1 0-6 3 3 0 0 1 0 6zm13-8h-2v-2h-2v2H4V8h16v4z"/></svg>En vivo</button>
+  <button data-tab="noticias"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M19 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"/></svg>Noticias</button>
+  <button data-tab="avisos"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M3 13h8V3H3v10zm0 8h8v-6H3v6zm10 0h8V11h-8v10zm0-18v6h8V3h-8z"/></svg>Avisos</button>
+  <button data-tab="mas"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/></svg>Más</button>
+</nav>
+
+<div class="banner-instalar oculto" id="banner-instalar" role="dialog" aria-label="Instalar la app">
+  <img src="img/icon-192.png" alt="" width="44" height="44">
+  <div><b>Instala Renacer</b><span>Escúchanos con un toque, como una app.</span></div>
+  <button class="btn-wa btn-azul" id="banner-si">Instalar</button>
+  <button class="cerrar-banner" id="banner-no" aria-label="Ahora no">×</button>
+</div>
+
+<dialog id="dlg-temp" class="dlg-peq">
+  <form method="dialog">
+    <h3>Apagar la radio en…</h3>
+    <div class="opciones-temp">
+      <button value="15">15 minutos</button><button value="30">30 minutos</button><button value="45">45 minutos</button>
+      <button value="60">1 hora</button><button value="90">1 hora y media</button><button value="0">Quitar temporizador</button>
+    </div>
+    <button value="" class="btn-texto">Cancelar</button>
+  </form>
+</dialog>
 
 <dialog id="modal">
   <button class="cerrar" id="cerrar-modal" aria-label="Cerrar">×</button>
@@ -714,10 +817,110 @@ $("#form-cancion").addEventListener("submit", e => {
   window.open(enlaceWhatsApp(cfg.whatsapp, t), "_blank", "noopener");
 });
 
-// Instalar como app (PWA)
+// ---------------- Modo app: pestañas abajo (celular o app instalada) ----------------
+const INSTALADA = matchMedia("(display-mode: standalone)").matches || window.navigator.standalone === true;
+const ES_IOS = /iphone|ipad|ipod/i.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+const MOVIL = matchMedia("(max-width: 760px)");
+const TABS = {
+  vivo: ["#inicio"],
+  noticias: ["#noticias"],
+  avisos: ["#clasificados"],
+  mas: ["#programacion", "#podcasts", "#musica", "#aliados-sec", "#instalar-sec", "#contacto"]
+};
+const SECCION_A_TAB = { "#inicio":"vivo", "#noticias":"noticias", "#clasificados":"avisos", "#programacion":"mas", "#podcasts":"mas", "#musica":"mas", "#contacto":"mas", "#instalar-sec":"mas" };
+let tabActual = "vivo";
+document.body.classList.toggle("instalada", INSTALADA);
+function aplicarModo(){ document.body.classList.toggle("modo-app", INSTALADA || MOVIL.matches); }
+MOVIL.addEventListener?.("change", aplicarModo);
+aplicarModo();
+function irTab(t, alInicio = true){
+  if(!TABS[t]) t = "vivo";
+  tabActual = t;
+  Object.entries(TABS).forEach(([k, sel]) => sel.forEach(q => document.querySelector(q)?.classList.toggle("fuera", k !== t)));
+  document.querySelectorAll(".tabs-app button").forEach(b => {
+    if(b.dataset.tab === t) b.setAttribute("aria-current", "page"); else b.removeAttribute("aria-current");
+  });
+  if(alInicio) window.scrollTo({ top: 0 });
+}
+$("#tabs-app").addEventListener("click", e => { const b = e.target.closest("[data-tab]"); if(b) irTab(b.dataset.tab); });
+// Enlaces internos (#noticias, #contacto…) cambian de pestaña en modo app
+document.addEventListener("click", e => {
+  const a = e.target.closest('a[href^="#"]');
+  if(!a || !document.body.classList.contains("modo-app")) return;
+  const t = SECCION_A_TAB[a.getAttribute("href")];
+  if(t){ e.preventDefault(); irTab(t); }
+});
+function irA(selector){
+  if(document.body.classList.contains("modo-app")) irTab(SECCION_A_TAB[selector] || "mas", false);
+  setTimeout(() => document.querySelector(selector)?.scrollIntoView({ behavior:"smooth", block:"start" }), 30);
+}
+irTab(SECCION_A_TAB[location.hash] || "vivo");
+
+// ---------------- Pedir, compartir y temporizador ----------------
+$("#btn-pedir-vivo").addEventListener("click", () => { irA("#form-cancion"); setTimeout(() => $("#pc-nombre").focus({ preventScroll:true }), 400); });
+$("#btn-compartir").addEventListener("click", async () => {
+  const url = location.origin + location.pathname.replace(/admin\.html$/, "");
+  const texto = `Escucha ${cfg.nombre} ${cfg.frecuencia} en vivo`;
+  if(navigator.share){ try{ await navigator.share({ title: cfg.nombre, text: texto, url }); }catch(e){} }
+  else window.open(enlaceWhatsApp("", `${texto}: ${url}`), "_blank", "noopener");
+});
+let apagarEn = 0;
+function pintarTemporizador(){
+  const resta = apagarEn - Date.now();
+  const b = $("#btn-temporizador");
+  b.classList.toggle("activo", apagarEn > 0);
+  b.textContent = apagarEn > 0 ? `Se apaga en ${Math.max(1, Math.ceil(resta / 60000))} min` : "Temporizador";
+}
+$("#btn-temporizador").addEventListener("click", () => $("#dlg-temp").showModal());
+$("#dlg-temp").addEventListener("close", () => {
+  const v = $("#dlg-temp").returnValue;
+  if(v === "") return;
+  const min = Number(v);
+  apagarEn = min > 0 ? Date.now() + min * 60000 : 0;
+  pintarTemporizador();
+  if(min > 0 && !enVivo && podAudio.paused) $("#estado-señal").textContent = "Temporizador listo. Dale play y la radio se apagará sola.";
+});
+setInterval(() => {
+  if(apagarEn && Date.now() >= apagarEn){
+    apagarEn = 0;
+    if(enVivo) detenerVivo();
+    if(!podAudio.paused) podAudio.pause();
+    $("#estado-señal").textContent = "La radio se apagó con el temporizador. ¡Que descanses!";
+  }
+  pintarTemporizador();
+}, 10000);
+
+// ---------------- Instalar como app (PWA) ----------------
 let promptInstalar = null;
-window.addEventListener("beforeinstallprompt", e => { e.preventDefault(); promptInstalar = e; $("#btn-instalar").classList.remove("oculto"); });
-$("#btn-instalar").addEventListener("click", async () => { if(!promptInstalar) return; promptInstalar.prompt(); await promptInstalar.userChoice; promptInstalar = null; $("#btn-instalar").classList.add("oculto"); });
+const AVISO_KEY = "renacer-banner-cerrado";
+function bannerCerrado(){ try{ return Date.now() - Number(localStorage.getItem(AVISO_KEY) || 0) < 14 * 86400000; }catch(e){ return false; } }
+function mostrarBanner(){
+  if(INSTALADA || bannerCerrado() || !document.body.classList.contains("modo-app")) return;
+  if(promptInstalar || ES_IOS) $("#banner-instalar").classList.remove("oculto");
+}
+function pintarInstalar(){
+  if(INSTALADA) return;
+  $("#btn-instalar").classList.toggle("oculto", !promptInstalar);
+  $("#btn-instalar-2").classList.toggle("oculto", !promptInstalar);
+  $("#pasos-ios").classList.toggle("oculto", !ES_IOS);
+  $("#pasos-android").classList.toggle("oculto", ES_IOS || !!promptInstalar);
+}
+async function instalar(){
+  $("#banner-instalar").classList.add("oculto");
+  if(promptInstalar){
+    promptInstalar.prompt();
+    try{ await promptInstalar.userChoice; }catch(e){}
+    promptInstalar = null; pintarInstalar();
+  } else irA("#instalar-sec");
+}
+window.addEventListener("beforeinstallprompt", e => { e.preventDefault(); promptInstalar = e; pintarInstalar(); mostrarBanner(); });
+window.addEventListener("appinstalled", () => { promptInstalar = null; $("#banner-instalar").classList.add("oculto"); $("#instalar-sec").classList.add("oculto"); });
+$("#btn-instalar").addEventListener("click", instalar);
+$("#btn-instalar-2").addEventListener("click", instalar);
+$("#banner-si").addEventListener("click", instalar);
+$("#banner-no").addEventListener("click", () => { $("#banner-instalar").classList.add("oculto"); try{ localStorage.setItem(AVISO_KEY, String(Date.now())); }catch(e){} });
+pintarInstalar();
+setTimeout(mostrarBanner, 4000);
 if("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(()=>{});
 
 // ---------------- Arranque ----------------
@@ -726,7 +929,7 @@ if("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch
   EXT = auto.noticias || [];
   pintarGeneral(); pintarNoticias(); pintarExternas(); pintarRegional(); pintarClasificados(); pintarProgramacion(); pintarPodcasts(); pintarRanking(); pintarAliados();
   pintarAlAire(); consultarAhora(); setInterval(consultarAhora, 25000);
-  if(location.hash.startsWith("#noticia-")) abrirNoticia(location.hash.slice(9));
+  if(location.hash.startsWith("#noticia-")){ irTab("noticias"); abrirNoticia(location.hash.slice(9)); }
 })();
 </script>
 </body>
