@@ -163,7 +163,7 @@ dialog .pie-dialogo{position:sticky;bottom:0;background:#fff;padding:14px 0 0;bo
 import { app, db, CONFIGURADO, CONFIG_BASE, DEMO, cargarNoticiasAuto, haceCuanto, FUENTES, CAT_NOTICIAS, CAT_CLASIFICADOS, DIAS, esc, urlSegura, mezclar, aDate, fechaTexto, aplicarTema, cargarFuentes } from "./js/comun.js";
 import { getAuth, signInWithEmailAndPassword, onAuthStateChanged, signOut, sendPasswordResetEmail } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js";
 import { VISTAS_CABINA, limpiarCabina, iniciarAvisosPanel } from "./js/cabina.js";
-import { doc, getDoc, setDoc, addDoc, updateDoc, deleteDoc, collection, getDocs, query, orderBy, Timestamp, serverTimestamp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
+import { doc, getDoc, setDoc, addDoc, updateDoc, deleteDoc, collection, getDocs, query, orderBy, Timestamp, serverTimestamp, writeBatch } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
 
 const $ = s => document.querySelector(s);
 let cfg = structuredClone(CONFIG_BASE);
@@ -237,10 +237,11 @@ const ESQ = {
       { k:"dias", l:"Días al aire", t:"dias" },
       { k:"horaInicio", l:"Hora de inicio", t:"time", req:true },
       { k:"horaFin", l:"Hora de fin", t:"time" },
+      { k:"categoria", l:"Tipo de programa", t:"select", op:["Entretenimiento","Evangelización","Información","Participación","Formación","Institucional"], ayuda:"Le da el color en la parrilla de la página." },
       { k:"descripcion", l:"Descripción", t:"textarea" },
       { k:"imagen", l:"Imagen (opcional)", t:"imagen" }
     ],
-    fila: x => ({ img:x.imagen, letra:x.horaInicio, t:x.programa, s:[`${x.horaInicio||""}–${x.horaFin||""}`, DIAS.filter(d => (x.dias||[]).map(Number).includes(d.n)).map(d => d.c).join(" ")].join(" · ") }) },
+    fila: x => ({ img:x.imagen, letra:x.horaInicio, t:x.programa, et:[x.categoria && [x.categoria,""]], s:[`${x.horaInicio||""}–${x.horaFin||""}`, DIAS.filter(d => (x.dias||[]).map(Number).includes(d.n)).map(d => d.c).join(" ")].join(" · ") }) },
   podcasts: { titulo:"Audio a la carta", orden:["fecha","desc"], singular:"audio",
     campos:[
       { k:"titulo", l:"Título", t:"text", req:true },
@@ -321,27 +322,52 @@ function leerCampos(raiz){
 
 // ================= Vistas de colecciones =================
 let cache = {};
+let diaFiltro = "todos";
 async function vistaColeccion(col){
   const E = ESQ[col]; const main = $("#contenido");
-  main.innerHTML = `<div class="cabeza"><h2>${E.titulo}</h2><button class="btn naranja" id="nuevo">Agregar ${E.singular}</button></div><div id="lista"><p>Cargando…</p></div>`;
+  const esProg = col === "programacion";
+  main.innerHTML = `<div class="cabeza"><h2>${E.titulo}</h2><div class="acciones">${esProg ? `<button class="btn sec" id="cargar-parrilla">Cargar la parrilla oficial</button>` : ""}<button class="btn naranja" id="nuevo">Agregar ${E.singular}</button></div></div>
+    ${esProg ? `<div class="dias-check" id="filtro-dias" style="margin-bottom:14px"><label><input type="radio" name="fd" value="todos" ${diaFiltro==="todos"?"checked":""}>Todos</label>${DIAS.map(d => `<label><input type="radio" name="fd" value="${d.n}" ${String(diaFiltro)===String(d.n)?"checked":""}>${d.c}</label>`).join("")}</div>` : ""}
+    <div id="lista"><p>Cargando…</p></div>`;
   $("#nuevo").onclick = () => editar(col);
+  if(esProg) $("#cargar-parrilla").onclick = cargarParrilla;
   try{
     const r = await getDocs(query(collection(db, col), orderBy(...E.orden)));
     cache[col] = r.docs.map(d => ({ id:d.id, ...d.data() }));
   }catch(e){ $("#lista").innerHTML = `<div class="vacio">${esc(errorTexto(e))}</div>`; return; }
-  const items = cache[col];
-  $("#lista").innerHTML = items.length ? items.map(x => { const f = E.fila(x), u = urlSegura(f.img);
-    return `<div class="item"><div class="mini">${u ? `<img src="${esc(u)}" alt="">` : esc(String(f.letra ?? (f.t||"?")[0]))}</div>
-      <div><b>${esc(f.t)}${(f.et||[]).filter(Boolean).map(([e]) => `<span class="etq">${esc(e)}</span>`).join("")}</b><span>${esc(f.s||"")}</span></div>
-      <div class="acciones"><button class="btn sec" data-ed="${x.id}">Editar</button><button class="btn peligro" data-del="${x.id}">Eliminar</button></div></div>`; }).join("")
-    : `<div class="vacio">Todavía no hay nada aquí. Usa «Agregar ${E.singular}» para empezar.</div>`;
+  const todos = cache[col];
+  const pintar = () => {
+    const items = esProg && diaFiltro !== "todos" ? todos.filter(x => (x.dias||[]).map(Number).includes(Number(diaFiltro))) : todos;
+    $("#lista").innerHTML = items.length ? items.map(x => { const f = E.fila(x), u = urlSegura(f.img);
+      return `<div class="item"><div class="mini">${u ? `<img src="${esc(u)}" alt="">` : esc(String(f.letra ?? (f.t||"?")[0]))}</div>
+        <div><b>${esc(f.t)}${(f.et||[]).filter(Boolean).map(([e]) => `<span class="etq">${esc(e)}</span>`).join("")}</b><span>${esc(f.s||"")}</span></div>
+        <div class="acciones"><button class="btn sec" data-ed="${x.id}">Editar</button><button class="btn peligro" data-del="${x.id}">Eliminar</button></div></div>`; }).join("")
+      : `<div class="vacio">${esProg && diaFiltro !== "todos" ? "No hay programas este día." : `Todavía no hay nada aquí. Usa «Agregar ${E.singular}» para empezar.`}</div>`;
+  };
+  pintar();
+  $("#filtro-dias")?.addEventListener("change", e => { diaFiltro = e.target.value; pintar(); });
   $("#lista").onclick = async e => {
     const ed = e.target.closest("[data-ed]"), del = e.target.closest("[data-del]");
-    if(ed) editar(col, items.find(x => x.id === ed.dataset.ed));
-    if(del){ const it = items.find(x => x.id === del.dataset.del);
+    if(ed) editar(col, todos.find(x => x.id === ed.dataset.ed));
+    if(del){ const it = todos.find(x => x.id === del.dataset.del);
       if(!confirm(`¿Eliminar «${E.fila(it).t}»? Esta acción no se puede deshacer.`)) return;
       try{ await deleteDoc(doc(db, col, it.id)); aviso("Eliminado", "ok"); vistaColeccion(col); } catch(err){ aviso(errorTexto(err), "error"); } }
   };
+}
+// Reemplaza toda la programación por la parrilla oficial (datos/parrilla.json)
+async function cargarParrilla(){
+  if(!confirm("Esto BORRA la programación que hay ahora y carga la parrilla oficial de la emisora (63 franjas). Después puedes editar cada programa. ¿Continuar?")) return;
+  try{
+    const datos = await (await fetch("datos/parrilla.json", { cache:"no-store" })).json();
+    const viejos = await getDocs(collection(db, "programacion"));
+    let lote = writeBatch(db), n = 0;
+    const enviar = async () => { await lote.commit(); lote = writeBatch(db); n = 0; };
+    for(const d of viejos.docs){ lote.delete(d.ref); if(++n >= 400) await enviar(); }
+    for(const p of datos.programas){ lote.set(doc(collection(db, "programacion")), { ...p, actualizado: serverTimestamp() }); if(++n >= 400) await enviar(); }
+    if(n) await enviar();
+    aviso(`Parrilla cargada: ${datos.programas.length} franjas.`, "ok");
+    diaFiltro = "todos"; vistaColeccion("programacion");
+  }catch(e){ aviso(errorTexto(e), "error"); }
 }
 function editar(col, it = null){
   const E = ESQ[col], f = $("#form-item");
@@ -458,6 +484,8 @@ function vistaHerramientas(){
   $("#contenido").innerHTML = `<div class="cabeza"><h2>Herramientas</h2></div>
   <div class="tarjeta"><h3>Noticias automáticas</h3><div id="estado-auto"><p>Consultando…</p></div>
     <p><small>Las fuentes se cambian en el archivo <code>datos/fuentes.json</code> del repositorio. Para forzar una actualización: GitHub → pestaña Actions → «Noticias automáticas» → Run workflow.</small></p></div>
+  <div class="tarjeta"><h3>Parrilla de programación oficial</h3><p>Reemplaza toda la programación por la parrilla de la emisora. Luego cada programa se edita en «Programación».</p>
+    <button class="btn sec" id="h-parrilla">Cargar la parrilla oficial</button></div>
   <div class="tarjeta"><h3>Contenido de ejemplo</h3><p>Carga noticias, avisos, programación y ranking de ejemplo para ver cómo luce la página. Después puedes editarlos o borrarlos.</p>
     <button class="btn sec" id="sembrar">Cargar contenido de ejemplo</button></div>
   <div class="tarjeta"><h3>Configuración inicial</h3><p>Guarda la configuración por defecto (colores del logo, señal, contacto). Úsalo una sola vez al empezar.</p>
@@ -468,6 +496,7 @@ function vistaHerramientas(){
       : `<p>Última actualización: <b>${esc(haceCuanto(d.actualizado))}</b> · ${(d.noticias||[]).length} titulares.</p>
          <ul>${f.map(x => `<li>${x.ok ? "✅" : "⚠️"} <b>${esc(x.nombre)}</b>: ${x.ok ? x.cantidad + " titulares" : "sin respuesta (" + esc(x.error || "error") + ")"}</li>`).join("")}</ul>`;
   });
+  $("#h-parrilla").onclick = cargarParrilla;
   $("#sembrar").onclick = async () => {
     if(!confirm("¿Cargar el contenido de ejemplo?")) return;
     try{

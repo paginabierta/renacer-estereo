@@ -161,6 +161,13 @@ section.bloque.alterno{background:var(--blanco)}
 .franja .hora{font-family:var(--f-titulos);font-weight:700;font-size:1.15rem;color:var(--c-oscuro)}
 .franja h3{margin:0 0 2px;font-size:1.2rem}
 .franja p{margin:0;color:var(--c-suave);font-size:.95rem}
+.franja{border-left:6px solid var(--cat,transparent)}
+.franja.breve{padding:6px 22px;background:var(--c-fondo);border-left-color:#F5D76E}
+.franja.breve .hora{font-size:.95rem;font-weight:600;color:var(--c-suave)}
+.franja.breve .breve-t{font-size:.92rem;color:var(--c-suave);font-weight:700}
+.cat-prog{display:inline-block;font-size:.72rem;font-weight:700;text-transform:uppercase;letter-spacing:.04em;color:var(--c-suave);margin-bottom:2px}
+.leyenda-prog{display:flex;flex-wrap:wrap;gap:6px 14px;margin:14px 0 0;font-size:.85rem;color:var(--c-suave)}
+.leyenda-prog span::before{content:"";display:inline-block;width:12px;height:12px;border-radius:3px;background:var(--c);margin-right:6px;vertical-align:-1px}
 .franja.ahora{background:linear-gradient(90deg,rgba(245,168,48,.18),transparent 70%);box-shadow:inset 5px 0 0 var(--c-acento)}
 .marca-ahora{display:inline-block;background:var(--c-acento);color:#fff;font-size:.78rem;font-weight:700;border-radius:999px;padding:2px 10px;margin-left:8px;vertical-align:middle}
 
@@ -401,6 +408,7 @@ dialog::backdrop{background:rgba(10,25,55,.65)}
     <div class="cabeza-bloque"><h2>Programación</h2><p>Escoge el día y mira qué suena.</p></div>
     <div class="dias" id="dias" role="tablist"></div>
     <div class="parrilla" id="parrilla"></div>
+    <div class="leyenda-prog"><span style="--c:#F4A6B4">Entretenimiento</span><span style="--c:#8EC5E8">Evangelización</span><span style="--c:#F2B21B">Información</span><span style="--c:#7CC47F">Participación</span><span style="--c:#B38BD9">Formación</span></div>
   </div>
 </section>
 
@@ -541,6 +549,7 @@ const COLOR_CAT = { "Empleo":"#1F5FBF","Ventas":"#EE6A2C","Arriendos":"#7A4FB5",
 
 let cfg = structuredClone(CONFIG_BASE);
 const D = { noticias:[], clasificados:[], programacion:[], podcasts:[], ranking:[], aliados:[] };
+const COLOR_PROG = { "Entretenimiento":"#F4A6B4", "Evangelización":"#8EC5E8", "Información":"#F2B21B", "Participación":"#7CC47F", "Formación":"#B38BD9", "Institucional":"#F5D76E" };
 let EXT = [], extVisibles = 9, filtroExt = "Todas";
 let notasVisibles = 6, filtroCat = "Todos", diaSel = new Date().getDay();
 
@@ -697,10 +706,14 @@ function pintarProgramacion(){
   $("#dias").innerHTML = DIAS.map(d => `<button role="tab" aria-selected="${d.n===diaSel}" data-dia="${d.n}">${d.n===hoy ? "Hoy" : d.l}</button>`).join("");
   const aire = programaAlAire();
   const lista = D.programacion.filter(p => (p.dias||[]).map(Number).includes(diaSel)).sort((a,b) => aMinutos(a.horaInicio) - aMinutos(b.horaInicio));
-  $("#parrilla").innerHTML = lista.length ? lista.map(p => `<div class="franja ${aire && aire.id===p.id ? "ahora" : ""}">
+  $("#parrilla").innerHTML = lista.length ? lista.map(p => {
+    const cat = p.categoria || "", al = aire && aire.id === p.id;
+    if(cat === "Institucional" && !al) return `<div class="franja breve"><div class="hora">${esc(p.horaInicio||"")}</div><div><span class="breve-t">${esc(p.programa)}</span></div></div>`;
+    return `<div class="franja ${al ? "ahora" : ""}" style="--cat:${COLOR_PROG[cat] || "transparent"}">
       <div class="hora">${esc(p.horaInicio||"")}${p.horaFin ? "–" + esc(p.horaFin) : ""}</div>
-      <div><h3>${esc(p.programa)}${aire && aire.id===p.id ? '<span class="marca-ahora">Al aire</span>' : ""}</h3>
-      <p>${[p.locutor, p.descripcion].filter(Boolean).map(esc).join(". ")}</p></div></div>`).join("")
+      <div>${cat ? `<span class="cat-prog">${esc(cat)}</span>` : ""}<h3>${esc(p.programa)}${al ? '<span class="marca-ahora">Al aire</span>' : ""}</h3>
+      <p>${[p.locutor, p.descripcion].filter(Boolean).map(esc).join(". ")}</p></div></div>`;
+  }).join("")
     : '<div class="vacio">No hay programas registrados para este día.</div>';
 }
 

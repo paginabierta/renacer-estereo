@@ -1,0 +1,818 @@
+{
+ "nombre": "Parrilla de programación Renacer Estéreo (vigente desde 2022)",
+ "programas": [
+  {
+   "programa": "Himno de Colombia · Inicio de emisión",
+   "dias": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "horaInicio": "04:28",
+   "horaFin": "04:30",
+   "categoria": "Institucional",
+   "descripcion": "",
+   "locutor": ""
+  },
+  {
+   "programa": "Alegre Despertar",
+   "dias": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "horaInicio": "04:30",
+   "horaFin": "06:00",
+   "categoria": "Entretenimiento",
+   "descripcion": "Música campesina (carranga, llanera, popular, norteño, merengue y vallenato); reportes de sintonía, llamadas, avisos comerciales y sociales; resultados de loterías; cumpleaños (5:00 a 5:15 am); noticias rápidas (5:30 am) y avisos eucarísticos (5:45 am).",
+   "locutor": ""
+  },
+  {
+   "programa": "Alegre Despertar",
+   "dias": [
+    0
+   ],
+   "horaInicio": "04:30",
+   "horaFin": "05:00",
+   "categoria": "Entretenimiento",
+   "descripcion": "Música campesina para empezar el domingo.",
+   "locutor": ""
+  },
+  {
+   "programa": "Eucaristía",
+   "dias": [
+    0
+   ],
+   "horaInicio": "05:00",
+   "horaFin": "06:00",
+   "categoria": "Evangelización",
+   "descripcion": "Santa Misa de las 5:00 am.",
+   "locutor": ""
+  },
+  {
+   "programa": "Himno de Colombia",
+   "dias": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "horaInicio": "06:00",
+   "horaFin": "06:01",
+   "categoria": "Institucional",
+   "descripcion": "",
+   "locutor": ""
+  },
+  {
+   "programa": "En sintonía con Dios",
+   "dias": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "horaInicio": "06:01",
+   "horaFin": "06:31",
+   "categoria": "Evangelización",
+   "descripcion": "Programa religioso de las parroquias de Vado Real, Suaita, Olival y San José de Suaita.",
+   "locutor": ""
+  },
+  {
+   "programa": "Siempre Domingo",
+   "dias": [
+    0
+   ],
+   "horaInicio": "06:01",
+   "horaFin": "06:31",
+   "categoria": "Evangelización",
+   "descripcion": "Programa religioso.",
+   "locutor": ""
+  },
+  {
+   "programa": "Colombianísimo",
+   "dias": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "horaInicio": "06:31",
+   "horaFin": "07:01",
+   "categoria": "Entretenimiento",
+   "descripcion": "Música colombiana: bambuco, cumbia, porro, guabina, joropo, llanera…",
+   "locutor": ""
+  },
+  {
+   "programa": "Ecos al corazón",
+   "dias": [
+    6,
+    0
+   ],
+   "horaInicio": "06:31",
+   "horaFin": "07:01",
+   "categoria": "Entretenimiento",
+   "descripcion": "Música romántica y pop moderna.",
+   "locutor": ""
+  },
+  {
+   "programa": "Renacer Romántico",
+   "dias": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "horaInicio": "07:01",
+   "horaFin": "07:31",
+   "categoria": "Entretenimiento",
+   "descripcion": "Música de planchar y romántica (viejitas).",
+   "locutor": ""
+  },
+  {
+   "programa": "Espacio del Colegio",
+   "dias": [
+    1
+   ],
+   "horaInicio": "07:31",
+   "horaFin": "07:55",
+   "categoria": "Participación",
+   "descripcion": "Espacio institucional de la comunidad.",
+   "locutor": ""
+  },
+  {
+   "programa": "Espacio PIC",
+   "dias": [
+    2
+   ],
+   "horaInicio": "07:31",
+   "horaFin": "07:55",
+   "categoria": "Participación",
+   "descripcion": "Espacio institucional de la comunidad.",
+   "locutor": ""
+  },
+  {
+   "programa": "Espacio del Hospital",
+   "dias": [
+    3
+   ],
+   "horaInicio": "07:31",
+   "horaFin": "07:55",
+   "categoria": "Participación",
+   "descripcion": "Espacio institucional de la comunidad.",
+   "locutor": ""
+  },
+  {
+   "programa": "Espacio de la Alcaldía",
+   "dias": [
+    4
+   ],
+   "horaInicio": "07:31",
+   "horaFin": "07:55",
+   "categoria": "Participación",
+   "descripcion": "Espacio institucional de la comunidad.",
+   "locutor": ""
+  },
+  {
+   "programa": "Espacio de las Juntas de Acción Comunal",
+   "dias": [
+    5
+   ],
+   "horaInicio": "07:31",
+   "horaFin": "07:55",
+   "categoria": "Participación",
+   "descripcion": "Espacio institucional de la comunidad.",
+   "locutor": ""
+  },
+  {
+   "programa": "Carrangueando",
+   "dias": [
+    6,
+    0
+   ],
+   "horaInicio": "07:01",
+   "horaFin": "08:01",
+   "categoria": "Entretenimiento",
+   "descripcion": "Música carranguera y saludos de cumpleaños.",
+   "locutor": ""
+  },
+  {
+   "programa": "Susurros del corazón",
+   "dias": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "horaInicio": "07:55",
+   "horaFin": "08:01",
+   "categoria": "Formación",
+   "descripcion": "Espacio de reflexión con poemas y poesía literaria (pregrabado).",
+   "locutor": ""
+  },
+  {
+   "programa": "Rancherísimo",
+   "dias": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "horaInicio": "08:01",
+   "horaFin": "10:00",
+   "categoria": "Entretenimiento",
+   "descripcion": "El espacio más popular de Renacer: música ranchera, norteña, de banda y popular; artistas invitados; complacencias; notas de interés general; noticias; clasificados (9:00 am) y avisos eucarísticos (9:45 a 10:00 am).",
+   "locutor": ""
+  },
+  {
+   "programa": "Sábado de Rumba",
+   "dias": [
+    6
+   ],
+   "horaInicio": "08:01",
+   "horaFin": "10:00",
+   "categoria": "Entretenimiento",
+   "descripcion": "Top de las canciones más pedidas, éxitos musicales y llamadas.",
+   "locutor": ""
+  },
+  {
+   "programa": "Ranchenato",
+   "dias": [
+    0
+   ],
+   "horaInicio": "08:01",
+   "horaFin": "09:00",
+   "categoria": "Entretenimiento",
+   "descripcion": "Vallenato y ranchera.",
+   "locutor": ""
+  },
+  {
+   "programa": "Resumen Informativo",
+   "dias": [
+    0
+   ],
+   "horaInicio": "09:00",
+   "horaFin": "10:00",
+   "categoria": "Información",
+   "descripcion": "Lo más importante de la semana.",
+   "locutor": ""
+  },
+  {
+   "programa": "Espacios de la comunidad · Colegios",
+   "dias": [
+    1
+   ],
+   "horaInicio": "10:00",
+   "horaFin": "10:31",
+   "categoria": "Participación",
+   "descripcion": "Espacio de las instituciones y organizaciones de la comunidad.",
+   "locutor": ""
+  },
+  {
+   "programa": "Espacios de la comunidad · PIC",
+   "dias": [
+    2
+   ],
+   "horaInicio": "10:00",
+   "horaFin": "10:31",
+   "categoria": "Participación",
+   "descripcion": "Espacio de las instituciones y organizaciones de la comunidad.",
+   "locutor": ""
+  },
+  {
+   "programa": "Espacios de la comunidad · Cooperativismo",
+   "dias": [
+    3
+   ],
+   "horaInicio": "10:00",
+   "horaFin": "10:31",
+   "categoria": "Participación",
+   "descripcion": "Espacio de las instituciones y organizaciones de la comunidad.",
+   "locutor": ""
+  },
+  {
+   "programa": "Espacios de la comunidad · Alcaldía",
+   "dias": [
+    4
+   ],
+   "horaInicio": "10:00",
+   "horaFin": "10:31",
+   "categoria": "Participación",
+   "descripcion": "Espacio de las instituciones y organizaciones de la comunidad.",
+   "locutor": ""
+  },
+  {
+   "programa": "Espacios de la comunidad · JAC",
+   "dias": [
+    5
+   ],
+   "horaInicio": "10:00",
+   "horaFin": "10:31",
+   "categoria": "Participación",
+   "descripcion": "Espacio de las instituciones y organizaciones de la comunidad.",
+   "locutor": ""
+  },
+  {
+   "programa": "Espacios de la comunidad · Policía",
+   "dias": [
+    6
+   ],
+   "horaInicio": "10:00",
+   "horaFin": "10:31",
+   "categoria": "Participación",
+   "descripcion": "Espacio de las instituciones y organizaciones de la comunidad.",
+   "locutor": ""
+  },
+  {
+   "programa": "Eucaristía Mayor",
+   "dias": [
+    0
+   ],
+   "horaInicio": "10:00",
+   "horaFin": "11:00",
+   "categoria": "Evangelización",
+   "descripcion": "Santa Misa dominical de las 10:00 am.",
+   "locutor": ""
+  },
+  {
+   "programa": "Avance Informativo",
+   "dias": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "horaInicio": "10:31",
+   "horaFin": "10:40",
+   "categoria": "Información",
+   "descripcion": "Las noticias de la mañana.",
+   "locutor": ""
+  },
+  {
+   "programa": "Ritmo Alegre",
+   "dias": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "horaInicio": "10:40",
+   "horaFin": "12:00",
+   "categoria": "Entretenimiento",
+   "descripcion": "Carranga, llanera, merengue, vallenato, popular, pop, urbano, reguetón y rock; tips para la vida; chistes y cumpleaños (10:45 am).",
+   "locutor": ""
+  },
+  {
+   "programa": "Sábado de Rumba",
+   "dias": [
+    6
+   ],
+   "horaInicio": "10:40",
+   "horaFin": "12:00",
+   "categoria": "Entretenimiento",
+   "descripcion": "Top de las canciones más pedidas.",
+   "locutor": ""
+  },
+  {
+   "programa": "Ranchenato",
+   "dias": [
+    0
+   ],
+   "horaInicio": "11:00",
+   "horaFin": "12:00",
+   "categoria": "Entretenimiento",
+   "descripcion": "Vallenato y ranchera.",
+   "locutor": ""
+  },
+  {
+   "programa": "Himno de Santander / Himno de Suaita",
+   "dias": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "horaInicio": "12:00",
+   "horaFin": "12:05",
+   "categoria": "Institucional",
+   "descripcion": "",
+   "locutor": ""
+  },
+  {
+   "programa": "Ángelus",
+   "dias": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "horaInicio": "12:05",
+   "horaFin": "12:10",
+   "categoria": "Evangelización",
+   "descripcion": "Saludo a la Virgen María.",
+   "locutor": ""
+  },
+  {
+   "programa": "Informativo Renacer",
+   "dias": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "horaInicio": "12:10",
+   "horaFin": "13:00",
+   "categoria": "Información",
+   "descripcion": "Noticias locales, regionales, nacionales e internacionales.",
+   "locutor": ""
+  },
+  {
+   "programa": "Colombianísimo",
+   "dias": [
+    6
+   ],
+   "horaInicio": "12:10",
+   "horaFin": "13:00",
+   "categoria": "Entretenimiento",
+   "descripcion": "Música colombiana.",
+   "locutor": ""
+  },
+  {
+   "programa": "Domingo Sabroso",
+   "dias": [
+    0
+   ],
+   "horaInicio": "12:10",
+   "horaFin": "15:00",
+   "categoria": "Entretenimiento",
+   "descripcion": "Música crossover, todos los ritmos (programación automática).",
+   "locutor": ""
+  },
+  {
+   "programa": "Parranda Vallenata",
+   "dias": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "horaInicio": "13:00",
+   "horaFin": "14:00",
+   "categoria": "Entretenimiento",
+   "descripcion": "El folclor de la costa norte de Colombia, saludos y artistas invitados.",
+   "locutor": ""
+  },
+  {
+   "programa": "Vibra Musical",
+   "dias": [
+    6
+   ],
+   "horaInicio": "13:00",
+   "horaFin": "14:00",
+   "categoria": "Entretenimiento",
+   "descripcion": "Electrónica, urbana, pop y reguetón.",
+   "locutor": ""
+  },
+  {
+   "programa": "Al son del sabor",
+   "dias": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "horaInicio": "14:00",
+   "horaFin": "15:00",
+   "categoria": "Entretenimiento",
+   "descripcion": "Viejoteca, salsa, merengue, bullerengue, vallenato viejo, música decembrina y reguetón viejo. Saludos y noticias deportivas.",
+   "locutor": ""
+  },
+  {
+   "programa": "Universo Infantil",
+   "dias": [
+    6
+   ],
+   "horaInicio": "14:00",
+   "horaFin": "15:00",
+   "categoria": "Participación",
+   "descripcion": "Programa para los niños.",
+   "locutor": ""
+  },
+  {
+   "programa": "Coronilla de la Misericordia",
+   "dias": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "horaInicio": "15:00",
+   "horaFin": "15:10",
+   "categoria": "Evangelización",
+   "descripcion": "La hora de la Misericordia.",
+   "locutor": ""
+  },
+  {
+   "programa": "De cuento en cuento",
+   "dias": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "horaInicio": "15:10",
+   "horaFin": "15:16",
+   "categoria": "Formación",
+   "descripcion": "Cuentos, fábulas y textos de reflexión.",
+   "locutor": ""
+  },
+  {
+   "programa": "Domingo Sabroso",
+   "dias": [
+    0
+   ],
+   "horaInicio": "15:10",
+   "horaFin": "18:00",
+   "categoria": "Entretenimiento",
+   "descripcion": "Música crossover, todos los ritmos (programación automática).",
+   "locutor": ""
+  },
+  {
+   "programa": "Al son del sabor",
+   "dias": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "horaInicio": "15:16",
+   "horaFin": "16:00",
+   "categoria": "Entretenimiento",
+   "descripcion": "Viejoteca, salsa, merengue, bullerengue, vallenato viejo, música decembrina y reguetón viejo; saludos y cumpleaños (3:30 pm).",
+   "locutor": ""
+  },
+  {
+   "programa": "Conexión Juvenil",
+   "dias": [
+    6
+   ],
+   "horaInicio": "15:16",
+   "horaFin": "16:00",
+   "categoria": "Participación",
+   "descripcion": "Programa juvenil.",
+   "locutor": ""
+  },
+  {
+   "programa": "De regreso a casa",
+   "dias": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "horaInicio": "16:00",
+   "horaFin": "17:00",
+   "categoria": "Entretenimiento",
+   "descripcion": "Música popular, carranga, llanera y norteña; reportes de sintonía, sorteos, saludos y mensajes de interés.",
+   "locutor": ""
+  },
+  {
+   "programa": "Así es mi vereda",
+   "dias": [
+    6
+   ],
+   "horaInicio": "16:00",
+   "horaFin": "17:30",
+   "categoria": "Participación",
+   "descripcion": "Reportería desde las veredas de nuestro municipio.",
+   "locutor": ""
+  },
+  {
+   "programa": "La finca en la radio",
+   "dias": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "horaInicio": "17:00",
+   "horaFin": "17:30",
+   "categoria": "Formación",
+   "descripcion": "Consejos y orientaciones para los campesinos. Avance informativo.",
+   "locutor": ""
+  },
+  {
+   "programa": "Cuéntele al Campo",
+   "dias": [
+    5
+   ],
+   "horaInicio": "17:00",
+   "horaFin": "17:30",
+   "categoria": "Participación",
+   "descripcion": "Espacio para el campo y sus gentes.",
+   "locutor": ""
+  },
+  {
+   "programa": "Santo Rosario",
+   "dias": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "horaInicio": "17:30",
+   "horaFin": "18:00",
+   "categoria": "Evangelización",
+   "descripcion": "Rezo del Santo Rosario.",
+   "locutor": ""
+  },
+  {
+   "programa": "Himno de Colombia",
+   "dias": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "horaInicio": "18:00",
+   "horaFin": "18:01",
+   "categoria": "Institucional",
+   "descripcion": "",
+   "locutor": ""
+  },
+  {
+   "programa": "Cierre de emisión",
+   "dias": [
+    0
+   ],
+   "horaInicio": "18:01",
+   "horaFin": "18:05",
+   "categoria": "Institucional",
+   "descripcion": "Los domingos la emisión termina a las 6:00 pm.",
+   "locutor": ""
+  },
+  {
+   "programa": "Eucaristía 6 pm",
+   "dias": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "horaInicio": "18:01",
+   "horaFin": "18:30",
+   "categoria": "Evangelización",
+   "descripcion": "Santa Misa de la tarde.",
+   "locutor": ""
+  },
+  {
+   "programa": "Formación cultural, artística y social",
+   "dias": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "horaInicio": "18:30",
+   "horaFin": "19:00",
+   "categoria": "Formación",
+   "descripcion": "Programas de formación cultural, artística y social.",
+   "locutor": ""
+  },
+  {
+   "programa": "Ecos al corazón",
+   "dias": [
+    6
+   ],
+   "horaInicio": "18:30",
+   "horaFin": "19:00",
+   "categoria": "Entretenimiento",
+   "descripcion": "Música romántica y pop.",
+   "locutor": ""
+  },
+  {
+   "programa": "Del Oriente al Llano",
+   "dias": [
+    1
+   ],
+   "horaInicio": "19:00",
+   "horaFin": "20:45",
+   "categoria": "Entretenimiento",
+   "descripcion": "Llanera, carranga, trova y norteño.",
+   "locutor": ""
+  },
+  {
+   "programa": "Poder Femenino",
+   "dias": [
+    2
+   ],
+   "horaInicio": "19:00",
+   "horaFin": "20:45",
+   "categoria": "Formación",
+   "descripcion": "Programa de mujeres.",
+   "locutor": ""
+  },
+  {
+   "programa": "La Rokola",
+   "dias": [
+    3
+   ],
+   "horaInicio": "19:00",
+   "horaFin": "20:45",
+   "categoria": "Entretenimiento",
+   "descripcion": "Integración familiar y relatos.",
+   "locutor": ""
+  },
+  {
+   "programa": "Renace la Noche",
+   "dias": [
+    4
+   ],
+   "horaInicio": "19:00",
+   "horaFin": "20:45",
+   "categoria": "Participación",
+   "descripcion": "Entrevistas e invitados.",
+   "locutor": ""
+  },
+  {
+   "programa": "La Rokola Fin de Semana",
+   "dias": [
+    5
+   ],
+   "horaInicio": "19:00",
+   "horaFin": "20:45",
+   "categoria": "Entretenimiento",
+   "descripcion": "Concursos e integración familiar.",
+   "locutor": ""
+  },
+  {
+   "programa": "Lo mejor de lo nuestro",
+   "dias": [
+    6
+   ],
+   "horaInicio": "19:00",
+   "horaFin": "20:45",
+   "categoria": "Participación",
+   "descripcion": "Resaltar el talento artístico y cultural.",
+   "locutor": ""
+  },
+  {
+   "programa": "Cierre de emisión",
+   "dias": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "horaInicio": "20:45",
+   "horaFin": "20:50",
+   "categoria": "Institucional",
+   "descripcion": "",
+   "locutor": ""
+  }
+ ]
+}
