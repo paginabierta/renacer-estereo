@@ -1,7 +1,7 @@
 // Renacer Estéreo — service worker sencillo: guarda la página para abrirla sin conexión.
 // La señal en vivo y los datos de Firebase nunca se guardan en caché.
-const CACHE = "renacer-v3";
-const BASE = ["./", "./index.html", "./js/comun.js", "./js/firebase-config.js", "./img/logo.png", "./img/icon-192.png", "./img/icon-512.png", "./manifest.json"];
+const CACHE = "renacer-v4";
+const BASE = ["./", "./index.html", "./js/comun.js", "./js/firebase-config.js", "./img/logo.png", "./img/icon-192.png", "./img/icon-512.png", "./manifest.json", "./css/participa.css", "./js/juegos.js", "./js/participa.js", "./datos/juegos/banco.json"];
 self.addEventListener("install", e => { e.waitUntil(caches.open(CACHE).then(c => c.addAll(BASE))); self.skipWaiting(); });
 self.addEventListener("activate", e => e.waitUntil(
   caches.keys().then(ks => Promise.all(ks.filter(k => k !== CACHE).map(k => caches.delete(k)))).then(() => self.clients.claim())

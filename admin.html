@@ -133,6 +133,11 @@ dialog .pie-dialogo{position:sticky;bottom:0;background:#fff;padding:14px 0 0;bo
     <button data-vista="podcasts">Audio a la carta</button>
     <button data-vista="ranking">Lo más sonado</button>
     <button data-vista="aliados">Aliados y pautantes</button>
+    <h3>Participación</h3>
+    <button data-vista="cabina">🎤 Cabina en vivo</button>
+    <button data-vista="moderacion">Moderación</button>
+    <button data-vista="encuestas">Encuestas</button>
+    <button data-vista="juegos-admin">Juegos y ranking</button>
     <h3>Configuración</h3>
     <button data-vista="cfg-portada">Portada, textos y alerta</button>
     <button data-vista="cfg-apariencia">Colores, letras y logo</button>
@@ -157,6 +162,7 @@ dialog .pie-dialogo{position:sticky;bottom:0;background:#fff;padding:14px 0 0;bo
 <script type="module">
 import { app, db, CONFIGURADO, CONFIG_BASE, DEMO, cargarNoticiasAuto, haceCuanto, FUENTES, CAT_NOTICIAS, CAT_CLASIFICADOS, DIAS, esc, urlSegura, mezclar, aDate, fechaTexto, aplicarTema, cargarFuentes } from "./js/comun.js";
 import { getAuth, signInWithEmailAndPassword, onAuthStateChanged, signOut, sendPasswordResetEmail } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js";
+import { VISTAS_CABINA, limpiarCabina, iniciarAvisosPanel } from "./js/cabina.js";
 import { doc, getDoc, setDoc, addDoc, updateDoc, deleteDoc, collection, getDocs, query, orderBy, Timestamp, serverTimestamp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
 
 const $ = s => document.querySelector(s);
@@ -267,6 +273,7 @@ function campoHTML(c, v){
   const id = "f-" + c.k.replace(/\./g,"-"), ay = c.ayuda ? `<small>${esc(c.ayuda)}</small>` : "";
   switch(c.t){
     case "textarea": return `<div class="campo"><label for="${id}">${esc(c.l)}</label><textarea id="${id}" data-k="${c.k}" class="${c.largo?"largo":""}">${esc(v??"")}</textarea>${ay}</div>`;
+    case "lista": return `<div class="campo"><label for="${id}">${esc(c.l)}</label><textarea id="${id}" data-k="${c.k}" data-t="lista">${esc((v || []).join("\n"))}</textarea>${ay}</div>`;
     case "select": return `<div class="campo"><label for="${id}">${esc(c.l)}</label><select id="${id}" data-k="${c.k}">${c.op.map(o => `<option ${o===v?"selected":""}>${esc(o)}</option>`).join("")}</select>${ay}</div>`;
     case "check": return `<div class="campo"><label class="check"><input type="checkbox" data-k="${c.k}" ${(v ?? c.def) ? "checked" : ""}> ${esc(c.l)}</label>${ay}</div>`;
     case "dias": { const sel = (v||[]).map(Number);
@@ -301,6 +308,7 @@ function leerCampos(raiz){
   raiz.querySelectorAll("[data-k]").forEach(el => {
     const k = el.dataset.k, t = el.dataset.t; let v;
     if(t === "imagen") v = el.querySelector("input[type=hidden]").value;
+    else if(t === "lista") v = el.value.split("\n").map(x => x.trim()).filter(Boolean);
     else if(t === "dias") v = [...el.querySelectorAll("input:checked")].map(i => Number(i.value));
     else if(t === "date") v = el.value ? Timestamp.fromDate(new Date(el.value + "T12:00:00")) : null;
     else if(el.type === "checkbox") v = el.checked;
@@ -371,6 +379,9 @@ const CFG = {
       { k:"secciones.noticiasAuto", l:"Mostrar titulares automáticos de Vanguardia y medios nacionales", t:"check", ayuda:"Se actualizan solos cada hora. El estado de cada fuente se ve en Herramientas." },
       { k:"regional.nombre", l:"Nombre del periódico aliado (botón)", t:"text", ayuda:"Ej.: El Regional. Deja el enlace vacío para ocultar el botón." },
       { k:"regional.url", l:"Enlace de su página (Facebook u otra)", t:"url" } ]],
+    ["Participación de los oyentes", [
+      { k:"secciones.participa", l:"Mostrar la sección Participa (juegos, concursos, saludos, encuestas)", t:"check" },
+      { k:"lugares", l:"Veredas y pueblos para «¿Desde dónde nos escuchas?»", t:"lista", ayuda:"Uno por línea. Pon primero las veredas de la parroquia. La gente también puede escribir otro lugar." } ]],
     ["Secciones visibles", [
       { k:"secciones.noticias", l:"Noticias", t:"check" }, { k:"secciones.clasificados", l:"Clasificados y avisos", t:"check" },
       { k:"secciones.programacion", l:"Programación", t:"check" }, { k:"secciones.podcasts", l:"Audio a la carta", t:"check" },
@@ -476,7 +487,9 @@ function vistaHerramientas(){
 function ir(v){
   document.querySelectorAll("[data-vista]").forEach(b => b.setAttribute("aria-current", b.dataset.vista === v));
   $("#lateral").classList.remove("abierto");
-  if(ESQ[v]) vistaColeccion(v); else if(CFG[v]) vistaCfg(v); else vistaHerramientas();
+  limpiarCabina();
+  if(VISTAS_CABINA[v]) VISTAS_CABINA[v]($("#contenido")).catch(e => aviso(errorTexto(e), "error"));
+  else if(ESQ[v]) vistaColeccion(v); else if(CFG[v]) vistaCfg(v); else vistaHerramientas();
   history.replaceState(null, "", "#" + v);
 }
 document.querySelectorAll("[data-vista]").forEach(b => b.onclick = () => ir(b.dataset.vista));
@@ -492,7 +505,8 @@ else{
     if(u){
       $("#usuario").textContent = u.email;
       try{ await cargarCfg(); }catch(e){ aviso(errorTexto(e), "error"); }
-      const h = location.hash.slice(1); ir(ESQ[h] || CFG[h] || h === "herramientas" ? h : "noticias");
+      iniciarAvisosPanel({ db, esc, aviso, errorTexto, cfg: () => cfg });
+      const h = location.hash.slice(1); ir(ESQ[h] || CFG[h] || VISTAS_CABINA[h] || h === "herramientas" ? h : "noticias");
     }
   });
   $("#form-login").onsubmit = async e => {
