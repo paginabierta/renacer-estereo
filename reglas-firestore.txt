@@ -1,0 +1,176 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // ---------- Quién administra ----------
+    // Correos que pueden editar desde el panel. Agrega o quita los que necesites.
+    function esAdmin() {
+      return request.auth != null && request.auth.token.get('email', '') in [
+        'erenacer.estereo@gmail.com'
+      ];
+    }
+    function logueado() { return request.auth != null; }
+    function texto(s, max) { return s is string && s.size() > 0 && s.size() <= max; }
+    // Día de hoy en hora de Colombia, contado desde 1970 (igual que en la app)
+    function diaHoy() { return int((request.time.toMillis() - 18000000) / 86400000); }
+    // Solo se cuenta el lugar la primera vez que el oyente se registra
+    function primeraVez() {
+      return !exists(/databases/$(database)/documents/oyentes/$(request.auth.uid))
+        && existsAfter(/databases/$(database)/documents/oyentes/$(request.auth.uid));
+    }
+    // Un contador de reacción queda igual o sube exactamente 1
+    function anterior(k) { return resource == null ? 0 : resource.data.get(k, 0); }
+    function sube(k) {
+      return request.resource.data.get(k, 0) == anterior(k) || request.resource.data.get(k, 0) == anterior(k) + 1;
+    }
+
+    // ---------- Contenido que publica la emisora ----------
+    match /{coleccion}/{id} {
+      allow read: if esAdmin() || coleccion in [
+        'config', 'noticias', 'clasificados', 'programacion', 'podcasts', 'ranking', 'aliados',
+        'envivo', 'votaciones', 'banco_extra'
+      ];
+      allow write: if esAdmin();
+    }
+
+    // ---------- Oyentes (perfil: nombre y lugar) ----------
+    match /oyentes/{uid} {
+      allow read: if esAdmin() || (logueado() && request.auth.uid == uid);
+      allow create, update: if logueado() && request.auth.uid == uid
+        && texto(request.resource.data.alias, 30) && texto(request.resource.data.lugar, 60);
+      allow delete: if esAdmin();
+    }
+
+    // ---------- ¿Desde dónde nos escuchan? (un documento por lugar; se cuenta una vez por oyente) ----------
+    match /mapa/{lugar} {
+      allow read: if true;
+      allow write: if esAdmin();
+      allow create: if logueado() && primeraVez()
+        && request.resource.data.keys().hasOnly(['nombre', 'n'])
+        && texto(request.resource.data.nombre, 60) && request.resource.data.n == 1;
+      allow update: if logueado() && primeraVez()
+        && request.resource.data.keys().hasOnly(['nombre', 'n'])
+        && request.resource.data.nombre == resource.data.nombre
+        && request.resource.data.n == resource.data.n + 1;
+    }
+
+    // ---------- Reto del día: una vez por día y por persona ----------
+    match /retos/{dia}/jugadores/{uid} {
+      allow read: if esAdmin() || (logueado() && request.auth.uid == uid);
+      allow create: if logueado() && request.auth.uid == uid
+        && int(dia) >= diaHoy() - 1 && int(dia) <= diaHoy()
+        && request.resource.data.aciertos is int
+        && request.resource.data.aciertos >= 0 && request.resource.data.aciertos <= 5;
+      allow update, delete: if esAdmin();
+    }
+
+    // ---------- Ranking del mes: solo suma lo del reto que se acaba de guardar ----------
+    match /tabla/{mes}/jugadores/{uid} {
+      allow read: if true;
+      allow create, update: if logueado() && request.auth.uid == uid
+        && texto(request.resource.data.alias, 30)
+        && request.resource.data.dia is int
+        && (resource == null || request.resource.data.dia != resource.data.dia)
+        && !exists(/databases/$(database)/documents/retos/$(string(request.resource.data.dia))/jugadores/$(uid))
+        && existsAfter(/databases/$(database)/documents/retos/$(string(request.resource.data.dia))/jugadores/$(uid))
+        && request.resource.data.puntos == (resource == null ? 0 : resource.data.puntos)
+             + getAfter(/databases/$(database)/documents/retos/$(string(request.resource.data.dia))/jugadores/$(uid)).data.aciertos;
+      allow delete: if esAdmin();
+    }
+
+    // ---------- Saludos, pedidos, intenciones, comentarios, coplas y aportes ----------
+    // Todo entra como «pendiente». El público solo ve lo que la emisora aprueba.
+    match /mensajes/{id} {
+      allow read: if esAdmin() || resource.data.estado == 'aprobado';
+      allow create: if logueado()
+        && request.resource.data.uid == request.auth.uid
+        && request.resource.data.estado == 'pendiente'
+        && request.resource.data.tipo in ['saludo', 'pedido', 'intencion', 'comentario', 'copla', 'aporte']
+        && texto(request.resource.data.texto, 600)
+        && texto(request.resource.data.alias, 30)
+        && request.resource.data.lugar is string && request.resource.data.lugar.size() <= 60
+        && request.resource.data.cuando == request.time
+        && request.resource.data.keys().hasOnly(['tipo', 'texto', 'alias', 'lugar', 'uid', 'estado', 'cuando', 'ref', 'extra'])
+        && (!('ref' in request.resource.data) || (request.resource.data.ref is string && request.resource.data.ref.size() <= 80))
+        && (!('extra' in request.resource.data) || (request.resource.data.extra is map && request.resource.data.extra.size() <= 3));
+      allow update, delete: if esAdmin();
+    }
+
+    // ---------- «Me gusta» de las coplas: uno por persona ----------
+    match /likes/{id} {
+      allow read: if true;
+      allow create: if logueado()
+        && request.resource.data.keys().hasOnly(['ref'])
+        && id == request.resource.data.ref + '_' + request.auth.uid;
+      allow delete: if esAdmin();
+    }
+
+    // ---------- Votos de canciones y encuestas: uno por persona ----------
+    match /votos/{id} {
+      allow read: if true;
+      allow create: if logueado()
+        && request.resource.data.keys().hasOnly(['votacion', 'opcion'])
+        && id == request.resource.data.votacion + '_' + request.auth.uid
+        && request.resource.data.opcion is int
+        && request.resource.data.opcion >= 0 && request.resource.data.opcion < 6
+        && get(/databases/$(database)/documents/votaciones/$(request.resource.data.votacion)).data.activa == true
+        && request.time < get(/databases/$(database)/documents/votaciones/$(request.resource.data.votacion)).data.cierra;
+      allow delete: if esAdmin();
+    }
+
+    // ---------- Reacciones en vivo (contadores del día) ----------
+    match /reacciones/{dia} {
+      allow read: if true;
+      allow create, update: if logueado()
+        && request.resource.data.keys().hasOnly(['corazon', 'fuego', 'aplauso', 'oracion'])
+        && sube('corazon') && sube('fuego') && sube('aplauso') && sube('oracion')
+        && request.resource.data.diff(resource == null ? {} : resource.data).affectedKeys().size() == 1;
+      allow delete: if esAdmin();
+    }
+
+    // ---------- Respuestas al concurso en vivo: una por persona y por ronda ----------
+    match /respuestas/{id} {
+      allow read: if esAdmin() || (logueado() && resource.data.uid == request.auth.uid);
+      allow create: if logueado()
+        && request.resource.data.uid == request.auth.uid
+        && id == request.resource.data.ronda + '_' + request.auth.uid
+        && texto(request.resource.data.respuesta, 120)
+        && texto(request.resource.data.alias, 30)
+        && request.resource.data.lugar is string && request.resource.data.lugar.size() <= 60
+        && request.resource.data.cuando == request.time
+        && get(/databases/$(database)/documents/envivo/actual).data.ronda == request.resource.data.ronda
+        && get(/databases/$(database)/documents/envivo/actual).data.abierta == true;
+      allow delete: if esAdmin();
+    }
+
+    // ---------- Reacciones a noticias, avisos y audios: una por persona y por publicación ----------
+    function itemValido(i) { return i is string && i.matches('^(noticia|aviso|audio)_[A-Za-z0-9_-]{1,60}$'); }
+    function tiposReac() { return ['corazon', 'oracion', 'aplauso', 'asombro', 'triste']; }
+    function rutaReac(db, item) { return path('/databases/' + db + '/documents/reac/' + item + '_' + request.auth.uid); }
+    function rutaTotal(db, item) { return path('/databases/' + db + '/documents/reac_total/' + item); }
+    match /reac/{id} {
+      allow read: if esAdmin() || (logueado() && resource.data.uid == request.auth.uid);
+      allow create: if logueado()
+        && request.resource.data.keys().hasOnly(['item', 'r', 'uid'])
+        && request.resource.data.uid == request.auth.uid
+        && itemValido(request.resource.data.item)
+        && request.resource.data.r in tiposReac()
+        && id == request.resource.data.item + '_' + request.auth.uid
+        && getAfter(rutaTotal(database, request.resource.data.item)).data.get(request.resource.data.r, 0)
+           == (exists(rutaTotal(database, request.resource.data.item))
+               ? get(rutaTotal(database, request.resource.data.item)).data.get(request.resource.data.r, 0) : 0) + 1;
+      allow delete: if esAdmin();
+    }
+    match /reac_total/{item} {
+      allow read: if true;
+      allow create, update: if logueado() && itemValido(item)
+        && request.resource.data.keys().hasOnly(tiposReac())
+        && request.resource.data.diff(resource == null ? {} : resource.data).affectedKeys().size() == 1
+        && !exists(rutaReac(database, item))
+        && existsAfter(rutaReac(database, item))
+        && request.resource.data.get(getAfter(rutaReac(database, item)).data.r, 0)
+           == anterior(getAfter(rutaReac(database, item)).data.r) + 1;
+      allow delete: if esAdmin();
+    }
+  }
+}

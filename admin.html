@@ -138,6 +138,7 @@ dialog .pie-dialogo{position:sticky;bottom:0;background:#fff;padding:14px 0 0;bo
     <button data-vista="moderacion">Moderación</button>
     <button data-vista="encuestas">Encuestas</button>
     <button data-vista="juegos-admin">Juegos y ranking</button>
+    <button data-vista="reacciones-admin">❤️ Reacciones</button>
     <h3>Configuración</h3>
     <button data-vista="cfg-portada">Portada, textos y alerta</button>
     <button data-vista="cfg-apariencia">Colores, letras y logo</button>
@@ -162,7 +163,7 @@ dialog .pie-dialogo{position:sticky;bottom:0;background:#fff;padding:14px 0 0;bo
 <script type="module">
 import { app, db, CONFIGURADO, CONFIG_BASE, DEMO, cargarNoticiasAuto, haceCuanto, FUENTES, CAT_NOTICIAS, CAT_CLASIFICADOS, DIAS, esc, urlSegura, mezclar, aDate, fechaTexto, aplicarTema, cargarFuentes } from "./js/comun.js";
 import { getAuth, signInWithEmailAndPassword, onAuthStateChanged, signOut, sendPasswordResetEmail } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js";
-import { VISTAS_CABINA, limpiarCabina, iniciarAvisosPanel } from "./js/cabina.js";
+import { VISTAS_CABINA, limpiarCabina, iniciarAvisosPanel, diagnosticoParticipacion } from "./js/cabina.js";
 import { doc, getDoc, setDoc, addDoc, updateDoc, deleteDoc, collection, getDocs, query, orderBy, Timestamp, serverTimestamp, writeBatch } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
 
 const $ = s => document.querySelector(s);
@@ -407,6 +408,9 @@ const CFG = {
       { k:"regional.url", l:"Enlace de su página (Facebook u otra)", t:"url" } ]],
     ["Participación de los oyentes", [
       { k:"secciones.participa", l:"Mostrar la sección Participa (juegos, concursos, saludos, encuestas)", t:"check" },
+      { k:"secciones.reacciones", l:"Reacciones en noticias, avisos y audios (❤️ 🙏 👏 😮 😢)", t:"check", ayuda:"Cada persona puede reaccionar una vez a cada publicación. Los resultados se ven en «Reacciones»." },
+      { k:"secciones.oyentes", l:"Mostrar «personas escuchando ahora» debajo del botón de play", t:"check", ayuda:"El número lo da el servidor de la señal y cuenta a todos los que escuchan por internet." },
+      { k:"oyentesMinimo", l:"Mostrarlo solo cuando haya al menos…", t:"select", op:["1","2","3","5","10"], ayuda:"Por ejemplo, con 3 no aparece cuando hay solo una o dos personas." },
       { k:"lugares", l:"Veredas y pueblos para «¿Desde dónde nos escuchas?»", t:"lista", ayuda:"Uno por línea. Pon primero las veredas de la parroquia. La gente también puede escribir otro lugar." } ]],
     ["Secciones visibles", [
       { k:"secciones.noticias", l:"Noticias", t:"check" }, { k:"secciones.clasificados", l:"Clasificados y avisos", t:"check" },
@@ -482,6 +486,8 @@ function vistaCfg(id){
 // ================= Herramientas =================
 function vistaHerramientas(){
   $("#contenido").innerHTML = `<div class="cabeza"><h2>Herramientas</h2></div>
+  <div class="tarjeta"><h3>¿Funciona la participación?</h3><p>Revisa, como si fueras un oyente, si las reacciones, los juegos y los saludos pueden funcionar, y te dice qué falta en Firebase.</p>
+    <button class="btn naranja" id="h-diag">Revisar ahora</button><div id="diag-res" style="margin-top:12px"></div></div>
   <div class="tarjeta"><h3>Noticias automáticas</h3><div id="estado-auto"><p>Consultando…</p></div>
     <p><small>Las fuentes se cambian en el archivo <code>datos/fuentes.json</code> del repositorio. Para forzar una actualización: GitHub → pestaña Actions → «Noticias automáticas» → Run workflow.</small></p></div>
   <div class="tarjeta"><h3>Parrilla de programación oficial</h3><p>Reemplaza toda la programación por la parrilla de la emisora. Luego cada programa se edita en «Programación».</p>
@@ -490,6 +496,7 @@ function vistaHerramientas(){
     <button class="btn sec" id="sembrar">Cargar contenido de ejemplo</button></div>
   <div class="tarjeta"><h3>Configuración inicial</h3><p>Guarda la configuración por defecto (colores del logo, señal, contacto). Úsalo una sola vez al empezar.</p>
     <button class="btn sec" id="cfg-inicial">Guardar configuración inicial</button></div>`;
+  $("#h-diag").onclick = async () => { const b = $("#h-diag"); b.disabled = true; try { await diagnosticoParticipacion($("#diag-res")); } catch(e){ $("#diag-res").textContent = "No se pudo revisar: " + e.message; } b.disabled = false; };
   cargarNoticiasAuto().then(d => {
     const f = d.fuentes || [];
     $("#estado-auto").innerHTML = !d.actualizado ? "<p>Todavía no se ha ejecutado la primera actualización.</p>"

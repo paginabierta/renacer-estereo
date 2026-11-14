@@ -364,6 +364,7 @@ dialog::backdrop{background:rgba(10,25,55,.65)}
         <button class="btn-claro" id="btn-compartir">Compartir</button>
       </div>
       <div class="reacciones" id="reacciones"></div>
+      <div class="escuchando" id="escuchando" hidden></div>
     </div>
   </div>
 </section>
@@ -614,6 +615,16 @@ function pintarGeneral(){
   $("#lista-redes").innerHTML = redes.length ? redes.map(([k,u]) => `<li><a href="${esc(u)}" target="_blank" rel="noopener">${nombres[k]||k}</a></li>`).join("") : "<li>Pronto en redes</li>";
 }
 
+// ---------------- Reacciones a publicaciones ----------------
+const reacOn = () => CONFIGURADO && cfg.secciones.participa !== false && cfg.secciones.reacciones !== false;
+const barra = (item, titulo) => reacOn() ? P.barraReac(item, titulo) : "";
+const resumen = item => reacOn() ? P.resumenReacHTML(item) : "";
+function cargarReacVisibles(){
+  if(!reacOn()) return;
+  const items = [...document.querySelectorAll(".reac-item[data-item], .reac-res[data-res]")].map(el => el.dataset.item || el.dataset.res);
+  P.cargarReac(db, items);
+}
+
 // ---------------- Noticias ----------------
 function imgHTML(src, alt=""){ const u = urlSegura(src); return u ? `<img src="${esc(u)}" alt="${esc(alt)}" loading="lazy">` : ""; }
 function pintarNoticias(){
@@ -624,12 +635,13 @@ function pintarNoticias(){
   $("#nota-principal").innerHTML = `<article class="nota-principal" tabindex="0" data-id="${esc(p.id)}">
     <div class="img">${imgHTML(p.imagen, p.titulo)}</div>
     <div class="txt"><div class="meta"><span class="cat">${esc(p.categoria||"")}</span>${fechaTexto(p.fecha)}</div>
-    <h3>${esc(p.titulo)}</h3><p>${esc(p.resumen||"")}</p></div></article>`;
+    <h3>${esc(p.titulo)}</h3><p>${esc(p.resumen||"")}</p>${resumen("noticia_" + p.id)}</div></article>`;
   const vis = resto.slice(0, notasVisibles);
   $("#lista-notas").innerHTML = vis.map(n => `<button class="nota" data-id="${esc(n.id)}">
       <div class="mini">${imgHTML(n.imagen)}</div>
-      <div><h3>${esc(n.titulo)}</h3><div class="meta"><span class="cat">${esc(n.categoria||"")}</span>${fechaTexto(n.fecha)}</div></div>
+      <div><h3>${esc(n.titulo)}</h3><div class="meta"><span class="cat">${esc(n.categoria||"")}</span>${fechaTexto(n.fecha)}</div>${resumen("noticia_" + n.id)}</div>
     </button>`).join("") + (resto.length > notasVisibles ? '<button class="btn-mas" id="mas-notas">Ver más noticias</button>' : "");
+  cargarReacVisibles();
 }
 function pintarExternas(){
   const bloque = $("#bloque-externas");
@@ -664,6 +676,7 @@ function abrirNoticia(id){
     <div class="modal-txt"><div class="meta"><span class="cat">${esc(n.categoria||"")}</span>${fechaTexto(n.fecha)}</div>
     <h2>${esc(n.titulo)}</h2><div class="cuerpo">${cuerpo}</div>
     ${enl ? `<p><a href="${esc(enl)}" target="_blank" rel="noopener">Más información</a></p>` : ""}
+    ${reacOn() ? `<p class="reac-tit">¿Qué te pareció?</p>${barra("noticia_" + n.id, n.titulo)}` : ""}
     <div class="compartir"><a href="${enlaceWhatsApp("", n.titulo + " — " + urlNota)}" target="_blank" rel="noopener">Compartir por WhatsApp</a>
     ${navigator.share ? '<button id="compartir-nativo">Compartir</button>' : ""}</div></div>`;
   if(CONFIGURADO && cfg.secciones.participa !== false){
@@ -674,6 +687,7 @@ function abrirNoticia(id){
   $("#modal-contenido").querySelector("#compartir-nativo")?.addEventListener("click", () => navigator.share({ title:n.titulo, url:urlNota }).catch(()=>{}));
   history.replaceState(null, "", "#noticia-" + n.id);
   $("#modal").showModal();
+  if(reacOn()) P.cargarReac(db, ["noticia_" + n.id], true);
 }
 
 // ---------------- Clasificados ----------------
@@ -692,8 +706,10 @@ function pintarClasificados(){
         ${tel.length >= 7 ? `<a href="${enlaceWhatsApp((tel.length===10?"57":"")+tel, "Hola, vi su aviso en " + cfg.nombre + ": " + c.titulo)}" target="_blank" rel="noopener">WhatsApp</a><a href="tel:${tel}">Llamar</a>` : ""}
         ${enl ? `<a href="${esc(enl)}" target="_blank" rel="noopener">Ver enlace</a>` : ""}
       </div>
+      ${barra("aviso_" + c.id, c.titulo)}
       <div class="meta">${fechaTexto(c.fecha)}</div></article>`;
   }).join("") : '<div class="vacio">No hay avisos en esta categoría por ahora.</div>';
+  cargarReacVisibles();
 }
 
 // ---------------- Programación ----------------
@@ -725,8 +741,9 @@ function pintarPodcasts(){
     const accion = audio ? `<button class="btn-redondo ${podActual===p.id?"activo":""}" data-pod="${esc(p.id)}" aria-label="${podActual===p.id?"Pausar":"Reproducir"} ${esc(p.titulo)}"><svg viewBox="0 0 24 24" fill="currentColor">${podActual===p.id && !podAudio.paused ? ICO_PAUSA : ICO_PLAY}</svg></button>`
       : enl ? `<a class="btn-redondo" href="${esc(enl)}" target="_blank" rel="noopener" aria-label="Abrir ${esc(p.titulo)}"><svg viewBox="0 0 24 24" fill="currentColor">${ICO_PLAY}</svg></a>` : "";
     return `<div class="audio"><div class="portadita">${imgHTML(p.imagen || cfg.logo)}</div>
-      <div><h3>${esc(p.titulo)}</h3><p>${esc(p.descripcion||"")}${p.fecha ? " · " + fechaTexto(p.fecha) : ""}</p></div>${accion}</div>`;
+      <div><h3>${esc(p.titulo)}</h3><p>${esc(p.descripcion||"")}${p.fecha ? " · " + fechaTexto(p.fecha) : ""}</p></div>${accion}${barra("audio_" + p.id, p.titulo)}</div>`;
   }).join("") : '<div class="vacio">Pronto subiremos nuestras producciones.</div>';
+  cargarReacVisibles();
 }
 function alternarPodcast(id){
   const p = D.podcasts.find(x => x.id === id); if(!p) return;
@@ -793,9 +810,13 @@ async function consultarAhora(){
     const d = await r.json();
     urlApi = d?.station?.listen_url || urlApi;
     const s = d?.now_playing?.song || {};
-    ahora = { titulo: s.title || "", artista: s.artist || "", arte: s.art || "" };
-    const oy = d?.listeners?.current ?? d?.listeners?.total;
+    const fuera = d?.is_online === false || /station offline/i.test(s.title || s.text || "");
+    ahora = fuera ? { titulo:"", artista:"", arte:"" } : { titulo: s.title || "", artista: s.artist || "", arte: s.art || "" };
+    const oy = fuera ? 0 : Number(d?.listeners?.current ?? d?.listeners?.total ?? 0);
     $("#oyentes").textContent = oy ? `${oy} ${oy === 1 ? "persona escuchando" : "personas escuchando"} en línea` : "";
+    const min = Number(cfg.oyentesMinimo ?? 1), esc2 = $("#escuchando");
+    esc2.hidden = cfg.secciones.oyentes === false || !(oy >= Math.max(1, min));
+    esc2.innerHTML = `<i></i>${oy} ${oy === 1 ? "persona escuchando" : "personas escuchando"} ahora`;
     if(d?.live?.is_live && d.live.streamer_name) $("#etq-aire").textContent = "En vivo con " + d.live.streamer_name;
   }catch(e){ /* sin API: seguimos con la programación */ }
   pintarAlAire();
