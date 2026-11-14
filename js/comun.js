@@ -47,7 +47,8 @@ export const CONFIG_BASE = {
   lugares: ["Vado Real", "Suaita (casco urbano)", "San José de Suaita", "Gámbita", "Oiba", "El Socorro", "San Gil", "Barbosa", "Otro municipio de Santander", "Otra parte de Colombia", "Fuera del país"],
   // Periódico aliado que solo publica en Facebook: se muestra como botón
   regional: { nombre: "El Regional", url: "https://www.facebook.com/share/1C28WMXukW/" },
-  secciones: { noticias: true, noticiasAuto: true, participa: true, clasificados: true, programacion: true, podcasts: true, ranking: true, aliados: true, paute: true }
+  oyentesMinimo: "1",
+  secciones: { noticias: true, noticiasAuto: true, participa: true, reacciones: true, oyentes: true, clasificados: true, programacion: true, podcasts: true, ranking: true, aliados: true, paute: true }
 };
 
 export const FUENTES = [

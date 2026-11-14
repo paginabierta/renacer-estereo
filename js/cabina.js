@@ -3,7 +3,7 @@
 // ============================================================
 import {
   doc, getDoc, setDoc, updateDoc, deleteDoc, addDoc, collection, query, where, orderBy, limit,
-  getDocs, onSnapshot, serverTimestamp, Timestamp, getCountFromServer
+  getDocs, onSnapshot, serverTimestamp, Timestamp, getCountFromServer, writeBatch
 } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
 import * as J from "./juegos.js";
 
@@ -428,6 +428,93 @@ async function vistaJuegos(main) {
   } catch (e) { $("#cp-adm").innerHTML = `<p>${esc(X.errorTexto(e))}</p>`; }
 }
 
+
+// ======================= REACCIONES =======================
+const REAC_K = [["corazon", "❤️"], ["oracion", "🙏"], ["aplauso", "👏"], ["asombro", "😮"], ["triste", "😢"]];
+const TIPO_ITEM = { noticia: ["noticias", "📰 Noticia"], aviso: ["clasificados", "📌 Aviso"], audio: ["podcasts", "🎧 Audio"] };
+async function vistaReacciones(main) {
+  main.innerHTML = ESTILO + `<div class="cabeza"><h2>❤️ Reacciones</h2></div>
+  <p>Así reacciona la gente. Te sirve para saber qué gusta más y para mostrarles a los pautantes que sus avisos sí se ven.</p>
+  <div class="cab-grid">
+    <div class="tarjeta"><h3>En vivo hoy</h3><p class="pp-nota">Los botones debajo del play. Se reinician cada día.</p><div class="cab-reac" id="rx-hoy">…</div>
+      <h3 style="margin-top:18px">Escuchando ahora</h3><div><span class="cab-big" id="rx-oy">—</span> <span class="pp-nota">personas conectadas a la señal por internet</span></div></div>
+    <div class="tarjeta"><h3>Totales</h3><div id="rx-tot"><p>Cargando…</p></div></div>
+  </div>
+  <div class="tarjeta" style="margin-top:18px"><h3>Publicaciones con más reacciones</h3>
+    <div class="cab-filtros" id="rx-fil"><button data-f="todo" aria-pressed="true">Todo</button><button data-f="noticia" aria-pressed="false">Noticias</button><button data-f="aviso" aria-pressed="false">Avisos</button><button data-f="audio" aria-pressed="false">Audios</button></div>
+    <div id="rx-lista"><p>Cargando…</p></div></div>`;
+  const hoy = String(J.diaNumero());
+  alSalir(onSnapshot(doc(X.db, "reacciones", hoy), s => {
+    const d = s.exists() ? s.data() : {};
+    $("#rx-hoy").innerHTML = [["corazon", "❤️"], ["fuego", "🔥"], ["aplauso", "👏"], ["oracion", "🙏"]].map(([k, e]) => `<span>${e} <b>${d[k] || 0}</b></span>`).join("");
+  }, e => $("#rx-hoy").innerHTML = `<p>${esc(X.errorTexto(e))}</p>`));
+  const oyentes = async () => {
+    const c = X.cfg(); if (!c.azuracastServidor || !c.azuracastEstacion) return;
+    try { const r = await (await fetch(`${String(c.azuracastServidor).replace(/\/$/, "")}/api/nowplaying/${c.azuracastEstacion}`, { cache: "no-store" })).json();
+      if ($("#rx-oy")) $("#rx-oy").textContent = r?.is_online === false ? "0" : (r?.listeners?.current ?? r?.listeners?.total ?? "—"); } catch (e) {}
+  };
+  oyentes(); const t = setInterval(oyentes, 30000); alSalir(() => clearInterval(t));
+  let filas = [];
+  try {
+    const r = await getDocs(collection(X.db, "reac_total"));
+    filas = r.docs.map(d => { const v = d.data(), tot = REAC_K.reduce((s, [k]) => s + (v[k] || 0), 0); return { id: d.id, v, tot }; }).filter(f => f.tot > 0).sort((a, b) => b.tot - a.tot);
+  } catch (e) { $("#rx-lista").innerHTML = `<p>${esc(X.errorTexto(e))}</p>`; $("#rx-tot").innerHTML = ""; return; }
+  const suma = k => filas.reduce((s, f) => s + (f.v[k] || 0), 0), total = filas.reduce((s, f) => s + f.tot, 0);
+  $("#rx-tot").innerHTML = `<div><span class="cab-big">${total}</span> <span class="pp-nota">reacciones en ${filas.length} publicaciones</span></div>
+    <div class="cab-reac" style="margin-top:10px">${REAC_K.map(([k, e]) => `<span>${e} <b>${suma(k)}</b></span>`).join("")}</div>`;
+  // Títulos de las publicaciones (solo de las que salen en la lista)
+  const titulos = {};
+  await Promise.all(filas.slice(0, 60).map(async f => {
+    const [tipo, ...resto] = f.id.split("_"), col = TIPO_ITEM[tipo]?.[0]; if (!col) return;
+    try { const d = await getDoc(doc(X.db, col, resto.join("_"))); titulos[f.id] = d.exists() ? (d.data().titulo || "(sin título)") : "(ya no existe)"; } catch (e) {}
+  }));
+  let filtro = "todo";
+  const pintar = () => {
+    const l = filas.filter(f => filtro === "todo" || f.id.startsWith(filtro + "_")).slice(0, 40);
+    $("#rx-lista").innerHTML = l.length ? `<table class="cab-tabla"><tr><th>Publicación</th>${REAC_K.map(([, e]) => `<th>${e}</th>`).join("")}<th>Total</th></tr>
+      ${l.map(f => `<tr><td><small>${TIPO_ITEM[f.id.split("_")[0]]?.[1] || ""}</small><br>${esc(titulos[f.id] || f.id)}</td>${REAC_K.map(([k]) => `<td>${f.v[k] || ""}</td>`).join("")}<td><b>${f.tot}</b></td></tr>`).join("")}</table>`
+      : `<p class="pp-nota">Todavía no hay reacciones aquí.</p>`;
+  };
+  pintar();
+  $("#rx-fil").addEventListener("click", e => {
+    const b = e.target.closest("[data-f]"); if (!b) return; filtro = b.dataset.f;
+    $("#rx-fil").querySelectorAll("button").forEach(x => x.setAttribute("aria-pressed", x === b)); pintar();
+  });
+}
+
+// ======================= Diagnóstico de la participación =======================
+// Prueba, como si fuera un oyente cualquiera, cada paso que necesitan las reacciones y los juegos.
+export async function diagnosticoParticipacion(caja) {
+  const pasos = [];
+  const poner = (ok, txt, ayuda = "") => { pasos.push(`<li style="margin-bottom:8px">${ok ? "✅" : "❌"} ${txt}${ayuda ? `<br><small style="color:#5B6780">${ayuda}</small>` : ""}</li>`); caja.innerHTML = `<ul style="list-style:none;padding:0">${pasos.join("")}</ul>`; };
+  caja.innerHTML = "<p>Revisando…</p>";
+  const V = "10.12.2", base = `https://www.gstatic.com/firebasejs/${V}/`;
+  const [{ initializeApp, deleteApp }, { getAuth, signInAnonymously, signOut }, F, { firebaseConfig }] = await Promise.all([
+    import(base + "firebase-app.js"), import(base + "firebase-auth.js"), import(base + "firebase-firestore.js"), import("./firebase-config.js")]);
+  const app = initializeApp(firebaseConfig, "diagnostico-" + Date.now());
+  try {
+    const auth = getAuth(app), db = F.getFirestore(app);
+    try { await signInAnonymously(auth); poner(true, "Los oyentes pueden entrar sin cuenta (inicio anónimo activado)."); }
+    catch (e) {
+      const c = e?.code || "";
+      if (c.includes("operation-not-allowed") || c.includes("admin-restricted")) poner(false, "El inicio de sesión <b>Anónimo</b> no está activado.", "Firebase → Authentication → Sign-in method → Agregar proveedor nuevo → Anónimo → Habilitar → Guardar.");
+      else if (c.includes("unauthorized-domain") || c.includes("requests-from-referer")) poner(false, `El dominio <b>${esc(location.hostname)}</b> no está autorizado.`, "Firebase → Authentication → Settings → Dominios autorizados → agrega renacerestereo.org y www.renacerestereo.org.");
+      else poner(false, "No se pudo entrar como oyente (" + esc(c || e.message) + ").");
+      return;
+    }
+    const dia = String(J.diaNumero());
+    try { await F.getDoc(F.doc(db, "reacciones", dia)); poner(true, "Se pueden leer las reacciones en vivo."); }
+    catch (e) { poner(false, "Las reglas de Firebase son las viejas: no dejan leer las reacciones.", "Firestore Database → Reglas → pega completo el archivo de reglas nuevo → Publicar."); return; }
+    try { await F.setDoc(F.doc(db, "reacciones", dia), { aplauso: F.increment(1) }, { merge: true }); poner(true, "Se pueden enviar reacciones en vivo (quedó un 👏 de prueba hoy)."); }
+    catch (e) { poner(false, "Las reglas no dejan enviar reacciones en vivo (" + esc(e?.code || "") + ").", "Vuelve a publicar las reglas nuevas completas."); }
+    try { await F.getDocs(F.query(F.collection(db, "reac_total"), F.limit(1))); poner(true, "Las reglas ya tienen las reacciones de noticias, avisos y audios."); }
+    catch (e) { poner(false, "Faltan las reglas de las reacciones de noticias, avisos y audios.", "Publica el archivo de reglas que viene en este paquete."); }
+    try { await F.getDocs(F.query(F.collection(db, "mapa"), F.limit(1))); poner(true, "Las reglas de juegos y participación están publicadas."); }
+    catch (e) { poner(false, "Faltan las reglas de juegos y participación.", "Publica el archivo de reglas completo."); }
+    try { await signOut(auth); } catch (e) {}
+  } finally { try { await deleteApp(app); } catch (e) {} }
+}
+
 // ======================= Contadores en el menú =======================
 export function iniciarAvisosPanel(ctx) {
   X = ctx;
@@ -444,6 +531,7 @@ export const VISTAS_CABINA = {
   cabina: m => vistaCabina(m),
   moderacion: m => vistaModeracion(m),
   encuestas: m => vistaEncuestas(m),
-  "juegos-admin": m => vistaJuegos(m)
+  "juegos-admin": m => vistaJuegos(m),
+  "reacciones-admin": m => vistaReacciones(m)
 };
 export function ponerContexto(ctx) { X = ctx; }

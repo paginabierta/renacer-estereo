@@ -109,3 +109,21 @@ body:not(.modo-app) .aviso-concurso{bottom:24px}
 .cm span{font-size:.8rem;color:var(--c-suave);margin-left:6px}
 .cm p{margin:4px 0 0;max-width:none}
 .toast-p{position:fixed;left:50%;bottom:calc(150px + env(safe-area-inset-bottom,0));transform:translateX(-50%);background:var(--c-texto);color:#fff;padding:12px 18px;border-radius:12px;z-index:200;max-width:90vw;text-align:center;box-shadow:0 8px 24px rgba(0,0,0,.25)}
+
+/* Personas escuchando ahora */
+.escuchando{display:flex;align-items:center;gap:8px;width:max-content;max-width:100%;margin:10px auto 0;background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.28);color:#fff;border-radius:999px;padding:6px 14px;font-weight:700;font-size:.92rem}
+.escuchando i{width:9px;height:9px;border-radius:50%;background:#4ADE80;box-shadow:0 0 0 0 rgba(74,222,128,.7);animation:latido 1.8s infinite}
+@keyframes latido{70%{box-shadow:0 0 0 9px rgba(74,222,128,0)}100%{box-shadow:0 0 0 0 rgba(74,222,128,0)}}
+.escuchando[hidden]{display:none}
+
+/* Reacciones a noticias, avisos y audios */
+.reac-item{display:flex;gap:6px;flex-wrap:wrap;margin:10px 0 4px;grid-column:1/-1}
+.reac-item button{display:inline-flex;align-items:center;gap:4px;border:1.5px solid var(--c-linea);background:var(--blanco);border-radius:999px;padding:4px 10px;font-size:1.05rem;line-height:1.2;color:var(--c-texto);min-height:36px;transition:transform .15s}
+.reac-item button b{font-size:.82rem;min-width:0}
+.reac-item button b:empty{display:none}
+.reac-item button:hover{border-color:var(--c-primario)}
+.reac-item button.mia{background:#FFF1E6;border-color:var(--c-acento)}
+.reac-item button.pop{animation:pop .45s}
+.reac-res{display:block;font-size:.85rem;color:var(--c-suave);margin-top:6px;letter-spacing:.02em}
+.reac-res:empty{display:none}
+.reac-tit{font-weight:700;margin:18px 0 0;color:var(--c-oscuro)}

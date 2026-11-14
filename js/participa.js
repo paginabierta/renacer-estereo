@@ -6,7 +6,7 @@
 import { getAuth, signInAnonymously } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js";
 import {
   doc, getDoc, setDoc, collection, query, where, orderBy, limit, getDocs, onSnapshot,
-  writeBatch, serverTimestamp, increment, getCountFromServer
+  writeBatch, serverTimestamp, increment, getCountFromServer, documentId
 } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
 import * as J from "./juegos.js";
 
@@ -572,6 +572,20 @@ async function votar(id, op) {
 // ---------------- Reacciones en vivo ----------------
 const REACCIONES = [["corazon", "❤️"], ["fuego", "🔥"], ["aplauso", "👏"], ["oracion", "🙏"]];
 let ultimaReaccion = 0, conteoReacciones = {};
+function notaReacciones(t) {
+  let n = $("#reacciones-nota");
+  if (!n) { n = document.createElement("div"); n.id = "reacciones-nota"; n.className = "reacciones-nota"; $("#reacciones")?.after(n); }
+  n.textContent = t || "";
+  clearTimeout(n._t); if (t) n._t = setTimeout(() => n.textContent = "", 6000);
+}
+function motivoFallo(x) {
+  const c = x?.code || "";
+  console.warn("[Renacer] Reacciones:", c, x?.message || x);
+  if (c.includes("operation-not-allowed") || c.includes("admin-restricted")) return "Las reacciones aún no están activadas en la emisora.";
+  if (c.includes("permission-denied")) return "Las reacciones aún no están activadas en la emisora.";
+  if (c.includes("unavailable") || c.includes("network")) return "Sin conexión. Inténtalo de nuevo.";
+  return "No se pudo enviar tu reacción. Inténtalo de nuevo.";
+}
 function pintarReacciones() {
   const caja = $("#reacciones"); if (!caja) return;
   caja.innerHTML = REACCIONES.map(([k, e]) => `<button class="reaccion" data-reac="${k}" aria-label="Reaccionar ${k}">${e} <b>${conteoReacciones[k] || 0}</b></button>`).join("");
@@ -582,19 +596,96 @@ function escucharReacciones() {
   let dia = J.diaNumero(), quitar = null;
   const escuchar = () => {
     quitar?.();
-    quitar = onSnapshot(doc(C.db, "reacciones", String(dia)), s => { conteoReacciones = s.exists() ? s.data() : {}; pintarReacciones(); }, () => {});
+    quitar = onSnapshot(doc(C.db, "reacciones", String(dia)),
+      s => { conteoReacciones = s.exists() ? s.data() : {}; pintarReacciones(); },
+      x => console.warn("[Renacer] No se pueden leer las reacciones:", x?.code || x));
   };
   escuchar();
   setInterval(() => { if (J.diaNumero() !== dia) { dia = J.diaNumero(); conteoReacciones = {}; escuchar(); } }, 60000);
   caja.addEventListener("click", async e => {
     const b = e.target.closest("[data-reac]"); if (!b) return;
     b.classList.remove("pop"); void b.offsetWidth; b.classList.add("pop");
-    if (Date.now() - ultimaReaccion < 4000) return;
+    const espera = 4000 - (Date.now() - ultimaReaccion);
+    if (espera > 0) { notaReacciones("¡Gracias! Espera un momentico para reaccionar otra vez."); return; }
     ultimaReaccion = Date.now();
-    try { await sesion(); await setDoc(doc(C.db, "reacciones", String(J.diaNumero())), { [b.dataset.reac]: increment(1) }, { merge: true }); }
-    catch (x) {}
+    const k = b.dataset.reac;
+    // Se ve de una vez; si falla, se devuelve
+    conteoReacciones = { ...conteoReacciones, [k]: (conteoReacciones[k] || 0) + 1 }; pintarReacciones();
+    try { await sesion(); await setDoc(doc(C.db, "reacciones", String(J.diaNumero())), { [k]: increment(1) }, { merge: true }); }
+    catch (x) {
+      conteoReacciones = { ...conteoReacciones, [k]: Math.max(0, (conteoReacciones[k] || 1) - 1) }; pintarReacciones();
+      notaReacciones(motivoFallo(x));
+    }
   });
 }
+
+// ---------------- Reacciones a noticias, avisos y audios (una por persona) ----------------
+export const REAC_ITEM = [["corazon", "❤️", "Me encanta"], ["oracion", "🙏", "En oración"], ["aplauso", "👏", "Aplauso"], ["asombro", "😮", "Asombro"], ["triste", "😢", "Triste"]];
+const totalesReac = {};               // item -> { corazon: n, ... }
+let misReac = LS.get("renacer-misreac", {}) || {};
+const EMO = Object.fromEntries(REAC_ITEM.map(([k, e]) => [k, e]));
+function resumenReac(item) {
+  const t = totalesReac[item] || {};
+  return REAC_ITEM.filter(([k]) => (t[k] || 0) > 0).sort((a, b) => (t[b[0]] || 0) - (t[a[0]] || 0)).map(([k, e]) => `${e} ${t[k]}`).join("  ");
+}
+// HTML de la fila de reacciones de una publicación
+export function barraReac(item, titulo = "") {
+  const t = totalesReac[item] || {}, mia = misReac[item];
+  return `<div class="reac-item" data-item="${C?.esc ? esc(item) : item}" role="group" aria-label="Reacciones${titulo ? " a " + (C?.esc ? esc(titulo) : "") : ""}">
+    ${REAC_ITEM.map(([k, e, l]) => `<button type="button" data-ri="${k}" class="${mia === k ? "mia" : ""}" aria-pressed="${mia === k}" title="${l}" aria-label="${l}">${e}<b>${t[k] || ""}</b></button>`).join("")}
+  </div>`;
+}
+// Resumen pequeño (solo lectura) para tarjetas que son botones
+export function resumenReacHTML(item) { return `<span class="reac-res" data-res="${item}">${resumenReac(item)}</span>`; }
+function refrescarReac() {
+  document.querySelectorAll(".reac-item[data-item]").forEach(el => {
+    const it = el.dataset.item, t = totalesReac[it] || {}, mia = misReac[it];
+    el.querySelectorAll("[data-ri]").forEach(b => {
+      const k = b.dataset.ri; b.classList.toggle("mia", mia === k); b.setAttribute("aria-pressed", mia === k);
+      b.querySelector("b").textContent = t[k] || "";
+    });
+  });
+  document.querySelectorAll(".reac-res[data-res]").forEach(el => el.textContent = resumenReac(el.dataset.res));
+}
+// Trae los totales de las publicaciones que están en pantalla (solo las que faltan)
+export async function cargarReac(db, items, forzar = false) {
+  const faltan = [...new Set(items)].filter(i => forzar || !(i in totalesReac));
+  if (!db || !faltan.length) { refrescarReac(); return; }
+  faltan.forEach(i => totalesReac[i] ??= {});
+  try {
+    for (let i = 0; i < faltan.length; i += 30) {
+      const r = await getDocs(query(collection(db, "reac_total"), where(documentId(), "in", faltan.slice(i, i + 30))));
+      r.forEach(d => totalesReac[d.id] = d.data());
+    }
+  } catch (x) { console.warn("[Renacer] No se pueden leer las reacciones de las publicaciones:", x?.code || x); }
+  refrescarReac();
+}
+document.addEventListener("click", async e => {
+  const b = e.target.closest(".reac-item [data-ri]"); if (!b) return;
+  e.preventDefault(); e.stopPropagation();
+  if (!C?.CONFIGURADO) return;
+  const caja = b.closest(".reac-item"), item = caja.dataset.item, k = b.dataset.ri;
+  if (misReac[item]) { aviso(misReac[item] === k ? "Ya reaccionaste a esta publicación. ¡Gracias!" : "Solo se puede una reacción por publicación."); return; }
+  if (caja._enviando) return; caja._enviando = true;
+  b.classList.remove("pop"); void b.offsetWidth; b.classList.add("pop");
+  const antes = { ...(totalesReac[item] || {}) };
+  totalesReac[item] = { ...antes, [k]: (antes[k] || 0) + 1 }; misReac[item] = k; refrescarReac();
+  try {
+    const u = await sesion();
+    const lote = writeBatch(C.db);
+    lote.set(doc(C.db, "reac", `${item}_${u.uid}`), { item, r: k, uid: u.uid });
+    lote.set(doc(C.db, "reac_total", item), { [k]: increment(1) }, { merge: true });
+    await lote.commit();
+    LS.set("renacer-misreac", misReac);
+  } catch (x) {
+    totalesReac[item] = antes; delete misReac[item];
+    // ¿Ya había reaccionado desde este teléfono antes?
+    try { const u = await sesion(), d = await getDoc(doc(C.db, "reac", `${item}_${u.uid}`)); if (d.exists()) { misReac[item] = d.data().r; LS.set("renacer-misreac", misReac); } else aviso(motivoFallo(x)); }
+    catch (y) { aviso(motivoFallo(x)); }
+    refrescarReac();
+  }
+  caja._enviando = false;
+});
 
 // ---------------- Comentarios de noticias ----------------
 export async function comentariosNoticia(contenedor, noticiaId) {
