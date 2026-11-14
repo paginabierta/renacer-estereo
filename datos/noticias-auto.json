@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-14T03:15:42Z",
+ "actualizado": "2026-11-14T10:36:50Z",
  "fuentes": [
   {
    "id": "vanguardia",
@@ -44,26 +44,213 @@
  ],
  "noticias": [
   {
-   "titulo": "Super Astro Luna: resultado del sorteo del viernes 13 de noviembre de 2026",
-   "resumen": "¿Se volvió millonario hoy? Consulte el resultado del Super Astro Luna de este viernes 13 de noviembre de 2026 y revise si su número y signo fueron los ganadores.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/IX6IIGQQTNGNPGK53QYOB2F56I.jpg?auth=031e927d94ddbc72144edd355d2d4cd25690b394b034b579da6739ba271a45d8&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/11/13/super-astro-luna-resultado-del-sorteo-del-viernes-13-de-noviembre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-14T03:05:00Z",
-   "id": "b76e5cbcf47b"
+   "titulo": "El costo de una hora sin internet: hasta US$300.000 para las empresas",
+   "resumen": "Una hora de inactividad tecnológica puede costarle a una empresa cerca de US$336.000, según estimaciones de Gartner, que sitúan en US$5.600 el valor de cada minuto sin operación. Para las empresas y los operadores de…",
+   "imagen": "https://caracol.com.co/resizer/v2/NT4XJBCMWRB5FLOXADYQXOHUCA.jpeg?auth=0824cadb3f85b54000387a889a907bdce02ddc6dd5c38d425b592fe1ecd0a7e3&smart=true&width=1500&height=1000",
+   "enlace": "https://caracol.com.co/2026/11/14/el-costo-de-una-hora-sin-internet-hasta-us300000-para-las-empresas/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-14T09:13:44Z",
+   "id": "254dd595aeee"
   },
   {
-   "titulo": "Dorado Noche: resultado del sorteo de hoy viernes 13 de noviembre de 2026",
-   "resumen": "La expectativa crece hoy viernes 13 de noviembre de 2026 entre miles de apostadores en todo el país por el sorteo de El Dorado Noche.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/BMPAXFIA6BFBXJXD5B2LVNHLJA.png?auth=3c16c1f5c84e8da4a0498d0216daf206988e375f276459d1c5690c68fb112dfe&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/11/13/dorado-noche-resultado-del-sorteo-de-hoy-viernes-13-de-noviembre-de-2026/",
+   "titulo": "Capturan a los responsables de la muerte de dos policía en Algeciras Huila el pasado 31 octubre",
+   "resumen": "La Policía Nacional, en coordinación con la Fiscalía General de la Nación, capturó en Algeciras, Huila, a dos presuntos integrantes del Frente Iván Díaz, de las disidencias de las Farc, señalados de participar en el…",
+   "imagen": "https://caracol.com.co/resizer/v2/ELJL4TJCLFHNJMKG6MJOXE2EV4.jpeg?auth=ef3840b67f3b6e0678a140202f5edbeb695cd07eedf80209809072d6d4fe85c8&smart=true&width=768&height=614",
+   "enlace": "https://caracol.com.co/2026/11/14/capturan-a-los-responsables-de-la-muerte-de-dos-policia-en-algeciras-huila-el-pasado-31-octubre/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-14T07:52:26Z",
+   "id": "24e8d4184987"
+  },
+  {
+   "titulo": "Cobrar mejor, no cobrar más",
+   "resumen": "El Gobierno llevó al Congreso la Ley de Rescate Económico, con la que busca ajustar las cuentas en cerca de 45 billones de pesos. Según el vicepresidente, siete de cada diez pesos vendrán de recortar gastos del Estado y…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/FJTJDBNWFNGB7MI5ZX3HX4LK2Y.jpg?auth=d3ac1ac90f31b9680cc2e032ea5652c886e8afae30d2507effbac316e3aa58ce&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/14/cobrar-mejor-no-cobrar-mas/",
    "medio": "Vanguardia",
    "fuente": "vanguardia",
    "region": "Santander",
-   "fecha": "2026-11-14T03:00:00Z",
-   "id": "11652d9039fa"
+   "fecha": "2026-11-14T06:00:00Z",
+   "id": "03549704b859"
+  },
+  {
+   "titulo": "La visita del papa León XIV",
+   "resumen": "Me ha conmovido ver al papa León XIV recorriendo Argentina y Perú, con esas multitudes que lo esperan sin importar la hora ni el clima, y no he podido evitar acordarme de la última vez que un papa estuvo en Colombia…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/UJ35BBCT6VHHHI6XL4L33O2I2I.jpg?auth=98823bc4b12447430f96364565a46ad1c330792878185222236f7e29bd9d7620&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/14/la-visita-del-papa-leon-xiv/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-14T06:00:00Z",
+   "id": "0b07102aa186"
+  },
+  {
+   "titulo": "Conjurar los fantasmas del territorio",
+   "resumen": "Laura Ortíz recibió el Premio Nacional de Narrativa Elisa Mujica en 2021 con Sofoco, su libro de cuentos. Uno de ellos es Un toro bien bonito, un relato que, a través del personaje de Jeremías, expone la premisa central…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/AHGS5RS2Y5EJ3AX2PVJA6F2DM4.jpg?auth=b360f717127d01d878ef45420b9b49ceeb2d1b0860b37f9e89d8232ed253095a&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/14/conjurar-los-fantasmas-del-territorio/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-14T06:00:00Z",
+   "id": "dc530df51770"
+  },
+  {
+   "titulo": "Vístete de oportunidades",
+   "resumen": "La moda circular es un concepto que toma vigencia mundial y se incorpora a una línea de trabajo que se desarrolla en Bucaramanga gracias a personas que reconocen la importancia de reusar la ropa en buen estado y evitar…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/Y7IXZPG5GFGNDDZMUTXU4BL2BE.jpg?auth=a301586bc87b8293d1035c29c8d1609d712b24d4925fb9fd361254f92bf02d90&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/14/vistete-de-oportunidades/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-14T06:00:00Z",
+   "id": "3c8a082c80d9"
+  },
+  {
+   "titulo": "La salud en Colombia: más recursos, pero también más compromiso",
+   "resumen": "¿Basta con inyectarle más dinero al sistema de salud para superar la crisis? No. Colombia necesita más recursos, pero también el compromiso de todos los actores para que esa inversión se traduzca en atención oportuna…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/VCVYPYMO6VAHZL6IX7R6R2VOEM.jpg?auth=bbd73176d9de98276758b343a8901da16ce9b18a504e625419df0771ab004e9c&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/14/la-salud-en-colombia-mas-recursos-pero-tambien-mas-compromiso/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-14T06:00:00Z",
+   "id": "f6e719793ae8"
+  },
+  {
+   "titulo": "Vender Ecopetrol: un pésimo negocio",
+   "resumen": "Para tapar el hueco fiscal, sectores gobiernistas pretenden vender el 8,49 % de las acciones de Ecopetrol, avaluadas en unos 9,7 billones de pesos. ¿Tiene sentido feriar el activo más rentable del país para tapar un…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/YR3NKICGCFFU7NJ7APMUCGZGWQ.jpg?auth=d6ec142837f90620fa0c083e3b451fde945ae8f5ca1466869a69ab49e4c773fe&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/14/vender-ecopetrol-un-pesimo-negocio/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-14T06:00:00Z",
+   "id": "b4e154ae292c"
+  },
+  {
+   "titulo": "Educación electoral ciudadana",
+   "resumen": "El 31 de octubre de 2027 se elegirán gobernadores, diputados, alcaldes, concejales y ediles. Sin embargo, el derecho a ser elegido no es absoluto. La ley establece límites para proteger la transparencia electoral, la…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/MUXIKLIEUFDL3GXOLY6Q2QTLZE.jpg?auth=a205aebe1c097c90561b69ead67dc4cf4f40cc8c173af5fe75f772fe6de45359&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/14/educacion-electoral-ciudadana/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-14T06:00:00Z",
+   "id": "ba1091166184"
+  },
+  {
+   "titulo": "Operación mano de hierro",
+   "resumen": "Caricatura de Yeyo del 14 de noviembre de 2026",
+   "imagen": "https://www.vanguardia.com/resizer/v2/3QZG4XJHENE35NZZBGVRJL3YVM.jpg?auth=d0cf373365d2b7972cabacdb6b47bf2fee31179444393c8a2a2f6fca6172d13c&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/caricaturas/2026/11/14/operacion-mano-de-hierro/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-14T06:00:00Z",
+   "id": "b1896d673346"
+  },
+  {
+   "titulo": "La Alcaldía de Bucaramanga debe escuchar a los contribuyentes",
+   "resumen": "Aunque la mesa técnica del próximo 26 de noviembre sobre el Impuesto Predial de 2027 en Bucaramanga es un paso necesario, el hecho de que fuera impuesta por un juez evidencia una preocupante falencia de comunicación que…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/Y77HSAMVDRGCBAKRMUB7GJBV6Y.jpg?auth=9fda64626f20c1611bc18d55707d029290a765be2ce035a22502a229ab61e783&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/editorial/2026/11/14/la-alcaldia-de-bucaramanga-debe-escuchar-a-los-contribuyentes/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-14T06:00:00Z",
+   "id": "0548290ecbd1"
+  },
+  {
+   "titulo": "La Casa Blanca pide 30.000 millones de dólares para el control aéreo tras el caos de vuelos en EE.UU",
+   "resumen": "La Casa Blanca y el Departamento de Transporte de Estados Unidos reclamaron este viernes al Congreso otros 30.000 millones de dólares para modernizar la infraestructura aeroportuaria y los sistemas de control del…",
+   "imagen": "https://caracol.com.co/resizer/v2/QLFXDTK4OFFDFIC3K5DJ6OQZKE.jpg?auth=0f614e811e9f572f14b72700ae43ac4d5b5a321efa42b86c277c5a245e144363&smart=true&width=5616&height=3744",
+   "enlace": "https://caracol.com.co/2026/11/14/la-casa-blanca-pide-30000-millones-de-dolares-para-el-control-aereo-tras-el-caos-de-vuelos-en-eeuu/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-14T05:34:32Z",
+   "id": "c381f7ffbbc6"
+  },
+  {
+   "titulo": "Cacique, 14 años transformando experiencias y conectando a Santander",
+   "resumen": "Hoy, Cacique El Centro Comercial es un referente comercial y de entretenimiento en Santander. Con más de 158.000 metros cuadrados de construcción, integra marcas nacionales e internacionales, experiencias de alcance…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/Y5OD422VAZDY5F5MBBDCDNOY2Q.jpg?auth=2fe6bf5abbd00759646c537f8f413eec708018570de636c6939bcc083940cc3e&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/informes-comerciales/2026/11/14/cacique-14-anos-transformando-experiencias-y-conectando-a-santander/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-14T05:00:00Z",
+   "id": "741138d27e83"
+  },
+  {
+   "titulo": "Péptidos para adelgazar, entre la evidencia científica y los riesgos de su uso sin control",
+   "resumen": "El auge de los medicamentos para controlar el peso también ha impulsado la comercialización de sustancias experimentales y productos sin registro sanitario. Distinguir entre tratamientos aprobados y promesas difundidas…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/JPJJDUYJCJHGXCHLS6NN72JYSM.jpg?auth=4b970fffa30606e2d420773b2933e0e8a17a0d9b188950f6d52ae32964628b64&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/entretenimiento/salud/2026/11/14/peptidos-para-adelgazar-entre-la-evidencia-cientifica-y-los-riesgos-de-su-uso-sin-control/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-14T05:00:00Z",
+   "id": "e99acff3cd7a"
+  },
+  {
+   "titulo": "Colombia avanza en el manejo forestal sostenible para proteger sus bosques y fortalecer las comunidades",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNalVDOEtxWUJELW9GZG14VVdTYkV0TFhsMlNITW5scVlzSUNpcGtfWVR6a01YT3hnbks4Z2lvMVNwNmRjWE93cXF6dHVucXBVVUwwMGFicy1xZUpEaVljc01MWnpCQnN2ekZZU3pyNzRXdlo3eUtDMUVsUVFIWFhtYjFPeXcxR2o4elIyUzRIc25iWk81T1g5clFPMmlienhIOUtZQ2lla1VWRkEzUUFSR3lkMEdpUVFhaUNUZXdvanFjX09OWEh1MVJMUndacFhISHh2bUVWVFVGcGU5WlRQLXRUd1pFaGVxamdxYmhtMk5OQQ?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-11-14T04:22:34Z",
+   "id": "0229b09c4bc4"
+  },
+  {
+   "titulo": "Fachadas y lugares que conservan el patrimonio de Santander recibieron reconocimientos: conozca los ganadores",
+   "resumen": "Girón vuelve a ser escenario de la edición 21 de Fachadas, Puertas y Ventanas, iniciativa de la Cámara de Comercio de Bucaramanga que reconoce el trabajo por la conservación del patrimonio en Santander.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/LU6YUJPWCVF5PMAVF4KVATUA5Q.png?auth=d45a9ab13e814cf2d140b53831ddbb67a2bdd0d660483d0cda8e49d82862cf08&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/santander/2026/11/13/fachadas-y-lugares-que-conservan-el-patrimonio-de-santander-recibieron-reconocimientos-conozca-los-ganadores/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-14T04:12:00Z",
+   "id": "f4932d6f9ef4"
+  },
+  {
+   "titulo": "Arte contra la tragedia: la ingeniosa apuesta de Roldanillo para revivir sus fachadas y rescatar el comercio y el turismo",
+   "resumen": "La iniciativa, liderada por la Gobernación del Valle del Cauca, busca impulsar la reconstrucción del municipio.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/13/6af7dc67ba9fd.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/cali/arte-contra-la-tragedia-la-ingeniosa-apuesta-de-roldanillo-para-revivir-sus-fachadas-y-rescatar-el-comercio-y-el-turismo-3601038",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-14T04:07:33Z",
+   "id": "55ffeb7351a8"
+  },
+  {
+   "titulo": "Lotería del Risaralda: resultado del sorteo del viernes 13 de noviembre de 2026",
+   "resumen": "¿Qué número cayó en la Lotería de Risaralda? Resultado del viernes 13 de noviembre de 2026 con todos los premios secos.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/ESEO2EOVAFAEDJF325ZU5SWNIQ.png?auth=58d6de867d5c59423b3b81294e4b9e0cb5e29fb58d36dd2401532856d3c2c27d&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/loterias/2026/11/13/loteria-del-risaralda-todos-los-resultados-del-sorteo-del-viernes-13-de-noviembre-de-2026/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-14T03:51:00Z",
+   "id": "74365c5f7faa"
+  },
+  {
+   "titulo": "Fiscalía pide archivar investigación contra expresidente Uribe en el caso de sobornos a testigos",
+   "resumen": "La Fiscalía General de la Nación ordenó archivar la investigación contra el expresidente Álvaro Uribe Vélez por el presunto soborno a exparamilitares para que modificaran testimonios en su contra. Según el ente…",
+   "imagen": "https://caracol.com.co/resizer/v2/DWICDBXQ5VG4REZRGKMBWJU6HY.jpg?auth=0ab3824e7c562ae87fda90e9f417c894c3ca55e6d16b5ff6e0f1161428a67bce&smart=true&width=4500&height=2995",
+   "enlace": "https://caracol.com.co/2026/11/14/fiscalia-pide-archivar-investigacion-contra-expresidente-uribe-en-el-caso-de-sobornos-a-testigos/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-14T03:26:59Z",
+   "id": "848d8ab7a244"
   },
   {
    "titulo": "¿Qué dice la ciencia sobre el estrés en las plantas? Estos son los signos comunes y sus cuidados",
@@ -77,39 +264,6 @@
    "id": "7ef2a5db4d5f"
   },
   {
-   "titulo": "MiLoto: qué cayó en el sorteo del viernes 13 de noviembre de 2026",
-   "resumen": "Consulte los resultados del sorteo de MiLoto del viernes 13 de noviembre de 2026. Revise los números ganadores y entérese si cayó el gran acumulado millonario.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/Q5XJYIEWW5A53CIH5TMPROA6YM.png?auth=e2e6e36534912b56238073bc3d3e1a9253d9888ae76157b286ff73b43ed92879&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/11/13/miloto-que-cayo-en-el-sorteo-del-viernes-13-de-noviembre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-14T02:52:00Z",
-   "id": "c1281d22e253"
-  },
-  {
-   "titulo": "Falla en el sistema de comunicaciones aéreas de Estados Unidos: así afectó a los aeropuertos",
-   "resumen": "La Administración Federal de Aviación (FAA) de Estados Unidos ordenó la tarde del viernes 13 de noviembre de 2026 detener el tráfico aéreo de salida en todos los aeropuertos del país debido a un problema de comunicación…",
-   "imagen": "https://caracol.com.co/resizer/v2/OXSVGOM56FDM7FLMRYGQJ2XFIQ.jpg?auth=a4ceb02d3a584f5b6ecbe29c9345c4bc196bf861157192510b2fba806feea09e&smart=true&width=7500&height=5000",
-   "enlace": "https://caracol.com.co/2026/11/14/falla-en-el-sistema-de-comunicaciones-aereas-de-estados-unidos-asi-afecto-a-los-aeropuertos/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-14T02:36:05Z",
-   "id": "78144be66f41"
-  },
-  {
-   "titulo": "Taxistas del sur de Bogotá reciben amenazas de muerte por extorsiones: concejal revela audio",
-   "resumen": "Una denuncia por presuntas extorsiones contra taxistas del sur de Bogotá encendió las alertas sobre la seguridad de los transportadores en la capital. El concejal Jairo Avellaneda reveló un audio en el que un hombre…",
-   "imagen": "https://caracol.com.co/resizer/v2/A7C6DMCL7VHULE2FUFWAO2PI5E.jpeg?auth=8d1dbc59ba9b7bf183968a1c1381722cb9c05f6a5d40543a9ac9b253ec5fa416&smart=true&width=1600&height=899",
-   "enlace": "https://caracol.com.co/2026/11/14/taxistas-del-sur-de-bogota-reciben-amenazas-de-muerte-por-extorsiones-concejal-revela-audio/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-14T02:31:00Z",
-   "id": "06112adc9f6b"
-  },
-  {
    "titulo": "“La verdadera encuesta es el cariño de la gente”: Abelardo de la Espriella en Montería",
    "resumen": "En medio de la inauguración del Coliseo de Halterofilia de Montería, el presidente Abelardo de la Espriella se refirió a la reciente encuesta de Cifras y Conceptos que le habría arrojado una popularidad por debajo del…",
    "imagen": "https://caracol.com.co/resizer/v2/WLEWXSBDRBBYRF5BPNRN7YZO6U.jpg?auth=ba1fc1079befd188f3b0066d8c9da9ca1fb268d721b4ec05f169200d7ad097ec&smart=true&width=2048&height=1365",
@@ -119,39 +273,6 @@
    "region": "Colombia",
    "fecha": "2026-11-14T02:29:41Z",
    "id": "f6f088d57457"
-  },
-  {
-   "titulo": "¿Qué retos tiene Santander en competitividad? esto reveló el nuevo índice",
-   "resumen": "La Cámara de Comercio de Bucaramanga evaluó 100 municipios de seis departamentos. Aunque Santander logró posicionar a cuatro de sus territorios entre los primeros lugares, el informe también identificó desafíos en…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/5USXQVMB6BCHVONCPZPT5YKCEQ.jpeg?auth=45dde67108795203b56db7a768c9485fe87ab0faaefd2089abd117b15a023ad4&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/economia/local/2026/11/13/que-retos-tiene-santander-en-competitividad-esto-revelo-el-nuevo-indice/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-14T02:15:01Z",
-   "id": "ae5edc2e9f4b"
-  },
-  {
-   "titulo": "Colombia venció por la mínima a Chile en el primer amistoso de la fecha FIFA: resumen del partido",
-   "resumen": "La Selección Colombia comenzó con victoria su doble compromiso amistoso de noviembre. Este viernes 13 de noviembre, la Tricolor derrotó 1-0 a Chile en el estadio Olímpico Pascual Guerrero de Cali , en el primero de los…",
-   "imagen": "https://caracol.com.co/resizer/v2/LRJLF4CZQ5GY7IURWCRGYQIMSA.jpeg?auth=7071da806a2d23ccea641e3db58bab1470a48c06af13156552743d6859a4713f&smart=true&width=1600&height=1066",
-   "enlace": "https://caracol.com.co/2026/11/13/en-vivo-colombia-vs-chile-hoy-transmision-y-minuto-a-minuto-del-amistoso-internacional/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-14T02:04:25Z",
-   "id": "9b31081fcab0"
-  },
-  {
-   "titulo": "Chontico Noche: resultado del sorteo de hoy viernes 13 de noviembre de 2026",
-   "resumen": "Resultado del último sorteo del Chontico Noche del viernes 13 de noviembre de 2026 ¡Felicitaciones al ganador!",
-   "imagen": "https://www.vanguardia.com/resizer/v2/UO7H2WPOSZDZNGZY2OY23MOYTU.png?auth=f12d837bc5e48397a8823987742eb8610e858f70b813e8be380811ad5029f657&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/11/12/chontico-noche-resultado-del-sorteo-de-hoy-viernes-13-de-noviembre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-14T02:02:39Z",
-   "id": "f9678ca6a6c3"
   },
   {
    "titulo": "Culona Noche: número ganador del sorteo del viernes 13 de noviembre de 2026",
@@ -165,28 +286,6 @@
    "id": "0e8b0f064bde"
   },
   {
-   "titulo": "Estados Unidos descarta ataque terrorista tras suspensión de despegues en aeropuertos",
-   "resumen": "Atlanta, Chicago, Denver y Los Ángeles están entre las terminales con mayores afectaciones por la interrupción del servicio de comunicaciones.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/CEUS2JFPNVA2XLWO5BUJ2AOFCY.jpg?auth=7047fa71e92aa90c108211f6f78fdffb7b3fdf69afc49de371f80d56386a8846&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/mundo/2026/11/13/estados-unidos-descarta-ataque-terrorista-tras-suspension-de-despegues-en-aeropuertos/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-14T01:53:27Z",
-   "id": "bf11727a14b3"
-  },
-  {
-   "titulo": "De la Espriella y Murgas se reunieron por primera vez y anunciaron trabajo conjunto",
-   "resumen": "La líder gremial y el Presidente enfatizaron en que el país necesita avanzar en el desarrollo del empresariado y la resolución de problemas de los colombianos",
-   "imagen": "https://www.vanguardia.com/resizer/v2/MPGEZ5UW6JAU7OYVHWXZE5KPLQ.png?auth=646c84c8c11ca12c381e85f9b9a74683a6befd211f807f286dc71b93b4fe11d8&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/economia/nacional/2026/11/13/de-la-espriella-y-murgas-se-reunieron-por-primera-vez-y-anunciaron-trabajo-conjunto/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-14T01:53:20Z",
-   "id": "6d5262b53e97"
-  },
-  {
    "titulo": "Motilón Noche: resultado del sorteo del viernes 13 de noviembre de 2026",
    "resumen": "¿Ganó El Motilón Noche? Consulte el número ganador del sorteo de hoy viernes 13 de noviembre de 2026 y revise si es el nuevo afortunado del chance.",
    "imagen": "https://www.vanguardia.com/resizer/v2/NFB4M2FKHBELDLTMEMWFTMNY7Q.jpeg?auth=17794f564537fbfef90d3651877e6b0cf22078d54c1d6e93dcec1fa657daac8d&smart=true&width=900&height=600",
@@ -198,48 +297,15 @@
    "id": "2510d125ddc0"
   },
   {
-   "titulo": "EEUU reanudó despegues de vuelos en el país tras horas de interrupción por falla en comunicaciones",
-   "resumen": "La Administración Federal de Aviación de Estados Unidos (FAA) levantó este viernes la suspensión nacional de despegues, que paralizó durante cuatro horas las salidas en los aeropuertos del país debido a una interrupción…",
-   "imagen": "https://caracol.com.co/resizer/v2/EAVVBCHSQZCAHGA6QZE25JFM4Q.jpg?auth=8728eb184375eeb630e3be2c847670091b344dde9637a2fedec5347d5d35e942&smart=true&width=4278&height=2860",
-   "enlace": "https://caracol.com.co/2026/11/14/eeuu-reanudo-despegues-de-vuelos-en-el-pais-tras-horas-de-interrupcion-por-falla-en-comunicaciones/",
+   "titulo": "Santa Fe venció a Inter de Bogotá y terminó tercero: mantiene la ilusión del punto invisible",
+   "resumen": "Independiente Santa Fe cerró con victoria su participación en el todos contra todos de la Liga . El conjunto cardenal derrotó 2-0 a Inter de Bogotá este viernes 13 de noviembre , en el estadio Metropolitano de Techo…",
+   "imagen": "https://caracol.com.co/resizer/v2/DEH75EBJ4NDUTCKBENKJLVMFDE.jpg?auth=bc7d378acd05dcbf15165f87f00b6189143d1d854e4d74f4d7f9c606e62363a1&smart=true&width=900&height=600",
+   "enlace": "https://caracol.com.co/2026/11/14/en-vivo-inter-de-bogota-vs-santa-fe-siga-el-minuto-a-minuto-por-la-liga/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-11-14T01:41:46Z",
-   "id": "b2f07c6c077f"
-  },
-  {
-   "titulo": "🔴EN VIVO reanudan vuelos en Estados Unidos tras falla en comunicaciones: Últimas noticias",
-   "resumen": "La Administración Federal de Aviación (FAA) de Estados Unidos ordenó la tarde del viernes 13 de noviembre de 2026 detener el tráfico aéreo de salida en todos los aeropuertos del país debido a un problema de comunicación…",
-   "imagen": "https://caracol.com.co/resizer/v2/K646KXTO4FAHHJGSCWG4GCJLIA.jpg?auth=4580cc2bb029d950382e3579a1ac211a56e2ab2e9dba255ef9a27c2063e7c223&smart=true&width=2976&height=2100",
-   "enlace": "https://caracol.com.co/2026/11/13/en-vivo-suspension-de-vuelos-eeuu-por-falla-en-comunicaciones-descartan-ataque-ultimas-noticas/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-14T01:24:11Z",
-   "id": "1be8d8fb3025"
-  },
-  {
-   "titulo": "Culona Noche: número ganador del sorteo del sábado 14 de noviembre de 2026",
-   "resumen": "Conoce los resultados del último sorteo de La Culona Noche del sábado 14 de noviembre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/HYOI5FRP2NDUTK4KHF4BSJ3AOA.png?auth=e0477fe2521cda42d8002164e1c1426d415246cee619c62d86b38bffce755e8f&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/11/13/culona-noche-numero-ganador-del-sorteo-del-sabado-14-de-noviembre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-14T00:51:00Z",
-   "id": "27d6e16c0210"
-  },
-  {
-   "titulo": "La suspensión de vuelos en Estados Unidos deja 89 cancelaciones y 170 retrasos en Canadá",
-   "resumen": "La interrupción obligó a terminales de Toronto y Montreal a detener conexiones, mientras Ottawa se preparó para recibir aeronaves desviadas.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/6ECFTGONWZFOLHZTUW2URIRF5A.jpg?auth=940fa49a1abe37b58f7e245d58addf5396d78a7b551be2936e817cb05f6e71d3&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/mundo/2026/11/13/la-suspension-de-vuelos-en-estados-unidos-deja-89-cancelaciones-y-170-retrasos-en-canada/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-14T00:45:57Z",
-   "id": "720fa015e548"
+   "fecha": "2026-11-14T01:00:14Z",
+   "id": "bf39415f8ab8"
   },
   {
    "titulo": "Personería de Medellín abrió indagación a funcionario que habría alterado registros tributarios",
@@ -273,50 +339,6 @@
    "region": "Colombia",
    "fecha": "2026-11-14T00:20:53Z",
    "id": "8eda2ee063bb"
-  },
-  {
-   "titulo": "Cartagena celebra sobre el agua: barcos y champeta y el Festival Náutico",
-   "resumen": "Miles de personas y cientos de embarcaciones llenan de música la bahía de Cartagena durante el Festival Náutico, una fiesta que revive la tradición marítima con Juan Luis Guerra, Grupo Niche y Beéle como protagonistas.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/UQKIISCQENDFBMEWMX4IUSZQUM.jpeg?auth=64c20af07bc2d3aaa422d614f8d755a1cf5691dc5aab2995a113e3634293d132&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/entretenimiento/tendencias/2026/11/13/cartagena-celebra-sobre-el-agua-barcos-y-champeta-y-el-festival-nautico/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-14T00:17:08Z",
-   "id": "a08245c70658"
-  },
-  {
-   "titulo": "En Bucaramanga, ciclorruta de la 21 ahora es una zona de parqueo ilegal",
-   "resumen": "Tramo que era de la ciclorruta ahora es un sitio de parqueo ilegal",
-   "imagen": "https://www.vanguardia.com/resizer/v2/V2FHQCA2NVCWBJPLI7CKP6JEDU.jpeg?auth=2928e353d51a39a8f5112186dc7e46227cc6ac96dda0e7aa6e240fd08f78f552&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/11/13/en-bucaramanga-ciclorruta-de-la-21-ahora-es-una-zona-de-parqueo-ilegal/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-14T00:10:44Z",
-   "id": "a5892f04e551"
-  },
-  {
-   "titulo": "Consulado de Colombia confirma seis heridos tras tragedia en edificio de Brooklyn",
-   "resumen": "El cónsul general visitó a uno de los pacientes hospitalizados y expresó el respaldo del Gobierno a las familias afectadas.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/JBR7EIMODVCI7AFMY36MMBOSZY.jpg?auth=0ba3e967dec68b7b5414d6d6b3d7130bafd120ed6e16ebc01a44cc41915de634&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/mundo/2026/11/13/consulado-de-colombia-confirma-seis-heridos-tras-tragedia-en-edificio-de-brooklyn/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-14T00:09:30Z",
-   "id": "ae52cd130370"
-  },
-  {
-   "titulo": "Fachadas y lugares que conservan el patrimonio de Santander recibieron reconocimientos: conozca los ganadores",
-   "resumen": "Girón vuelve a ser escenario de la edición 21 de Fachadas, Puertas y Ventanas, iniciativa de la Cámara de Comercio de Bucaramanga que reconoce el trabajo por la conservación del patrimonio en Santander.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/LU6YUJPWCVF5PMAVF4KVATUA5Q.png?auth=d45a9ab13e814cf2d140b53831ddbb67a2bdd0d660483d0cda8e49d82862cf08&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/santander/2026/11/13/fachadas-y-lugares-que-conservan-el-patrimonio-de-santander-recibieron-reconocimientos-conozca-los-ganadores/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-14T00:01:00Z",
-   "id": "f4932d6f9ef4"
   },
   {
    "titulo": "La noche en que el atentado contra una patrulla sembró el pánico y causó el desplome de parte del techo en un convento en Cali: ‘Fue aterrador’",
@@ -363,28 +385,6 @@
    "id": "91c27690c7bc"
   },
   {
-   "titulo": "Seguidilla de temblores en Tolima: videos muestran evacuaciones de edificios en Ibagué tras los sismos de este viernes 13 de noviembre",
-   "resumen": "Imágenes difundidas en redes sociales muestran la salida de ciudadanos de varias edificaciones de la capital tolimense tras percibir el sismo.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/13/6af77261e95f8.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/seguidilla-de-temblores-en-tolima-videos-muestran-evacuaciones-de-edificios-en-ibague-tras-los-sismos-de-este-viernes-13-de-noviembre-3600920",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-13T21:41:43Z",
-   "id": "f579535a8a2c"
-  },
-  {
-   "titulo": "Estos son los pensionados que NO recibirán prima en diciembre de 2026",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVGNmVnZFVW9jSGxrVnhkdmF5M1hCODd2Q3FsQ21idXJkUzBjOUlXRTlISHRJeFR6eVdLSkxWQndFbTAxR0JCb2U4U3pBSllyY1QtXzdrSzROTS1Udi1ja2MtZjVRaW1kV0d2LWhYRy01bjBneU1WdU5ycGdFdVF4RE9HdGpheEhCM3JuVWhrelMxbUxSV3h4aWJna2pXdXZSeFl2OHpnOG1NRU96?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-11-13T21:38:01Z",
-   "id": "bd5b523fae18"
-  },
-  {
    "titulo": "¿Piensa pegarse la 'rodadita' por el Valle del Cauca este puente festivo? Así será su dispositivo de seguridad",
    "resumen": "Con más de 200 uniformados en las vías y drones, las autoridades departamentales activaron la estrategia 'Corredores Seguros'.",
    "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/06/12/6a2c95b5d8317.r_d.809-516-0.png",
@@ -407,6 +407,17 @@
    "id": "08d375afcab7"
   },
   {
+   "titulo": "El Sol Armenia",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUT0k3d1lKc2VyeS1Pd0VCZEo2V1U0M21aZXJKLVBpZVFyVUsxRVdUeUlCbWZKa1lmcDF6N3lUMkZ3NmQybEx3ZEVYNWt2VDN3TXpsZVJ1NDZZQQ?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-11-13T20:49:17Z",
+   "id": "67c1798973fa"
+  },
+  {
    "titulo": "Cerca de 280 caficultores de El Socorro recibieron fertilizantes para fortalecer sus cultivos",
    "resumen": "",
    "imagen": "",
@@ -416,6 +427,17 @@
    "region": "Santander",
    "fecha": "2026-11-13T20:45:00Z",
    "id": "321a35813e65"
+  },
+  {
+   "titulo": "Player Page",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT2l4VHBNa2RtSGdRQjVVd2lQLVVSMHY4X0ZiLWtyNkNZNUNYUGxJM1J4S3pLSWhEX1hYRHAyNXRsVllCT1d5Ri1YZEN1aDlWVmFBYW4zc2VFZWFJQS1GWWg1bnhyMl8xWkVQekd2X2wzSmxpTWVkNGpIUmZpV0RyTmdxbmRlckFVYlVvYQ?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-11-13T18:56:45Z",
+   "id": "e66bf6683d4a"
   },
   {
    "titulo": "Alcaldía de Bogotá habilita primer tramo de la carrera Séptima: Así quedó el corredor frente a la Fundación Santa Fe",
@@ -451,6 +473,17 @@
    "id": "04b03d4670a1"
   },
   {
+   "titulo": "Sismo muy débil mag. 1.9 - 39 km al sur de Bucaramanga, Santander, Colombia, Friday 13 Nov 2026 a las 04:36 (Hora Bogota)",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNFk1ZjZQbmVRbmNuMFJnZjAtTU81RzEzc18wa2l0ems1R2VDanI1ZmVJRHNZVkx2VWNkSVVkeUlqSlMyel9MVlJqMG1pc2dHaXkybUNlZExPTDhDQUExZXlOU2ZkamRvT0pteEZuSU54ekU4S09HSzNpVWRFX2EzTnhHdTR3ek5sQW5EOGVpazZiRmRtNUFwbVRuU3pmdGdRdGpkU2x3MngybVlzYUlTMXdtdExQYVRlMi1CVg?oc=5",
+   "medio": "Volcano Discovery",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-11-13T17:21:53Z",
+   "id": "8a09c430af7c"
+  },
+  {
    "titulo": "¿En qué ciudades de Colombia se puede pagar el transporte público con tarjeta débito o crédito?",
    "resumen": "",
    "imagen": "",
@@ -473,26 +506,15 @@
    "id": "c95dfaa94f54"
   },
   {
-   "titulo": "MinHacienda aclaró desde qué monto se pagaría renta con la Ley de Rescate Económico",
+   "titulo": "Sismo débil mag. 2.4 - 27 km al suroeste de Socorro, Santander, Colombia, Friday 13 Nov 2026 a las 02:09 (Hora Bogota)",
    "resumen": "",
    "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSnB5Y29JNFA2LWhrVmx4OWNLWF9HeGdfMktUc0VqaEVaNU9Hcnh5VDJTRnh0YW5vOE1uZDBScTQyZnZyV283U19TOVNwanlIOUlZc2lJOHlEWWdybTNnU0Z0ZlVwRUUyZU1ZZk1scWFFQXE2QU9CMjJ3WDMwWkQwaHZPNWlvblNmS0Z6d1pPamh4bUpVYkhhVnJrcFpFVmtYZDlPWjd5THpxVkl6QUNuRzNlSDhkTm5KQzhaS0dyc1A?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-11-13T03:41:01Z",
-   "id": "47b17e0fa819"
-  },
-  {
-   "titulo": "EPS Sanitas cambió su gestor farmacéutico: Estos son los nuevos puntos para reclamar medicamentos en Bogotá",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNV1QwcUtGWERUeGRfd24yUzM2MEMyWkxWcF9hVWtPR1NuMUVrSk5DT0J1T0NoUDJZOXYxakFhM0NSVGlOU1hpTGw1WTA2T05Yb3owSUJFMUk5akxtMmNROHRmSFRIaGlONkxmZks3cEdFa2FMZDlJUXVtR2FFUEpvV3JscEJBTTVIZDBhenZyYkw5eEdCeEZ1VzJwR0tpTkdKUUxvQTVXazZ0enoxNmJVZUhnaUljZVFuemkzOEJOenBZczhEanJ3Y1NuMnlia1g5dXJuQ2cyM2RteXluSnc?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-11-13T03:18:26Z",
-   "id": "6d74648f835f"
+   "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQmFOdzlhRXlmbHVTZmw4SGtRN3dpSS1NdFJJdTBYRUllSi00QTA5eEdtdTB0SUhrSXQ2eFdJek5UQkptTzE5QlVjenVnMGFkQVZDdm5CQzVsNXpaSm5mWUdvQmVzZ1oySzNFVGhYb2RZX0IzTUdqX0NfdjRfQ0xMcmlMLVNKVEpyeFRDNGRBVEZQbFl4c3lwUzZ2WjlQSVU0RU4tNVJkbm5rQ3hOSldpenVRZkFLc090OVIzZm5zQTFhVEdDWmpBaUI5NVd3ejA?oc=5",
+   "medio": "Volcano Discovery",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-11-13T15:14:30Z",
+   "id": "934be8142607"
   },
   {
    "titulo": "En la Hoya del Río Suárez, los alcaldes arman equipo con Fedegán",
@@ -537,28 +559,6 @@
    "region": "Santander",
    "fecha": "2026-11-11T21:42:11Z",
    "id": "44355090d548"
-  },
-  {
-   "titulo": "Atención oportuna y trabajo articulado permitieron controlar incendio estructural en la Avenida Santander con calle 42",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVjRsQlhpN0lPYnVNdWcwQlMzTFVOYWR1eDNOc2t2UzV3V05CaXhUX3NfeXoxTHd2WV82MmdKb2pJV2hrUEN3NmdadWVlRk9oa0tMRjROek1mVjBmb2FnVjZGdWxrRE5NcVFDazRvWV8wUHFMYzhINGEwZ0Y3S0dJNzh5WTZjeUJ4OXFYYm51amxqSkNhekNIbHR5THJBV2hrZC1GeC1oZm5rRDh3NGo0V2tOOG9USmFKVVNTQWtFbEM4VnlxYUFiLTlpVUUtTFlncmw3Zjd2TmVsVTlEazMyYnJqVGZ5c1BIVWhhQkphaFphLXEtNEdn?oc=5",
-   "medio": "Centro de Información – Alcaldía de Manizales",
-   "fuente": "provincia",
-   "region": "Santander",
-   "fecha": "2026-11-11T20:25:04Z",
-   "id": "902116fb8a44"
-  },
-  {
-   "titulo": "En la avenida Santander con calle 43 de Manizales se reporta este miércoles un incendio en unas edificaciones desalojadas por el terremoto del pasado 10 de agosto, en el sector de Suzuki. 🔗 Encuentre el link de la noticia en el primer comentario 🗞️",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOT3VYNndlbDVVak9oUy13YXV3YWVUOUpwTjNFZG55Z00wb0Vmb1ExTm9PQmRqcFBwTEpVMXVjVG13bDlIaE43THFXdk85LU1rX0prRmtCTUxlcDQxR0R2SE9PYTNfeXVjWUd0ODFvZjlyN2VhdUVaRUJObVpFalFETGstTjM1cmNQaGx4WWZia2tTcHI3c1JLcU1kdmxlOFp3YVhOYkpQTFpjczFSMmJINXZILVNJclZaQVJUM19WMjRWd2FYVS13eUdta0w5T3F4V3NXU1VSN3JsZjdfNnRCTmNhZENqdU91?oc=5",
-   "medio": "Facebook",
-   "fuente": "provincia",
-   "region": "Santander",
-   "fecha": "2026-11-11T14:19:43Z",
-   "id": "6ab40373e376"
   },
   {
    "titulo": "#AEstaHora se registra un incendio en la avenida Santander con calle 42 de Manizales que afecta dos casas desocupadas por el terremoto y el negocio Moto Marcas. Los organismos de socorro se dirigen al sitio para controlar la emergencia. 📹 Óscar Mejía",
