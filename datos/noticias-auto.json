@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18T04:21:37Z",
+ "actualizado": "2026-11-18T13:58:41Z",
  "fuentes": [
   {
    "id": "vanguardia",
@@ -44,213 +44,81 @@
  ],
  "noticias": [
   {
-   "titulo": "Lotería del Risaralda: resultado del sorteo del martes 17 de noviembre de 2026",
-   "resumen": "¿Qué número cayó en la Lotería de Risaralda? Resultado del martes 17 de noviembre de 2026 con todos los premios secos.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/UXNA7GQTUBEOZNCCW6G4SKX5CE.jpg?auth=87b74eddbec2b488f9aa410a4e8e064b5b4b2f7bf189cc2c1dfc74cdb9226c38&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/11/17/loteria-del-risaralda-resultado-del-sorteo-del-martes-17-de-noviembre-de-2026/",
+   "titulo": "MinDefensa denuncia que gobierno anterior frenó compra de inhibidores antidrones",
+   "resumen": "El proyecto contemplaba evaluar empresas de 12 países, pero no tuvo recursos ejecutados en 2026 para su puesta en marcha.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/MEHAYP3VIFA4FIKA5SRXWGRSFE.jpg?auth=82fe336bf5872505bed1315240701a3d74c201096ce4e231cdd1834e278facb7&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/colombia/2026/11/18/mindefensa-denuncia-que-gobierno-anterior-freno-compra-de-inhibidores-antidrones/",
    "medio": "Vanguardia",
    "fuente": "vanguardia",
    "region": "Santander",
-   "fecha": "2026-11-18T04:17:50Z",
-   "id": "0e8cc8965809"
+   "fecha": "2026-11-18T13:49:25Z",
+   "id": "2008d9a8fc52"
   },
   {
-   "titulo": "Cierres viales en Bucaramanga este 19 de noviembre por dos marchas: conozca las rutas afectadas",
-   "resumen": "Se prevén traumatismos en la movilidad vehicular de múltiples arterias en Bucaramanga, durante la mañana del próximo jueves, 19 de noviembre. Estos son los recorridos anunciados en las dos marchas que se convocan en el…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/KAXAK2HYYFFTNPCHPLE7NLGCYU.jpg?auth=d796b4421cd303008e5ea7e0f32c05ccb9ea83c10122ec8cd9928e6245814ac9&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/11/17/cierres-viales-en-bucaramanga-dos-marchas-se-convocan-este-jueves-19-de-noviembre/",
+   "titulo": "Ranking FIFA: la Selección Colombia da el salto y supera a varias potencias mundiales",
+   "resumen": "La Tricolor cerró el año con un triunfo y un empate en sus dos amistosos frente a Chile. Colombia terminó por encima de Alemania (11), Italia (14), México (13) y Uruguay (20).",
+   "imagen": "https://www.vanguardia.com/resizer/v2/GTIXWLZ6EJFVXPLGAENBYPYOVM.jpg?auth=75616300f76ada2cecc1a69172e08dc4cffbb431eb55802fb319d24fc740247b&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/deportes/futbol/2026/11/18/ranking-fifa-la-seleccion-colombia-da-el-salto-y-supera-a-varias-potencias-mundiales/",
    "medio": "Vanguardia",
    "fuente": "vanguardia",
    "region": "Santander",
-   "fecha": "2026-11-18T04:13:21Z",
-   "id": "a715972553bf"
+   "fecha": "2026-11-18T13:49:18Z",
+   "id": "4d94c12e8bb1"
   },
   {
-   "titulo": "Lotería de Cundinamarca: resultado del sorteo del martes 17 de noviembre de 2026",
-   "resumen": "Consulte el resultado del sorteo de la Lotería de Cundinamarca del martes 17 de noviembre de 2026. Conozca el número ganador del premio mayor y los secos aquí.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/VBWIGTQSAZG4XNQ54GCOG5GYPY.jpg?auth=02db0522f8f9351509caa8fa7c45871205e64c049992cc197c248d5945a55f7b&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/11/17/loteria-de-cundinamarca-resultado-del-sorteo-del-martes-17-de-noviembre-de-2026/",
+   "titulo": "Conocer cuánto consume de energía es clave para evitar sorpresas en la factura",
+   "resumen": "El ahorro del consumo de energía le puede aliviar su bolsillo",
+   "imagen": "https://www.vanguardia.com/resizer/v2/47IB3Y6ACZFKJF3WOX7QAMP2AU.png?auth=a110d5b130c46deb9da8ffd83198a0e6659bffc012c06e748230c67025b82c85&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/11/18/conocer-cuanto-consume-de-energia-es-clave-para-evitar-sorpresas-en-la-factura/",
    "medio": "Vanguardia",
    "fuente": "vanguardia",
    "region": "Santander",
-   "fecha": "2026-11-18T04:05:00Z",
-   "id": "3895da192240"
+   "fecha": "2026-11-18T13:48:39Z",
+   "id": "e17c89b8a6ad"
   },
   {
-   "titulo": "“No es magnesio, es manganeso”: la corrección de canciller a congresista del Pacto Histórico",
-   "resumen": "El canciller Omar Bula corrigió a la representante Luz Verónica Estrada durante un debate de control político en la Cámara.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/J2SYNLHBCJB7TBIJD2TSZZICQY.jpeg?auth=d4c1fd20f1d1ca82e3aa8eb16fde03ca8e45d11fdc42acdfbf1587644dd23aa2&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/colombia/2026/11/17/no-es-magnesio-es-manganeso-la-correccion-de-canciller-a-congresista-del-pacto-historico/",
+   "titulo": "Pelea en vivo durante debate político en Armenia quedó grabada en video",
+   "resumen": "Un debate político en la televisión pública de Armenia terminó en una pelea entre dos participantes. El periodista Boris Murazi y el politólogo Arutyun Mkrtchyan se enfrentaron a golpes frente a las cámaras, luego de…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/5FGYJT7ZZBG5VEBY2KU7MVRM44.jpg?auth=da206a73adce59c1ad4825e3db2f6222b26db68be583f55231a8ed957de2274f&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/mundo/2026/11/17/pelea-en-vivo-durante-debate-politico-en-armenia-quedo-grabada-en-video/",
    "medio": "Vanguardia",
    "fuente": "vanguardia",
    "region": "Santander",
-   "fecha": "2026-11-18T04:02:19Z",
-   "id": "b24f849bf573"
+   "fecha": "2026-11-18T13:47:29Z",
+   "id": "e7731257d001"
   },
   {
-   "titulo": "América sufre, pero clasifica a la final de Copa Colombia y disputará el título con Once Caldas",
-   "resumen": "El América de Cali empató con Internacional de Bogotá en el partido de vuelta pero le alcanzó para clasificar con lo hecho en el primer partido . La serie terminó 3-2 a favor de los Escarlatas y tendrán que enfrentarse…",
-   "imagen": "https://caracol.com.co/resizer/v2/YLDOCOA2PJGITPFS6W2ELH2A2Y.jpeg?auth=5a6139433b4f0d3eae1bf670fa39d87fbb6c6765bab5f5e53a539e5e7b1f2888&smart=true&width=1105&height=801",
-   "enlace": "https://caracol.com.co/2026/11/17/en-vivo-america-vs-inter-bogota-minuto-a-minuto-de-la-semifinal-vuelta-de-copa-colombia/",
+   "titulo": "Libres funcionarios de la Dian señalados de exportaciones ficticias en frontera ecuatoriana",
+   "resumen": "Cargamentos de aceite de palma, soya y sus derivados figuraban como exportados hacia Ecuador por el puente internacional de Rumichaca, sin que los productos hubiesen cruzado la frontera. La Fiscalía General de la Nación…",
+   "imagen": "https://caracol.com.co/resizer/v2/IOU5ESUGLZHDJM64P6W3EVW7JA.jpg?auth=ff84cd668d132add3a3776dfafd2839d7a20251bb33918c169197d862d29374e&smart=true&width=640&height=480",
+   "enlace": "https://caracol.com.co/2026/11/18/libres-funcionarios-de-la-dian-senalados-de-simular-exportaciones-ficticias-en-frontera-ecuatoriana/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-11-18T03:48:09Z",
-   "id": "af4c556b2d6c"
+   "fecha": "2026-11-18T13:47:06Z",
+   "id": "143611b89d4f"
   },
   {
-   "titulo": "Lotería de la Cruz Roja: resultado del sorteo del martes 17 de noviembre de 2026",
-   "resumen": "Consulte los resultados de la Lotería de la Cruz Roja de este martes 17 de noviembre de 2026 y revise si el número ganador le cambió la suerte.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/XFB4GY2BINDD7KKVQO7KUIMESQ.png?auth=11bbb8f5693295dacdc9db18e993d5976d09e836f32225639089723d4b8e81de&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/11/17/loteria-de-la-cruz-roja-resultado-del-sorteo-del-martes-17-de-noviembre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-18T03:45:00Z",
-   "id": "441dae4eb570"
-  },
-  {
-   "titulo": "Super Astro Luna: resultado del sorteo del martes 17 de noviembre de 2026",
-   "resumen": "¿Se volvió millonario hoy? Consulte el resultado del Super Astro Luna de este martes 17 de noviembre de 2026 y revise si su número y signo fueron los ganadores.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/O2C3JCONDVAGZN6YQAMB3RZFOI.png?auth=428485681bb0068f6a340baa503a5ceeb42fbb3d2ef83a2d80477c0428fe7fa2&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/11/17/super-astro-luna-resultado-del-sorteo-del-martes-17-de-noviembre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-18T03:45:00Z",
-   "id": "dce6e7a6c60e"
-  },
-  {
-   "titulo": "Gobernadora del Meta, Rafaela Cortés, reveló que había alertas de posibles atentados contra peajes antes de la explosión en Pipiral: esto dijo",
-   "resumen": "Las autoridades recuperaron la motocicleta utilizada en la fuga tras confirmarse que el vehículo transportaba cerca de 35 kilos de explosivos.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/17/6afd1948380d1.r_d.1580-270-0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/gobernadora-del-meta-rafaela-cortes-revelo-que-habia-alertas-de-posibles-atentados-contra-peajes-antes-de-la-explosion-en-pipiral-esto-dijo-3601873",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-18T03:39:48Z",
-   "id": "0cdd03a143e5"
-  },
-  {
-   "titulo": "Panelo Valencia tras clasificar a la final: “Once Caldas se comportó como un campeón de América”",
-   "resumen": "Once Caldas consiguió una importante clasificación a la final de la Copa Colombia tras eliminar a Atlético Nacional en el estadio Atanasio Girardot. El equipo de Manizales logró reponerse durante el compromiso y llevó…",
-   "imagen": "https://caracol.com.co/resizer/v2/NMBT7ANFHNHSXOI2IDDI3MPTYQ.png?auth=2cac992d5927dd1dc8b7fc3c12a7d917584080e1da5f83c6d8fb0f3e377392de&smart=true&width=475&height=357",
-   "enlace": "https://caracol.com.co/2026/11/18/panelo-valencia-tras-clasificar-a-la-final-once-caldas-se-comporto-como-un-campeon-de-america/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-18T03:30:21Z",
-   "id": "0708c03222f7"
-  },
-  {
-   "titulo": "Lucas González: “La frustración debe ser gasolina para empezar ganando en cuadrangulares”",
-   "resumen": "Atlético Nacional sumó una decepción más en el año luego de caer eliminado de la Copa Colombia ante Once Caldas. El conjunto Blanco se impuso 4-3 en penales , tras el 3-3 en el global que, además, mantuvo el saldo de…",
-   "imagen": "https://caracol.com.co/resizer/v2/4KTZZSMJC5FD5PYZD6W3ECIPOA.png?auth=5a5933ed48b929717e008716f027fdf429c5ec56da990227480bfd4f6a15bc35&smart=true&width=803&height=536",
-   "enlace": "https://caracol.com.co/2026/11/18/lucas-gonzalez-la-frustracion-debe-ser-gasolina-para-empezar-ganando-en-cuadrangulares/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-18T03:28:18Z",
-   "id": "e314b049d953"
-  },
-  {
-   "titulo": "Caribeña Noche: resultado del sorteo de hoy martes 17 de noviembre de 2026",
-   "resumen": "Resultado del último sorteo de La Caribeña Noche del martes 17 de noviembre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/THTTCAT3YRAPTGEQUNBAMGF6II.png?auth=3adfbe36295785ddd786b78972f4e6c08a7e446ff8841bcfec3a49e84b7cd03f&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/11/17/caribena-noche-resultado-del-sorteo-de-hoy-martes-17-de-noviembre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-18T03:24:00Z",
-   "id": "30c351792ce6"
-  },
-  {
-   "titulo": "Lotería del Huila: resultado del sorteo del martes 17 de noviembre de 2026",
+   "titulo": "Lotería del Huila: todos los resultados del sorteo del martes 17 de noviembre de 2026",
    "resumen": "¿Ganó el martes de su fortuna? Consulte el resultado de la Lotería del Huila de hoy martes 17 de noviembre de 2026 y descubra si es el nuevo millonario.",
    "imagen": "https://www.vanguardia.com/resizer/v2/3Q443IJG2REXLNR7GSU75LTM5Q.png?auth=070512f48ad13da81680979ad301bfd6c58d44e50f5e28af95aea19367556fbc&smart=true&width=900&height=600",
    "enlace": "https://www.vanguardia.com/loterias/2026/11/17/loteria-del-huila-resultado-del-sorteo-del-martes-17-de-noviembre-de-2026/",
    "medio": "Vanguardia",
    "fuente": "vanguardia",
    "region": "Santander",
-   "fecha": "2026-11-18T03:22:00Z",
-   "id": "98a908d89694"
+   "fecha": "2026-11-18T13:43:24Z",
+   "id": "d8f8ccac6c3f"
   },
   {
-   "titulo": "Sinuano Noche: resultado del sorteo del martes 17 de noviembre de 2026",
-   "resumen": "¿La suerte lo acompañó esta noche? Conozca el número ganador del Sinuano Noche de hoy martes 17 de noviembre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/DVUEQEWJSNBU5CXGMWP4EBIGYM.png?auth=faf89f97dd2a0267d4e738dd300ede0947a2df3474a229b8fa0c9011d34a16e3&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/11/17/sinuano-noche-resultado-del-sorteo-del-martes-17-de-noviembre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-18T03:21:00Z",
-   "id": "85558f71c415"
-  },
-  {
-   "titulo": "Lotería del Tolima: resultado del sorteo del martes 17 de noviembre de 2026",
-   "resumen": "Consulte el resultado del último sorteo de la Lotería del Tolima del martes 17 de noviembre de 2026. Conozca el número ganador del premio mayor y los secos.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/X3YRVCNUX5BIHBOLH5FWB3R3MY.png?auth=74c24b5ce62550104ebd67ac49ab868c015d00c1397e8c26cf3f5d2763b746cd&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/11/17/loteria-del-tolima-todos-los-resultados-del-sorteo-del-martes-17-de-noviembre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-18T03:21:00Z",
-   "id": "edf51c84444c"
-  },
-  {
-   "titulo": "¿Cuándo se publica el último IPC de 2026 y qué servicios subirán en 2027?",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbkZrMFBQSlNzMDRTa1JPNUh3QUNjc1JLUTJPQnFEQlRKZnA3ODN3SGJUbF91NlF2OGZtYlJFMWRuUDV1Uzgxa1RHbkFuN0RySzFoZzR0dkZId0Y4MDBSM01CU1lrbG9IWEEzSVM1VHZMTVFQel9WbFlTQlRDeW9NQ3lEU1FDdldMdEVNZWxKcHgxbWRIRzNLQUMzM0ZUVUpmSlhYazRDNW5lRWhHU2pJ?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-11-18T03:14:02Z",
-   "id": "91e0141bb28c"
-  },
-  {
-   "titulo": "Patrullero recibe premio por labor de alimentar a 70 niños en Cartagena",
-   "resumen": "Un comedor comunitario en el barrio Olaya Herrera se convirtió en el motivo de un reconocimiento nacional para un uniformado de la Policía Metropolitana de Cartagena. Se trata del patrullero Alfreiderman Amaya, quien…",
-   "imagen": "https://caracol.com.co/resizer/v2/ZJYSAXFFA5HAREEEIC7UAVOITQ.jpeg?auth=bdce546cdfd63433f26517fa3aae81052e39d709535532f1de4d1f87eb5f48ec&smart=true&width=1280&height=720",
-   "enlace": "https://caracol.com.co/2026/11/18/patrullero-recibe-premio-por-labor-de-alimentar-a-70-ninos-en-cartagena/",
+   "titulo": "Así pueden tener espacio en el Alumbrado Navideño del Puente de Boyacá vendedores y artesanos",
+   "resumen": "La Gobernación de Boyacá, a través de la Secretaría de Desarrollo Empresarial, abrió dos convocatorias públicas para seleccionar a los vendedores tradicionales, productores agropecuarios, restaurantes, emprendimientos…",
+   "imagen": "https://caracol.com.co/resizer/v2/KCZZTA7GX5GA3KVS2SDECMCCKM.jpeg?auth=934349f0b7175f7fe024e7c2bad42c06797f1d4aad4db469acdb409974aa401e&smart=true&width=768&height=576",
+   "enlace": "https://caracol.com.co/2026/11/18/asi-pueden-tener-espacio-en-el-alumbrado-navideno-del-puente-de-boyaca-vendedores-y-artesanos/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-11-18T03:04:01Z",
-   "id": "bdccb565fca3"
-  },
-  {
-   "titulo": "Dorado Noche: resultado del sorteo de hoy martes 17 de noviembre de 2026",
-   "resumen": "La expectativa crece hoy martes 17 de noviembre de 2026 entre miles de apostadores en todo el país por el sorteo de El Dorado Noche.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/V2EZ5QKRQBDLZJWSPU656B5CLI.jpg?auth=ffeeab0f9a5735eecb113404c184bda2aeec6628e5bb5030a02814c601376937&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/11/17/dorado-noche-resultado-del-sorteo-de-hoy-martes-17-de-noviembre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-18T03:00:00Z",
-   "id": "5ab1786c9fc5"
-  },
-  {
-   "titulo": "Gobierno reversa el aumento del IVA al alimento de animales de compañía",
-   "resumen": "El presidente Abelardo De La Espriella anunció que no habrá aumento al IVA de los alimentos para animales de compañía, confirmando que se retira este artículo de la reforma tributaria impulsada desde el Gobierno. Según…",
-   "imagen": "https://caracol.com.co/resizer/v2/XNVBPS22BBFVRDXGNX5EA7DAVM.jpg?auth=15032d9d5ec954b09511718ad6fc795f0aec6de7cbcfe2c1cb3f28d22c72b62f&smart=true&width=2000&height=1358",
-   "enlace": "https://caracol.com.co/2026/11/18/gobierno-reversa-el-aumento-del-iva-al-alimento-de-animales-de-compania/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-18T02:58:38Z",
-   "id": "619e3dc04ed4"
-  },
-  {
-   "titulo": "¿En qué gastará Bucaramanga $540.000 millones hasta 2041?",
-   "resumen": "Con las mayorías sólidas, el Concejo de Bucaramanga aprobó el Proyecto de Acuerdo 071 de 2026, por medio del cual se faculta a la Alcaldía para comprometer vigencias futuras excepcionales hasta 2041, por un valor…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/MM6Q2D2KTVCVRIX5TVOJTQCGUM.jpeg?auth=c56128cc992fccdaabec3b43856610bcf0647936b4ad36c1ed78d7d20ac85daf&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/politica/2026/11/17/en-que-gastara-bucaramanga-540000-millones-hasta-2041/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-18T02:52:36Z",
-   "id": "deb1619225b4"
+   "fecha": "2026-11-18T13:39:28Z",
+   "id": "2471ecaf23e9"
   },
   {
    "titulo": "MiLoto: qué números cayeron en el sorteo del martes 17 de noviembre de 2026",
@@ -260,129 +128,283 @@
    "medio": "Vanguardia",
    "fuente": "vanguardia",
    "region": "Santander",
-   "fecha": "2026-11-18T02:52:00Z",
+   "fecha": "2026-11-18T13:37:23Z",
    "id": "12c03fccda4c"
   },
   {
-   "titulo": "Asesinaron a Luis Alberto Salcedo mientras conversaba con otro hombre en El Carmen de Bolívar",
-   "resumen": "Luis Alberto Salcedo Blanco, de 40 años, fue asesinado a tiros en el sector de Villa María, zona rural de El Carmen de Bolívar, mientras conversaba con otro hombre frente a una vivienda familiar. Ingresa al grupo de…",
-   "imagen": "https://caracol.com.co/resizer/v2/Y6TKQUWIDBESVDTO2FHFZ7CDXE.jpg?auth=c9c391a1ec170410351dca01401de5ca5c1ce1250a9882ce6ed66eb85a31cb97&smart=true&width=1200&height=802",
-   "enlace": "https://caracol.com.co/2026/11/18/asesinaron-a-luis-alberto-salcedo-mientras-conversaba-con-otro-hombre-en-el-carmen-de-bolivar/",
+   "titulo": "‘Hay que averiguar en la Fiscalía qué está pasando’: Procurador exige respuestas por 78 mujeres asesinadas en el Atlántico en lo que va de 2026",
+   "resumen": "Gregorio Eljach respaldó estudiar una emergencia por violencia de género y pidió respuestas sobre las investigaciones de los crímenes.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/23/6adbee37a3b44.r_d.632-331-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/barranquilla/hay-que-averiguar-en-la-fiscalia-que-esta-pasando-procurador-exige-respuestas-por-78-mujeres-asesinadas-en-el-atlantico-en-lo-que-va-de-3601938",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-18T13:36:56Z",
+   "id": "0ea4827d6dbb"
+  },
+  {
+   "titulo": "La CREG emitió un nuevo paquete de medidas sobre el sistema eléctrico y de gas ante un inminente y crítico fenómeno de El Niño",
+   "resumen": "Existe una probabilidad del 61 % de que este ciclo climático se prolongue hasta mayo de 2027.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/21/6ab18e60b94ec.r_d.102-542-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/la-creg-emitio-un-nuevo-paquete-de-medidas-sobre-el-sistema-electrico-y-de-gas-ante-un-inminente-y-critico-fenomeno-de-el-nino-3601951",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-18T13:35:52Z",
+   "id": "ca9c5e37183a"
+  },
+  {
+   "titulo": "Un muerto y dos heridos dejó incendio en una vivienda del barrio Primitivo Crespo en Cali",
+   "resumen": "Un hombre murió y otros dos resultaron heridos en medio de un incendio que se registró en una vivienda de dos pisos del barrio Primitivo Crespo en Cali, durante la noche del martes 17 de noviembre. Al sitio llegaron 15…",
+   "imagen": "https://caracol.com.co/resizer/v2/OBJYM2Z4FNFGTC4BKX5QB34ODA.jpeg?auth=7e690487a9034323e2950602cbf076e462476fa817cf3202a46d6462179eb620&smart=true&width=1600&height=1066",
+   "enlace": "https://caracol.com.co/2026/11/18/un-muerto-y-dos-heridos-dejo-incendio-en-una-vivienda-del-barrio-primitivo-crespo-en-cali/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-11-18T02:41:24Z",
-   "id": "b4f0538c309a"
+   "fecha": "2026-11-18T13:34:36Z",
+   "id": "d4add028eca7"
   },
   {
-   "titulo": "Tres incendios dejaron una moto, un taxi y una vivienda afectados en Cartagena",
-   "resumen": "Tres emergencias por incendios movilizaron al Cuerpo de Bomberos de Cartagena. Los casos se registraron en inmediaciones de la Bomba del Gallo y en el barrio El Pozón, donde una motocicleta, un taxi y una vivienda…",
-   "imagen": "https://caracol.com.co/resizer/v2/FECYHFW2MNBDXCPWKUWXW5ED7E.jpeg?auth=441623c59365fb73da7d810c9f68665f567572c0fefe7749dbd9108801786a3c&smart=true&width=1600&height=1200",
-   "enlace": "https://caracol.com.co/2026/11/18/tres-incendios-dejaron-una-moto-un-taxi-y-una-vivienda-afectados-en-cartagena/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-18T02:33:20Z",
-   "id": "85aeb385f41b"
-  },
-  {
-   "titulo": "Cómo retirar ahorros de BEPS en Colpensiones: requisitos y pasos para realizar la solicitud",
-   "resumen": "El Programa de Beneficios Económicos Periódicos (BEPS) es una alternativa de ahorro voluntario y flexible, diseñada para proteger a las personas en su edad de retiro laboral. Los BEPS permiten a los vinculados construir…",
-   "imagen": "https://caracol.com.co/resizer/v2/VQ6S2AJTYBFZXMLA2V5ZVUVMQM.png?auth=866d25b6d681a4f77f53e764d19d8fdc4cb179a89759dcf53ea13cecd7c1c503&smart=true&width=1200&height=675",
-   "enlace": "https://caracol.com.co/2026/11/18/como-retirar-ahorros-de-beps-en-colpensiones-requisitos-y-pasos-para-realizar-la-solicitud/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-18T02:09:20Z",
-   "id": "c92e2829cbbd"
-  },
-  {
-   "titulo": "Motilón Noche: resultado del sorteo del martes 17 de noviembre de 2026",
-   "resumen": "¿Ganó El Motilón Noche? Consulte el número ganador del sorteo de hoy martes 17 de noviembre de 2026 y revise si es el nuevo afortunado del chance.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/NYXT5O6PWZHSXNFBIYK34SUH7Y.png?auth=be86dc1d0efe17ed596ce59326bc4d08e92e379b75518ba0c43fd72f4ea8ca0e&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/11/17/motilon-noche-resultado-del-sorteo-del-martes-17-de-noviembre-de-2026/",
+   "titulo": "Estados Unidos emite alerta por las marchas convocadas para el 19 de noviembre en Colombia",
+   "resumen": "La Embajada estadounidense advirtió sobre posibles afectaciones a la movilidad y concentraciones en Bogotá, Bucaramanga, Cali, Medellín y Barranquilla; también recomendó evitar los puntos de encuentro y consultar los…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/T2W4UYFF2VHL3HFOGQUQDBTBPE.jpg?auth=cfc2825d0b39b77bf2dc5418cc5fbfeab680457e4ceb2ddfc75571313af4fc52&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/mundo/2026/11/17/estados-unidos-emite-alerta-por-las-marchas-convocadas-para-el-19-de-noviembre-en-colombia/",
    "medio": "Vanguardia",
    "fuente": "vanguardia",
    "region": "Santander",
-   "fecha": "2026-11-18T01:51:00Z",
-   "id": "b9dfdcfb78cc"
+   "fecha": "2026-11-18T13:34:08Z",
+   "id": "e5da2800d9ad"
   },
   {
-   "titulo": "Culona Noche: número ganador del sorteo del martes 17 de noviembre de 2026",
-   "resumen": "Conoce los resultados del último sorteo de La Culona Noche del martes 17 de noviembre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/T7MRCIJDX5ERZM7CNGB6XVUPN4.png?auth=d8b044d827bdd48879d47de9bdfb983d508a87cb9c1e67f0a9b1bbfa15b74205&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/11/17/culona-noche-numero-ganador-del-sorteo-del-martes-17-de-noviembre-de-2026/",
+   "titulo": "Drogas, sangre y destierro: el macabro modelo de tres niveles de la banda ‘los Nkd’ para sembrar el terror en Candelaria, Valle del Cauca",
+   "resumen": "La banda combinaba el expendio de estupefacientes en el parque El Medio con intentos de homicidio y desplazamientos forzados.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/18/6afda70bae585.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/cali/drogas-sangre-y-destierro-el-macabro-modelo-de-tres-niveles-de-la-banda-los-nkd-para-sembrar-el-terror-en-candelaria-valle-del-cauca-3601956",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-18T13:33:23Z",
+   "id": "40ec5638e5f2"
+  },
+  {
+   "titulo": "Nuevas obras en I.E. de Ternera: habrá intervención de la cancha y muro de cerramiento",
+   "resumen": "La comunidad educativa de la Institución Educativa de Ternera comienza a ver soluciones a problemas de infraestructura que durante años han afectado las condiciones en las que estudiantes y docentes desarrollan sus…",
+   "imagen": "https://caracol.com.co/resizer/v2/EIH3TIF2AFDLPEOZ2TSQUDEOFM.jpeg?auth=6a44353ada6411b205ef67600c815fe2bb92ff34a3909eb23478f8097b24372d&smart=true&width=1280&height=854",
+   "enlace": "https://caracol.com.co/2026/11/18/nuevas-obras-en-ie-de-ternera-habra-intervencion-de-la-cancha-y-muro-de-cerramiento/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-18T13:30:20Z",
+   "id": "b2633e8b6721"
+  },
+  {
+   "titulo": "Requisas y controles al consumo de drogas: Policía interviene parques de Bucaramanga",
+   "resumen": "La Policía Metropolitana de Bucaramanga intensificó los controles en parques públicos y escenarios deportivos de la ciudad , ante la necesidad de reforzar la seguridad y prevenir situaciones que afecten la convivencia…",
+   "imagen": "https://caracol.com.co/resizer/v2/OLDKA4NPGNC77PHL3VLDFKVOFU.jpeg?auth=9417c1a7bd1ce68c3048a2752c3385ed93648aa5d7640731b5e4a24f703c323c&smart=true&width=1170&height=636",
+   "enlace": "https://caracol.com.co/2026/11/18/requisas-y-controles-al-consumo-de-drogas-policia-interviene-parques-de-bucaramanga/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-18T13:27:35Z",
+   "id": "ef49ce4868f8"
+  },
+  {
+   "titulo": "“No queremos que nos regalen nada, queremos es articular con el Gobierno”: gerente de Gran San",
+   "resumen": "En los micrófonos de 6 AM W, pasó Yansen Estupiñán, gerente del centro comercial el Gran San, quién invitó no solo a las personas a realizar sus compras para este navidad, sino también, hizo un llamado al Gobierno…",
+   "imagen": "https://caracol.com.co/resizer/v2/6ZPRLV6LGNH4RDAHATG4SKDCTQ.png?auth=6835a3702706e41a2e4ba927096fc7583c76fd3d42943892c5a36b08818471b1&smart=true&width=3456&height=2304",
+   "enlace": "https://caracol.com.co/2026/11/18/no-queremos-que-nos-regalen-nada-queremos-es-articular-con-el-gobierno-gerente-de-gran-san/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-18T13:25:49Z",
+   "id": "398433c34edb"
+  },
+  {
+   "titulo": "“Tuvimos una afectación del 100 %, el local se calcinó”: comerciantes de San Victorino piden apoyo",
+   "resumen": "Este miércoles, 18 de noviembre, en 6AM W, de Caracol Radio, Alberto, Mariana y Daniela, comerciantes del tradicional sector de San Victorino, en el centro de Bogotá , relataron el contraste que vive el comercio del…",
+   "imagen": "https://caracol.com.co/resizer/v2/QNAIQEVWI5A6BBMJPQ4IOA2BSM.jpeg?auth=f0d9f9dc1c9981c83145f8719950d2aec736fbd69479467df691e8e72290cdf3&smart=true&width=5360&height=3574",
+   "enlace": "https://caracol.com.co/2026/11/18/tuvimos-una-afectacion-del-100-el-local-se-calcino-comerciantes-de-san-victorino-piden-apoyo/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-18T12:34:56Z",
+   "id": "cdfb85bc2d60"
+  },
+  {
+   "titulo": "'No se quedará en un pronunciamiento': el Gobierno Nacional activa tres acciones clave por ataque racista a una auxiliar de la Policía en Cali",
+   "resumen": "También se tiene proyectada la creación de un observatorio contra el racismo.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/18/6afd976b64cf3.r_d.1300-654-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/cali/no-se-quedara-en-un-pronunciamiento-el-gobierno-nacional-activa-tres-acciones-clave-por-ataque-racista-a-una-auxiliar-de-la-policia-en-cali-3601922",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-18T12:33:15Z",
+   "id": "66cee8ae5d6f"
+  },
+  {
+   "titulo": "Multinacional mexicana Italika llegará a Barranquilla con planta ensambladora de motocicletas y cerca de 1.000 empleos",
+   "resumen": "El anuncio lo hizo el presidente Abelardo De La Espriella tras reunirse con el empresario mexicano Ricardo Salinas Pliego.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/18/6afd9585b1988.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/barranquilla/multinacional-mexicana-italika-llegara-a-barranquilla-con-planta-ensambladora-de-motocicletas-y-cerca-de-1-000-empleos-3601919",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-18T12:17:25Z",
+   "id": "7cd0f7d2727e"
+  },
+  {
+   "titulo": "¿Iglesias deben pagar impuestos? choque por propuesta que busca incluirlas en la reforma tributaria",
+   "resumen": "En medio de la discusión de la reforma tributaria del Gobierno del presidente Abelardo de la Espriella, vuelve al Congreso el debate sobre los impuestos a las iglesias. El representante Mauricio Toro, de la Alianza…",
+   "imagen": "https://caracol.com.co/resizer/v2/MEN7YICIDJFNVLR2VXLUSSAN74.png?auth=f7de4ca5587b31cb823a7de9a56ba529d25c0aa989726680a8066cf7e2a760bc&smart=true&width=3456&height=2304",
+   "enlace": "https://caracol.com.co/2026/11/18/llego-el-momento-de-que-las-iglesias-reporten-sus-patrimonios-mauricio-toro/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-18T12:17:12Z",
+   "id": "6fefcee4ba5c"
+  },
+  {
+   "titulo": "Jardines, secretos y seguridad extrema, así es el complejo que reunirá a Xi, Trump y Putin",
+   "resumen": "Entre humedales, jardines y estrictas medidas de seguridad, el recinto guarda episodios diplomáticos que pocos conocen de Shenzhen.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/67TZDSTMONHO7PXFASXARBJECI.jpg?auth=bfe5a57194b697d620167e6a9a9b5fdba201a906b2f8a7dc6171bbb638d55e59&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/mundo/2026/11/18/jardines-secretos-y-seguridad-extrema-asi-es-el-complejo-que-reunira-a-xi-trump-y-putin/",
    "medio": "Vanguardia",
    "fuente": "vanguardia",
    "region": "Santander",
-   "fecha": "2026-11-18T00:53:00Z",
-   "id": "c2450abd71f2"
+   "fecha": "2026-11-18T11:49:39Z",
+   "id": "4a1325ef03db"
+  },
+  {
+   "titulo": "Estados Unidos entregaría avión Hércules C-130 a Colombia este miércoles",
+   "resumen": "Pete Hegseth llegará a Bogotá para reunirse con el Gobierno y los mandos militares, a la par de una agenda que incluye cooperación en defensa, intercambio de inteligencia y lucha contra el narcotráfico.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/G3SXCMNLYVB57KPKC5IRJBLXVY.jpg?auth=34bb92e53a8c6b5e4f0bb823011a92b75fe2bb2af48ab9b693f34a69597a6a70&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/colombia/2026/11/17/estados-unidos-entregaria-avion-hercules-c-130-a-colombia-este-miercoles/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-18T11:23:10Z",
+   "id": "e2be5d36968e"
+  },
+  {
+   "titulo": "Bebé nació en la calle frente a un hospital en Barrancabermeja: el relato del padre y la respuesta médica",
+   "resumen": "Andrés Manosalva, agente interventor del Hospital Regional del Magdalena Medio, reconstruyó los minutos previos al parto y explicó por qué la paciente decidió retirarse de la institución antes de completar su valoración…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/QVNAHYSHRRDGVDQUS5EYWV5XKA.png?auth=f3fe459a4d9f1af0dd442dd4135768c4050c9970885b3a816b31c6dc4ebe58da&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/santander/2026/11/17/bebe-nacio-en-la-calle-frente-a-un-hospital-en-barrancabermeja-el-relato-del-padre-y-la-respuesta-medica/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-18T11:23:09Z",
+   "id": "49833a22c6de"
+  },
+  {
+   "titulo": "OIM Colombia asistió a cuatro sobrevivientes de trata de personas en Camboya y entregó recomendaciones para evitar caer en falsas ofertas laborales",
+   "resumen": "Las víctimas fueron captadas con promesas de empleo en criptomonedas y obligadas a ejecutar estafas informáticas bajo amenazas y castigos físicos.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/18/6afd59f4a01ed.png",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/oim-colombia-asistio-a-cuatro-sobrevivientes-de-trata-de-personas-en-camboya-y-entrego-recomendaciones-para-evitar-caer-en-falsas-ofertas-laborales-3601891",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-18T07:59:12Z",
+   "id": "81c4eedb2723"
+  },
+  {
+   "titulo": "¡Ojo, conductor! Pico y placa en Cali para el miércoles 18 de noviembre de 2026: estas son las placas que no pueden circular y los horarios",
+   "resumen": "La restricción para carros particulares estará vigente durante 13 horas. Conozca las placas que tendrán prohibido circular este miércoles.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2024/10/16/670fca0ecd253.r_d.475-237-0.png",
+   "enlace": "https://www.eltiempo.com/colombia/cali/ojo-conductor-pico-y-placa-en-cali-para-el-miercoles-18-de-noviembre-de-2026-estas-son-las-placas-que-no-pueden-circular-y-los-horarios-3601700",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-18T07:30:00Z",
+   "id": "f80b3a13d7e4"
+  },
+  {
+   "titulo": "Pico y placa en Medellín para el miércoles 18 de noviembre de 2026: placas que tienen restricción para carros, motos y taxis",
+   "resumen": "La medida regirá durante 15 horas para vehículos particulares y motocicletas. Los taxis tendrán una rotación y un horario diferentes.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2021/09/06/61365581959c4.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/pico-y-placa-en-medellin-para-el-miercoles-18-de-noviembre-de-2026-placas-que-tienen-restriccion-para-carros-motos-y-taxis-3601627",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-18T07:30:00Z",
+   "id": "12a9a527f69d"
+  },
+  {
+   "titulo": "Yo defiendo al payaso",
+   "resumen": "La gente habla como quiere. Esto, que parece una certeza, es al mismo tiempo una aspiración y una limitante, pues, en principio, la gente se expresa como puede, como su educación y su cultura se lo faciliten. No es lo…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/GPCOHTBE5FCMPEXBVH66NXNOUI.jpg?auth=50f59fc455ed7284f4c04b8538e2816a73e4bd85e2530b7ead85d3d78f2dd961&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/18/yo-defiendo-al-payaso/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-18T06:00:00Z",
+   "id": "f8e960b9e351"
+  },
+  {
+   "titulo": "La contaminación por ruido afecta a los humanos y a la biodiversidad",
+   "resumen": "Como ocurre con otros tipos de deterioro ambiental generados por actividades humanas, la peligrosa contaminación por ruido tiende a agravarse con el paso del tiempo y los gobiernos. Esto, a pesar de que la mayoría de…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/4IFRRGEPRRETTH4K54SI7KL6TA.jpg?auth=ec050ef63aefa092488aa394efc583b7054b348ada1a6108618b977c8e3a7e9a&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/18/la-contaminacion-por-ruido-afecta-a-los-humanos-y-a-la-biodiversidad/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-18T06:00:00Z",
+   "id": "545f93cd4c55"
+  },
+  {
+   "titulo": "Salario mínimo: una negociación que exige rigor",
+   "resumen": "La comisión que se instala hoy puede ser el escenario donde las diferencias se procesen con respeto y con criterio técnico, como lo exige la ley y lo desea el ciudadano. Por eso, lo más conveniente para el país es que…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/Y77HSAMVDRGCBAKRMUB7GJBV6Y.jpg?auth=9fda64626f20c1611bc18d55707d029290a765be2ce035a22502a229ab61e783&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/editorial/2026/11/18/salario-minimo-una-negociacion-que-exige-rigor/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-18T06:00:00Z",
+   "id": "0598c517601a"
+  },
+  {
+   "titulo": "El talento no siempre está donde dice la hoja de vida",
+   "resumen": "Por mi trabajo, tengo la oportunidad de conversar con muchas personas. Entrevisto candidatos a cargos de diferente índole, escucho sus historias, conozco sus experiencias y descubro trayectorias profesionales…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/ZKYK2ZYYLRAM3PS4RHILLZUIJE.jpg?auth=a0f82b77a7a5d82e3c7c0edd62f0da473e3f80820f22fa487f148cc4cb73f166&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/18/el-talento-no-siempre-esta-donde-dice-la-hoja-de-vida/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-18T06:00:00Z",
+   "id": "be0d6fc07b9d"
+  },
+  {
+   "titulo": "Otra perla de la UNGRD",
+   "resumen": "Caricatura de Yeyo del 18 de noviembre de 2026",
+   "imagen": "https://www.vanguardia.com/resizer/v2/XOK2WAUUXRAI5EJLVVHKBL4STU.jpg?auth=f27a6ca1a1412095ed1fe87961e28c4a44ad2fff529d806d4c9425ce8e3456db&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/caricaturas/2026/11/18/otra-perla-de-la-ungrd/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-18T06:00:00Z",
+   "id": "86e4b1ec60c2"
   },
   {
    "titulo": "Player Page",
    "resumen": "",
    "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONFZrZkY2cUpEekVnRlNmOUpsZEdjaW9EelR4OUlNeHlJRzRCV1NJb1NxRHZ5am50SXg0cjNUeWZxaTUybVFMRUNmUlhkd2hLa2xDUmN5aVZjNjVKSEZkbGh2cVNGb3lTdFNHOVNGaUhseVRzeVpvNlBoX3NSS0t1ajA4bVhFcXRDVko4RWhoSGtrVG9qQjZFV2RxcHk1Q2ZuenVV?oc=5",
+   "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTWcwX0xpR2g1VjR3M01qdVlDU2QzTVVGOVVmVWdUYzJGMHFZTDdmbzRlZFVhaWE1Vnk5NkxsVldyNjZZSUhLZk52T042UFpLTjZEd2p3eG13TnlocXRTT2k3RGxtbDlsZ3NNcFpPbGZjREFQRlN3aFNKaU8zTHc1TmxZQzdnRm5HZjlTYXQ1RklwVTBPVzNCRUtKQW1xSkZBem0ybGcyeHV1YmtNUU9NVmhDNDVsVjRYeEtCdURYbHRKYV9mT3NFWVpjUXdWeXlHU0VtVkdRd2FZLVhIeFVjMnJINElFQ3lLb01HbUVqSkVQQzZEVjJRZUhR?oc=5",
    "medio": "RCN Radio",
    "fuente": "rcn",
    "region": "Colombia",
-   "fecha": "2026-11-17T23:57:49Z",
+   "fecha": "2026-11-18T03:53:50Z",
    "id": "e66bf6683d4a"
   },
   {
-   "titulo": "Alumbrado Navideño 2026: Cali apuesta por 22 pesebres, reactivación económica y un homenaje a las víctimas del terremoto",
-   "resumen": "La iniciativa, que avanza en el Concejo con nuevos recursos, busca descentralizar la Navidad por las 22 comunas y dinamizar el comercio local.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/17/6afce0dfdfe91.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/alumbrado-navideno-2026-cali-apuesta-por-22-pesebres-reactivacion-economica-y-un-homenaje-a-las-victimas-del-terremoto-3601815",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-17T23:35:21Z",
-   "id": "6de6280942a0"
-  },
-  {
-   "titulo": "Temblor hoy en Colombia: reportaron sismo la tarde de este martes 17 de noviembre; magnitud, epicentro, profundidad y detalles",
-   "resumen": "El movimiento fue registrado por el Servicio Geológico Colombiano. Esto se sabe.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/17/6afcc7ee3931c.png",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportaron-sismo-la-tarde-de-este-martes-17-de-noviembre-magnitud-epicentro-profundidad-y-detalles-3601780",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-17T23:00:15Z",
-   "id": "eeb1b503b224"
-  },
-  {
-   "titulo": "Caen seis peligrosas estructuras criminales en Nariño tras una gran operación realizada por los organismos de seguridad",
-   "resumen": "Más de 50 de sus integrantes fueron capturados en seis municipios del departamento.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/17/6afcda18505a0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/caen-seis-peligrosas-estructuras-criminales-en-narino-tras-una-gran-operacion-realizada-por-los-organismos-de-seguridad-3601810",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-17T22:58:45Z",
-   "id": "c66e88f7448c"
-  },
-  {
-   "titulo": "Estas clínicas privadas deben más de $16.000 millones en luz: Air-e asegura que debe seguir prestando el servicio pese a su grave situación financiera",
-   "resumen": "Entre los casos de mayor cuantía aparecen centros asistenciales de Riohacha, Santa Marta, Barranquilla, Soledad y Malambo.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/17/6afcd48df2ac6.r_d.333-184-0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/barranquilla/estas-clinicas-privadas-deben-mas-de-16-000-millones-en-luz-air-e-asegura-que-debe-seguir-prestando-el-servicio-pese-a-su-grave-situacion-financiera-3601794",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-17T22:30:00Z",
-   "id": "fe70388f8cb2"
-  },
-  {
-   "titulo": "El drama de los afectados del edificio Bernavento: 8 años después de la implosión, 48 familias siguen sin ver un peso de su indemnización",
-   "resumen": "A más de ocho años de la demolición de su edificio por fallas estructurales, los afectados exigen a la Defensoría el giro de sus recursos.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/17/6afc6405da784.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/el-drama-de-los-afectados-del-edificio-bernavento-8-anos-despues-de-la-implosion-48-familias-siguen-sin-ver-un-peso-de-su-indemnizacion-3601612",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-17T21:25:31Z",
-   "id": "50148d7f62c6"
+   "titulo": "Cuatro departamentos ganan el X Concurso Nacional de Programacion",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOVhEa3pyWHVNNDQ2ODJ4NTZ6TWUtOHRraUNONTBDRTllUHZHZmVZaWhCV0FPT1ktUlEwMzYwbGw5VzlZTkJiUENRdGJENlU1QW16YXlsVTFIZU9ESll1UXpLTm02NzlpdGh3bkE5ZTB4eTFkNnIzODBQcVhRenFXMFBvZVk0VTROaTR4cTlOc0hkVDFpQ1FtdmNYZGJlTmRTSnhHTC1WNTgxa0l0UnZEMnowMTJNU0xSM0pMOU1OTGJFUjFqWkJYTmZJcVl1cDNBRkZTWk1CSGpnaGhNU2hWNFlPT18?oc=5",
+   "medio": "areacucuta.com",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-11-17T21:18:40Z",
+   "id": "369b6e36a637"
   },
   {
    "titulo": "Cortes de luz en Cali este miércoles 18 de noviembre del 2026: Sector afectado y horario de suspensión",
@@ -394,39 +416,6 @@
    "region": "Colombia",
    "fecha": "2026-11-17T21:17:05Z",
    "id": "98dfb29cef03"
-  },
-  {
-   "titulo": "Hermano del periodista Mateo Pérez Rueda rompe el silencio tras la captura de alias Primo Gay: apoya la extradición y dice que teme por represalias",
-   "resumen": "Julián Pérez exige justicia total tras la caída de alias Primo Gay. Dice que faltan más responsables por ser capturados por el crimen de su hermano.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/15/6af9e58595996.r_d.2118-85-0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/hermano-del-periodista-mateo-perez-rueda-rompe-el-silencio-tras-la-captura-de-alias-primo-gay-apoya-la-extradicion-y-dice-que-teme-por-represalias-3601762",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-17T21:02:04Z",
-   "id": "9acf8a2addfb"
-  },
-  {
-   "titulo": "Demoras en controles aduaneros empañaron el éxodo de turistas al cierre del puente festivo en el Aeropuerto Internacional Rafael Núñez de Cartagena",
-   "resumen": "Las congestiones no respondieron a fallas logísticas de la concesión, sino a procedimientos de control aduanero implementados por la DIAN.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2025/10/08/68e66fcc3a7d9.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/demoras-en-controles-aduaneros-empanaron-el-exodo-de-turistas-al-cierre-del-puente-festivo-en-el-aeropuerto-internacional-rafael-nunez-de-cartagena-3601764",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-17T20:58:38Z",
-   "id": "8147a240bc31"
-  },
-  {
-   "titulo": "X Concurso Nacional de Programación: Cuatro equipos ganaron con proyectos de innovación tecnológica",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOFQyM3dQdm00ZjZ4REVvRkVyZWFsQUlDbVMyVlUzdGF0YlI5RUxsTTY1TFA0Uy1TZ2lwc2I1QzNxY0VxejAwRjVMajF0MGVYd2pKTWxXUGFZSkoxOGswNjBKTlN1YVozMVo2WEpuajVvN0NLZUREd05PMEV1TlBBdW8xeDdwWXdPc0pnQ0NfMHc1VjBEUDhxdnBKUHNVTEJKUGV0ME1lV19LUVRDUE1Ienpha0Y1b1U0NVltbko2dnp2Q0tzbFV2LXdqT0xQQdIB4gFBVV95cUxPWFZQLTUzdGp2TExjSXBkUWRWUlVwdXQtVURYLXkzbHVINVRTNnBWUnhlSGRDdW93MmJjV3B0OEo0bUxmNHdpa3FEY0RXbkUzZjNtZThwYXBIM18yakRVVWhWSG5xbmd2amZkRjZaaEpkbG9XajBfMHVUcVpFY3dvdmhBd2RackhtMVo3QkhOb3FtSmQ3VVdyWjktd2VOTDZMalJMTmFFbno4MlVOMHBmaEdKN2t3aldxNWhkX0VPOVE3eHpMbnE5VWdXbGtieFZkNTk1NTFZel9vMzJsY2dva2hn?oc=5",
-   "medio": "Caracol Radio",
-   "fuente": "provincia",
-   "region": "Santander",
-   "fecha": "2026-11-17T20:26:22Z",
-   "id": "18be56c0a159"
   },
   {
    "titulo": "Sisbén en Colombia: Así puedes sacar GRATIS el pasaporte, la cédula digital y otros 4 documentos",
@@ -495,17 +484,6 @@
    "id": "a354a589d73a"
   },
   {
-   "titulo": "Municipios de Santander en alerta por riesgo de incendio",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQW9yYVhBN0RTQTNWNHotUk4zN2U0RGtiYWVSc3VXU25VVUpmZE9od1R0eHRYRmk5OWUxZnVyMUhoVV81ejdqYmkzQmFSV2hNRDRIQlV2bEQ2WUhiSVRSOEtuREVZcDhTNDZiU05CeHlRX0lITldqSy0zcDZqMDMyMFM2Y1lRTC1l?oc=5",
-   "medio": "El Frente",
-   "fuente": "provincia",
-   "region": "Santander",
-   "fecha": "2026-11-17T13:18:03Z",
-   "id": "7a740dea2250"
-  },
-  {
    "titulo": "En alerta 12 municipios de Santander por riesgo de incendios forestales",
    "resumen": "",
    "imagen": "",
@@ -515,6 +493,17 @@
    "region": "Santander",
    "fecha": "2026-11-17T12:04:09Z",
    "id": "48308328e550"
+  },
+  {
+   "titulo": "Tribunal Administrativo de Santander ordena plan para restaurar la plaza de mercado de San Gil",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWXRJcllZUTFCdkFRNlltWFdxV2VLcjRBQUpiZm03RjVBUFE4MDNTTE1wQXF4ZWJweUdJaEU0dzdoYkkwZ3B3bWZLdml3bHVpd2hvMTRIY2lnRjdONmpZVzNiNmZpZjl1UEdNdGpzcVo4MS1mYXN5RW9CRzJ5cnpHb2xMRDFhQ3BNWElEMnQ5eTFlV0IwTThfVnpBNnJETndLNEFGNHgyR1lub3dnOHhLV01DeDNUSzc1bGRXRWc3djJEaWJJM19YOTlaNDFXc2hWeDM1WEFBVXd1b3l3VjFZZ29xSk8ydVU?oc=5",
+   "medio": "Vanguardia",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-11-17T11:36:00Z",
+   "id": "ca7cf8dbc528"
   },
   {
    "titulo": "Alerta por tuberculosis en las cárceles de Santander: 346 casos en 2026 encienden las alarmas sanitarias",
@@ -537,6 +526,17 @@
    "region": "Santander",
    "fecha": "2026-11-16T18:45:00Z",
    "id": "f4fe41832750"
+  },
+  {
+   "titulo": "VIDEO: Chiva turística con pasajeros a bordo protagonizó accidente múltiple en Barichara, Santander",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOW9rZEpTTHBabHdRSXlmSFFjazVCNlJMbndPbXVtX2NhSmFYNHBaMUhSZnZtQi1ERzROZm4tdUt3bDE5aFhyazdfUmRKay1QWFZEckJ3c2RkSldnTzMtVVdONndFdWJTRkhFSWJjc2J2bVE4SWh6X3p4U3RoT0FhR2pNRWdleHAxVlpZNnJTZmhOTXRTUnlhSzBDTDFGcWZ0ZXR6OUhsSHJuMkx2RWhWTDljMnBjX0pLLW5NdkNianNQTnBMZmhWWDlJSGPSAeABQVVfeXFMT3lJcjBRcnk0OXFSSXJMZW1tSHprMXlFcjhtQUZVS3JENUJKaUtNLWZ1cFhNQ201c2hNX2dkZmZtcWJ4dEg4bE45dmJOWWo0Mk1QbWhjUzZGMWUxLWRza05McFN6eU1YWGtxclk1WGZrYkZBbDQxN2N3VkRScTNIMFlia0tidUhjTm5NalFuQk5FTVUyZndjQ09wXzJmWFU2MnozUmR5bXRaT3pSSlpLUzEwQk9ITEp2MS1LTWEwRjdFd2taa1JlNnV6Q2RGRVJuaVpXd0dNa1dTcVNnUFRWZm8?oc=5",
+   "medio": "Caracol Radio",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-11-16T14:37:19Z",
+   "id": "d68c489b09db"
   },
   {
    "titulo": "Emergencia en Norte de Santander por caída de bus escolar a un abismo",
@@ -570,17 +570,6 @@
    "region": "Santander",
    "fecha": "2026-11-15T16:03:56Z",
    "id": "82b178716e15"
-  },
-  {
-   "titulo": "Heridos en accidente de bus en el Catatumbo reciben atención en Teorama y Ocaña, Norte de Santander",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN2FEX3NnMkhvSmpNWDZTTEcyTGRjMWhISDJWYW9aMlVtR3hFQWxTN3NoVUtXY1hOSlhqMUs2eWdpQjRpblppNUxOSGs5cmVEMFRoVnZRWmZKQ2NJUndlN0Y3ZGZSUWx6NEJacUhVMGNWOUoxUlNJc2k4ek9XWDFRMHJpX0Q0dUpuTTJ3UGNONDVleXNub09vaGZoRzhlcVZwcldNeGs5VTVuRWJHT2FkLWdn0gGyAUFVX3lxTE45RkgzX3BEbnljb19pMVVwVWh3Zk96bDdoNWxnOXdGNHBDbl9WSHRHcjZXcjRHako2UVZiRGpyekFaaGpuQU53OEN1SjlCZWU1aERQcUpKZUlENmhoeUpMWmdTd1lnZWhqWEw5SUN3UWluaXBERjh5R3JWTlgzNFBZakpqVHI3TFhKaWwtdkZkMk1CMVZkY0M0UURjZ3dzek5Pbkw4RlNZZTNlbi1mRE5HRmc?oc=5",
-   "medio": "La FM",
-   "fuente": "provincia",
-   "region": "Santander",
-   "fecha": "2026-11-15T13:02:29Z",
-   "id": "cbf22bb04119"
   }
  ]
 }
