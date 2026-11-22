@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22T03:16:37Z",
+ "actualizado": "2026-11-22T11:38:30Z",
  "fuentes": [
   {
    "id": "vanguardia",
@@ -44,125 +44,301 @@
  ],
  "noticias": [
   {
-   "titulo": "Dorado Noche: resultado del sorteo de hoy sábado 21 de noviembre de 2026",
-   "resumen": "La expectativa crece hoy sábado 21 de noviembre de 2026 entre miles de apostadores en todo el país por el sorteo de El Dorado Noche.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/IM56ITSTZVAP3KMFJ5VLF3BWHM.png?auth=ec53f42f45f5dae05601d84b763930fc3b9f84d0348afebbf1dc881e1b6bbb6b&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/11/21/dorado-noche-resultado-del-sorteo-de-hoy-sabado-21-de-noviembre-de-2026/",
+   "titulo": "Operativos contra el Clan del Golfo en Antioquia dejan dos muertos y un capturado",
+   "resumen": "E l Ejército Nacional ha intensificado los operativos contra el Clan del Golfo que afectan a esa estructura armada en Antioquia. Armas incautadas y personas capturadas hacen parte de las acciones reportadas este sábado…",
+   "imagen": "https://caracol.com.co/resizer/v2/US2DFPW4D5C6JEIWWCDX3ZZHTY.png?auth=e2a926109096800519878144c06b89b49cfc35ab1140857b70a4425823914873&smart=true&width=654&height=489",
+   "enlace": "https://caracol.com.co/2026/11/22/operativos-contra-el-clan-del-golfo-en-antioquia-dejan-dos-muertos-y-un-capturado/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-22T11:07:38Z",
+   "id": "f9264ad5b17d"
+  },
+  {
+   "titulo": "Ataque a batallón en La Jagua de Ibirico deja un soldado muerto y 12 militares heridos",
+   "resumen": "Un soldado muerto y 12 militares heridos dejó el ataque contra las instalaciones del Batallón Especial, Energético y Vial N.º 2 , en el municipio de La Jagua de Ibirico, Cesar, confirmó la Décima Brigada del Ejército…",
+   "imagen": "https://caracol.com.co/resizer/v2/6Y4TEF2QX5HPLAOBZPX5BZVMK4.jpg?auth=c7e4dbf5dff0e95f3acb4ed70d21297ac77994ccb8692aaf85def08edc00a525&smart=true&width=1280&height=720",
+   "enlace": "https://caracol.com.co/2026/11/22/ataque-a-batallon-en-la-jagua-de-ibirico-deja-un-soldado-muerto-y-12-militares-heridos/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-22T11:07:11Z",
+   "id": "addee816b100"
+  },
+  {
+   "titulo": "Hospital de Juan Atalaya en Cúcuta avanza en su trámite: proyecto está cerca de completar la fase 3",
+   "resumen": "El proyecto para la construcción del hospital de la Ciudadela Juan Atalaya, en Cúcuta , avanza en su proceso de revisión ante el Ministerio de Salud, luego de que la cartera nacional presentara nuevas observaciones que…",
+   "imagen": "https://caracol.com.co/resizer/v2/7FBKDKR4R5NRBGF2ZTZW3YEHIY.jpg?auth=dde5b37213aa88178b9f37457752161eedff2e81ce6afed2a1041287ea7422b2&smart=true&width=770&height=449",
+   "enlace": "https://caracol.com.co/2026/11/22/hospital-de-juan-atalaya-en-cucuta-avanza-en-su-tramite-proyecto-esta-cerca-de-completar-la-fase-3/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-22T10:45:00Z",
+   "id": "59e0354c8178"
+  },
+  {
+   "titulo": "Expresidente Gustavo Petro y Pacto Histórico denuncian disminución de esquemas de protección",
+   "resumen": "Un gran revuelo en el Pacto Histórico, generó la denuncia del expresidente Gustavo Petro sobre una supuesta disminución de su esquema de seguridad. Petro aseguró que le quitaron los carros blindados y parte de su equipo…",
+   "imagen": "https://caracol.com.co/resizer/v2/3EKAGTG3CNBXNOFENGRXFG5DNA.jpeg?auth=ce6051d4ba825b277fff8764f78cb2f28abe71b407086d13fc3e13e8f3db5248&smart=true&width=1280&height=855",
+   "enlace": "https://caracol.com.co/2026/11/22/expresidente-gustavo-petro-y-pacto-historico-denuncian-disminucion-de-esquemas-de-proteccion/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-22T10:43:10Z",
+   "id": "ed71728a95f8"
+  },
+  {
+   "titulo": "Red hospitalaria del Cesar activa protocolos tras ataque a batallón en La Jagua de Ibirico",
+   "resumen": "La red hospitalaria del Cesar fue activada y permanece en alerta tras la emergencia registrada en las instalaciones del Batallón Especial Energético y Vial N.º 2 , en el municipio de La Jagua de Ibirico, donde se…",
+   "imagen": "https://caracol.com.co/resizer/v2/U6TVJOYX7ZHDBEN27654E6DZVA.jpg?auth=fafc6c7a108924081f2a349ebbed6d7110df22db21a103225c5db1f174a37920&smart=true&width=1800&height=1200",
+   "enlace": "https://caracol.com.co/2026/11/22/red-hospitalaria-del-cesar-activa-protocolos-tras-ataque-a-batallon-en-la-jagua-de-ibirico/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-22T10:21:58Z",
+   "id": "b1d83e814eae"
+  },
+  {
+   "titulo": "Familia de Ivonne Parra desmiente versiones sobre su muerte tras manifestaciones del 19 de noviembre",
+   "resumen": "La muerte de Ivonne Fernanda Parra Díaz, que ocurrió en la madrugada del viernes 20 de noviembre en El Bordo, municipio de Patía, Cauca, generó controversia luego de que circularan versiones que relacionaban su…",
+   "imagen": "https://caracol.com.co/resizer/v2/TA5JB3OJIVHKVHCZVJNFYTX3ZY.jpeg?auth=de4dd1ef74a04a51b444792b9b3e6db2430b9ad59968fdd77d099551788611df&smart=true&width=1280&height=720",
+   "enlace": "https://caracol.com.co/2026/11/22/familia-de-ivonne-parra-desmiente-versiones-sobre-su-muerte-tras-manifestaciones-del-19-de-noviembre/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-22T08:48:05Z",
+   "id": "b4ac2d6273f0"
+  },
+  {
+   "titulo": "ICETEX ofrece condonación del 100% en intereses moratorios para quienes tienen pagos pendientes de sus créditos educativos",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNG5OVXhMbWNHcFpaM2NqcVIxUmx4aWZHT3prakhWbTZSRm03VkU2Qkg4b18yVGpoaUN3TEJ5d25vZVd2QXROMVE5dmw2SU5CQ2RFWFJkYXF3bFRZTFdWSkxTRWtrRjBrb0E5TkN5cmRzVFdJM0h6OXQ3M2V0YXZ1VGVSWWMwMzZOeXVhY0xsZzZNbmFPclRDanZVYzVYN3VNTUlSRjBHVC1ORE5iazZrNl9LeE5ncGxIbW5ZOVNqajc4Qkptb3RvX1dEMkhXbEdBelIyZHhlamlTZFliRWh0c2NzdWZfOERwRnV5UUpnMEdPUQ?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-11-22T08:05:25Z",
+   "id": "1d84412f4083"
+  },
+  {
+   "titulo": "Ataque contra batallón del Ejército en La Jagua de Ibirico, Cesar: reportan al menos 13 militares heridos y activan red hospitalaria en la región",
+   "resumen": "La emergencia obligó a solicitar apoyo de los hospitales de municipios cercanos para atender y trasladar a los militares lesionados.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/22/6b029212c5a59.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/ataque-contra-batallon-del-ejercito-en-la-jagua-de-ibirico-cesar-reportan-al-menos-13-militares-heridos-y-activan-red-hospitalaria-en-la-region-3603124",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-22T07:22:12Z",
+   "id": "1729aa7694f6"
+  },
+  {
+   "titulo": "Ataque contra batallón en La Jagua de Ibirico, Cesar, deja al menos 13 soldados heridos",
+   "resumen": "Al menos 13 soldados heridos deja un ataque con drones explosivos y un presunto carro bomba contra el Batallón Especial Energético y Vial del Ejército Nacional, en La Jagua de Ibirico, Cesar. El hecho se habría…",
+   "imagen": "https://caracol.com.co/resizer/v2/6Y4TEF2QX5HPLAOBZPX5BZVMK4.jpg?auth=c7e4dbf5dff0e95f3acb4ed70d21297ac77994ccb8692aaf85def08edc00a525&smart=true&width=1280&height=720",
+   "enlace": "https://caracol.com.co/2026/11/22/ataque-contra-batallon-en-la-jagua-de-ibirico-cesar-deja-al-menos-13-soldados-heridos/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-22T06:36:20Z",
+   "id": "9a641dcc83ed"
+  },
+  {
+   "titulo": "Tres muertos y 36 desaparecidos tras incendio en fábrica de Indonesia",
+   "resumen": "Al menos tres personas murieron en el incendio de una fábrica de confitería en Indonesia, anunció el domingo un responsable de los servicios de rescate, que actualizó a 36 la cifra de desaparecidos. El incendio…",
+   "imagen": "https://caracol.com.co/resizer/v2/75KA4NUCIVBIPK7UUNL5GI4CH4.webp?auth=e2d2a96f4e30694df90fc354142286d84c59cb2cc9aded709933e9a18de4fb8f&smart=true&width=533&height=400",
+   "enlace": "https://caracol.com.co/2026/11/22/tres-muertos-y-36-desaparecidos-tras-incendio-en-fabrica-de-indonesia/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-22T06:16:55Z",
+   "id": "2d8ccc9e9cff"
+  },
+  {
+   "titulo": "Presidente Abelardo De La Espriella destacó cuatro golpes al narcotráfico: destruyeron dos laboratorios e incautaron 800 kilos de cocaína",
+   "resumen": "El pronunciamiento menciona operaciones en los departamentos del Cauca, Risaralda y Norte de Santander.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/20/6b00a39ebca7f.r_d.1470-500-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/presidente-abelardo-de-la-espriella-destaco-cuatro-golpes-al-narcotrafico-destruyeron-dos-laboratorios-e-incautaron-800-kilos-de-cocaina-3603123",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-22T06:05:46Z",
+   "id": "6b91a802959d"
+  },
+  {
+   "titulo": "Del Metropolitano al Súper Metro",
+   "resumen": "El jueves 1 de mayo de 1986 mi mamá me llamó muy a las siete de la mañana para darme una noticia: mi abuelo Sixto nos estaba invitando a mi hermano y a mí al partido inaugural del Estadio Metropolitano Roberto Meléndez…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/4KDJNKQN4VDSVLVPNODRSMHPNA.jpg?auth=c77e8d17fed461af63514e25a7464dd5781da7d7513987ad891498dd3e59de0e&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/22/del-metropolitano-al-super-metro/",
    "medio": "Vanguardia",
    "fuente": "vanguardia",
    "region": "Santander",
-   "fecha": "2026-11-22T03:05:00Z",
-   "id": "6c4b3e49f920"
+   "fecha": "2026-11-22T06:00:00Z",
+   "id": "dc37afac5393"
   },
   {
-   "titulo": "Expovivienda 2026 en Bogotá: ¿Qué subsidios hay para vivienda y cómo inscribirse? Paso a paso",
-   "resumen": "Este sábado 21 y domingo 22 de noviembre se lleva a cabo Expovivienda 2026 en Bogotá, una feria dedicada a las personas que deseen adquirir vivienda en la capital y estén interesadas en conocer los proyectos que ofrecen…",
-   "imagen": "https://caracol.com.co/resizer/v2/HCNPXOKTNNEDVKUHFWXKIQJJFI.jpg?auth=f22a2c67386ba6c5483a161aab186f87d314a50553e261b7bc287b0fd58bd929&smart=true&width=3236&height=1940",
-   "enlace": "https://caracol.com.co/2026/11/22/expovivienda-2026-en-bogota-que-subsidios-hay-para-vivienda-y-como-inscribirse-paso-a-paso/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-22T03:02:21Z",
-   "id": "c439cb1591df"
-  },
-  {
-   "titulo": "Paisita 3: resultado del sorteo del sábado 21 de noviembre de 2026",
-   "resumen": "Consulte el último resultado de Paisita 3 (Paisita Lotto) del sábado 21 de noviembre de 2026. Verifique el número ganador del sorteo transmitido por Teleantioquia.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/HSCA7DIGFREHTB6GKIFYUMB3NY.png?auth=561f67bc3534405e5ec6052aaae85f16bfffa6dd707827b1ba66a954e95d2734&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/11/21/paisita-3-resultado-del-sorteo-del-sabado-21-de-noviembre-de-2026/",
+   "titulo": "Barichara y el caos vehicular",
+   "resumen": "Calles empedradas, arquitectura y tranquilidad son parte del patrimonio de Barichara que atrae a miles de turistas. Sin embargo, existe una preocupación que debería incomodar a la Alcaldía: el desorden vehicular está…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/6C7QC4KSZZBCNELOBKO3RPCDWI.jpg?auth=b2d4d981546dbef2beab982ff3990351c6db4cf9a12e5ddd436db836902c3324&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/22/barichara-y-el-caos-vehicular/",
    "medio": "Vanguardia",
    "fuente": "vanguardia",
    "region": "Santander",
-   "fecha": "2026-11-22T02:52:00Z",
-   "id": "7c0761b4f354"
+   "fecha": "2026-11-22T06:00:00Z",
+   "id": "60787fdf7deb"
   },
   {
-   "titulo": "Sebastián Villa, figura en campeonato de Boca: “Volví con ilusión y ya llevo dos títulos seguidos”",
-   "resumen": "Boca Juniors rompió una racha de 18 años sin poder ganar un título internacional, luego de haber ganado en 2008 la Recopa Sudamericana y en 2007 la Libertadores . El conjunto Xeneize se impuso ante Atlético Mineiro y se…",
-   "imagen": "https://caracol.com.co/resizer/v2/UE3QI2WZ2VA4ZIRKTQHN7RC77Y.jpg?auth=f0047d109681b93ba4c5831e69c33960ce9e58585dd27132174adc261bd8db1e&smart=true&width=1024&height=683",
-   "enlace": "https://caracol.com.co/2026/11/22/sebastian-villa-figura-en-campeonato-de-boca-volvi-con-ilusion-y-ya-llevo-dos-titulos-seguidos/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-22T02:49:51Z",
-   "id": "fbdfc486aeaa"
-  },
-  {
-   "titulo": "¿Quién es ‘El Chapo Isidro’? Perfil y prontuario de uno de los capos más buscados por EE.UU.",
-   "resumen": "El pasado 20 de noviembre en la noche, el capo mexicano Fausto Isidro Meza Flores, conocido con el alias de ‘El Chapo Isidro’, fue detenido en un operativo realizado en el estado de Sinaloa, México, con apoyo de Estados…",
-   "imagen": "https://caracol.com.co/resizer/v2/LM6SM43YUNGQ3A3IPKTFHSFUTI.jpg?auth=36562bbe5019645b8616986a7b891a37356aee8feb30a6b48f3f6a4f90ccdbf8&smart=true&width=3264&height=2176",
-   "enlace": "https://caracol.com.co/2026/11/22/quien-es-el-chapo-isidro-perfil-y-prontuario-de-uno-de-los-capos-mas-buscados-por-eeuu/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-22T02:37:05Z",
-   "id": "12c07ad5b9c2"
-  },
-  {
-   "titulo": "FBI sufre presunto ‘hackeo’ y Trump teme por exposición de datos",
-   "resumen": "Este sábado 21 de noviembre, el FBI declaró un presunto hackeo a su base de datos, donde no solo tiene información de los criminales , sino también, según Trump, posibles engaños contra él. Las declaraciones que dio el…",
-   "imagen": "https://caracol.com.co/resizer/v2/GF7VDVZ42VEQRFB4YZLUQFIQIQ.jpg?auth=da088c6f98e8abfe50f6585c5669392204e311e21fa81f2714e2d781a68e9113&smart=true&width=1024&height=683",
-   "enlace": "https://caracol.com.co/2026/11/22/fbi-sufre-presunto-hackeo-y-trump-teme-por-exposicion-de-datos/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-22T02:10:03Z",
-   "id": "1d2996ad37d6"
-  },
-  {
-   "titulo": "Motilón Noche: resultado del sorteo del sábado 21 de noviembre de 2026",
-   "resumen": "¿Ganó El Motilón Noche? Consulte el número ganador del sorteo de hoy sábado 21 de noviembre de 2026 y revise si es el nuevo afortunado del chance.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/SQIEGM3CKNFZVDTGNO67YK25UE.png?auth=e825507e074d87c4928ea2ec4462493070ca75b3a41b597dd9a928c493d5a581&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/11/21/motilon-noche-resultado-del-sorteo-del-sabado-21-de-noviembre-de-2026/",
+   "titulo": "El futuro del campo",
+   "resumen": "He dedicado muchas de mis columnas a reflexionar sobre el desarrollo de nuestras ciudades, la planificación urbana y la infraestructura necesaria para mejorar la calidad de vida de sus habitantes. Hoy quiero llamar la…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/2KWPUVPOWNFZ5AJOYWTUOJGFGQ.jpg?auth=88e6c8a0690e61663577a25b15ac78b8f69abdcb9762ddce34782bdf79a8d169&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/22/el-futuro-del-campo/",
    "medio": "Vanguardia",
    "fuente": "vanguardia",
    "region": "Santander",
-   "fecha": "2026-11-22T01:51:00Z",
-   "id": "80825f55b5cb"
+   "fecha": "2026-11-22T06:00:00Z",
+   "id": "3740734435d0"
   },
   {
-   "titulo": "Lotería de Boyacá, Cauca y Baloto HOY sábado 21 de noviembre: resultados y números ganadores",
-   "resumen": "La Lotería de Boyacá, como lo indica su lema ‘Un sábado de pobre lo sacará’ , se juega todos los sábados a las 10:40 de la noche, y puede verla por medio del Canal Trece o en la transmisión en vivo en Facebook Live y…",
-   "imagen": "https://caracol.com.co/resizer/v2/3JVLOCBTRJCJFH6V5XU7IIOT5A.jpg?auth=3141c3414ace7dc91995e83d8039c01c00a26b57a91b604f316c0ed1994433d0&smart=true&width=2000&height=1400",
-   "enlace": "https://caracol.com.co/2026/11/22/loteria-de-boyaca-cauca-y-baloto-hoy-sabado-21-de-noviembre-resultados-y-numeros-ganadores/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-22T01:40:56Z",
-   "id": "4d801a2a55f1"
+   "titulo": "Compra de votos e irregularidades en contratos: los líos del Alcalde de Barrancabermeja",
+   "resumen": "Este lunes comenzarán las audiencias preparatorias del proceso por presunta compra de votos contra el alcalde de Barrancabermeja, Jonathan Vásquez.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/YSAI5Y7NGBFPJHOYAAGBWYK6GA.jpg?auth=e72f58ac51eb3c0ed7f4e1760053f36ccd63a1216619ea911a5dd1814b38dc9e&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/politica/2026/11/22/compra-de-votos-e-irregularidades-en-contratos-los-lios-del-alcalde-de-barrancabermeja/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-22T06:00:00Z",
+   "id": "ad5e69444577"
   },
   {
-   "titulo": "EN VIVO 🔴 Sorteo de la Lotería de Boyacá de HOY 21 de noviembre 2026: premio mayor y más resultados",
-   "resumen": "La Lotería de Boyacá es una de las más reconocidas en Colombia, destacada por su trayectoria y por entregar premios atractivos a sus jugadores. El sorteo de HOY se realiza a las 10:40 de la noche. En este tipo de…",
-   "imagen": "https://caracol.com.co/resizer/v2/36Q3K27TV5FQ3AFR25EVCFTMZM.jpg?auth=2eb117a1fb0783192820796c5f38787a752775054db6e4cc208d5e9810216ec9&smart=true&width=2000&height=1300",
-   "enlace": "https://caracol.com.co/2026/11/22/en-vivo-sorteo-de-la-loteria-de-boyaca-de-hoy-21-de-noviembre-2026-premio-mayor-y-mas-resultados/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-22T01:32:58Z",
-   "id": "cb4efc37085d"
+   "titulo": "Inicio insuficiente",
+   "resumen": "Para ser coherentes con lo que escribimos en la columna publicada el sábado el partido del Bucaramanga el viernes dejó una sensación de insatisfacción evidente en los que seguimos al equipo. Un empate de local nunca…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/FDFZEESDZRAOLIYGCW46A5B6BM.jpg?auth=e0b3c828e3ac1d5c3e0267da2ffb3e6fd36ad80798c5bd663d7ccf5dc0077a30&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/22/inicio-insuficiente/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-22T06:00:00Z",
+   "id": "11fec1b5c0e4"
   },
   {
-   "titulo": "Boca Juniors, campeón de la Copa Sudamericana: así quedó su gran palmarés de títulos",
-   "resumen": "Boca Juniors rompió una racha de 18 años sin ganar un título internacional. El conjunto Xeneize superó 2-0 a Atlético Mineiro en la final de la Copa Sudamericana disputada en Barranquilla, gracias a los goles de…",
-   "imagen": "https://caracol.com.co/resizer/v2/2UXQRHFRPNG4HOUT5OUTJG4RNU.jpg?auth=6c2cc96f3b94c41f9487699638ada390d574ff25020c8440dd17403c1f4d5ed2&smart=true&width=1024&height=683",
-   "enlace": "https://caracol.com.co/2026/11/22/boca-juniors-campeon-de-la-copa-sudamericana-asi-quedo-su-gran-palmares-de-titulos/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-22T01:30:54Z",
-   "id": "beabf6c51d38"
+   "titulo": "Él pez muere por su boca’",
+   "resumen": "Caricatura de Yeyo del XX de XXX de 2026",
+   "imagen": "https://www.vanguardia.com/resizer/v2/XQJ34HEDEZGMTJUIOBELGSF3C4.jpg?auth=9834ed07e58e8d20cfa1c3a2e534802d09ca15b9312ae7ac48e9c659a97c6ce8&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/caricaturas/2026/11/22/el-pez-muere-por-su-boca/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-22T06:00:00Z",
+   "id": "a653c22b585d"
   },
   {
-   "titulo": "Congresista Andrea Vargas del Pacto Histórico responde a señalamientos por su título profesional",
-   "resumen": "Continúa la polémica por títulos académicos en el Pacto Histórico. Se trata de la representante a la Cámara Andrea Vargas, quien ha sido cuestionada por su perfil profesional . Los hechos sucedieron cuando se le…",
-   "imagen": "https://caracol.com.co/resizer/v2/GXTSB4FPG5G3RDIKGG76CGBVXQ.png?auth=db8e4e55bbe0dd552c8d4752222ac94cdb4744e4744cd5c84407fee4005de0a2&smart=true&width=1920&height=1080",
-   "enlace": "https://caracol.com.co/2026/11/22/congresista-andrea-vargas-del-pacto-historico-responde-a-senalamientos-por-su-titulo-profesional/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
+   "titulo": "Buen arranque",
+   "resumen": "“Por el desayuno se sabrá cómo será la cena” señala el adagio popular para referirse a la importancia de las primeras acciones y momentos, lo que permite anticipar cómo será el desarrollo posterior. En ese sentido, lo…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/RO32U7E6XZHFTIOWA45JH4CCXU.jpg?auth=5aed626c5724e276a0e7710d7269edd3211c51fc979a413db6459a27e9293ca7&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/22/buen-arranque/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-22T06:00:00Z",
+   "id": "0e4f49298e88"
+  },
+  {
+   "titulo": "Bucaramanga debe vigilar cada peso",
+   "resumen": "Se debe cuidar y verificar el destino de estos recursos. Si se repiten las prácticas de improvisación y desarticulación que se han visto en los últimos años, los 540 mil millones de pesos se sumarán a la larga lista de…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/Y77HSAMVDRGCBAKRMUB7GJBV6Y.jpg?auth=9fda64626f20c1611bc18d55707d029290a765be2ce035a22502a229ab61e783&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/editorial/2026/11/22/bucaramanga-debe-vigilar-cada-peso/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-22T06:00:00Z",
+   "id": "5fafdb9f0f0c"
+  },
+  {
+   "titulo": "Dependemos de los alcaldes",
+   "resumen": "Cuando una viceministra de Agua dice por radio que hay $1,3 billones para la PTAR Río de Oro y añade, casi como quien se encoge de hombros, “dependemos de los alcaldes”.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/RDFS7ZRT3ZBETIN64QTSFOM6FQ.jpeg?auth=1d447165e6a6bdac5ad78d047d383f1ecb72f3aba808e905e34f25b066db6d52&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/22/dependemos-de-los-alcaldes/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-22T06:00:00Z",
+   "id": "57c96dae9e1b"
+  },
+  {
+   "titulo": "Veeduría al PAE 2026",
+   "resumen": "El Programa de Alimentación Escolar PAE es una estrategia pensada para incentivar la permanencia en el sistema escolar, permitiendo a las niñas, niños y adolescentes de los centros educativos oficiales, contar con una…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/X3VUM57Z2VATRHCAEJO52HW33Y.jpg?auth=530ad8d7b92ed8a111fef65a30192dd62cd54aafbc3dbafbe82e9e38dcb41600&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/22/veeduria-al-pae-2026/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-22T06:00:00Z",
+   "id": "44fd07c09de0"
+  },
+  {
+   "titulo": "Cobran hasta $200.000 por una cita en la DIAN para la devolución del IVA de vehículos eléctricos e híbridos",
+   "resumen": "La falta de citas en la DIAN para la devolución del IVA de los vehículos eléctricos e híbridos está abriendo espacio a un mercado de intermediarios que cobran por conseguir turnos que en el papel son gratuitos.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/Q2POOYMDUZA6TGPB2GUVZ2H3L4.jpg?auth=848ce2fbb5eccd743ba311f790d271d37efd79eddc9e16a84f497de0b8e335fe&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/contenido-registrados/2026/11/22/cobran-hasta-200000-por-una-cita-en-la-dian-para-la-devolucion-del-iva-de-vehiculos-electricos-e-hibridos/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-22T06:00:00Z",
+   "id": "c73ce64fe9b0"
+  },
+  {
+   "titulo": "Hablemos de geopolítica (IX): La intervención de El Salvador en Haití",
+   "resumen": "El Salvador es un país interesantísimo para análisis geopolíticos. De ser un país asolado por la guerra civil en los años 70 y 80 del siglo pasado, que poco o nada contaba en el escenario regional, hoy día se ha…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/RJMIAIAC55COZB5VZ23T4VTTJU.jpeg?auth=7fe3bc9023a9343126392d2248649c85649c331e7cf37961ee6b772454398cb3&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/22/hablemos-de-geopolitica-ix-la-intervencion-de-el-salvador-en-haiti/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-22T06:00:00Z",
+   "id": "7291bd5d1823"
+  },
+  {
+   "titulo": "Sin justicia no hay nada",
+   "resumen": "En los debates públicos de Colombia suelen monopolizar la agenda las reformas económicas, laborales o de salud. Sin embargo, ninguna transformación social o económica es sostenible si el sistema encargado de garantizar…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/USHC7TS23NED7MTMJWHKFC532U.jpg?auth=b4ee955693e6f3edf4c5c97d737c28ddc209097136c7ee824aa049330c8927f0&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/22/sin-justicia-no-hay-nada/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-22T06:00:00Z",
+   "id": "d927f71843dd"
+  },
+  {
+   "titulo": "Colombia patria milagro",
+   "resumen": "Para quienes la vida nos dio la oportunidad de servir a la sociedad como alcalde o, especialmente como gobernador, sabemos lo que significa el Plan de Desarrollo y el Plan Plurianual de Inversiones y lo que representa…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/NCS4CQURNRGI5NV5OHOQKYA7RM.jpg?auth=1c2e96310cf93faf78d80430b3fe57170238f54300d8190be1d4b1de47441c58&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/22/colombia-patria-milagro/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-22T06:00:00Z",
+   "id": "ee161c217258"
+  },
+  {
+   "titulo": "Un ajuste fiscal con huecos",
+   "resumen": "La Ley de Rescate Económico es una reforma tributaria que fue presentada por el Gobierno como la respuesta al grave desequilibrio de las finanzas públicas. Pero no hay claridad sobre las cifras que sustentan el ajuste…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/EO3QWH36RFHZ7HC76WNUKJNSCU.jpg?auth=0448b96073f26f7635f0cefe7ad0c4fa85b8917862bd06a8f4c6e897c878676f&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/22/un-ajuste-fiscal-con-huecos/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-22T06:00:00Z",
+   "id": "18cc49911dc7"
+  },
+  {
+   "titulo": "La noche en Curramba fue xeneize: así fueron las celebraciones de la hinchada de Boca Juniors tras el grito de campeón",
+   "resumen": "Sebastían Villa en cada jugada generó alegría, pero su pase para el segundo gol xeneize despertó la locura en tribunas, calles y bares.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/21/6b0261184c6a5.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/barranquilla/la-noche-en-curramba-fue-xeneize-asi-fueron-las-celebraciones-de-la-hinchada-de-boca-juniors-tras-el-grito-de-campeon-3603114",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
    "region": "Colombia",
-   "fecha": "2026-11-22T01:01:41Z",
-   "id": "e988fbbcf52c"
+   "fecha": "2026-11-22T05:01:00Z",
+   "id": "a73cc76e5578"
   },
   {
    "titulo": "Emergencia por tormenta eléctrica en Medellín: Federico Gutiérrez da nuevo reporte de afectaciones por lluvias, con tres quebradas en nivel rojo",
@@ -176,17 +352,6 @@
    "id": "468acd7bdb9b"
   },
   {
-   "titulo": "Avión con 65 pasajeros terminó fuera de la pista en Ecuador: esto se sabe del incidente",
-   "resumen": "La aeronave, un Boeing 737-500 que cubría la ruta Quito-Santa Rosa, terminó sobre una zona de maleza. La aerolínea anunció la suspensión de sus operaciones en ese trayecto.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/HLOHSHVL5ZDNRIU4MUYF5G76CM.png?auth=4c9459bc33e943faf4d21f3ae9aaf9d48da1eeb90b5651c053293c475db22a7e&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/mundo/2026/11/21/avion-con-65-pasajeros-termino-fuera-de-la-pista-en-ecuador-esto-se-sabe-del-incidente/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-22T01:00:13Z",
-   "id": "6335de3fc2c8"
-  },
-  {
    "titulo": "La contaminación en Barrancabermeja y la muerte silenciosa de los manatíes: en ocho años han muerto 21 ejemplares de esta especie en vía de extinción",
    "resumen": "Solo en 2026 se han reportado siete muertes de este emblemático animal del Magdalena Medio.",
    "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/24/6ab53137a786d.jpeg",
@@ -196,17 +361,6 @@
    "region": "Colombia",
    "fecha": "2026-11-22T00:56:31Z",
    "id": "6c46a6b43a63"
-  },
-  {
-   "titulo": "Culona Noche: número ganador del sorteo del sábado 21 de noviembre de 2026",
-   "resumen": "Conoce los resultados del último sorteo de La Culona Noche del sábado 21 de noviembre de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/XUIPJAFQOBCY3EJX5TXIYROAK4.jpeg?auth=fbe274139d44c0f5e493b4b42589bfef7db2549f407b6fd9968ad3efcaa2f99a&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/11/21/culona-noche-numero-ganador-del-sorteo-del-sabado-21-de-noviembre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-22T00:51:00Z",
-   "id": "712a6ad0c686"
   },
   {
    "titulo": "La Feria de Vivienda ‘Casa Mía’ ofrece subsidios de hasta $50 millones a damnificados por el terremoto en Cali: la jornada sigue este 22 de noviembre",
@@ -220,50 +374,6 @@
    "id": "ae3ad1165426"
   },
   {
-   "titulo": "Boca Juniors volvió a la gloria internacional: es campeón de la Copa Sudamericana en Barranquilla",
-   "resumen": "El equipo argentino derrotó a Atlético Mineiro en el estadio Metropolitano Roberto Meléndez y conquistó su tercer título de la Copa Sudamericana.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/MC44BFGYZ5FMZEJWW3KH7BXOIY.jpg?auth=a7fd7bc003b4110d4e29b1f148c5667fbf14940c0573400ade04783904b9f8d4&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/deportes/futbol/2026/11/21/boca-juniors-volvio-a-la-gloria-internacional-es-campeon-de-la-copa-sudamericana-en-barranquilla/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-22T00:26:25Z",
-   "id": "d4e83150e7fb"
-  },
-  {
-   "titulo": "Donald Trump confirmó ciberataque contra el FBI y abrió interrogantes sobre posible filtración de datos",
-   "resumen": "El ataque afectó al Centro Nacional de Información Criminal del FBI. El mandatario estadounidense no precisó quiénes estarían detrás de la intrusión.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/VY46NA37UZFEPGADL3P456HK5I.jpg?auth=96ff7d8452a6fbfb815f01a823329c0ff322fcd09e6401cdf178fc19f9295b07&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/mundo/2026/11/21/donald-trump-confirmo-ciberataque-contra-el-fbi-y-abrio-interrogantes-sobre-posible-filtracion-de-datos/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-21T23:56:04Z",
-   "id": "6fd984a54421"
-  },
-  {
-   "titulo": "Chontico Noche: resultado del sorteo de hoy sábado 21 de noviembre de 2026",
-   "resumen": "Resultado del último sorteo del Chontico Noche del sábado 21 de noviembre de 2026 ¡Felicitaciones al ganador!",
-   "imagen": "https://www.vanguardia.com/resizer/v2/DSCJZEFACRGCTMWAQYLFHUNVP4.png?auth=9b7fb17266ee6ca095dc658c28f5154c917037f4c18c3bf45191e3b07a3e4786&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/11/21/chontico-noche-resultado-del-sorteo-de-hoy-sabado-21-de-noviembre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-21T23:51:00Z",
-   "id": "a0483dbb734f"
-  },
-  {
-   "titulo": "Operativo contra alias ‘El Chapo Isidro’ en México deja muertos a cuatro militares y siete presuntos criminales",
-   "resumen": "Las autoridades también reportaron ocho detenidos y el traslado del presunto narcotraficante a Ciudad de México.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/AMCFRPK26FCRBPO7Q5CZBW3O6I.jpg?auth=acfb5a3cebcc07ff194f04f955fef4099c7d8c847206709638594ec820ce9fcc&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/mundo/2026/11/21/operativo-contra-alias-el-chapo-isidro-en-mexico-deja-muertos-a-cuatro-militares-y-siete-presuntos-criminales/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-21T23:24:37Z",
-   "id": "dac9163c405b"
-  },
-  {
    "titulo": "Cortes de agua en Medellín este domingo 22 de noviembre del 2026: Barrios afectados y horarios de suspensión",
    "resumen": "",
    "imagen": "",
@@ -273,72 +383,6 @@
    "region": "Colombia",
    "fecha": "2026-11-21T23:08:14Z",
    "id": "2f4cfb6100da"
-  },
-  {
-   "titulo": "El sismo de magnitud 6,7 en Perú dejó un muerto, 16 heridos y más de 850 damnificados",
-   "resumen": "Las autoridades reportaron daños en viviendas, centros educativos, establecimientos de salud y vías de transporte.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/YCPMSIGLXRGUXFTTGNYY4V3POI.jpg?auth=a4e68fee8a48c23323818434cb87f3870b8336df8065f04a26eca2b2389c8965&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/mundo/2026/11/21/el-sismo-de-magnitud-67-en-peru-dejo-un-muerto-16-heridos-y-mas-de-850-damnificados/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-21T23:01:24Z",
-   "id": "5a774017e3a1"
-  },
-  {
-   "titulo": "Paisita 2: resultado del sorteo de hoy sábado 21 de noviembre de 2026",
-   "resumen": "¿Ganó el Paisita 2? Consulte el número ganador de hoy sábado 21 de noviembre de 2026 y revise si la suerte lo acompañó en el segundo sorteo de la jornada.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/XPU6TUA3J5CEFFK6EEPLVFVILU.png?auth=c85775cf2999bcdf5683644068d8535bb77228075acd49c0c0b53fbabc681c91&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/loterias/2026/11/20/paisita-2-resultado-del-sorteo-de-hoy-sabado-21-de-noviembre-de-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-21T22:53:00Z",
-   "id": "6a7ab1e5dd6f"
-  },
-  {
-   "titulo": "¿Por qué todos hablan de ‘Compa Coleto’? La clave del éxito de Aria Vega en las redes sociales",
-   "resumen": "La artista colombiana conquista las plataformas digitales con su sencillo ‘Compa Coleto (uy_como)’, que supera los 43 millones de reproducciones en Spotify y suma millones de publicaciones en TikTok.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/QF77GMDJANAJHNQCXFVQAGXWSI.jpg?auth=dcfd5917e9c4f0987e633f387c163794a7a0d43d334eb1f090f6aedbf1626656&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/entretenimiento/tendencias/2026/11/21/por-que-todos-hablan-de-compa-coleto-la-clave-del-exito-de-aria-vega-en-las-redes-sociales/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-21T22:39:47Z",
-   "id": "b854f16496ea"
-  },
-  {
-   "titulo": "Murió motociclista que sufrió accidente hace un año en la autopista a Floridablanca",
-   "resumen": "Un motociclista que sufrió un grave accidente en la autopista a Floridablanca murió un año después, tras permanecer durante meses hospitalizado en Bucaramanga. Las autoridades investigan las circunstancias del siniestro.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/LOBU25DMWNC3TIHVD7R2RH6CVI.jpg?auth=c081f845888f2e2b22a72d1eb498f9713b3680d21aed9c88073e7a07a4ec56b7&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/judicial/2026/11/21/murio-motociclista-que-sufrio-accidente-hace-un-ano-en-la-autopista-a-floridablanca/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-21T22:37:34Z",
-   "id": "6e220047f673"
-  },
-  {
-   "titulo": "Carlos Mario Suárez, primer joven con síndrome de Down que ingresa a laborar en la Refinería de Barrancabermeja",
-   "resumen": "Carlos Mario Suárez, joven de 27 años con síndrome de Down, consiguió empleo con Fermar en la Refinería de Barrancabermeja. Conoce su historia y cómo logró esta oportunidad laboral.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/JGGPC6KG6NGLLA25N76DJWBOIM.jpeg?auth=4bfae981beb627ef06f1e6a5a2c28f17fb1f32fe581262ae315e15745d6331fc&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/santander/barrancabermeja/2026/11/21/carlos-mario-suarez-primer-joven-con-sindrome-de-down-que-ingresa-a-laborar-en-la-refineria-de-barrancabermeja/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-21T22:37:18Z",
-   "id": "1c0048bac7d1"
-  },
-  {
-   "titulo": "Boca Juniors vs. Atlético Mineiro: La final de la Copa Sudamericana 2026 en Barranquilla",
-   "resumen": "El Estadio Metropolitano de Barranquilla recibirá este sábado 21 de noviembre la definición del título continental.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/M444QMAJCVF75CHKJRJFNSUU4E.png?auth=9fc6afa5c7dd5c39664bfd1cea336b742952c2d08777b2b08509aad6122b5fed&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/deportes/futbol/2026/11/19/a-que-hora-y-donde-ver-la-final-de-la-copa-sudamericana-2026-entre-boca-juniors-y-atletico-mineiro/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-21T22:34:43Z",
-   "id": "4884aac81c7c"
   },
   {
    "titulo": "¿Quién es el presunto agresor con frases racistas contra la policía Tatiana Carabalí?: así van acciones judiciales en su contra y su empleo",
@@ -363,17 +407,6 @@
    "id": "d5e5c1c5f530"
   },
   {
-   "titulo": "Video | Un bus quedó suspendido al borde de una pendiente en zona de Zamora, Bello, en Antioquia: como de película, sus pasajeros se pusieron a salvo",
-   "resumen": "El vehículo de la ruta Zamora - Centro se salió de la vía a la altura de la carrera 42 con número 20-92.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/21/6b020247ef7a5.r_d.497-460-0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/video-un-bus-quedo-suspendido-al-borde-de-una-pendiente-en-zona-de-zamora-bello-en-antioquia-como-de-pelicula-sus-pasajeros-se-pusieron-a-salvo-3603055",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-21T21:07:08Z",
-   "id": "400ed9082318"
-  },
-  {
    "titulo": "Prima de Navidad para profesores en 2026: Fecha de pago y valor",
    "resumen": "",
    "imagen": "",
@@ -385,17 +418,6 @@
    "id": "c23fe87493a4"
   },
   {
-   "titulo": "Video: El alcalde de Barranquilla, Alejandro Char, dedicó condecoración de la Conmebol a los obreros que intervinieron el 'Supermetro'",
-   "resumen": "La Conmebol le otorgó a Char la Orden del Honor al Mérito del Fútbol Sudamericano",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/20/6b00ad0ef278d.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/barranquilla/video-el-alcalde-de-barranquilla-alejandro-char-dedico-condecoracion-de-la-conmebol-a-los-obreros-que-intervinieron-el-supermetro-3603053",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-21T20:47:05Z",
-   "id": "138e4949434c"
-  },
-  {
    "titulo": "RCN Radio",
    "resumen": "",
    "imagen": "",
@@ -405,17 +427,6 @@
    "region": "Colombia",
    "fecha": "2026-11-21T19:46:40Z",
    "id": "480277a57d6e"
-  },
-  {
-   "titulo": "Grave volcamiento de un camión de carga bloquea la vía a Buenaventura, Valle: las pérdidas por parálisis pueden ascender a $ 10.000 millones diarios",
-   "resumen": "Una tractomula con un contenedor quedó volcada sobre la calzada este sábado 21 de noviembre, en el sector de Los Tubos, vía Buenaventura-Loboguerrero.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/21/6b01f1efc72d8.r_d.284-297-0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/grave-volcamiento-de-un-camion-de-carga-bloquea-la-via-hacia-buenaventura-valle-perdidas-por-paralisis-pueden-ascender-a-10-000-millones-diarios-3603038",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-21T19:46:11Z",
-   "id": "033f1adb5cd1"
   },
   {
    "titulo": "¿Cuándo se publica el último IPC de 2026 y qué servicios subirán en 2027?",
@@ -451,17 +462,6 @@
    "id": "95efd93ed460"
   },
   {
-   "titulo": "El Socorro recibirá a más de 340 personeras del país en encuentro nacional",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeGFjalpiaGp6SFU5YnJ5ZzVHSDBCLUpnOEdkOGxzYXE4MGRzcnFndTBaQkxNdHpRT25kVEhha0hvcXdpOWxOQ2d2XzFRQkU1ZThqcE5VcXVzRG8wTWV6ekJXQ2xlQmhlS2pkQWlhaEZMNmU0ZHBkbnFNUUROM0w5WW0yMlRBckRJYjZVNldzMzZvVWtMb0hQMFRoaWVVU2xs?oc=5",
-   "medio": "El Frente",
-   "fuente": "provincia",
-   "region": "Santander",
-   "fecha": "2026-11-21T14:21:36Z",
-   "id": "b29f07b198f7"
-  },
-  {
    "titulo": "Alcaldía de Bogotá anuncia cierre en la avenida Boyacá por obras del acueducto: carril afectado y duración de las restricciones",
    "resumen": "",
    "imagen": "",
@@ -484,15 +484,15 @@
    "id": "6d09b9c7a3d9"
   },
   {
-   "titulo": "Impuesto predial y vehicular en Cundinamarca: Anuncian descuentos del 90 % en intereses por mora",
+   "titulo": "San Gil y el convenio de $594 millones del alumbrado navideño",
    "resumen": "",
    "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLXB6a21EUTV1ZU9vN0pIb1BtcG5pMU1DT0tlMnRMeGVabWs4SVAxM2ZWMzVpbHJPT0NsYm12N29sOXBKNUpGeldXSXRqUlNQWG0xX2lxaHJlSnJ3Y3ZCVnczRURTaHM3cHBZbkQ1aGlraFZ4RHd5MWN5YjJpdFZOaVM3X1VtRlZPM0E2cGZ5UDQxSWhSTjY0VWNrVTdWZ1pUUEVEMGYwOVZnUk1PdFktRXRoT1lzUE5ldUxQMmdQWHVKcDB5Z0ZTeVVOZE4?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-11-21T09:58:57Z",
-   "id": "bd63e643cb1e"
+   "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYTdac2tITXZhdGo4dmpZbHdYTXh5c0UzbFJRdE9ibFVCQjU3Q3NVS2w4TE5kUVNhUndLUHZuVDROa2JqNWpINzdQVmR5ZnFiX1ZIN1JvOEZ0RmpkWGh2b1NNcG1SWXJlMmhxWWp4b3QwN2xCM2gtMXlIcTRjOWNTMmJmd0JZMU5iN3pneWRNWTN4VUVjLW9YbVQxTUZqM3JFbXRxbF9ueUlXUm5WNWg0d2JGX0MtbUd1d3c?oc=5",
+   "medio": "Vanguardia",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-11-20T21:13:00Z",
+   "id": "3784c1fedc0b"
   },
   {
    "titulo": "Variante de San Gil: Gustavo Moreno anuncia $300.000 millones en el Presupuesto",
