@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25T02:29:51Z",
+ "actualizado": "2026-11-25T12:56:23Z",
  "fuentes": [
   {
    "id": "vanguardia",
@@ -44,37 +44,312 @@
  ],
  "noticias": [
   {
-   "titulo": "Cambio Radical se reunirá este miércoles para estudiar eventual renovación de su dirección",
-   "resumen": "Las bancadas de Senado y Cámara de Cambio Radical se reunirán este miércoles, sobre las 12 del mediodía, en la sede de la colectividad, para discutir una eventual renovación de su dirección. Se trata de una…",
-   "imagen": "https://caracol.com.co/resizer/v2/N7JTG2R2QVAR7MWYEG6BF533RY.png?auth=95e44bf5a8cb256385a8f7119f5d785b2bf08ff41374b1ae700312d123556a8f&smart=true&width=300&height=118",
-   "enlace": "https://caracol.com.co/2026/11/25/cambio-radical-se-reunira-este-miercoles-para-estudiar-eventual-renovacion-de-su-direccion/",
+   "titulo": "El salvadoreño Kilmar Ábrego decidirá en España sobre sus próximos pasos, según su abogado",
+   "resumen": "El salvadoreño Kilmar Ábrego, convertido en un símbolo de la política de mano dura del Gobierno de Donald Trump tras su deportación ilegal de EEUU, decidirá en España, donde aterrizó este miércoles procedente de…",
+   "imagen": "https://caracol.com.co/resizer/v2/T3IPRD7B7RC5VMI6IWPJSWTSRE.jpg?auth=7ecc75d20b3776866a02c3742ae62de224d8b1bbbf647e353dd388573c468715&smart=true&width=678&height=452",
+   "enlace": "https://caracol.com.co/2026/11/25/el-salvadoreno-kilmar-abrego-decidira-en-espana-sobre-sus-proximos-pasos-segun-su-abogado/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-11-25T02:16:09Z",
-   "id": "b66f195ae484"
+   "fecha": "2026-11-25T12:52:00Z",
+   "id": "5b90674f990a"
   },
   {
-   "titulo": "Reportan apagón en Nariño, Putumayo y otros departamentos del suroccidente del país: investigan qué causó falla en circuitos de interconexión",
-   "resumen": "Las autoridades buscan determinar si el incidente se presentó debido a un presunto ataque armado contra la infraestructura eléctrica. Esto se sabe.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2025/06/18/685325b650ff6.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/reportan-apagon-en-narino-putumayo-y-otros-departamentos-del-suroccidente-del-pais-investigan-que-causo-falla-en-circuitos-de-interconexion-3603984",
+   "titulo": "PAE Boyacá proyecta atender a 109.000 estudiantes en 2027con recursos por más de $100.000 millones",
+   "resumen": "El programa de alimentación escolar cerró 2026 con cerca de 26 millones de raciones entregadas en los 120 municipios no certificados del departamento. Para el próximo año, la Gobernación proyecta fortalecer la cobertura…",
+   "imagen": "https://caracol.com.co/resizer/v2/DFGEUKK3MRCGVHALNRZZ76SHPI.jpeg?auth=aacede11fd9f0de54561392260e5b8b56ef9b1e4902535734d47978b3249cd71&smart=true&width=1280&height=854",
+   "enlace": "https://caracol.com.co/2026/11/25/pae-boyaca-proyecta-atender-a-109000-estudiantes-en-2027con-recursos-por-mas-de-100000-millones/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-25T12:49:46Z",
+   "id": "c9b8202c785e"
+  },
+  {
+   "titulo": "Seis personas, entre ellas dos niños, murieron tras accidente de una avioneta en Estados Unidos",
+   "resumen": "La Guardia Costera de Estados Unidos confirmó la muerte de las seis personas que viajaban en una avioneta que se estrelló el martes 24 de noviembre en el mar, cerca de Horn Island, frente a las costas del estado de…",
+   "imagen": "https://caracol.com.co/resizer/v2/PKN4UIXLS5D7TJYCIRDUA47WG4.jpg?auth=0019b41e61f937f41d2dc5f26f3063b414f36e6060125e6ca513663523088201&smart=true&width=6000&height=3978",
+   "enlace": "https://caracol.com.co/2026/11/25/seis-personas-entre-ellas-dos-ninos-murieron-tras-accidente-de-una-avioneta-en-estados-unidos/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-25T12:48:57Z",
+   "id": "ec129c199807"
+  },
+  {
+   "titulo": "Refuerzan control en entradas de Bucaramanga tras ataques contra la Fuerza Pública en otras ciudades",
+   "resumen": "Ante los recientes hechos de orden público registrados en diferentes ciudades del país , el alcalde de Bucaramanga, Cristian Portilla, anunció el fortalecimiento de las medidas preventivas de seguridad, especialmente en…",
+   "imagen": "https://caracol.com.co/resizer/v2/EYUOLMJTANEMJHKPOR2SOMJ6DQ.jpg?auth=d271a08c92e1bca0afaa9449254028e54ce1492371f5e65c976b107c7341766c&smart=true&width=1280&height=718",
+   "enlace": "https://caracol.com.co/2026/11/25/refuerzan-control-en-entradas-de-bucaramanga-tras-ataques-contra-la-fuerza-publica-en-otras-ciudades/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-25T12:46:50Z",
+   "id": "cfcbf4eabf66"
+  },
+  {
+   "titulo": "El presidente Abelardo De La Espriella confirmó atentados que dejaron a oscuras al suroccidente y ordenó plan: Remolino, región bajo fuego en Nariño",
+   "resumen": "La voladura de dos torres de energía en el corregimiento de El Remolino (Taminango, Nariño) dejó sin suministro eléctrico a cinco departamentos.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/23/6b05194267e36.r_d.249-471-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/cali/el-plan-del-presidente-abelardo-de-la-espriella-tras-confirmar-atentados-que-dejaron-a-oscuras-al-suroccidente-remolino-region-bajo-fuego-en-narino-3604055",
    "medio": "El Tiempo",
    "fuente": "eltiempo",
    "region": "Colombia",
-   "fecha": "2026-11-25T02:11:07Z",
-   "id": "b819b1e5c6b8"
+   "fecha": "2026-11-25T12:37:22Z",
+   "id": "8e752b8e4bb5"
   },
   {
-   "titulo": "Dimar detectó construcciones y ocupaciones no autorizadas en Playa Blanca, Santa Marta",
-   "resumen": "La Dirección General Marítima (Dimar) identificó presuntas ocupaciones indebidas de bienes de uso público durante una inspección realizada en el sector de Playa Blanca, en Santa Marta. Según informó la Capitanía de…",
-   "imagen": "https://caracol.com.co/resizer/v2/FR2JUVI5O5GQZAI7OEP47P27TY.jpeg?auth=5a1713ad9fcf36a33c22e101bb911458181a7204de40cde215a9276201ffab87&smart=true&width=1280&height=960",
-   "enlace": "https://caracol.com.co/2026/11/25/dimar-detecto-construcciones-y-ocupaciones-no-autorizadas-en-playa-blanca-santa-marta/",
+   "titulo": "Trabajador del Éxito en Cartagena que estuvo retenido reveló detalles de lo ocurrido al interior del almacén durante el secuestro: 'Eran violentos'",
+   "resumen": "El Ministerio de Defensa confirma el rescate de las víctimas ilesas y detalla el despliegue del operativo que abatió a un secuestrador.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/25/6b06cc1ca7278.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/trabajador-del-exito-en-cartagena-que-estuvo-retenido-revelo-detalles-de-lo-ocurrido-al-interior-del-almacen-durante-el-secuestro-eran-violentos-3604058",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-25T12:29:45Z",
+   "id": "42ed6f35b4e3"
+  },
+  {
+   "titulo": "Roy Barreras enfrenta querella por injuria de Enrique Vargas Lleras",
+   "resumen": "El hermano menor del fallecido dirigente Germán Vargas Lleras entabló en las últimas horas una querella por injuria contra Roy Barreras. Considera Enrique Vargas Lleras que el más reciente libro de Barreras llamado “Y…",
+   "imagen": "https://caracol.com.co/resizer/v2/WWHVMLXKL5HC7HUYG6MHN2QWKY.jpeg?auth=17489242efe20ecb27ea198b15469972f7d488b659ab459601057c68fb0c5f09&smart=true&width=3500&height=2333",
+   "enlace": "https://caracol.com.co/2026/11/25/roy-barreras-enfrenta-querella-por-injuria-de-enrique-vargas-lleras/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-11-25T02:09:32Z",
-   "id": "5f6784a992ea"
+   "fecha": "2026-11-25T12:15:52Z",
+   "id": "8880aad523b2"
+  },
+  {
+   "titulo": "Atentado con carro bomba contra la Gobernación del Meta en Villavicencio: gobernadora Rafaela Cortés visita el lugar de la explosión 24 horas después",
+   "resumen": "Conozca acá toda la información relacionada con la fuerte explosión y la reconstrucción de la zona.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/24/6b064031ab224.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/atentado-con-carro-bomba-contra-la-gobernacion-del-meta-en-el-centro-de-villavicencio-reacciones-y-ultimas-noticias-tras-el-ataque-terrorista-3604045",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-25T12:07:55Z",
+   "id": "e3a7217ba04b"
+  },
+  {
+   "titulo": "“El tiempo cada vez se hacía más largo”: el relato de una víctima en Cartagena",
+   "resumen": "Víctimas de la toma de rehenes en el Éxito de Cartagena contaron cómo vivieron las horas de incertidumbre.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/ZIF2FPHOHBADFKBBB3XAD43X6M.jpg?auth=910a9d720b128bcba68864b5e33b36b6323af1ba162854ac604787c7a4d22041&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/colombia/2026/11/25/el-tiempo-cada-vez-se-hacia-mas-largo-el-relato-de-una-victima-en-cartagena/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-25T12:05:55Z",
+   "id": "84e828f997f2"
+  },
+  {
+   "titulo": "Habló el esposo de una de las rehenes liberadas tras el secuestro en un almacén Éxito de Cartagena: 'Es difícil cuando los niños le preguntan a uno'",
+   "resumen": "La mujer, de 41 años, fue rescatada durante un operativo en el que participaron 30 comandos de la Policía Nacional y las Fuerzas Militares.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/24/6b05aa4dc1e09.r_d.1103-269-0.png",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/hablo-el-esposo-de-una-de-las-rehenes-liberadas-tras-el-secuestro-en-un-almacen-exito-de-cartagena-vivimos-angustiados-todo-el-dia-3604051",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-25T11:39:48Z",
+   "id": "68aa8d4fa027"
+  },
+  {
+   "titulo": "Estaban embriagados y dijeron que tenían explosivos: relato de rehén liberado en Éxito de Cartagena",
+   "resumen": "En 6AM W de Caracol Radio , Dayro Rafael Velázquez Castrillo, empleado del Éxito Cartagena y una de las personas retenidas durante más de 16 horas , reveló el terror que vivieron los trabajadores dentro del almacén…",
+   "imagen": "https://caracol.com.co/resizer/v2/4H5W3CBMGZF65A2FMFYY2CZ26U.jpg?auth=178363cd4ad3f48ec1ec490336b5970baff1d30cdd4fb02d9bd52d14343ef1bf&smart=true&width=650&height=488",
+   "enlace": "https://caracol.com.co/2026/11/25/estaban-embriagados-y-dijeron-que-tenian-explosivos-relato-de-rehen-liberado-en-exito-de-cartagena/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-25T11:35:39Z",
+   "id": "2a8a1980f745"
+  },
+  {
+   "titulo": "Los seis atentados terroristas que ha vivido Colombia en las últimas 72 horas: una escalada que genera rechazo en el país",
+   "resumen": "Meta, Cesar, Nariño y Norte de Santander han vivido varios hechos terroristas que dejan heridos y miles de millones en pérdidas.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/24/6b0626f82dacd.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/los-seis-atentados-terroristas-que-ha-vivido-colombia-en-las-ultimas-72-horas-una-escalada-que-genera-rechazo-en-el-pais-3604057",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-25T11:27:30Z",
+   "id": "b66567abd203"
+  },
+  {
+   "titulo": "Cartagena: rescatan rehenes del Éxito tras 18 horas de secuestro; un delincuente murió y tres habrían logrado camuflarse entre los liberados",
+   "resumen": "El operativo se desarrolló durante la madrugada de este miércoles 25 de noviembre. Un presunto delincuente fue abatido y otro capturado.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/25/6b068e2f5468b.png",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/atencion-presidente-abelardo-de-la-espriella-anuncia-el-rescate-de-todos-los-rehenes-en-el-exito-de-cartagena-un-secuestrador-fue-dado-de-baja-3604041",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-25T11:26:39Z",
+   "id": "ccf9ca6115f3"
+  },
+  {
+   "titulo": "Atentado terrorista ocasiona apagón en Nariño, Putumayo, Caquetá, Huila y Cauca: ¿dónde quedan las torres de energía que derribaron?",
+   "resumen": "Las autoridades investigan la detonación de dos torres de 230 kV que dejó sin luz a varios municipios. El Gobierno ordenó un plan especial de defensa.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/25/6b06beca12979.png",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/atentado-terrorista-ocasiona-apagon-en-narino-putumayo-caqueta-huila-y-cauca-donde-quedan-las-torres-de-energia-que-derribaron-3604052",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-25T11:25:06Z",
+   "id": "3f8bb6afc7e8"
+  },
+  {
+   "titulo": "Esposa de víctima del asalto en Éxito de Cartagena relató momentos de terror: “hasta lo golpearon”",
+   "resumen": "Sebastián Solana, uno de los ciudadanos retenidos durante el asalto al almacén Éxito en Cartagena , se encuentra a salvo tras vivir horas de angustia. Su esposa, María Claudia Paternina, relató en entrevista con 6AM W…",
+   "imagen": "https://caracol.com.co/resizer/v2/OC3VQ4Q7BJCUNHFKLI2S2DPRI4.jpeg?auth=5150d72a11f674351e52474dd051e92011d354261d8d74d446e2d05dfae3672c&smart=true&width=1280&height=720",
+   "enlace": "https://caracol.com.co/2026/11/25/esposa-de-victima-del-asalto-en-exito-de-cartagena-relato-momentos-de-terror-hasta-lo-golpearon/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-25T11:19:50Z",
+   "id": "93001f43d02a"
+  },
+  {
+   "titulo": "¡Colombia sigue en competencia! María Alejandra López entra al Top 12 de Miss Universo 2026",
+   "resumen": "María Alejandra López logró avanzar al grupo de las 12 semifinalistas de Miss Universo 2026 y mantiene viva la ilusión de Colombia de conquistar una nueva corona universal.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/P6CYMTZ5DZHATDD32WWFUU5Y3Q.png?auth=a17da89b58a62fdcde82fb668351f935e8ce087eba52bd7624e1d3303d1d2beb&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/entretenimiento/tendencias/2026/11/24/colombia-sigue-en-competencia-maria-alejandra-lopez-entra-al-top-12-de-miss-universo-2026/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-25T10:44:48Z",
+   "id": "b2a7bd52c956"
+  },
+  {
+   "titulo": "Juez le concedió detención domiciliaria al alcalde de Villanueva, José Luis Gómez, y al concejal Fredy Pineda",
+   "resumen": "Un Juzgado de Charalá decidió la detención domiciliaria del alcalde de Villanueva, José Luis Gómez Mancilla, y el concejal Fredy Albeiro Pineda Vesga, señalados en un presunto caso de corrupción.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/DVZVXHHZURH4DNX5YEITZJQI64.png?auth=15f3329c99ce161959d18389247850619d805a130c67776b6c239fcf5366914b&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/santander/2026/11/24/juez-le-concedio-detencion-domiciliaria-al-alcalde-de-villanueva-jose-luis-gomez-y-al-concejal-fredy-pineda/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-25T10:42:08Z",
+   "id": "3483c0e47c92"
+  },
+  {
+   "titulo": "Apagón masivo afecta a cinco departamentos del sur de Colombia y deja miles de usuarios sin luz",
+   "resumen": "La interrupción comenzó a reportarse hacia las 7:00 de la noche y mantiene en alerta a las autoridades regionales.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/56XX4AEIZNB23MVMESLN2KVWJQ.jpg?auth=8cb7e6b8e2a7fdacaa4cb8a6aac992e7a67c634acba18613cdc8b56971cff434&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/colombia/2026/11/24/apagon-masivo-afecta-a-cinco-departamentos-del-sur-de-colombia-y-deja-miles-de-usuarios-sin-luz/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-25T10:41:36Z",
+   "id": "53d07ea02bba"
+  },
+  {
+   "titulo": "Un secuestrador fue dado de baja: Así fue el rescate de los rehenes del Éxito de Cartagena",
+   "resumen": "Desde las primeras horas del día, hombres armados mantenían bajo su poder a un grupo de personas dentro del establecimiento comercial.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/SL6F6BVNJNHYDMER5L2HX4L3GI.png?auth=3c090bfa8db07fef89bde1ef38e6fe3ecab1f7233bf14fc6f3a972244f372976&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/colombia/2026/11/25/liberan-a-los-rehenes-de-la-toma-en-el-exito-de-cartagena-tras-horas-de-negociaciones/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-25T10:39:59Z",
+   "id": "a62f8bdabd02"
+  },
+  {
+   "titulo": "¡Evite multas! Pico y placa en Cali para el miércoles 25 de noviembre de 2026: consulte qué carros no pueden circular",
+   "resumen": "La restricción estará vigente durante 13 horas. Conozca las placas que no podrán circular, los horarios y las excepciones establecidas.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2023/08/22/64e4f642eae77.png",
+   "enlace": "https://www.eltiempo.com/colombia/cali/evite-multas-pico-y-placa-en-cali-para-el-miercoles-25-de-noviembre-de-2026-consulte-que-carros-no-pueden-circular-3604015",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-25T07:30:00Z",
+   "id": "adc7411bd986"
+  },
+  {
+   "titulo": "Síndrome de Waterloo",
+   "resumen": "Los efectos psicológicos del síndrome de Estocolmo son conocidos. Sobresalen los vínculos afectivos y la lealtad de las víctimas hacia sus captores. Este absurdo es análogo al conocido proverbio, ‘los pájaros…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/3NPBRDG2TRFTXP54TADSTP3F2Y.jpg?auth=31072c5b51ff8b0ab45e88c34e050801acebb1911464addd7bcde9b2813db24a&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/25/sindrome-de-waterloo/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-25T06:00:00Z",
+   "id": "d6a8a912a422"
+  },
+  {
+   "titulo": "La Navidad que no aparece en las fotografías",
+   "resumen": "Diciembre tiene una manera particular de recordarnos todo lo que pasó durante el año, pero también aquello que no ocurrió. Las redes sociales comienzan a llenarse de logros, viajes, metas cumplidas, familias reunidas…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/ZKYK2ZYYLRAM3PS4RHILLZUIJE.jpg?auth=a0f82b77a7a5d82e3c7c0edd62f0da473e3f80820f22fa487f148cc4cb73f166&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/25/la-navidad-que-no-aparece-en-las-fotografias/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-25T06:00:00Z",
+   "id": "d5ab3e1762c7"
+  },
+  {
+   "titulo": "La salud mental de los santandereanos demanda atención",
+   "resumen": "La ciudadanía, por su parte, debe comprender que la enfermedad mental se atiende y que el silencio solo agrava el sufrimiento y puede incluso conducir a la tragedia.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/Y77HSAMVDRGCBAKRMUB7GJBV6Y.jpg?auth=9fda64626f20c1611bc18d55707d029290a765be2ce035a22502a229ab61e783&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/editorial/2026/11/25/la-salud-mental-de-los-santandereanos-demanda-atencion/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-25T06:00:00Z",
+   "id": "57c71ba3bee1"
+  },
+  {
+   "titulo": "Hasta pronto",
+   "resumen": "Hay etapas que llegan a su fin y que, al mirar atrás, dejan más motivos para agradecer que para despedirse. Hoy escribo mi última columna en Vanguardia, al menos por ahora. Durante este tiempo, este espacio se convirtió…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/HIPP36LUJFDWHANMLE3WPUWKB4.jpg?auth=46f585661c47e9d06fb2b3a316ebf5da1dcba494094fbfe8c84ae195e610f650&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/25/hasta-pronto/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-25T06:00:00Z",
+   "id": "7c54dc02eb42"
+  },
+  {
+   "titulo": "A 10 años del acuerdo de paz",
+   "resumen": "Caricatura de Yeyo del 25 de noviembre de 2026",
+   "imagen": "https://www.vanguardia.com/resizer/v2/27BC4UXHC5DAFOET45AFTTJW2Q.jpg?auth=42ce3ed02f5fc00c77c47744a58062821f8a6ac996b58937c7f8064253bc749d&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/caricaturas/2026/11/25/a-10-anos-del-acuerdo-de-paz/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-25T06:00:00Z",
+   "id": "9c068e8b8685"
+  },
+  {
+   "titulo": "Retrocesos inaceptables en la fracasada cumbre climática COP 31",
+   "resumen": "La 31ª Conferencia de la ONU sobre el Cambio Climático (COP31) se celebró entre el 9 y 20 de noviembre de 2026 en Antalya, Turquía. Se informó que “fracasó después de que los países no lograran alcanzar un acuerdo tras…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/4IFRRGEPRRETTH4K54SI7KL6TA.jpg?auth=ec050ef63aefa092488aa394efc583b7054b348ada1a6108618b977c8e3a7e9a&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/25/retrocesos-inaceptables-en-la-fracasada-cumbre-climatica-cop-31/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-25T06:00:00Z",
+   "id": "feb55d03092d"
+  },
+  {
+   "titulo": "Bucaramanga tendrá cierres viales nocturnos en el centro por nuevas medidas de seguridad",
+   "resumen": "La decisión busca proteger las principales sedes institucionales y contempla acompañamiento de la Fuerza Pública durante las horas de restricción.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/3CINBEQYHVHO5P5TRU5MGF4A6I.JPG?auth=f124a10b3b56ef07771c52400840d9a5d0a1d1359b1160ac782bffd41cb6a4b8&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/11/24/bucaramanga-tendra-cierres-viales-nocturnos-en-el-centro-por-nuevas-medidas-de-seguridad/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-25T03:01:32Z",
+   "id": "baf0d10800e6"
+  },
+  {
+   "titulo": "Cayó presunto cabecilla del Eln señalado de lanzar explosivos y quemar vehículos en Norte de Santander",
+   "resumen": "Un fiscal de la Seccional Norte de Santander le imputó los delitos de extorsión agravada y concierto para delinquir.",
+   "imagen": "https://www.vanguardia.com/resizer/v2/DF5L2HKE5NH3FJB4TZZWB6HAAA.jpg?auth=f7b7daf7a0ed6fe4b5f1165761059120692e266a49dd231186d48b211a90be9c&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/judicial/2026/11/24/cayo-presunto-cabecilla-del-eln-senalado-de-lanzar-explosivos-y-quemar-vehiculos-en-norte-de-santander/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-25T02:51:47Z",
+   "id": "10232b3f110b"
   },
   {
    "titulo": "Capturaron en Bucaramanga a una mujer que era requerida para cumplir condena por hurto",
@@ -88,28 +363,6 @@
    "id": "c8b6a02ad84e"
   },
   {
-   "titulo": "Autoridades investigan apagón en el suroccidente de Colombia: en algunos sectores reportaron explosiones",
-   "resumen": "Los departamentos de Caquetá, Nariño, Huila, el sur del Cauca y Putumayo resultaron afectados.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/24/6b0637c9a30a0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/autoridades-investigan-apagon-en-el-suroccidente-de-colombia-una-falla-simultanea-entre-las-posibles-causas-3603992",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-25T02:03:41Z",
-   "id": "72391902c537"
-  },
-  {
-   "titulo": "Sin pico y placa durante dos años: Floridablanca concede beneficio por inscripción de vehículos",
-   "resumen": "Aquellos conductores que matriculen su automotor o radiquen su cuenta ante la Dirección de Tránsito y Transporte de Floridablanca quedarán exentos del pico y placa, durante 24 meses, y también serán exonerados del cobro…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/QDAZXWZ23VCX5MKHDB3DTYYM3Q.jpeg?auth=46d73e4012dc445aeb9474c7b67c460011e3487ed8973126bc893086c16789fe&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/11/24/sin-pico-y-placa-durante-dos-anos-floridablanca-concede-beneficio-por-inscripcion-de-vehiculos/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-25T02:02:26Z",
-   "id": "bfcdaaf6b0fb"
-  },
-  {
    "titulo": "Noche amarga para Atlético Bucaramanga en Bogotá: cayó goleado ante Millonarios",
    "resumen": "El equipo de Pablo Peirano cayó ante Millonarios por la fecha 2 del Grupo B de los cuadrangulares semifinales de la Liga BetPlay II 2026.",
    "imagen": "https://www.vanguardia.com/resizer/v2/7KQFDUWN65FQVHOGFDX5ZPWYNA.png?auth=02bee14d816cb02af5f1fdee86a49b25d693c9221907e2482b4588b6cd8486a9&smart=true&width=900&height=600",
@@ -119,105 +372,6 @@
    "region": "Santander",
    "fecha": "2026-11-25T02:01:07Z",
    "id": "73e039c62bad"
-  },
-  {
-   "titulo": "Apagón masivo afecta a cinco departamentos del sur de Colombia y deja miles de usuarios sin luz",
-   "resumen": "La interrupción comenzó a reportarse hacia las 7:00 de la noche y mantiene en alerta a las autoridades regionales.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/56XX4AEIZNB23MVMESLN2KVWJQ.jpg?auth=8cb7e6b8e2a7fdacaa4cb8a6aac992e7a67c634acba18613cdc8b56971cff434&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/colombia/2026/11/24/apagon-masivo-afecta-a-cinco-departamentos-del-sur-de-colombia-y-deja-miles-de-usuarios-sin-luz/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-25T02:00:13Z",
-   "id": "53d07ea02bba"
-  },
-  {
-   "titulo": "Capturaron al presunto responsable del homicidio de un menor de 12 años en Barrancabermeja",
-   "resumen": "El crimen ocurrió hacia el mediodía del lunes 23 de noviembre en el barrio María Eugenia, comuna 7 de Barrancabermeja.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/GPXZPQEUHRCB5NIGIFRAKDP3KE.png?auth=4b0a143cf35a76a80dafc25450913de901f4c3469e81eacbe28d5ca4d18eebd8&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/judicial/2026/11/24/capturaron-al-presunto-responsable-del-homicidio-de-un-nino-en-barrancabermeja/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-25T01:59:37Z",
-   "id": "c2d97d8fe06e"
-  },
-  {
-   "titulo": "Con proyectos listos, buscarán pactar compromisos con el Gobierno en el XXIII Congreso de Infraestructura",
-   "resumen": "Reunirá a autoridades regionales, empresarios y banca multilateral para discutir cómo cerrar las brechas del sector, impulsar nuevas inversiones y garantizar la continuidad de las obras.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/O3EGJ7OTYJC3FHE5M6YGT4WU6Q.JPG?auth=310ea38c1f331de6bfe087f831034eb0e5706b9e7fe8ef6129475c30ba1cb23f&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/economia/2026/11/24/con-proyectos-listos-buscaran-pactar-compromisos-con-el-gobierno-en-el-xxiii-congreso-de-infraestructura/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-25T01:58:38Z",
-   "id": "b5f983fbded1"
-  },
-  {
-   "titulo": "Millonarios vs. Atlético Bucaramanga hoy – Liga BetPlay II de 2026 Cuadrangulares Fecha 2",
-   "resumen": "Millonarios y Atlético Bucaramanga van por el primer triunfo en la fase de cuadrangulares semifinales de la Liga BetPlay II de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/VHPVUKWCJBCBFDUNJOLBFEJPAE.jpeg?auth=e46da9c959f55aa3d2d5523b3441effb210da8b5b537c57c5dcc45a5e5ce34d1&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/deportes/futbol/2026/11/24/millonarios-vs-atletico-bucaramanga-hoy-liga-betplay-ii-de-2026-cuadrangulares-fecha-2/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-25T01:56:03Z",
-   "id": "29fbf126ca76"
-  },
-  {
-   "titulo": "Se cumplen más de 12 horas de la toma de rehenes en el Éxito Cartagena: El presidente de la Espriella está en el lugar",
-   "resumen": "El presidente Abelardo de la Espriella arribó a la ciudad para estar al frente del operativo.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/CCDBJ5E4LBCSNAXYNB2TSDVMNQ.jpg?auth=2747b4941c3dbd73749ce96a99dacce49b61e73cda79dce0522c628a77fbdad2&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/colombia/2026/11/24/se-cumplen-mas-de-12-horas-de-la-toma-de-rehenes-en-el-exito-cartagena-el-presidente-de-la-espriella-esta-en-el-lugar/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-25T01:55:08Z",
-   "id": "3194c2baf406"
-  },
-  {
-   "titulo": "Sector de Infraestructura pide compromisos claros al Gobierno en su congreso anual en Cartagena",
-   "resumen": "Desde el 25 hasta el 27 de noviembre, el Centro de Convenciones de Cartagena de Indias recibe el XXIII Congreso Nacional de la Infraestructura, organizado por la Cámara Colombiana de la Infraestructura (CCI). Esta…",
-   "imagen": "https://caracol.com.co/resizer/v2/OWWW43P7SVHC3J2K5ULP7M6M3Q.jpeg?auth=663de290c9192328ce630b21c695b1e38214b87e009e046f78d87f8628b903e9&smart=true&width=1280&height=1600",
-   "enlace": "https://caracol.com.co/2026/11/25/sector-de-infraestructura-pide-compromisos-claros-al-gobierno-en-su-congreso-anual-en-cartagena/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-25T01:53:30Z",
-   "id": "ab50b091af17"
-  },
-  {
-   "titulo": "Proyecto de ley busca frenar estafas y suplantaciones en redes sociales en Colombia",
-   "resumen": "El representante a la Cámara por Santander, Miguel Ángel Pinto Rueda, radicó ante el Congreso un proyecto de ley estatutaria de Identidad Digital que busca obligar a las redes sociales y plataformas digitales que operan…",
-   "imagen": "https://caracol.com.co/resizer/v2/XRVJOP6XVVBFXOT27OLY2JJKXU.jpg?auth=85701b5271191752290cf878459ca6b93a9f3007665acb0cfc290c2f2889e9d9&smart=true&width=5712&height=4284",
-   "enlace": "https://caracol.com.co/2026/11/25/proyecto-de-ley-busca-frenar-estafas-y-suplantaciones-en-redes-sociales-en-colombia/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-25T01:38:43Z",
-   "id": "07c4e5bf6e0c"
-  },
-  {
-   "titulo": "Miss Universo 2026: ¿Quiénes son las favoritas a llevarse la corona? Listado completo de candidatas",
-   "resumen": "Hoy 24 de noviembre, todas las miradas están en el coliseo José Miguel Agrelot de San Juan, Puerto Rico, donde se llevará a cabo la gran final de Miss Universo 2026, el certamen de belleza internacional de mayor…",
-   "imagen": "https://caracol.com.co/resizer/v2/XLAFUNQ6UZFNJBFK455I2EOZKU.png?auth=7cfead9bb0a40a5e581c81fe12bcfba6850a6149612669587301e37dd80e2527&smart=true&width=650&height=488",
-   "enlace": "https://caracol.com.co/2026/11/25/miss-universo-2026-quienes-son-las-favoritas-a-llevarse-la-corona-listado-completo-de-candidatas/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-25T01:36:20Z",
-   "id": "bf5b8caa3b94"
-  },
-  {
-   "titulo": "Cartagena: De La Espriella llega al Éxito tras 12 horas de toma; 21 personas siguen retenidas y la cúpula militar coordina la respuesta en el sitio",
-   "resumen": "El mandatario llegó con el alcalde Dumek Turbay y la cúpula militar y policial. Tras 12 horas de toma, 21 personas siguen retenidas; aún negocian.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/24/6b05aa4dc1e09.r_d.1103-269-0.png",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-de-la-espriella-llega-al-exito-tras-12-horas-de-toma-21-personas-siguen-retenidas-y-la-cupula-militar-coordina-la-respuesta-en-el-sitio-3603996",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-25T01:31:25Z",
-   "id": "9793c29d6fab"
   },
   {
    "titulo": "Cortes de luz en Antioquia este miércoles 25 de noviembre del 2026: Municipios afectados y horarios",
@@ -231,105 +385,6 @@
    "id": "9161d94e4502"
   },
   {
-   "titulo": "Automedicación con antibióticos en Colombia: los riesgos de consultar a Google o ChatGPT",
-   "resumen": "La automedicación con antibióticos preocupa en Colombia. Expertos advierten sobre los riesgos de usar inteligencia artificial para elegir tratamientos.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/KZV3Z3JIOVEPJM2WDAXAIKIJLY.jpg?auth=989cc361f4482b20596b560cac001e6462b25cd598e5ca31fe9e75593c577b45&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/entretenimiento/salud/2026/11/24/automedicacion-con-antibioticos-en-colombia-los-riesgos-de-consultar-a-google-o-chatgpt/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-25T01:21:21Z",
-   "id": "e1854b807eca"
-  },
-  {
-   "titulo": "Millonarios goleó a Bucaramanga y es líder del Grupo B de los cuadrangulares",
-   "resumen": "Millonarios consiguió una importante victoria frente a Atlético Bucaramanga en el estadio Nemesio Camacho El Campín , por la segunda fecha de los cuadrangulares semifinales de la Liga colombiana. El conjunto albiazul se…",
-   "imagen": "https://caracol.com.co/resizer/v2/BKIIB2QE2RFHZGW33H3BHGWPWY.jpg?auth=41a76cfb96a63e428ad9d4f0792a411c454ef3a2ffd1b0dfcbd4dc04c216eba8&smart=true&width=1080&height=810",
-   "enlace": "https://caracol.com.co/2026/11/24/en-vivo-millonarios-vs-bucaramanga-hoy-minuto-a-minuto-y-transmision-del-partido/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-25T01:16:01Z",
-   "id": "d4ff9f9ea00a"
-  },
-  {
-   "titulo": "Senegal recupera el título de la Copa África: el TAS revocó el fallo que le daba el campeonato a Marruecos",
-   "resumen": "El Tribunal de Arbitraje Deportivo confirmó a Senegal como campeón de la Copa África de Naciones 2025, tras aceptar por unanimidad el recurso contra la decisión de la CAF que había declarado ganador a Marruecos.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/GHI5TJUZVNCJFCT7MFYQVWJCCQ.jpg?auth=64996c1ed7c8e207d56242358aee373249757437777e0945da35f4d31ef9d111&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/deportes/futbol/2026/11/24/senegal-recupera-el-titulo-de-la-copa-africa-el-tas-revoco-el-fallo-que-le-daba-el-campeonato-a-marruecos/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-25T01:00:49Z",
-   "id": "f360f0def012"
-  },
-  {
-   "titulo": "Ataque con drones explosivos contra el Ejército provocó cierre de la vía Panamericana",
-   "resumen": "El hostigamiento ocurrió hacia las 4:30 p. m. y generó restricciones para viajeros y transportadores del suroccidente colombiano.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/RKHG5Z7KZ5EZ7HEC5Q4KH3JKI4.jpg?auth=e6cdc59cd395b486bdace356fb4db50a51f3215eced990545c41d8f2cfdc80fd&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/colombia/2026/11/24/ataque-con-drones-explosivos-contra-el-ejercito-provoco-cierre-de-la-via-panamericana/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-25T00:59:19Z",
-   "id": "d281bf988488"
-  },
-  {
-   "titulo": "Bucaramanga refuerza medidas de seguridad y cierra vías en los alrededores de Alcaldía y Gobernación de Santander tras carro bomba en Villavicencio",
-   "resumen": "El cierre vial solo es nocturno y comenzó a regir desde este 24 de noviembre hasta nueva orden.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/01/23/6973a1518c090.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/santander/bucaramanga-refuerza-medidas-de-seguridad-y-cierra-vias-en-los-alrededores-de-alcaldia-y-gobernacion-de-santander-tras-carro-bomba-en-villavicencio-3603983",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-25T00:53:59Z",
-   "id": "956cff4a0419"
-  },
-  {
-   "titulo": "Esta es la resolución que pedía la suspensión de orden de captura del implicado en atentado del Meta",
-   "resumen": "El atentado contra la Gobernación del Meta ya dejó cerca de 23 heridos y, al menos, 500 propiedades afectadas . El presidente Abelardo De La Espriella llegó a la ciudad de Villavicencio, y junto al jefe de Gabinete…",
-   "imagen": "https://caracol.com.co/resizer/v2/5MP5JWUMAZPOLBDCM6WTUHASG4.jpg?auth=4d390c81feb59c90003d9b3264bc2b615d150bfe4a57fe1cea3ed50f6c86247a&smart=true&width=1080&height=625",
-   "enlace": "https://caracol.com.co/2026/11/25/esta-es-la-resolucion-que-pedia-la-suspension-de-orden-de-captura-de-implicado-en-atentado-del-meta/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-25T00:43:51Z",
-   "id": "6c4f99c5426a"
-  },
-  {
-   "titulo": "Robo con rehenes en Éxito de Cartagena: esto es lo que se sabe a esta hora sobre el operativo",
-   "resumen": "Los responsables habrían pedido $7.000 millones a cambio de liberar a los rehenes. Conozca aquí cómo avanza la emergencia en Cartagena.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/MHZZZGI4A5B5VNEA6N4RG3RZVQ.jpeg?auth=6304a8a125cd5ba1eb5c8be981f5fc788a79873be8fa5509e4b035720990f41f&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/colombia/2026/11/24/robo-con-rehenes-en-exito-de-cartagena-minuto-a-minuto-del-operativo/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-25T00:33:29Z",
-   "id": "73f548051919"
-  },
-  {
-   "titulo": "Video: vea el doblete de Cucho Hernández en la Champions League con el que brilló el Betis",
-   "resumen": "El delantero colombiano marcó dos goles en la victoria del Real Betis frente al Slovan Bratislava, en Eslovaquia, resultado que dejó al equipo español con 12 puntos y en la cuarta posición de la fase de Liga de la…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/SISSLFO5BJGFJGXR6LU7WGPL4Y.jpg?auth=be999daae6aae623f1bce2362fbdd70197739cc77bcae2252f067ab1fd15fd6f&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/deportes/futbol/2026/11/24/video-vea-el-doblete-de-cucho-hernandez-en-la-champions-league-con-el-que-brillo-el-betis/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-25T00:19:17Z",
-   "id": "4dbc3d9539c3"
-  },
-  {
-   "titulo": "Cámara suspende a Verónica Estrada por tres meses y deja su curul temporalmente vacante",
-   "resumen": "La medida cautelar también implica que la congresista dejará de recibir salario y tendrá que entregar los elementos asignados para sus funciones legislativas.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/VMYNHABFYFBPFJHFL7LSTWZ2LI.png?auth=d6391f054d096f97b32b4994a962c0f637acd61f7f60e6f4fcd7bc4ea172735c&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/colombia/2026/11/24/camara-suspende-a-veronica-estrada-por-tres-meses-y-deja-su-curul-temporalmente-vacante/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-25T00:10:17Z",
-   "id": "1dbb767f08bc"
-  },
-  {
    "titulo": "Máxima preocupación en Santander por altas temperaturas: días de 40 grados, ríos secos y riesgo de incendios",
    "resumen": "",
    "imagen": "",
@@ -341,59 +396,15 @@
    "id": "fe28a491e7df"
   },
   {
-   "titulo": "Accidente de camión cisterna provocó cierre de autopista y caos vial en Houston",
-   "resumen": "El siniestro movilizó equipos especializados, provocó importantes congestiones y dejó una persona fallecida, según reportes de medios locales.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/SCLC6Z4BSZE6ZP4LHYRHMBBA2I.jpeg?auth=82c5da8a50fb4d25ea2ef7b8993c6e84c44d9989fc9582440727352045391f4d&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/mundo/2026/11/24/accidente-de-camion-cisterna-provoco-cierre-de-autopista-y-caos-vial-en-houston/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
+   "titulo": "Jhon Alexander Sierra fue asesinado por sicarios en San Gil, Santander",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTzE3TDZwd09LMDFkVlRqT2d2YTV5empaRWJlTjZkWmxlMDhNRG1hYUVRUUlTdTJRS1RHQklSNTJGc25Hb3VwU2NkZDJwVFotLWR0dlQ1Z1JGQ1RnYk1fRE9kcW9zQU9LVWVmNXJzampZbmV1MUl4QW1NNWlRN3pqaGhHbVV5cDBLSmNBU1duUXIxcFNrMkd0WVdYbGpkVkFlUkplTXlZUkpqV1Fq?oc=5",
+   "medio": "Ke se dice",
+   "fuente": "provincia",
    "region": "Santander",
-   "fecha": "2026-11-24T23:21:13Z",
-   "id": "a800777bd771"
-  },
-  {
-   "titulo": "$ 39.000 millones para la memoria de la salsa: Concejo de Cali aprueba la transformación integral del Barrio Obrero",
-   "resumen": "Durante el debate, los ediles enfatizaron que la inversión trasciende la obra civil; se trata de un proyecto de nación y memoria.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/26/6adf835291120.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/39-000-millones-para-la-memoria-de-la-salsa-concejo-de-cali-aprueba-la-transformacion-integral-del-barrio-obrero-3603955",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-24T23:18:07Z",
-   "id": "0afdbc4af6f1"
-  },
-  {
-   "titulo": "Drones, explosivos y un carro bomba: los cinco ataques terroristas que se registraron en Colombia entre el 21 y el 23 de noviembre",
-   "resumen": "Los ataques se registraron en los departamentos de Cesar, Norte de Santander y Meta.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/24/6b058647ca35e.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/drones-explosivos-y-un-carro-bomba-cinco-ataques-violentos-se-registraron-en-colombia-entre-el-21-y-el-23-de-noviembre-3603953",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-24T23:12:10Z",
-   "id": "757e95850eba"
-  },
-  {
-   "titulo": "Mucho más que trenes y metrocables: esta es la millonaria apuesta inmobiliaria con la que el Metro de Medellín reinventa su modelo",
-   "resumen": "Con el proyecto Estación 77, la entidad usará sus predios en Envigado para que allí se construya vivienda y comercio, buscando ingresos extra.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/24/6b0612de36464.r_d.68-360-0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/mucho-mas-que-trenes-y-metrocables-esta-es-la-millonaria-apuesta-inmobiliaria-con-la-que-el-metro-de-medellin-reinventa-su-modelo-3603954",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-24T23:00:30Z",
-   "id": "9ad8356570fd"
-  },
-  {
-   "titulo": "Santander en máxima alerta: autoridades reportan temperaturas que llegaron hasta los 40 grados centígrados",
-   "resumen": "Sabana de Torres es el municipio con mayor preocupación por sus altas temperaturas. Se reportan 17 municipios con reducción en fuentes hídricas.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/24/6b05f1325c253.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/santander/santander-en-maxima-alerta-autoridades-reportan-temperaturas-que-llegaron-hasta-los-40-grados-centigrados-3603884",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-24T22:28:59Z",
-   "id": "3fd3b87943b8"
+   "fecha": "2026-11-24T21:52:05Z",
+   "id": "f8093bd67b59"
   },
   {
    "titulo": "Capturan en San Gil y Barichara a presuntos sicarios de bandas criminales de Barranquilla",
@@ -416,17 +427,6 @@
    "region": "Santander",
    "fecha": "2026-11-24T19:25:12Z",
    "id": "18bb55566692"
-  },
-  {
-   "titulo": "El Gobierno entregará $15.000 millones para la recuperación de los daños del atentado en Meta",
-   "resumen": "Este martes, 24 de noviembre, el presidente Abelardo de la Espriella llegó desde muy temprano a la ciudad de Villavicencio y, junto su equipo, conformado por el jefe de Gabinete, Nicolás Gómez; y el ministro de Defensa…",
-   "imagen": "https://caracol.com.co/resizer/v2/DMEC6QUMYFDRJDGLLLW4PFVCTI.jpeg?auth=eae1f0c00f3d6a4fcc3b0398d1b283747d32dfbc33f721d7c1816e7022b56413&smart=true&width=1320&height=708",
-   "enlace": "https://caracol.com.co/2026/11/24/15000-millones-entregara-el-gobierno-para-la-recuperacion-de-los-danos-del-atentado-en-meta/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-24T19:08:44Z",
-   "id": "7b5f827c143c"
   },
   {
    "titulo": "RCN Radio",
@@ -517,17 +517,6 @@
    "id": "a4d02fc13d5f"
   },
   {
-   "titulo": "Nueve capturados por vender chance y rifas ilegales en Santander: incautaron mil boletas y hasta un vehículo",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNkR2RnJYaHdkbERGeXdmV2llZnFnYnlxTTV5OWxrWGpPbk10aXQ3dF8zREZHYzJHYTlheXNnMjMtY0cxYXd2QVZhSkhzWFRwWHpvQWJtblVZMG9hX21FanBuRXhyajMzbEZHLWpmNEx3YmJOVXB3c1Q3dFpWY0Ffa0xTQjRlSTdmVEl4cWhTRGJnTzBvT3BybjQ2VWV5MHkwRXR4YUs1OTFkU1IybHlRc1lyNUphVHozaGJybGxvLUVtSkxUbFdMQWpobDE?oc=5",
-   "medio": "El Frente",
-   "fuente": "provincia",
-   "region": "Santander",
-   "fecha": "2026-11-24T14:51:54Z",
-   "id": "3cfdd09a59e1"
-  },
-  {
    "titulo": "EPM asumirá el funcionamiento del alumbrado público de Bogotá: ¿Aumentará el recibo de la luz?",
    "resumen": "",
    "imagen": "",
@@ -561,26 +550,37 @@
    "id": "2f6ee5aad54d"
   },
   {
-   "titulo": "Santander registra temperaturas de hasta 40 grados y alerta por incendios forestales",
+   "titulo": "Mujer murió tras accidente en vehículo todoterreno que cayó a un abismo en Santander",
    "resumen": "",
    "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVlZTbExBem1sUWs4SS14M2RmdjVSNzkwa1BBVHNkT0VBc09kVHpqUnI5WGhkbnBuMG93a0hhWXFGNFlOT2Fzbmo3a1ZKNkJpWEZfYXhrM2cwY3RIZ2ZaWjVFTmhUbVRfQUN0X0VMOVh3djBGV3FUM0RsdjdfRHgzaVROOHVMNGxOTFNyNGhoWHFfdmg0aV9Zc0M5X1p3Ti1Sc0RwZmh0WWZUSHg4cWpjR1BMZm5kdzJoQUs5dG1ycEwyV3dwMnhUbFRUcDBxMUHSAc8BQVVfeXFMT1ZWU2xMQXptbFFrOEkteDNkZnY1Ujc5MGtQQVRzZE9FQXNPZFR6alJyOVhoZG5wbjBvd2tIYVlxRjRZTk9hc25qN2tWSjZCaVhGX2F4azNnMGN0SGdmWlo1RU5oVG1UX0FDdF9FTDlYd3YwRldxVDNEbHY3X0R4M2lUTjh1TDRsTkxTcjRoaFhxX3ZoNGlfWXNDOV9ad04tUnNEcGZodFlmVEh4OHFqY0dQTGZuZHcyaEFLOXRtcnBMMld3cDJ4VGxUVHAwcTFB?oc=5",
-   "medio": "Caracol Radio",
+   "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUDhBTTRudkRBWEdjUWpEUHUtZGtFeDA3d0pnRXh0aEZtRmpTWkljMlAybFVHYkhSUUgyMDNtQVFmX1dSTGlEWjR2M2lFT1pzbmx6OHM2ZndUbmFBZUg1b3NLd1hxd0Rhc0pGNlJ0eG10OXAtdlFGanB0aVZoRWRZZmhVSEg1QTBlcjhhT0RYRzh1SGNpcWNzaklSNmJqR09JdmJNa2VpMk50ZzNmejl6NEl1QWllRkFCR19PWVFHVzcxUFBFd1dza25TLVBaQi1z0gHeAUFVX3lxTFA0b3l0T2Y1ZGQtWjlsYklEOE1OYzZuRlRQNjlEZW92SkZuYnROb3hVTFpNLXZ3TEU0R09vTDBzeWFRWDdqNndJaEhvZW5uelk3WEFPY3NGMkM1clp6VjJHZVRFUjhyeWstVkJURFM4V1JWYTRlTnJ2Wi04b0pDQTFhbE5uYUR4ZnN2QXhzdG1lX2tFQXRzRFlHb2ZfUENvdEV0WGR2VXNiQlVoRlo0MmZjdnlzYUFfaVVjYUxFNEY5OU5JZTg1SnJTV0xYallMZHVZYThGdkhwTk5raFBaUQ?oc=5",
+   "medio": "Blu Radio",
    "fuente": "provincia",
    "region": "Santander",
-   "fecha": "2026-11-24T01:39:10Z",
-   "id": "90fd6b18869f"
+   "fecha": "2026-11-23T21:02:11Z",
+   "id": "7ce3066cb6c1"
   },
   {
-   "titulo": "Procuraduría pide anular elección del alcalde de Girón",
+   "titulo": "Misterio por muerte de recolector de café en El Socorro: fue hallado sin vida en una finca",
    "resumen": "",
    "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa09YMENsWHg4VTdVSzd5am83UDJldWNCV1lyV2gzZjU0dkJEMHoyOWMxSG4wdFZlR0FTdmZ5XzJvN2ZJTUtfMnFiSlVMSk5KMk5TX2pHcWxfcU5qVGh0V2EteFNZSndxV1FEbWk1TlVhZ3h6M290TVlLZXNscHltMGJITGNDbXNPNDFiN0pURGpHdw?oc=5",
-   "medio": "Yariguíes Stereo",
+   "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSjB3bWlDZURVMF9mRUsxUy1HRnpJZGpWOHhTSk5OOVFGZThGbkNJVHRsdmk3aHlHUXZVZjFOZURNaHZyYXhYZ1ZJSENWUDdTc0RDd2FjRkRib1dkVHBnZDFCUE10NXRaLXpmM051OXRJTTdlNXJSZEtMc2U4OEdGRFNNOGQ1MVJzT0lnYXd3dEMtRlVqLVROaHFZY2Z1UHBZY0NGdjVpblkwN25zMkppZ0czdkQ?oc=5",
+   "medio": "El Frente",
    "fuente": "provincia",
    "region": "Santander",
-   "fecha": "2026-11-23T14:53:07Z",
-   "id": "8a404f1b8195"
+   "fecha": "2026-11-23T20:48:47Z",
+   "id": "9f3cc61331c1"
+  },
+  {
+   "titulo": "Gobernadora del Magdalena defiende articulación con el Gobierno Nacional",
+   "resumen": "En medio de los cuestionamientos por su acercamiento al Gobierno Nacional y las diferencias con sectores políticos que respaldaron su elección, la gobernadora del Magdalena, Margarita Guerra, defendió su independencia…",
+   "imagen": "https://caracol.com.co/resizer/v2/OJJO3RJHJNCMZMRBQX7DWIA6YU.jpeg?auth=184fcd3cd76f7d2b9e651082e98741bf6d7f48a7fe619aa91b75a90854ecb582&smart=true&width=1280&height=854",
+   "enlace": "https://caracol.com.co/2026/11/23/gobernadora-del-magdalena-defiende-articulacion-con-el-gobierno-nacional/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-23T13:49:06Z",
+   "id": "6d500adabc8b"
   }
  ]
 }
