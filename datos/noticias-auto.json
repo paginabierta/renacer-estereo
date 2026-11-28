@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-28T02:40:49Z",
+ "actualizado": "2026-11-28T11:45:01Z",
  "fuentes": [
   {
    "id": "vanguardia",
@@ -44,26 +44,323 @@
  ],
  "noticias": [
   {
-   "titulo": "Corte Suprema abre indagación contra Gustavo Petro y María José Pizarro por “sexocontratos”",
-   "resumen": "Un nuevo capítulo se abre en el escándalo de los supuestos “sexocontratos” que rodea al expresidente Gustavo Petro. Durante la noche del viernes 27 de noviembre se conoció que la Corte Suprema de Justicia abrió…",
-   "imagen": "https://caracol.com.co/resizer/v2/EZXVXPOLJCY6XFJYUFI4PJYIGU.jpg?auth=15ebf70e40a4d1c3926c43cfee15c1110e107fdbfcd498203278795c7d256328&smart=true&width=3171&height=2114",
-   "enlace": "https://caracol.com.co/2026/11/28/corte-suprema-abre-indagacion-contra-gustavo-petro-y-maria-jose-pizarro-por-sexocontratos/",
+   "titulo": "La crónica del camino de una ‘colonia de arte’",
+   "resumen": "Las hormigas culonas que pusieron a prueba la cultura ciudadana",
+   "imagen": "https://www.vanguardia.com/resizer/v2/QXTQ4ZNXMFHEXH7K3CWRM7AXGM.jpeg?auth=137297e376d8ef90bb39c1be69fa91b946a7b6cd41ad3392037d178fbd0b6a3f&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/entretenimiento/cultura/magazin-cultural/2026/11/28/la-cronica-del-camino-de-una-colonia-de-arte/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-28T11:43:08Z",
+   "id": "6f09eda07ade"
+  },
+  {
+   "titulo": "Ya fueron rescatados tres de los cuatro trabajadores que estaban atrapados en una mina de Remedios",
+   "resumen": "Fuentes del municipio de Remedios en el Nordeste de Antioquia confirmaron a Caracol Radio que e n las últimas horas fueron rescatados con vida tres de los cuatro mineros que permanecían atrapados en un socavón desde el…",
+   "imagen": "https://caracol.com.co/resizer/v2/4UCIQZIAENCURPDDCQ4IVK5FGQ.jpeg?auth=fe6065baaef470448e9512ce979a6f5297ae0618396ec8042109a60e40409f14&smart=true&width=1600&height=900",
+   "enlace": "https://caracol.com.co/2026/11/28/ya-fueron-rescatados-tres-de-los-cuatro-trabajadores-que-estaban-atrapados-en-una-mina-de-remedios/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-11-28T02:33:24Z",
-   "id": "3dbb578711c1"
+   "fecha": "2026-11-28T11:34:11Z",
+   "id": "73d16b05a34a"
   },
   {
-   "titulo": "🔴 Millonarios vs. América, cuadrangulares Liga Colombiana: transmisión y minuto a minuto en vivo",
-   "resumen": "Este 27 de noviembre Millonarios recibirá al América de Cali en el estadio el Campin a las 8:40 p.m. por la tercera fecha de los cuadrangulares semifinales de la Liga Colombiana. El partido enfrenta a ambos líderes del…",
-   "imagen": "https://caracol.com.co/resizer/v2/ML5HWMPOCBBOBLGOTZQDI5TDLE.png?auth=607652289ef9bec86921422a2e96d6b4f1ac6d50077aa322c58ffc716860bce4&smart=true&width=768&height=576",
+   "titulo": "Gobernador Eduardo Verano impulsa tren que conectaría a Riohacha con Montería",
+   "resumen": "El gobernador del Atlántico, Eduardo Verano , lideró la propuesta para hacer realidad el Tren del Caribe, un proyecto ferroviario que busca conectar a Riohacha con Montería y fortalecer la integración económica y…",
+   "imagen": "https://caracol.com.co/resizer/v2/BCHHKWQNAFGE3JVR76QYXGELLM.jpg?auth=de951dcbf213fa898c5141e7715884af1396eb808c9604cabd4dbbcf3f9ad065&smart=true&width=1280&height=960",
+   "enlace": "https://caracol.com.co/2026/11/28/gobernador-eduardo-verano-impulsa-tren-que-conectaria-a-riohacha-con-monteria/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-28T11:01:00Z",
+   "id": "d7f38ac52c4c"
+  },
+  {
+   "titulo": "Air-e realizará trabajos eléctricos en Chorrera y Sabanalarga este sábado: habrá cortes de energía",
+   "resumen": "La empresa Air-e Intervenida realizará este sábado 28 de noviembre trabajos de mantenimiento en la infraestructura eléctrica de dos sectores del Atlántico. Las actividades se desarrollarán en el corregimiento de…",
+   "imagen": "https://caracol.com.co/resizer/v2/YE6YU4Y2B5DNLBKIILQXF6LBPY.jpeg?auth=ea9d65866f35ee723c04f29b163eac2a6f0fc52aa65305cad92ae5194fbe7d35&smart=true&width=650&height=487",
+   "enlace": "https://caracol.com.co/2026/11/28/air-e-realizara-trabajos-electricos-en-chorrera-y-sabanalarga-este-sabado-habra-cortes-de-energia/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-28T10:27:00Z",
+   "id": "3e52a84475fb"
+  },
+  {
+   "titulo": "Newsroom RCN Radio | Noticias en vivo y última hora",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9SRk9HTl91RkpGLU5BZ084Snl6b3VVdEZsTkRIel9EdHVMem9EV0RXWGcwd0p0Ym8zYmQ4WmYyZ2FBd25D?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-11-28T10:03:40Z",
+   "id": "9f3b3d900d2c"
+  },
+  {
+   "titulo": "Grave incendio en Chinchiná, Caldas, dejó seis viviendas destruidas: organismos de socorro lograron controlar las llamas",
+   "resumen": "El gobernador Henry Gutiérrez Ángel entregó reportes a medida que la emergencia avanzaba.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/28/6b0a9a78313f5.png",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/grave-incendio-en-chinchina-caldas-dejo-seis-viviendas-destruidas-organismos-de-socorro-lograron-controlar-las-llamas-3605120",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-28T09:22:14Z",
+   "id": "6865544c1897"
+  },
+  {
+   "titulo": "Organismos de socorro controlan fuerte incendio estructural en Chinchiná, Caldas",
+   "resumen": "Un fuerte incendio estructural se presentó la noche del viernes en el barrio La Frontera, sector de la plazoleta, en Chinchiná, Caldas. La confragración logró ser controlada en su totalidad por los organismos de…",
+   "imagen": "https://caracol.com.co/resizer/v2/VVZ55IVA75FLNLCCGATUNWV64Y.jpeg?auth=004798b72d691eb4077997abd80cda9564f3e87642b6ba6d683f69a4c43e383a&smart=true&width=1170&height=1151",
+   "enlace": "https://caracol.com.co/2026/11/28/organismos-de-socorro-controlan-fuerte-incendio-estructural-en-chinchina-caldas/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-28T08:34:55Z",
+   "id": "a1bded9eb7ab"
+  },
+  {
+   "titulo": "Diente de León celebra diez años en Bucaramanga",
+   "resumen": "El colectivo bumangués celebra una década escribiendo sus propias obras sobre memoria, agua y violencias contra las mujeres. La función de aniversario será el jueves 10 de diciembre, a las 7:00 p. m., con Fallo…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/BWGE3M5TBJGNBK7ENL22F5Q22E.jpg?auth=d364c7eec5ee4dbc64e63834b7498d70337e6eed500866aacc76a6c74ef4bf78&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/entretenimiento/cultura/magazin-cultural/2026/11/28/diente-de-leon-celebra-diez-anos-en-bucaramanga/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-28T07:47:00Z",
+   "id": "59e22467301f"
+  },
+  {
+   "titulo": "Editorial La Cabaña en Bucaramanga: la historia detrás del Almanaque y la mujer que lo mantiene vivo",
+   "resumen": "Ganadora de los estímulos del IMCT de Bucaramanga, la crónica La guardiana del lunario rescata los impresos históricos de la imprenta La Cabaña fundada en 1908 y cuenta cómo Luz Amparo Uribe sigue elaborando cada…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/ZWVBVT63O5FWXAWPH2JLISUNLY.png?auth=b0444c62eb7da89161d81cdaed5626b772ed70c160ea86be3804f77f3aa62980&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/entretenimiento/cultura/magazin-cultural/2026/11/28/editorial-la-cabana-en-bucaramanga-la-historia-detras-del-almanaque-y-la-mujer-que-lo-mantiene-vivo/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-28T07:18:00Z",
+   "id": "644a9bad1438"
+  },
+  {
+   "titulo": "Egresados del San Pedro solicitan explicaciones por demolición del mapa de Colombia que existía en ese colegio",
+   "resumen": "81 años de historia quedaron bajo los escombros: demolieron el mapa de Colombia del colegio San Pedro",
+   "imagen": "https://www.vanguardia.com/resizer/v2/S5JAAE2SKFHGTNIWFHURE4QPD4.jpeg?auth=daddf19c03ddce6e3f28efa78a3deb53d00a9a445047d20f27c04237b21dcf94&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/11/28/egresados-del-san-pedro-solicitan-explicaciones-por-demolicion-del-mapa-de-colombia-que-existia-en-ese-colegio/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-28T07:02:24Z",
+   "id": "dbfd75ac7d01"
+  },
+  {
+   "titulo": "De La Espriella expresa apoyo a Abascal, candidato de Vox para las elecciones del domingo en España",
+   "resumen": "El presidente colombiano, Abelardo De La Espriella , expresó abiertamente su apoyo al candidato Santiago Abascal , del partido Vox , para las elecciones generales de este domingo en España. El mandatario comenzó su…",
+   "imagen": "https://caracol.com.co/resizer/v2/DUGXGPOHC5AGJD7UZNRF4YT5VU.png?auth=42fc0a61273ee8cebd429d574f51684d7f40cdba5f64cd6ab8b03627f13f1a68&smart=true&width=650&height=488",
+   "enlace": "https://caracol.com.co/2026/11/28/de-la-espriella-expresa-apoyo-a-abascal-candidato-de-vox-para-las-elecciones-del-domingo-en-espana/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-28T06:50:43Z",
+   "id": "03b1f042056d"
+  },
+  {
+   "titulo": "Rafael Prada, el artista que rescata del olvido fragmentos de la historia de Bucaramanga",
+   "resumen": "Un archivo fotográfico hallado en un mercado de las pulgas llevó al artista Rafael Prada Ascencio a reconstruir parte de la memoria urbana de Bucaramanga. Su exposición invita a descubrir la ciudad que fue y aquella que…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/66GY7PSVWRD4XLWLPJF5TA3J5Y.jpg?auth=e75f892461593fdbc9896b1c10ee9866669d1514f36d1818945ea56df306507b&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/entretenimiento/cultura/magazin-cultural/2026/11/28/rafael-prada-el-artista-que-rescata-del-olvido-fragmentos-de-la-historia-de-bucaramanga/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-28T06:18:00Z",
+   "id": "54cb69b02a00"
+  },
+  {
+   "titulo": "¿Subirá el Impuesto Predial en Bucaramanga? Esto prometió la Alcaldía",
+   "resumen": "La discusión por el Impuesto Predial de 2027 dejó un compromiso de la Alcaldía de Bucaramanga: mantener las tarifas y evitar aumentos superiores al reajuste anual. La ciudadanía y las veedurías tendrán la tarea de…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/Y77HSAMVDRGCBAKRMUB7GJBV6Y.jpg?auth=9fda64626f20c1611bc18d55707d029290a765be2ce035a22502a229ab61e783&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/editorial/2026/11/28/subira-el-impuesto-predial-en-bucaramanga-esto-prometio-la-alcaldia/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-28T06:00:00Z",
+   "id": "ca163cc80eb9"
+  },
+  {
+   "titulo": "La vida, el mejor motivo para agradecer",
+   "resumen": "Diciembre está por comenzar y nos invita a hacer una pausa en medio de la rutina para mirar lo vivido y reconocer aquello que merece nuestra gratitud. El 2026 tiene un significado especial para quienes hacemos parte de…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/VCVYPYMO6VAHZL6IX7R6R2VOEM.jpg?auth=bbd73176d9de98276758b343a8901da16ce9b18a504e625419df0771ab004e9c&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/28/la-vida-el-mejor-motivo-para-agradecer/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-28T06:00:00Z",
+   "id": "6c736bc8fff8"
+  },
+  {
+   "titulo": "Menos pobreza en Santander y en Colombia",
+   "resumen": "Sacar a 3,6 millones de colombianos de la pobreza para 2030 es una meta ambiciosa y, por supuesto, bienvenida. El presidente Abelardo de la Espriella anunció que su Gobierno busca reducir la pobreza monetaria del 28 %…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/5TOYNIW3ZFC2JNTWEO6ZKER2CY.jpg?auth=19af5629051263d89d2f43016aa6bde977f5b0dade0ac258ffb67737f09d260d&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/28/menos-pobreza-en-santander-y-en-colombia/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-28T06:00:00Z",
+   "id": "13a0726c816c"
+  },
+  {
+   "titulo": "Una vara muy alta",
+   "resumen": "Bucaramanga despidió a Alberto Montoya Puyana, el primer alcalde elegido por los bumangueses en las urnas. Fueron apenas dos años de mandato, entre 1988 y 1990, y aun así, 36 años después, como bien lo dijo Rafael Marín…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/FJTJDBNWFNGB7MI5ZX3HX4LK2Y.jpg?auth=d3ac1ac90f31b9680cc2e032ea5652c886e8afae30d2507effbac316e3aa58ce&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/28/una-vara-muy-alta/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-28T06:00:00Z",
+   "id": "b6cca51a51eb"
+  },
+  {
+   "titulo": "La felicidad no tiene pose",
+   "resumen": "¿Es el amor un idioma recíproco? ¿Existe lo insustituible? ¿Es posible escuchar sin condenar o indultar? Estas preguntas atraviesan el libro Luz rabiosa, de la dominicana Priscilla Velázquez Rivera. La novela, que ganó…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/AHGS5RS2Y5EJ3AX2PVJA6F2DM4.jpg?auth=b360f717127d01d878ef45420b9b49ceeb2d1b0860b37f9e89d8232ed253095a&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/28/la-felicidad-no-tiene-pose/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-28T06:00:00Z",
+   "id": "0105802cc6a4"
+  },
+  {
+   "titulo": "¡‘Exitados’!",
+   "resumen": "Caricatura de Yeyo del 28 de noviembre de 2026",
+   "imagen": "https://www.vanguardia.com/resizer/v2/LSGVQC6S75GBBFHUKONU5D3AVU.jpg?auth=4a425fed4fa49db071f1afcca3fcbb5f433eeac1e7aedcd719842eb07247b177&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/caricaturas/2026/11/28/exitados/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-28T06:00:00Z",
+   "id": "27e71484c379"
+  },
+  {
+   "titulo": "La paradoja de quien gobernó ayer y marcha hoy",
+   "resumen": "El 19 de noviembre, convocados por Gustavo Petro, marcharon quienes se oponen al proyecto de Ley de Rescate Económico del presidente De la Espriella. En Cali, incluso, pidieron su renuncia. Sin embargo, la movilización…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/SIGMBUEONVA3BIII2NUA2EWXN4.jpg?auth=4df75b34de8e21f7b3f0e6cc0f15d74bb7e6180cac76d491241d372b83f9281d&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/28/la-paradoja-de-quien-goberno-ayer-y-marcha-hoy/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-28T06:00:00Z",
+   "id": "9d0ae0bc227c"
+  },
+  {
+   "titulo": "Xi, Putin y Trump en Shenzhen: ¿un nuevo paradigma internacional?",
+   "resumen": "El inédito encuentro del 19 de noviembre entre los presidentes de China, Xi Jinping; de Rusia, Vladimir Putin, y de Estados Unidos, Donald Trump, es ya considerado uno de los más importantes del siglo. La reunión se…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/YR3NKICGCFFU7NJ7APMUCGZGWQ.jpg?auth=d6ec142837f90620fa0c083e3b451fde945ae8f5ca1466869a69ab49e4c773fe&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/28/xi-putin-y-trump-en-shenzhen-un-nuevo-paradigma-internacional/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-28T06:00:00Z",
+   "id": "edfb17239493"
+  },
+  {
+   "titulo": "Incomodidades en el veintiséis",
+   "resumen": "Hay cosas que no deberían ser noticia en pleno 2026, y que dos hombres que se quieran hacer parte de un círculo social es una de ellas. Sin embargo, me cuentan que en nuestra ciudad una solicitud así ha generado…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/UJ35BBCT6VHHHI6XL4L33O2I2I.jpg?auth=98823bc4b12447430f96364565a46ad1c330792878185222236f7e29bd9d7620&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/28/incomodidades-en-el-veintiseis/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-28T06:00:00Z",
+   "id": "a9bcc82c5056"
+  },
+  {
+   "titulo": "El cielo ganó un alcalde",
+   "resumen": "La triste noticia de la partida de Alberto Montoya Puyana conmocionó a la ciudad y generó una manifestación general de aprecio y respeto por su trayectoria pública y empresarial. Expresidentes, ministros, exministros…",
+   "imagen": "https://www.vanguardia.com/resizer/v2/Y7IXZPG5GFGNDDZMUTXU4BL2BE.jpg?auth=a301586bc87b8293d1035c29c8d1609d712b24d4925fb9fd361254f92bf02d90&smart=true&width=900&height=600",
+   "enlace": "https://www.vanguardia.com/opinion/columnistas/2026/11/28/el-cielo-gano-un-alcalde/",
+   "medio": "Vanguardia",
+   "fuente": "vanguardia",
+   "region": "Santander",
+   "fecha": "2026-11-28T06:00:00Z",
+   "id": "3cb53210be1b"
+  },
+  {
+   "titulo": "Estudiante de la Universidad de Córdoba murió en accidente de tránsito tras caer a un canal de aguas residuales: otros alumnos resultaron heridos",
+   "resumen": "Las autoridades investigan las circunstancias del caso. La universidad se pronunció.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/27/6b0a59c3ac9d9.png",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/estudiante-de-la-universidad-de-cordoba-murio-en-accidente-de-transito-tras-caer-a-un-canal-de-aguas-residuales-otros-alumnos-resultaron-heridos-3605115",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-28T05:27:17Z",
+   "id": "e497032df8f0"
+  },
+  {
+   "titulo": "Ocho muertos y solo un sobreviviente en el helicóptero militar accidentado en Perú",
+   "resumen": "Lima, 27 nov (EFE).- Las Fuerzas Armadas de Perú localizaron este viernes el helicóptero que se accidentó el jueves con nueve militares a bordo , durante una misión en el Valle de los Ríos Apurímac, Ene y Mantaro…",
+   "imagen": "https://caracol.com.co/resizer/v2/POYR3WW5LFEWXPYNGWTBKSYA34.jpg?auth=40ec58d6d0f8e786c11c68ed28472db0a0685a32e115178ba2a4acdf861389af&smart=true&width=5031&height=3354",
+   "enlace": "https://caracol.com.co/2026/11/28/ocho-muertos-y-solo-un-sobreviviente-en-el-helicoptero-militar-accidentado-en-peru/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
+   "region": "Colombia",
+   "fecha": "2026-11-28T04:29:57Z",
+   "id": "dec50d3c357b"
+  },
+  {
+   "titulo": "Intento de hurto de una cadena de oro terminó en un caso de homicidio en Bucaramanga: Alcaldía ofrece $30 millones para capturar a los responsables",
+   "resumen": "Fredy León Torres, de 47 años, fue asesinado durante un asalto. Un vigilante también resultó herido y las autoridades buscan a los dos hombres.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/02/25/699fc74b67386.r_d.600-267-0.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/intento-de-hurto-de-una-cadena-de-oro-termino-en-un-caso-de-homicidio-en-bucaramanga-alcaldia-ofrece-30-millones-para-capturar-a-los-responsables-3605008",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-28T04:18:28Z",
+   "id": "09351cdae105"
+  },
+  {
+   "titulo": "El espectáculo Delirio celebra 20 años de historias bailadas con el estreno de ‘Periplo’, su obra maestra",
+   "resumen": "El espectáculo más emblemático de Cali abre el telón este viernes 27 de noviembre en la Carpa Delirio.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/27/6b0a5496283b2.jpeg",
+   "enlace": "https://www.eltiempo.com/colombia/cali/el-espectaculo-delirio-celebra-20-anos-de-historias-bailadas-con-el-estreno-de-periplo-su-obra-maestra-3605098",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-28T04:18:22Z",
+   "id": "86d93c692e72"
+  },
+  {
+   "titulo": "Revelan cuánto tiempo habrían planeado los delincuentes el asalto que terminó en secuestro en Éxito de Cartagena: uno de ellos contó detalles a rehén",
+   "resumen": "El fiscal del caso leyó un testimonio en medio de la audiencia de legalización de captura.",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/27/6b09d638ca9bf.r_d.128-185-0.png",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/revelan-cuanto-tiempo-habrian-planeado-los-delincuentes-el-secuestro-masivo-en-el-exito-de-cartagena-uno-de-ellos-le-conto-detalles-a-un-rehen-3605101",
+   "medio": "El Tiempo",
+   "fuente": "eltiempo",
+   "region": "Colombia",
+   "fecha": "2026-11-28T03:56:38Z",
+   "id": "93a29de79f30"
+  },
+  {
+   "titulo": "Millonarios y América reparten puntos en el campín y el grupo queda abierto: resumen del partido",
+   "resumen": "En el Estadio Nemesio Camacho el Campín Millonarios y América de Cali empataron a cero y perdieron la posibilidad de quedar como líderes en solitario en el Grupo B . Un partido que tuvo más de diez amarillas y dos…",
+   "imagen": "https://caracol.com.co/resizer/v2/XDZAWB4RMJF53BG5KIILHVSTAM.jpeg?auth=47a6cd45c13dfbff1836ddc31c71760e733392b297e75c7124ed017255074af1&smart=true&width=1280&height=853",
    "enlace": "https://caracol.com.co/2026/11/28/millonarios-vs-america-cuadrangulares-liga-colombiana-transmision-y-minuto-a-minuto-en-vivo/",
    "medio": "Caracol Radio",
    "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-11-28T02:30:23Z",
-   "id": "e6b417d6058b"
+   "fecha": "2026-11-28T03:49:09Z",
+   "id": "335b21812af4"
+  },
+  {
+   "titulo": "Cortes de luz en Bogotá este sábado 28 de noviembre del 2026: Barrios y horarios de suspensión",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdnFqby14dkxxb0xWLTlEUDBiMDZMWVRqNUN0TzdXZ2o0UFl2X19MQjdNdE1BOENacVJhQk1FaUstY1RIN3lGenhyeDR2X3Y5eHJtSFFJVnhyVmxMZ0RYTzhNaWl3UWQyRFk0bXZzcm41T1FtRmZadGtPTWVlNzVMTmVkenpGd0RWNlI3b2l0encyM1dQazlXQ3BuY29YSGw3RnBfSWJSZVZXbGZGZERNc09Xd1NKUE1RRExiRVcxdWZpSS05RHliQmZtYnM?oc=5",
+   "medio": "RCN Radio",
+   "fuente": "rcn",
+   "region": "Colombia",
+   "fecha": "2026-11-28T02:51:03Z",
+   "id": "1d9601bed344"
   },
   {
    "titulo": "Consejo de Estado dejó en firme la elección de Elkin Reyes como alcalde de Oiba, Santander",
@@ -77,127 +374,6 @@
    "id": "157a10595c68"
   },
   {
-   "titulo": "Con gol de Luciano Pons, Atlético Bucaramanga empató frente al Deportivo Cali en Palmaseca",
-   "resumen": "El equipo santandereano empató frente al Deportivo Cali por la tercera fecha de los cuadrangulares semifinales de la Liga BetPlay II de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/EI42ILPUONB5FMCPGJUCCC5AAI.webp?auth=27988c9f29da3579cf56260a4cea60dfa50b826ca3e860891b5a740df9288089&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/deportes/futbol/2026/11/27/con-gol-de-luciano-pons-atletico-bucaramanga-empato-frente-al-deportivo-cali-en-palmaseca/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-28T02:02:42Z",
-   "id": "3ce3397b4043"
-  },
-  {
-   "titulo": "Coromoro realizará su Primer Festival del Café este 28 y 29 de noviembre: arte, música y gastronomía",
-   "resumen": "Coromoro celebrará el Primer Festival del Café este 28 y 29 de noviembre, con concursos de catación, muestras gastronómicas, música y cultura cafetera.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/KD3NSFXYEJEUTPGXTTGMBMHIGM.jpg?auth=3b945d21c019e591f72bc34e584e881c78840cd7671983e5a0aad55d9696e822&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/santander/guanenta/2026/11/27/coromoro-realizara-su-primer-festival-del-cafe-este-28-y-29-de-noviembre/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-28T02:01:18Z",
-   "id": "564973cdf319"
-  },
-  {
-   "titulo": "Datos que transforman vidas: cuando la comunidad aprende a contar su propia historia",
-   "resumen": "La interesante experiencia social que se vive en el barrio Los Colorados, al norte de Bucaramanga",
-   "imagen": "https://www.vanguardia.com/resizer/v2/DSJ3W6D7FVD3TM4QRHIK7VVCLE.jpeg?auth=8fc42b992b9c302b02fa4af53efd2bce41f8dda6b4ae45156391fcdf513b3b39&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/area-metropolitana/las-cosas-buenas/2026/11/27/datos-que-transforman-vidas-cuando-la-comunidad-aprende-a-contar-su-propia-historia/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-28T01:59:50Z",
-   "id": "cdd0dbe10c96"
-  },
-  {
-   "titulo": "Reactivan el Fuerte Norte para fortalecer la seguridad rural, tras años de solicitudes de la comunidad",
-   "resumen": "La Alcaldía de Bucaramanga y la Policía Nacional pusieron nuevamente en funcionamiento el Fuerte Norte del corregimiento 2, tras años de solicitudes de las comunidades rurales.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/CKTQ6FUAVBHHLICZ7F6ITTUJ2M.jpg?auth=826881713de067766adf36f731c6105ce1a587b3eb0857479ff9923698135257&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/11/27/reactivan-el-fuerte-norte-para-fortalecer-la-seguridad-rural-tras-anos-de-solicitudes-de-la-comunidad/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-28T01:58:37Z",
-   "id": "d82bc4d6d464"
-  },
-  {
-   "titulo": "Fedegan le respondió a De la Espriella tras fuertes críticas por encuentro entre Lafaurie y Cepeda: “No es complicidad, es protocolo”",
-   "resumen": "El pronunciamiento llegó tras la polémica desatada por las fotos del senador Iván Cepeda junto a José Félix Lafaurie y la reacción del presidente Abelardo de la Espriella, señalando que “comprenden” el malestar generado.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/ZV32MZJ34VDC5JM4MXB6CZDH44.jpg?auth=98f2ae001907cc9b012444786233883bd4800202192a94edcd73db49e4900828&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/economia/nacional/2026/11/27/fedegan-le-respondio-a-de-la-espriella-tras-fuertes-criticas-por-encuentro-entre-lafaurie-y-cepeda-no-es-complicidad-es-protocolo/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-28T01:57:33Z",
-   "id": "59fb1afa916b"
-  },
-  {
-   "titulo": "Tercer carril de la autopista en Floridablanca, casi listo: estos son los cambios para los conductores",
-   "resumen": "El tercer carril en Floridablanca está casi al 100 %. Según el constructor, el viaje a Bucaramanga pasó de hora y media a 20 minutos.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/5GDQHWLPSJCMFGKQZ25FHEOY3Q.jpeg?auth=8a0c4395fa5b49b1a05bb4e5c8f90260093b5356a59f7654c170a3ca44055d64&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/11/27/tercer-carril-de-la-autopista-en-floridablanca-casi-listo-estos-son-los-cambios-para-los-conductores/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-28T01:53:02Z",
-   "id": "eea22029ac4b"
-  },
-  {
-   "titulo": "Daniel Miranda, el joven que murió tras un ataque a bala en Puerto Wilches",
-   "resumen": "Daniel Miranda fue identificado como el joven que murió tras ser atacado a disparos en un taller mecánico.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/EQNS3CRQRBHIJOOWPEOF7FT2H4.png?auth=182cd6d7b45bdbd2dc0673d34c14f887752b9e8f88ba545def078e3287f980ee&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/judicial/2026/11/27/daniel-miranda-el-joven-que-murio-tras-un-ataque-a-bala-en-puerto-wilches/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-28T01:50:19Z",
-   "id": "187993bc8d06"
-  },
-  {
-   "titulo": "Restablecen al 100 % el servicio de energía en Nariño, Caquetá, Putumayo y sur del Huila y del Cauca tras atentado en zona rural de Taminango",
-   "resumen": "Según el Ministerio de Minas y Energía, el sistema sigue en alerta, pues la red del suroccidente opera con menos rutas de las habituales.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/25/6b070a7b93d1b.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/restablecen-al-100-el-servicio-de-energia-en-narino-caqueta-putumayo-y-sur-del-huila-y-del-cauca-tras-atentado-en-zona-rural-de-taminango-3605029",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-28T01:45:31Z",
-   "id": "feb6b93e4f08"
-  },
-  {
-   "titulo": "Cali y Bucaramanga repartieron puntos y se complican el pase a la final: Resumen del partido",
-   "resumen": "Deportivo Cali y Atlético Bucaramanga repartieron puntos y siguen sin sumar de a tres en los cuadrangulares semifinales de la Liga Colombiana 2026 - II. El resultado es negativo para los dos , pues los tres puntos eran…",
-   "imagen": "https://caracol.com.co/resizer/v2/EXMDSNNVKNCFDKRJBIHHKCHUJU.jpeg?auth=10d7e64e9891400280177f57cdf0fb2728a8cefc871a201060f9b781f816ad07&smart=true&width=1124&height=750",
-   "enlace": "https://caracol.com.co/2026/11/27/cali-vs-bucaramanga-en-vivo-fecha-3-de-cuadrangulares-de-liga-transmision-y-minuto-a-minuto/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-28T01:32:54Z",
-   "id": "7cfe23677049"
-  },
-  {
-   "titulo": "Estos son los ganadores del Premio Emprender de la Financiera Comultrasan 2026",
-   "resumen": "El talento empresarial de 16 organizaciones fue destacado en el Premio Emprender 2026 de la Financiera Comultrasan. Conozca quiénes fueron los ganadores y qué encontrará este fin de semana en Expoemprende, una feria con…",
-   "imagen": "https://www.vanguardia.com/resizer/v2/Q7HSV3J3TJCWPMQ3QA4UB46CEQ.jpeg?auth=fc34e7d09617b630e839f2b81bda0133a5a5c18cc8a32edbacb2d9d2ce73f61e&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/economia/2026/11/27/estos-son-los-ganadores-del-premio-emprender-de-la-financiera-comultrasan-2026/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-28T01:19:05Z",
-   "id": "44a03a3e7b7f"
-  },
-  {
-   "titulo": "Cuadro del expresidente Petro no aparece en video publicado por De la Espriella en Casa de Nariño",
-   "resumen": "No para la polémica por la denuncia que hizo Gustavo Petro, quien a través de su cuenta de X, sobre el retiro de su retrato presidencial de la Casa de Nariño. “ Ya desaparecieron el cuadro que simboliza mi presidencia…",
-   "imagen": "https://caracol.com.co/resizer/v2/MYMDNMVW5NEINJNZE3N7UJ2Y5I.jpg?auth=655d2bd500cd0364a21beef6057cdc4cb976c835c33cbc8b32dd729a89d83eb5&smart=true&width=2000&height=1500",
-   "enlace": "https://caracol.com.co/2026/11/28/cuadro-del-expresidente-gustavo-petro-no-aparece-en-video-publicado-por-de-la-espriella/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-28T01:13:35Z",
-   "id": "bdf08cb35dba"
-  },
-  {
    "titulo": "Turismo a dos velocidades en Cali: Feria promete récords millonarios, pero el Concejo exige que la reactivación también llegue a barrios y zona rural",
    "resumen": "Mientras la Secretaría de Turismo estima la llegada de 452.697 visitantes en diciembre, concejales advierten pérdidas por $25.000 millones.",
    "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/08/28/68b0fc62d0c10.r_d.632-355-0.jpeg",
@@ -207,94 +383,6 @@
    "region": "Colombia",
    "fecha": "2026-11-28T01:12:33Z",
    "id": "4aa3904e1ea3"
-  },
-  {
-   "titulo": "Fedegán pide al Gobierno no excluir a gremios en diálogos con productores tras polémica por Cepeda",
-   "resumen": "La Junta Directiva de la Federación Colombiana de Ganaderos, Fedegán, fijó su postura tras la controversia que generó la presencia del senador Iván Cepeda en el 41 Congreso Nacional del sector, realizado en Valledupar…",
-   "imagen": "https://caracol.com.co/resizer/v2/T27PDNQGLZGN5GIEJDBBAOBAA4.jpeg?auth=ac07668afa79d0ed40e3e140666b0ec3582f4d13423ef52fb6e3a788f1c18d89&smart=true&width=640&height=427",
-   "enlace": "https://caracol.com.co/2026/11/28/fedegan-pide-al-gobierno-no-excluir-a-gremios-en-dialogos-con-productores-tras-polemica-por-cepeda/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-28T01:05:11Z",
-   "id": "b9a46165750d"
-  },
-  {
-   "titulo": "Suben a 34 los muertos en Ecuador por las fuertes lluvias provocadas por El Niño",
-   "resumen": "El reporte oficial también registra más de 31.000 viviendas afectadas, daños en puentes y dificultades en la red vial del país.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/EM4XHRF5VJCSRMPSTNPFSBBNL4.jpg?auth=8b707c9dc2419678862a4827741e4317d8b0c206333bbaa6cd3c403cfe981ad9&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/mundo/2026/11/27/suben-a-34-los-muertos-en-ecuador-por-las-fuertes-lluvias-provocadas-por-el-nino/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-28T00:55:32Z",
-   "id": "88c4b0269179"
-  },
-  {
-   "titulo": "Camión terminó volcado en Floridablanca: reportan varios heridos",
-   "resumen": "Un camión terminó volcado en el barrio Prados del Sur, en Floridablanca, durante la tarde de este viernes 27 de noviembre. Reportan varios heridos.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/DIEFM54AXFBWDBPONMMICP4OXE.png?auth=a4d8db65464227de833237b00f64c2ed509ebac81cf4e86c1aa01bc84b7638e5&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/judicial/2026/11/27/camion-termino-volcado-en-floridablanca-reportan-varios-heridos/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-28T00:54:38Z",
-   "id": "86012c5b4a5a"
-  },
-  {
-   "titulo": "Petro denunció que retiraron su retrato de la galería de expresidentes de Casa de Nariño",
-   "resumen": "El exmandatario también mencionó los casos de Juan José Nieto y el general José María Melo; aún no hay explicación oficial.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/KHSPY53OTNFN7ONIZELEZ24XJE.jpg?auth=3a1cfedaf4428f154e8625316ec8dc0e8b76c3db003daabfb2b37f6dea15839e&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/colombia/2026/11/27/petro-denuncio-que-retiraron-su-retrato-de-la-galeria-de-expresidentes-de-casa-de-narino/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-28T00:09:12Z",
-   "id": "d07ef8a5cf35"
-  },
-  {
-   "titulo": "Hombre fue acusado de asesinar a su esposa tras una discusión por los regalos de Navidad",
-   "resumen": "La familia de Bonnie Allen asumió el cuidado de los menores y busca recursos para garantizar su alimentación, ropa y otras necesidades.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/RCG6T56IZRHRPEM4FEPNC3Z4MM.png?auth=b2223cd91c649877ad69abdfebaf100650b2f734f4f18fb5af7f326e49a8edca&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/mundo/2026/11/27/hombre-fue-acusado-de-asesinar-a-su-esposa-tras-una-discusion-por-los-regalos-de-navidad/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-28T00:05:51Z",
-   "id": "53071c72465c"
-  },
-  {
-   "titulo": "Reportan ataque con explosivos contra estación de Policía de Arenal, en Bolívar: presidente De La Espriella confirmó la muerte de un subintendente",
-   "resumen": "Se mantienen desplegadas las capacidades de inteligencia e investigación para esclarecer los hechos.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/11/6a5233ca66d0b.png",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/reportan-ataque-con-explosivos-contra-estacion-de-policia-de-arenal-en-bolivar-presidente-de-la-espriella-confirmo-la-muerte-de-un-subtendente-3605019",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-27T23:53:17Z",
-   "id": "7621cc5a7a87"
-  },
-  {
-   "titulo": "Juez confirmó archivo de denuncia de Helicol contra Ricardo Roa, expresidente de Ecopetrol",
-   "resumen": "Este 27 de noviembre se produjo un nuevo revés judicial para Helicol: un juez de segunda instancia confirmó la decisión de no reabrir la investigación penal que Helicol promovió contra el expresidente de Ecopetrol…",
-   "imagen": "https://caracol.com.co/resizer/v2/FHHSCALDQNFLNOKGQECA3E5JAY.jpg?auth=1212e6f7d25305dd14f96e6bc6777f320f9659805bb3545d7de1e9995c520f0a&smart=true&width=2219&height=1351",
-   "enlace": "https://caracol.com.co/2026/11/27/juez-confirmo-archivo-de-denuncia-de-helicol-contra-ricardo-roa-expresidente-de-ecopetrol/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-27T23:50:18Z",
-   "id": "dcc0be83d7eb"
-  },
-  {
-   "titulo": "¿En qué se diferencian la inmadurez emocional de la manipulación afectiva? Experta explica",
-   "resumen": "En entrevista con Dos Puntos de Caracol Radio, la psicóloga clínica Lina Parada indicó la importancia de saber controlar las emociones para tomar acción en diferentes decisiones, al recalcar que este aspecto de la vida…",
-   "imagen": "https://caracol.com.co/resizer/v2/SMPIMXLHUNFMRKNORJJ6WT4K6A.jpg?auth=98b3d981a5768708e1a6ba78af49dc2c624e1c767258902299ec3c3510626cb0&smart=true&width=7008&height=4672",
-   "enlace": "https://caracol.com.co/2026/11/27/inmadurez-emocional-o-manipulacion-afectiva-experta-explica-por-que-la-terapia-es-clave-para-ambos/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-27T23:25:17Z",
-   "id": "65b7d91d6c65"
   },
   {
    "titulo": "Una reunión y un celular: las pistas por las que cayó expolicía cómplice en frustrado robo de joyería en Bucaramanga; un intendente murió",
@@ -308,48 +396,15 @@
    "id": "eda5dfc477cc"
   },
   {
-   "titulo": "Cali vs. Atlético Bucaramanga hoy – Liga BetPlay II de 2026 Cuadrangulares Fecha 3",
-   "resumen": "Deportivo Cali y Atlético Bucaramanga van por el primer triunfo en el Grupo B de los cuadrangulares semifinales de la Liga BetPlay II de 2026.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/FR2SS43W5FFD3EZ3AUDJDRNMN4.jpeg?auth=e6a84b2dc551259bb00f134033ac293dedf903e94062449633de996797c3ac31&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/deportes/futbol/2026/11/27/cali-vs-atletico-bucaramanga-hoy-liga-betplay-ii-de-2026-cuadrangulares-fecha-3/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-27T23:13:38Z",
-   "id": "aaec492c4b03"
-  },
-  {
-   "titulo": "Orquídeas: un mundo de formas, historias y conservación",
-   "resumen": "En Bucaramanga, cultivadores y artistas se encontraron alrededor de estas plantas para mostrar su valor y la riqueza del departamento.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/6ZV3DANXSBCE7ASX2PTGYORCLQ.jpg?auth=10c48d446879c279cf2edce47fd48d2710ba91aa1eb9b40e513a91d54468e230&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/santander/2026/11/27/orquideas-un-mundo-de-formas-historias-y-conservacion/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-27T23:04:54Z",
-   "id": "3e1d17457527"
-  },
-  {
-   "titulo": "El drama de Mara, la perrita que quedó ciega por la pólvora y es símbolo de prevención en Cali: 'Los animales sufren demasiado'",
-   "resumen": "La historia de la canina se suma a las cifras de 68 lesionados y 530 kilos de pólvora incautados en el Valle. Autoridades endurecen medidas.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/27/6b09f60678c34.r_d.651-511-0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/cali/el-drama-de-mara-la-perrita-que-quedo-ciega-y-es-simbolo-de-prevencion-en-cali-los-animales-sufren-demasiado-con-el-ruido-de-la-polvora-3605004",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
+   "titulo": "Resultados Lotería de Medellín, Santander, Risaralda y MiLoto HOY 27 de noviembre de 2026",
+   "resumen": "Miles de millones de pesos están en juego este viernes 27 de noviembre con los sorteos de las loterías de Medellín, Santander y Risaralda, además de MiLoto. A continuación los números ganadores y las series de cada…",
+   "imagen": "https://caracol.com.co/resizer/v2/CMVSSCJX2JCNVCNEMBI2XQRUEA.png?auth=c4065172d1605a58895ddb7bfeb8d3144d02b69a2b71a849fee8d7acde559b8f&smart=true&width=2000&height=1500",
+   "enlace": "https://caracol.com.co/2026/11/27/resultados-loteria-de-medellin-santander-risaralda-y-miloto-hoy-27-de-noviembre-de-2026/",
+   "medio": "Caracol Radio",
+   "fuente": "caracol",
    "region": "Colombia",
-   "fecha": "2026-11-27T23:02:14Z",
-   "id": "e53fd18d0515"
-  },
-  {
-   "titulo": "Encapuchado y caminando llegó el sicario que asesinó a Estiven Prada en una cancha de Bucaramanga",
-   "resumen": "Por ahora, no se conocen detalles sobre posibles amenazas contra la víctima ni los móviles que habrían desencadenado el homicidio.",
-   "imagen": "https://www.vanguardia.com/resizer/v2/L5KKT2KAGBDTPDTAUUUXZ5HTHU.jpeg?auth=6a8fda2ae376c3814b2cb9a4f854f2cbe901f91c6ed431265a05a147843068cf&smart=true&width=900&height=600",
-   "enlace": "https://www.vanguardia.com/judicial/2026/11/27/encapuchado-y-caminando-llego-el-sicario-que-asesino-a-estiven-prada-en-una-cancha-de-bucaramanga/",
-   "medio": "Vanguardia",
-   "fuente": "vanguardia",
-   "region": "Santander",
-   "fecha": "2026-11-27T22:40:45Z",
-   "id": "a17d56ea1fa2"
+   "fecha": "2026-11-27T22:29:19Z",
+   "id": "542965ed6dc9"
   },
   {
    "titulo": "Ofrecen hasta $ 15 millones de recompensa por autores de atentado contra iglesia en Dagua; investigan retaliación del Eln",
@@ -363,6 +418,17 @@
    "id": "da03ba079c66"
   },
   {
+   "titulo": "Fallo sobre Elkin Reyes en Oiba abre debate por las reelecciones en comicios atípicos",
+   "resumen": "",
+   "imagen": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUnJyMThJLXphMkx4RDJCdk1vZ2Vtckd2TnRBMmhiNlEwakUxWEhqMWtWWW95cVNRSXpvSmpjUGJScFFmcjNFZFgxSzR3VldGdUtnWEdfb29zWDBjUlg4UVgyanJ2T04yaElWR05ZblZrVnh5Z011cjlGT1huSGlpQS1WNWhnQzZXOGQxb0U4SDdFWTVXNk5VS1dmVlZBVVRYNlFITUR5VHU2Z3BWUlFDbHlQTjdBRERjQjJJMEkteF9lMnZVMUJUdnJPdDVqenBI?oc=5",
+   "medio": "Vanguardia",
+   "fuente": "provincia",
+   "region": "Santander",
+   "fecha": "2026-11-27T22:13:00Z",
+   "id": "31030933b023"
+  },
+  {
    "titulo": "¡Atención conductores! Tres días de cierres viales en Santander por competencia ciclística: estos son los recorridos",
    "resumen": "",
    "imagen": "",
@@ -372,39 +438,6 @@
    "region": "Santander",
    "fecha": "2026-11-27T21:20:38Z",
    "id": "49575a92acf0"
-  },
-  {
-   "titulo": "El Concejo de Barranquilla condecora a Leonardo Herrera Delgans, periodista de EL TIEMPO, investigador y profesor que ha narrado el Caribe por 35 años",
-   "resumen": "Es periodista de EL TIEMPO hace 29 años y el Concejo decidió destacarlo con la máxima distinción que entrega la corporación a los ciudadanos.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2022/12/16/639ca0b9090e7.r_d.1132-525-0.png",
-   "enlace": "https://www.eltiempo.com/colombia/barranquilla/el-concejo-de-barranquilla-condecora-a-leonardo-herrera-delgans-periodista-de-el-tiempo-investigador-y-profesor-que-ha-narrado-el-caribe-por-35-anos-3605006",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-27T21:01:00Z",
-   "id": "1789c4992715"
-  },
-  {
-   "titulo": "Nueve capturados en Santander por venta ilegal de chance y rifas: incautaron 1.000 boletas",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSVFSY2hLS0s2WHQwcFBGX2xfQ3IxSGxFTEY0c2dqYkNfRmxVeTF5T21sQ0dYanhqeFNSclJwYjVpa0xMamZTdHJGNmFmcy1QSGwwWjVIVnE0ejZpMXh6M1ZxaEM3bDlxWHA1TllHMC01LVRJaGc4V0dwV0xRZzdpYlhTZVExb2hINm9xTElwY0F4dHFqQ1gxWU1lcU1uWmdjcmEyNmJ4ZThyNFo3SUhYOWJQM2xVazg2bGNKem5CM1NmcVhmX3g5eW8xTUN0OVZIeV9TcVBIc9IB5AFBVV95cUxQc3I1dkNySENIQkl1MnJVMWdGTHVOVWhjaV9za0dWeXJDbGp5WnNRcHdkbnVGc2s2Q1A4dUxNclRZX0dRbkdVaDhOSEQ4bWpZMDFuRVhuRDJWSXVocWREQ1ZlZC03M0tWQXhrbDZTZThKdnRLelZYandNcTZIRGNkZFAwMzJwODNNTjVtNEMtZFg1RFBfcTUwSXBFcFdoaDdMZUFrdW1jcFJxdGE0SmQxaE5XREE3OFEyZ0Q2TzhKMkk2QmtRdzRienZPYmpYaDFOQ1ZySTVuWmNUSUJYTXZuWk4wcEQ?oc=5",
-   "medio": "Blu Radio",
-   "fuente": "provincia",
-   "region": "Santander",
-   "fecha": "2026-11-27T21:00:14Z",
-   "id": "23c319bb91f6"
-  },
-  {
-   "titulo": "Nariño recupera el 100 por ciento de la energía tras apagón por atentado contra torres en Taminango: Cedenar confirmó el restablecimiento total",
-   "resumen": "Usuarios recuperaron el servicio desde la mañana de este viernes. Operador XM mantiene el sistema bajo alerta hasta reparar los circuitos afectados.",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/24/6b0637c9a30a0.r_d.1376-768-0.jpeg",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/narino-recupera-el-100-por-ciento-de-la-energia-tras-apagon-por-atentado-contra-torres-en-taminango-cedenar-confirmo-el-restablecimiento-total-3604964",
-   "medio": "El Tiempo",
-   "fuente": "eltiempo",
-   "region": "Colombia",
-   "fecha": "2026-11-27T20:02:54Z",
-   "id": "f084d5739041"
   },
   {
    "titulo": "Consejo de Estado mantiene a Elkin Reyes como alcalde de Oiba: revocó fallo que anulaba su elección",
@@ -473,17 +506,6 @@
    "id": "633fe332d53a"
   },
   {
-   "titulo": "Banco Popular y Fantástica recuerdan que lo mejor de la vida son los momentos, no las cosas",
-   "resumen": "El Banco Popular y Fantástica se unen para lanzar su campaña de fin de año, ‘En Navidad no todo es plata’, la cual invita a los colombianos a reflexionar sobre el verdadero significado de las fiestas de fin de año…",
-   "imagen": "https://caracol.com.co/resizer/v2/KX6E5RMY3RCAFOFDWNIL57IZUI.jpeg?auth=d7af7ce5049888cd97ca57563b1168fae22136b6cfd3b1e46eafb3155e5fbc30&smart=true&width=1920&height=1080",
-   "enlace": "https://caracol.com.co/2026/11/28/banco-popular-y-fantastica-recuerdan-que-lo-mejor-de-la-vida-son-los-momentos-no-las-cosas/",
-   "medio": "Caracol Radio",
-   "fuente": "caracol",
-   "region": "Colombia",
-   "fecha": "2026-11-27T15:23:22Z",
-   "id": "fa6ca0f122f2"
-  },
-  {
    "titulo": "Ministerio de Trabajo estrena Prácticas para la Vida: Estos son los beneficios que los colombianos pueden recibir",
    "resumen": "",
    "imagen": "",
@@ -491,7 +513,7 @@
    "medio": "RCN Radio",
    "fuente": "rcn",
    "region": "Colombia",
-   "fecha": "2026-11-27T15:20:51Z",
+   "fecha": "2026-11-27T15:21:07Z",
    "id": "9f36d3b984be"
   },
   {
@@ -504,28 +526,6 @@
    "region": "Colombia",
    "fecha": "2026-11-27T14:20:18Z",
    "id": "17adccbaaf7f"
-  },
-  {
-   "titulo": "Mejores colegios de Bogotá en inglés: Este es el ranking de Col-Sapiens 2026-2027",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOekZSTllHUjZfUXNuYjBSb0RQdExkTnFTRmU0clVtcmtDbHRzSWpIbXFkSC1rQWNHRkhUaGVpdGc5Uk9mMnJsY1lKaVNMaERRNF9zLS1rS2JJanpiN1BHVm4wSm1VaGdzSFR3ZTVFR1cyTDdfU1gwTWxoc1FxaFFqSmVLeWN5MDZ5S2FDbzN3c1Z2V09hQ3lsNHJYeEc0WUc5T2o5N2VZLVRDUHgwVThPb0JBeTZhV3dTaDFN?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-11-27T08:04:32Z",
-   "id": "9c63f6f98a6a"
-  },
-  {
-   "titulo": "Subsidio de nómina en Colombia: Estos son los requisitos para que las empresas reciban el beneficio",
-   "resumen": "",
-   "imagen": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLTRhcGRnQ0tRX25FenI1MTBQYmhfTVJ4Z3VPM0ZpQ2RqN1lnMzhhUlJaSVJMNUpLRUhyYVVGQ3hxTzk1dDVhbFdmaTlLc2h5RWZCM0MycmVqZDlidWZSN0cxajRiNkZJZXVhTU92VDQ2Y2dhMV8teDVURC1rSHRIdjd0enRzQXR3c01DV1hWZU16NkYyVXJibFcxVmp1TndkSlRxVnV0SjVOdDZVaFBXbjNvVzVLN3ZneUh6d2l0Zl9Wa2paRXBLWmJHTU5oZkY3SGxn?oc=5",
-   "medio": "RCN Radio",
-   "fuente": "rcn",
-   "region": "Colombia",
-   "fecha": "2026-11-27T06:59:27Z",
-   "id": "f2075a4850b2"
   },
   {
    "titulo": "En video quedó la pelea de dos mujeres: se fueron a los golpes porque una de ellas habría divulgado fotos íntimas de la otra",
